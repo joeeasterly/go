@@ -2,18 +2,45 @@
 <html>
 <head>
     <title>Page Not Found</title>
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             var url = window.location.href;
-            var urlElement = document.getElementById("url");
-            urlElement.textContent = url;
+            var parts = url.split("/");
+            var lastPart = parts[parts.length - 1];
+            var firstLetter = lastPart[0];
+            var secondLetter = lastPart[1];
+            var jsonUrl = firstLetter + "/" + secondLetter + "/" + lastPart + ".json";
+    
+            fetch(jsonUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('JSON file not found');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    var identifier = lastPart;
+                    var matchingObject = data.find(obj => obj.identifier === identifier);
+                    if (matchingObject) {
+                        var jsonDisplay = document.getElementById("json-display");
+                        jsonDisplay.textContent = JSON.stringify(matchingObject, null, 2);
+                    } else {
+                        console.error('Matching object not found');
+                    }
+                })
+                .catch(error => {
+                    console.error(error.message);
+                });
         });
-    </script>
+    </script>    
 </head>
 <body>
     <h1>Oops! Page Not Found</h1>
-    <p>The page you're looking for could not be found. The URL you attempted to access is:</p>
-    <p id="url"></p>
+    <p>The page you're looking for could not be found.</p>
+    <p>JSON data for the URL:</p>
+    <pre id="json-display"></pre>
 </body>
 </html>
-
