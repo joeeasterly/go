@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from pymongo import MongoClient
 from bson import ObjectId
 import json
@@ -9,7 +10,7 @@ def handle_objectid(obj):
     raise TypeError("Object of type 'ObjectId' is not JSON serializable")
 
 # Initialize MongoDB client and connect to the database
-client = MongoClient('mungo.local/')
+client = MongoClient('mungo.local')
 db = client['go']
 collection = db['link']
 
@@ -53,15 +54,15 @@ prefixes = [
 for prefix in prefixes:
     # Fetch documents whose identifiers start with the current prefix
     results = collection.find({"identifier": {'$regex': f'^{prefix}'}})
-    
+
     # Create a list to hold the documents
     documents_list = []
-    
+
     for result in results:
         # Convert each document's ObjectId to a string
         result['_id'] = str(result['_id'])
         documents_list.append(result)
-    
+
     # Export the list of documents to a JSON file
     with open(f'{prefix}.json', 'w') as f:
         json.dump(documents_list, f, default=handle_objectid, indent=4)
