@@ -13,7 +13,7 @@
             var lastPart = parts[parts.length - 1];
             var firstLetter = lastPart[0];
             var secondLetter = lastPart[1];
-            var jsonUrl = firstLetter + "/" + secondLetter + "/" + lastPart + ".json";
+            var jsonUrl = firstLetter + "/" + secondLetter + "/" + firstLetter + secondLetter + ".json";
 
             fetch(jsonUrl)
                 .then(response => {
