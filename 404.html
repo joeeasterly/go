@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Not Found</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var url = window.location.href;
+            var urlElement = document.getElementById("url");
+            urlElement.textContent = url;
+        });
+    </script>
+</head>
+<body>
+    <h1>Oops! Page Not Found</h1>
+    <p>The page you're looking for could not be found. The URL you attempted to access is:</p>
+    <p id="url"></p>
+</body>
+</html>
+
