@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Go: Data Retrieval Service</title>
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <script>
+       // Extract "start" variable from the URL
+const urlParams = new URLSearchParams(window.location.search);
+const startCode = urlParams.get('start');
+
+// Construct the file path
+const filePath = `../a/s/${startCode}.json`;
+
+// Load the JSON file and process data
+fetch(filePath)
+  .then(response => response.json())
+  .then(data => {
+    // Filter JSON objects where "allocated" is false
+    const filteredObjects = data.filter(item => item.allocated === false);
+
+    // Retrieve desired JSON objects (up to 20)
+    const desiredObjects = filteredObjects.filter(item => item.identifier === startCode).slice(0, 20);
+
+    // Do something with the desired JSON objects
+    console.log(desiredObjects);
+  })
+  .catch(error => {
+    console.error('Error loading JSON:', error);
+  });
+
+    </script>
+
+    <style>
+        .notion-logo {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card">
+        <h1>Go: Data Retrieval</h1>
+        <h2 id="data-message"></h2>
+        <div id="json-display"></div>
+    </div>
+</body>
+
+</html>
