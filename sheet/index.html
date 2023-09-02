@@ -8,11 +8,13 @@
     <meta http-equiv="expires" content="0">
     <script>
        // Extract "start" variable from the URL
-const urlParams = new URLSearchParams(window.location.search);
-const startCode = urlParams.get('start');
+        const urlParams = new URLSearchParams(window.location.search);
+        const startCode = urlParams.get('start');
+        var firstLetter = startCode[0];
+        var secondLetter = startCode[1];
 
 // Construct the file path
-const filePath = `../a/s/${startCode}.json`;
+const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
 
 // Load the JSON file and process data
 fetch(filePath)
