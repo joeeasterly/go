@@ -70,6 +70,7 @@
             const span = document.createElement('span');
             span.className = field; // Use field name as CSS class
             span.textContent = obj[field];
+            span.textContent = field === 'identifier' ? obj[field].toUpperCase() : obj[field]; // Convert identifier to uppercase
             div.appendChild(span);
           }
 
@@ -112,6 +113,7 @@
       width: 60pt;
       margin: 6pt;
       margin-top:0;
+      padding-bottom:6pt;
     }
 
     .identifier {
