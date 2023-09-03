@@ -6,55 +6,78 @@
   <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="pragma" content="no-cache">
   <meta http-equiv="expires" content="0">
+  <script type="application/javascript" src="qrcode.js"></script>
   <script>
     // Extract "start" variable from the URL
-const urlParams = new URLSearchParams(window.location.search);
-const startCode = urlParams.get('start');
-const firstLetter = startCode[0];
-const secondLetter = startCode[1];
+    const urlParams = new URLSearchParams(window.location.search);
+    const startCode = urlParams.get('start');
+    const firstLetter = startCode[0];
+    const secondLetter = startCode[1];
 
-// Construct the file path
-const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
+    // Construct the file path
+    const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
 
-// Load the JSON file and process data
-fetch(filePath)
-  .then(response => response.json())
-  .then(data => {
-    // Find the index of the object with the desired identifier
-    const startIndex = data.findIndex(item => item.identifier === startCode);
+    // Load the JSON file and process data
+    fetch(filePath)
+      .then(response => response.json())
+      .then(data => {
+        // Find the index of the object with the desired identifier
+        const startIndex = data.findIndex(item => item.identifier === startCode);
 
-    // Retrieve the desired object and the next 20 objects with allocated=false
-    const desiredObjects = [];
-    if (startIndex !== -1) {
-      desiredObjects.push(data[startIndex]);
-      for (let i = startIndex + 1; i < data.length && desiredObjects.length < 21; i++) {
-        if (data[i].allocated === false) {
-          desiredObjects.push(data[i]);
+        // Retrieve the desired object and the next 20 objects with allocated=false
+        const desiredObjects = [];
+        if (startIndex !== -1) {
+          desiredObjects.push(data[startIndex]);
+          for (let i = startIndex + 1; i < data.length && desiredObjects.length < 21; i++) {
+            if (data[i].allocated === false) {
+              desiredObjects.push(data[i]);
+            }
+          }
         }
-      }
-    }
 
-    // Create and append div elements with spans for each field
-    const container = document.getElementById("qr-codes");
-    container.className = 'container'; // Add a class to the container div
+        // Create and append div elements with spans for each field and QR code
+        const container = document.createElement('div');
+        container.className = 'container'; // Add a class to the container div
 
-    desiredObjects.forEach(obj => {
-      const div = document.createElement('div');
-      div.className = 'qrcode';
+        desiredObjects.forEach((obj, index) => {
+          const div = document.createElement('div');
+          div.className = 'qrcode';
+          const uniqueId = `qrcode-${index}`; // Generate a unique ID
 
-      for (const field in obj) {
-        const span = document.createElement('span');
-        span.className = field; // Use field name as CSS class
-        span.textContent = obj[field];
-        div.appendChild(span);
-      }
+          // Create QR code script
+          const qrCodeScript = document.createElement('script');
+          qrCodeScript.type = 'text/javascript';
+          qrCodeScript.textContent = `
+        var qrcode = new QRCode(document.getElementById("${uniqueId}"), {
+          text: "${obj.target}", // Use the appropriate field from your data
+          width: 128,
+          height: 128,
+          colorDark: "#000000",
+          colorLight: "#ffffff",
+          correctLevel: QRCode.CorrectLevel.H
+        });
+      `;
 
-      container.appendChild(div);
-    });
-  })
-  .catch(error => {
-    console.error('Error loading JSON:', error);
-  });
+          div.id = uniqueId; // Set the unique ID to the div
+          div.appendChild(qrCodeScript); // Append the QR code script to the div
+
+          for (const field in obj) {
+            const span = document.createElement('span');
+            span.className = field; // Use field name as CSS class
+            span.textContent = obj[field];
+            div.appendChild(span);
+          }
+
+          container.appendChild(div);
+        });
+
+        // Append the container to the body
+        document.body.appendChild(container);
+      })
+      .catch(error => {
+        console.error('Error loading JSON:', error);
+      });
+
 
   </script>
 
