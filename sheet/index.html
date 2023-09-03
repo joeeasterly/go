@@ -65,15 +65,17 @@
 
           div.id = uniqueId; // Set the unique ID to the div
           div.appendChild(qrCodeScript); // Append the QR code script to the div
+          const metadata = document.createElement('div');
+          metadata.className = 'metadata';
 
           for (const field in obj) {
             const span = document.createElement('span');
             span.className = field; // Use field name as CSS class
             span.textContent = obj[field];
             span.textContent = field === 'identifier' ? obj[field].toUpperCase() : obj[field]; // Convert identifier to uppercase
-            div.appendChild(span);
+            metadata.appendChild(span);
           }
-
+          div.appendChild(metadata);
           container.appendChild(div);
         });
 
@@ -107,13 +109,13 @@
       width: 72pt;
       height: 72pt;
       border: 1pt dashed black;
+      padding-bottom:6pt;
     }
 
     .qrcode img {
       width: 60pt;
       margin: 6pt;
       margin-top:0;
-      padding-bottom:6pt;
     }
 
     .identifier {
