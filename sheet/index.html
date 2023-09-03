@@ -8,39 +8,53 @@
   <meta http-equiv="expires" content="0">
   <script>
     // Extract "start" variable from the URL
-    const urlParams = new URLSearchParams(window.location.search);
-    const startCode = urlParams.get('start');
-    const firstLetter = startCode[0];
-    const secondLetter = startCode[1];
+const urlParams = new URLSearchParams(window.location.search);
+const startCode = urlParams.get('start');
+const firstLetter = startCode[0];
+const secondLetter = startCode[1];
 
-    // Construct the file path
-    const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
+// Construct the file path
+const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
 
-    // Load the JSON file and process data
-    fetch(filePath)
-      .then(response => response.json())
-      .then(data => {
-        // Find the index of the object with the desired identifier
-        const startIndex = data.findIndex(item => item.identifier === startCode);
+// Load the JSON file and process data
+fetch(filePath)
+  .then(response => response.json())
+  .then(data => {
+    // Find the index of the object with the desired identifier
+    const startIndex = data.findIndex(item => item.identifier === startCode);
 
-        // Retrieve the desired object and the next 20 objects with allocated=false
-        const desiredObjects = [];
-        if (startIndex !== -1) {
-          desiredObjects.push(data[startIndex]);
-          for (let i = startIndex + 1; i < data.length && desiredObjects.length < 21; i++) {
-            if (data[i].allocated === false) {
-              desiredObjects.push(data[i]);
-            }
-          }
+    // Retrieve the desired object and the next 20 objects with allocated=false
+    const desiredObjects = [];
+    if (startIndex !== -1) {
+      desiredObjects.push(data[startIndex]);
+      for (let i = startIndex + 1; i < data.length && desiredObjects.length < 21; i++) {
+        if (data[i].allocated === false) {
+          desiredObjects.push(data[i]);
         }
+      }
+    }
 
-        // Do something with the desiredObjects
-        console.log(desiredObjects);
-      })
-      .catch(error => {
-        console.error('Error loading JSON:', error);
-      });
+    // Create and append div elements with spans for each field
+    const container = document.getElementById("qr-codes");
+    container.className = 'container'; // Add a class to the container div
 
+    desiredObjects.forEach(obj => {
+      const div = document.createElement('div');
+      div.className = 'qrcode';
+
+      for (const field in obj) {
+        const span = document.createElement('span');
+        span.className = field; // Use field name as CSS class
+        span.textContent = obj[field];
+        div.appendChild(span);
+      }
+
+      container.appendChild(div);
+    });
+  })
+  .catch(error => {
+    console.error('Error loading JSON:', error);
+  });
 
   </script>
 
@@ -52,11 +66,7 @@
 </head>
 
 <body>
-  <div class="card">
-    <h1>Go: Data Retrieval</h1>
-    <h2 id="data-message"></h2>
-    <div id="json-display"></div>
-  </div>
+  <div class="qr-codes"></div>
 </body>
 
 </html>
