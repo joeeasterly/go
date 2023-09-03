@@ -22,39 +22,41 @@
     // Construct the file path
     const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
 
-    // Load the JSON file and process data
-    fetch(filePath)
-      .then(response => response.json())
-      .then(data => {
-        // Find the index of the object with the desired identifier
-        const startIndex = data.findIndex(item => item.identifier === startCode);
+    // ... (Previous code)
 
-        // Retrieve the desired object and the next 20 objects with allocated=false
-        const desiredObjects = [];
-        if (startIndex !== -1) {
-          desiredObjects.push(data[startIndex]);
-          for (let i = startIndex + 1; i < data.length && desiredObjects.length < 21; i++) {
-            if (data[i].allocated === false) {
-              desiredObjects.push(data[i]);
-            }
-          }
+// Load the JSON file and process data
+fetch(filePath)
+  .then(response => response.json())
+  .then(data => {
+    // Find the index of the object with the desired identifier
+    const startIndex = data.findIndex(item => item.identifier === startCode);
+
+    // Retrieve the desired object and the next 20 objects with allocated=false
+    const desiredObjects = [];
+    if (startIndex !== -1) {
+      desiredObjects.push(data[startIndex]);
+      for (let i = startIndex + 1; i < data.length && desiredObjects.length < 21; i++) {
+        if (data[i].allocated === false) {
+          desiredObjects.push(data[i]);
         }
+      }
+    }
 
-        // Append div elements with spans for each field and QR code to the existing div
-        const qrCodesDiv = document.getElementById('qr-codes'); // Get the existing div by ID
+    // Append div elements with spans for each field and QR code to the existing div
+    const qrCodesDiv = document.getElementById('qr-codes'); // Get the existing div by ID
 
-        desiredObjects.forEach((obj, index) => {
-          const metadataDiv = document.createElement('div');
-          metadataDiv.className = 'metadata'; // Add the metadata class
+    desiredObjects.forEach((obj, index) => {
+      const div = document.createElement('div');
+      div.className = 'qrcode';
+      const uniqueId = `qrcode-${index}`; // Generate a unique ID
 
-          const div = document.createElement('div');
-          div.className = 'qrcode';
-          const uniqueId = `qrcode-${index}`; // Generate a unique ID
+      const metadataDiv = document.createElement('div');
+      metadataDiv.className = 'metadata'; // Add the metadata class
 
-          // Create QR code script
-          const qrCodeScript = document.createElement('script');
-          qrCodeScript.type = 'text/javascript';
-          qrCodeScript.textContent = `
+      // Create QR code script as a sibling to the metadata div
+      const qrCodeScript = document.createElement('script');
+      qrCodeScript.type = 'text/javascript';
+      qrCodeScript.textContent = `
         var qrcode = new QRCode(document.getElementById("${uniqueId}"), {
           text: "${obj.target}", // Use the appropriate field from your data
           width: 128,
@@ -65,23 +67,23 @@
         });
       `;
 
-          div.id = uniqueId; // Set the unique ID to the div
-          div.appendChild(qrCodeScript); // Append the QR code script to the div
+      metadataDiv.appendChild(qrCodeScript); // Append the QR code script to the metadata div
 
-          for (const field in obj) {
-            const span = document.createElement('span');
-            span.className = field; // Use field name as CSS class
-            span.textContent = obj[field];
-            div.appendChild(span);
-          }
+      for (const field in obj) {
+        const span = document.createElement('span');
+        span.className = field; // Use field name as CSS class
+        span.textContent = obj[field];
+        metadataDiv.appendChild(span); // Append spans to the metadata div
+      }
 
-          metadataDiv.appendChild(div); // Append the qrcode div to the metadata div
-          qrCodesDiv.appendChild(metadataDiv); // Append the metadata div to the qr-codes div
-        });
-      })
-      .catch(error => {
-        console.error('Error loading JSON:', error);
-      });
+      div.appendChild(metadataDiv); // Append the metadata div to the qrcode div
+      qrCodesDiv.appendChild(div); // Append the qrcode div to the qr-codes div
+    });
+  })
+  .catch(error => {
+    console.error('Error loading JSON:', error);
+  });
+
 
 
 
