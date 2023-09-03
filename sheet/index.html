@@ -7,8 +7,10 @@
   <meta http-equiv="pragma" content="no-cache">
   <meta http-equiv="expires" content="0">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto+Slab:wght@300;400&family=Roboto:wght@100;400&family=Source+Code+Pro&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto+Slab:wght@300;400&family=Roboto:wght@100;400&family=Source+Code+Pro&display=swap"
+    rel="stylesheet">
   <script type="application/javascript" src="qrcode.js"></script>
   <script>
     // Extract "start" variable from the URL
@@ -38,11 +40,13 @@
           }
         }
 
-        // Create and append div elements with spans for each field and QR code
-        const container = document.createElement('div');
-        container.className = 'container'; // Add a class to the container div
+        // Append div elements with spans for each field and QR code to the existing div
+        const qrCodesDiv = document.getElementById('qr-codes'); // Get the existing div by ID
 
         desiredObjects.forEach((obj, index) => {
+          const metadataDiv = document.createElement('div');
+          metadataDiv.className = 'metadata'; // Add the metadata class
+
           const div = document.createElement('div');
           div.className = 'qrcode';
           const uniqueId = `qrcode-${index}`; // Generate a unique ID
@@ -71,15 +75,14 @@
             div.appendChild(span);
           }
 
-          container.appendChild(div);
+          metadataDiv.appendChild(div); // Append the qrcode div to the metadata div
+          qrCodesDiv.appendChild(metadataDiv); // Append the metadata div to the qr-codes div
         });
-
-        // Append the container to the body
-        document.body.appendChild(container);
       })
       .catch(error => {
         console.error('Error loading JSON:', error);
       });
+
 
 
   </script>
@@ -103,18 +106,18 @@
     }
 
     .qrcode {
-      width:72pt;
-      height:72pt;
+      width: 72pt;
+      height: 72pt;
       border: 1pt dashed black;
     }
-    .qrcode img {width:60pt;
-    margin-left: 6pt;
-    margin-right:6pt;}
+
+    .qrcode img {
+      width: 60pt;
+      margin-left: 6pt;
+      margin-right: 6pt;
+    }
 
     .identifier {
-      position:absolute;
-      top:32pt;
-      left:50%;
       font-family: 'Source Code Pro', monospace;
       font-size: 8pt;
       text-align: center;
@@ -125,7 +128,7 @@
 </head>
 
 <body>
-  <div class="qr-codes"></div>
+  <div id="qr-codes"></div>
 </body>
 
 </html>
