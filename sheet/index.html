@@ -23,7 +23,7 @@
     const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
     
     // Determine the quantity (default to 50 if not provided as a URL parameter)
-    let quantity = 50; // Default value
+    let quantity = 56; // Default value, which is a full letter-sized sheet.
     const quantityParam = urlParams.get('count');
     if (quantityParam !== null) {
       quantity = parseInt(quantityParam, 10);
