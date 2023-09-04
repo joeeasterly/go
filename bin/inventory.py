@@ -1,27 +1,12 @@
 #!/usr/bin/env python3
-import pymongo
-
-# Set up the MongoDB connection
-client = pymongo.MongoClient("mungo.local:27017")
-db = client["go"]
-collection = db["link"]
-
-def create_record():
-    # Code to create a new record in the collection
-    pass
-
-def search_records():
-    # Code to search for records in the collection
-    pass
-
-def update_record():
-    # Code to update a record in the collection
-    pass
-
-def delete_record():
-    # Code to delete a record from the collection
-    pass
-
+#
+from create_record import create_record
+from search_records import search_records
+from update_record import update_record
+from delete_record import delete_record
+#
+#
+# Show the main menu
 def main():
     while True:
         print('''     __  _____  ___   ____________
@@ -29,7 +14,8 @@ def main():
    / /|_/ / / / /  |/ / / __/ / / /
   / /  / / /_/ / /|  / /_/ / /_/ /
  /_/  /_/\\____/_/ |_/\\____/\\____/
-Menu:
+
+Inventory Management System
 1) Create
 2) Search
 3) Update
@@ -51,7 +37,6 @@ Menu:
             break
         else:
             print('Invalid choice. Please select a valid option.')
-
 
 if __name__ == "__main__":
     main()
