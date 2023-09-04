@@ -54,7 +54,7 @@
           qrCodeScript.type = 'text/javascript';
           qrCodeScript.textContent = `
         var qrcode = new QRCode(document.getElementById("${uniqueId}"), {
-          text: "${obj.target}", // Use the appropriate field from your data
+          text: "${obj.permalink}", // Use the appropriate field from your data
           width: 128,
           height: 128,
           colorDark: "#000000",
