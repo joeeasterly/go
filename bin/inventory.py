@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 #
+import os
 from create_record import create_record
 from search_records import search_records
 from update_record import update_record
@@ -20,7 +21,8 @@ Inventory Management System
 2) Search
 3) Update
 4) Delete
-5) Exit''')
+5) Update Github
+6) Exit''')
 
         choice = input('Select an option: ')
 
@@ -33,7 +35,9 @@ Inventory Management System
         elif choice == '4':
             delete_record()
         elif choice == '5':
-            print('Exiting...')
+            os.system("python update_github.py")  # Execute the update_github.py script
+        elif choice == '6':
+            print('Goodbye!')
             break
         else:
             print('Invalid choice. Please select a valid option.')
