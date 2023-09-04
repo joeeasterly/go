@@ -21,7 +21,14 @@
 
     // Construct the file path
     const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
-
+    
+    // Determine the quantity (default to 50 if not provided as a URL parameter)
+    let quantity = 50; // Default value
+    const quantityParam = urlParams.get('count');
+    if (quantityParam !== null) {
+      quantity = parseInt(quantityParam, 10);
+    }
+    
     // Load the JSON file and process data
     fetch(filePath)
       .then(response => response.json())
@@ -33,7 +40,7 @@
         const desiredObjects = [];
         if (startIndex !== -1) {
           desiredObjects.push(data[startIndex]);
-          for (let i = startIndex + 1; i < data.length && desiredObjects.length < 21; i++) {
+          for (let i = startIndex + 1; i < data.length && desiredObjects.length < quantity; i++) {
             if (data[i].allocated === false) {
               desiredObjects.push(data[i]);
             }
@@ -137,5 +144,7 @@
     }
   </style>
 </head>
+
 <body></body>
+
 </html>
