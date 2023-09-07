@@ -1,6 +1,6 @@
-# update_record.py
 import pymongo
 from datetime import datetime
+from link_notion_inventory import link_notion_inventory  # Import the function
 
 def update_record():
     print("Update Record:")
@@ -35,9 +35,17 @@ def update_record():
         
         if result.matched_count > 0:
             print("Record updated successfully!")
+            
+            # If notion_id is provided, call the update_notion_record function
+            if notion_id:
+                update_result = link_notion_inventory(notion_id, identifier)
+                print(update_result)
         else:
             print("No record found with the provided identifier.")
     else:
         print("No record found with the provided identifier.")
 
 # You can also include error handling and validation as needed.
+
+# Call the update_record function
+update_record()
