@@ -4,6 +4,7 @@ import os
 from create_record import create_record
 from search_records import search_records
 from update_record import update_record
+from update_consumable import update_consumable
 from delete_record import delete_record
 #
 #
@@ -20,9 +21,10 @@ Inventory Management System
 1) Create
 2) Search
 3) Update
-4) Delete
-5) Update Github
-6) Exit''')
+4) Consumables
+5) Delete
+6) Update Github
+7) Exit''')
 
         choice = input('Select an option: ')
 
@@ -33,10 +35,12 @@ Inventory Management System
         elif choice == '3':
             update_record()
         elif choice == '4':
-            delete_record()
+            update_consumable()
         elif choice == '5':
-            os.system("python update_github.py")  # Execute the update_github.py script
+            delete_record()
         elif choice == '6':
+            os.system("python update_github.py")  # Execute the update_github.py script
+        elif choice == '7':
             print('Goodbye!')
             break
         else:

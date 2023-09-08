@@ -11,9 +11,8 @@ def print_inventory(record_dict, *fields):
         output_lines.append(formatted_field)
     return "\n".join(output_lines)
 
-def update_record():
-    print("Update Record:")
-    
+def update_consumable():
+    print("Update Consumable:")
     identifier = input("Enter Identifier (QR Code): ")
     
     client = pymongo.MongoClient("mungo.local:27017")
@@ -25,19 +24,17 @@ def update_record():
     
     if existing_record:
         print("Current Record:")
-        print_inventory(existing_record, "label", "identifier", "notion_id", "shelf")
-        print("JSON:")
         pprint(existing_record)
-        
+        label = input(f"Enter Label [{existing_record.get('label')}]: ")
+        quantity = input(f"Enter Label [{existing_record.get('quantity')}]: ")
         notion_id = input(f"Enter Notion ID (INV-) [{existing_record.get('notion_id')}]: ")
         shelf = input(f"Enter Shelf Number [{existing_record.get('shelf')}]: ")
-        label = input(f"Enter Label [{existing_record.get('label')}]: ")
-        
         update_data = {
             "$set": {
                 "notion_id": notion_id if notion_id else existing_record.get("notion_id"),
                 "shelf": shelf if shelf else existing_record.get("shelf"),
                 "label": label if label else existing_record.get("label"),
+                "quantity": quantity if quantity else existing_record.get("quantity"),
                 "last_updated": datetime.now()
             }
         }
