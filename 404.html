@@ -51,48 +51,67 @@
     </style>
     <script>
         document.addEventListener("DOMContentLoaded", function () {
-            var url = window.location.href;
-            var parts = url.split("/");
-            var lastPart = parts[parts.length - 1];
-            var firstLetter = lastPart[0];
-            var secondLetter = lastPart[1];
-            var jsonUrl = firstLetter + "/" + secondLetter + "/" + firstLetter + secondLetter + ".json";
+    var url = window.location.href;
+    var parts = url.split("/");
+    var lastPart = parts[parts.length - 1];
+    var firstLetter = lastPart[0];
+    var secondLetter = lastPart[1];
+    var jsonUrl = firstLetter + "/" + secondLetter + "/" + firstLetter + secondLetter + ".json";
 
-            fetch(jsonUrl)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('JSON file not found');
-                    }
-                    return response.json();
-                })
-                .then(data => {
-                    var identifier = lastPart;
-                    var matchingObject = data.find(obj => obj.identifier === identifier);
-                    if (matchingObject) {
-                        var jsonDisplay = document.getElementById("json-display");
+    fetch(jsonUrl)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('JSON file not found');
+            }
+            return response.json();
+        })
+        .then(data => {
+            var identifier = lastPart;
+            var matchingObject = data.find(obj => obj.identifier === identifier);
+            if (matchingObject) {
+                var jsonDisplay = document.getElementById("json-display");
 
-                        var label = matchingObject.label;
-                        if (label) {
-                            document.getElementById("label").textContent = label + " (" + matchingObject.identifier + ")";
-                        } else {
-                            document.getElementById("label").textContent = matchingObject.identifier;
+                var label = matchingObject.label;
+                if (label) {
+                    document.getElementById("label").textContent = label + " (" + matchingObject.identifier + ")";
+                } else {
+                    document.getElementById("label").textContent = matchingObject.identifier;
+                }
+                
+                for (var key in matchingObject) {
+                    if (matchingObject.hasOwnProperty(key)) {
+                        var div = document.createElement("div");
+                        div.className = key; // Use the field name as CSS class
+
+                        var span = document.createElement("span");
+                        span.textContent = key + ": " + matchingObject[key];
+                        div.appendChild(span);
+
+                        // Add hyperlink if the class is 'notion_id' or 'shelf'
+                        if (key === "notion_id") {
+                            var link = document.createElement("a");
+                            link.href = "https://www.notion.so/inv-" + matchingObject[key];
+                            link.textContent = "View in Notion";
+                            span.appendChild(link);
+                        } else if (key === "shelf") {
+                            var link = document.createElement("a");
+                            link.href = "maps/?shelf=" + matchingObject[key];
+                            link.textContent = "View Shelf";
+                            span.appendChild(link);
                         }
-                        for (var key in matchingObject) {
-                            if (matchingObject.hasOwnProperty(key)) {
-                                var div = document.createElement("div");
-                                div.className = key; // Use the field name as CSS class
-                                div.textContent = key + ": " + matchingObject[key];
-                                jsonDisplay.appendChild(div);
-                            }
-                        }
-                    } else {
-                        console.error('Matching object not found');
+
+                        jsonDisplay.appendChild(div);
                     }
-                })
-                .catch(error => {
-                    console.error(error.message);
-                });
+                }
+            } else {
+                console.error('Matching object not found');
+            }
+        })
+        .catch(error => {
+            console.error(error.message);
         });
+});
+
     </script>
 </head>
 
