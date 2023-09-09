@@ -1,15 +1,8 @@
 import pymongo
 from pprint import pprint
 from datetime import datetime
-from link_notion_inventory import link_notion_inventory  # Import the function
-
-def print_inventory(record_dict, *fields):
-    output_lines = []
-    for field in fields:
-        field_value = record_dict.get(field, "N/A")
-        formatted_field = f"{field.title()}: {field_value}"
-        output_lines.append(formatted_field)
-    return "\n".join(output_lines)
+from link_notion_inventory import link_notion_inventory
+from print_inventory import print_inventory
 
 def update_record():
     print("Update Record:")
