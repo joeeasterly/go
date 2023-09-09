@@ -52,8 +52,3 @@ def update_record():
             print("No record found with the provided identifier.")
     else:
         print("No record found with the provided identifier.")
-
-# You can also include error handling and validation as needed.
-
-# Call the update_record function
-update_record()
