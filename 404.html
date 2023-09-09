@@ -50,7 +50,7 @@
         }
     </style>
     <script>
-        document.addEventListener("DOMContentLoaded", function () {
+    document.addEventListener("DOMContentLoaded", function () {
     var url = window.location.href;
     var parts = url.split("/");
     var lastPart = parts[parts.length - 1];
@@ -80,27 +80,29 @@
                 
                 for (var key in matchingObject) {
                     if (matchingObject.hasOwnProperty(key)) {
-                        var div = document.createElement("div");
-                        div.className = key; // Use the field name as CSS class
+                        if (matchingObject[key] !== null) { // Check if the value is not null
+                            var div = document.createElement("div");
+                            div.className = key; // Use the field name as CSS class
 
-                        var span = document.createElement("span");
-                        span.textContent = key + ": " + matchingObject[key];
-                        div.appendChild(span);
+                            var span = document.createElement("span");
+                            span.textContent = key + ": " + matchingObject[key];
+                            div.appendChild(span);
 
-                        // Add hyperlink if the class is 'notion_id' or 'shelf'
-                        if (key === "notion_id") {
-                            var link = document.createElement("a");
-                            link.href = "https://www.notion.so/inv-" + matchingObject[key];
-                            link.textContent = "View in Notion";
-                            span.appendChild(link);
-                        } else if (key === "shelf") {
-                            var link = document.createElement("a");
-                            link.href = "maps/?shelf=" + matchingObject[key];
-                            link.textContent = "View Shelf";
-                            span.appendChild(link);
+                            // Add hyperlink if the class is 'notion_id' or 'shelf'
+                            if (key === "notion_id") {
+                                var link = document.createElement("a");
+                                link.href = "https://www.notion.so/inv-" + matchingObject[key];
+                                link.textContent = "View in Notion";
+                                span.appendChild(link);
+                            } else if (key === "shelf") {
+                                var link = document.createElement("a");
+                                link.href = "maps/?shelf=" + matchingObject[key];
+                                link.textContent = "View Shelf";
+                                span.appendChild(link);
+                            }
+
+                            jsonDisplay.appendChild(div);
                         }
-
-                        jsonDisplay.appendChild(div);
                     }
                 }
             } else {

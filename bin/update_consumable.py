@@ -19,7 +19,7 @@ def update_consumable():
         print("Current Record:")
         pprint(existing_record)
         label = input(f"Enter Label [{existing_record.get('label')}]: ")
-        quantity = input(f"Enter Label [{existing_record.get('quantity')}]: ")
+        quantity = input(f"Enter Quantity [{existing_record.get('quantity')}]: ")
         notion_id = input(f"Enter Notion ID (INV-) [{existing_record.get('notion_id')}]: ")
         shelf = input(f"Enter Shelf Number [{existing_record.get('shelf')}]: ")
         update_data = {
