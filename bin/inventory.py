@@ -39,7 +39,7 @@ Inventory Management System
         elif choice == '5':
             delete_record()
         elif choice == '6':
-            os.system("python update_github.py")  # Execute the update_github.py script
+            os.system("python3 update_github.py")  # Execute the update_github.py script
         elif choice == '7':
             print('Goodbye!')
             break
