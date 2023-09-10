@@ -13,53 +13,61 @@
     rel="stylesheet">
   <script type="application/javascript" src="qrcode.js"></script>
   <script>
-    // Extract "start" variable from the URL
-    const urlParams = new URLSearchParams(window.location.search);
-    const startCode = urlParams.get('start');
-    const firstLetter = startCode[0];
-    const secondLetter = startCode[1];
+   
+   // Extract "start" variable and "noborder" from the URL
+const urlParams = new URLSearchParams(window.location.search);
+const startCode = urlParams.get('start');
+const firstLetter = startCode[0];
+const secondLetter = startCode[1];
+const noborder = urlParams.get('noborder');
 
-    // Construct the file path
-    const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
-    
-    // Determine the quantity (default to 50 if not provided as a URL parameter)
-    let quantity = 56; // Default value, which is a full letter-sized sheet.
-    const quantityParam = urlParams.get('count');
-    if (quantityParam !== null) {
-      quantity = parseInt(quantityParam, 10);
-    }
-    
-    // Load the JSON file and process data
-    fetch(filePath)
-      .then(response => response.json())
-      .then(data => {
-        // Find the index of the object with the desired identifier
-        const startIndex = data.findIndex(item => item.identifier === startCode);
+// Construct the file path
+const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
 
-        // Retrieve the desired object and the next 20 objects with allocated=false
-        const desiredObjects = [];
-        if (startIndex !== -1) {
-          desiredObjects.push(data[startIndex]);
-          for (let i = startIndex + 1; i < data.length && desiredObjects.length < quantity; i++) {
-            if (data[i].allocated === false) {
-              desiredObjects.push(data[i]);
-            }
-          }
+// Determine the quantity (default to 50 if not provided as a URL parameter)
+let quantity = 56; // Default value, which is a full letter-sized sheet.
+const quantityParam = urlParams.get('count');
+if (quantityParam !== null) {
+  quantity = parseInt(quantityParam, 10);
+}
+
+// Load the JSON file and process data
+fetch(filePath)
+  .then(response => response.json())
+  .then(data => {
+    // Find the index of the object with the desired identifier
+    const startIndex = data.findIndex(item => item.identifier === startCode);
+
+    // Retrieve the desired object and the next 20 objects with allocated=false
+    const desiredObjects = [];
+    if (startIndex !== -1) {
+      desiredObjects.push(data[startIndex]);
+      for (let i = startIndex + 1; i < data.length && desiredObjects.length < quantity; i++) {
+        if (data[i].allocated === false) {
+          desiredObjects.push(data[i]);
         }
+      }
+    }
 
-        // Create and append div elements with spans for each field and QR code
-        const container = document.createElement('div');
-        container.className = 'container'; // Add a class to the container div
+    // Create and append div elements with spans for each field and QR code
+    const container = document.createElement('div');
+    container.className = 'container'; // Add a class to the container div
 
-        desiredObjects.forEach((obj, index) => {
-          const div = document.createElement('div');
-          div.className = 'qrcode';
-          const uniqueId = `qrcode-${index}`; // Generate a unique ID
+    desiredObjects.forEach((obj, index) => {
+      const div = document.createElement('div');
+      div.className = 'qrcode';
 
-          // Create QR code script
-          const qrCodeScript = document.createElement('script');
-          qrCodeScript.type = 'text/javascript';
-          qrCodeScript.textContent = `
+      // Apply custom CSS if "noborder" parameter is true
+      if (noborder === 'true') {
+        div.style.border = 'none';
+      }
+
+      const uniqueId = `qrcode-${index}`; // Generate a unique ID
+
+      // Create QR code script
+      const qrCodeScript = document.createElement('script');
+      qrCodeScript.type = 'text/javascript';
+      qrCodeScript.textContent = `
         var qrcode = new QRCode(document.getElementById("${uniqueId}"), {
           text: "${obj.permalink}", // Use the appropriate field from your data
           width: 128,
@@ -70,28 +78,30 @@
         });
       `;
 
-          div.id = uniqueId; // Set the unique ID to the div
-          div.appendChild(qrCodeScript); // Append the QR code script to the div
-          const metadata = document.createElement('div');
-          metadata.className = 'metadata';
+      div.id = uniqueId; // Set the unique ID to the div
+      div.appendChild(qrCodeScript); // Append the QR code script to the div
+      const metadata = document.createElement('div');
+      metadata.className = 'metadata';
 
-          for (const field in obj) {
-            const span = document.createElement('span');
-            span.className = field; // Use field name as CSS class
-            span.textContent = obj[field];
-            span.textContent = field === 'identifier' ? obj[field].toUpperCase() : obj[field]; // Convert identifier to uppercase
-            metadata.appendChild(span);
-          }
-          div.appendChild(metadata);
-          container.appendChild(div);
-        });
+      for (const field in obj) {
+        const span = document.createElement('span');
+        span.className = field; // Use field name as CSS class
+        span.textContent = obj[field];
+        span.textContent = field === 'identifier' ? obj[field].toUpperCase() : obj[field]; // Convert identifier to uppercase
+        metadata.appendChild(span);
+      }
+      div.appendChild(metadata);
+      container.appendChild(div);
+    });
 
-        // Append the container to the body
-        document.body.appendChild(container);
-      })
-      .catch(error => {
-        console.error('Error loading JSON:', error);
-      });
+    // Append the container to the body
+    document.body.appendChild(container);
+  })
+  .catch(error => {
+    console.error('Error loading JSON:', error);
+  });
+
+
   </script>
 
   <style>
