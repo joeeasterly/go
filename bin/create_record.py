@@ -38,6 +38,3 @@ def create_record():
     
     if attempts == max_attempts:
         print(f"No matching record found after {max_attempts} attempts.")
-
-# Call the create_record function
-create_record()
