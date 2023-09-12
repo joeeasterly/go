@@ -11,7 +11,7 @@ def random_prefix():
 
 def create_record():
     print("Create Record:")
-    
+        
     client = pymongo.MongoClient("mungo.local:27017")
     db = client["go"]
     collection = db["link"]
@@ -29,12 +29,33 @@ def create_record():
         matching_record = collection.find_one(search_criteria)
 
         if matching_record:
-            print("Matching record found:")
-            pprint(matching_record)
+            print(f"Creating record: {matching_record['identifier']}")
+            # Update the matching_record with new fields
+            notion_id = input("Enter Notion ID: ")
+            shelf = input("Enter Shelf: ")
+            label = input("Enter Label: ")
+            last_updated = datetime.now()
+            
+            update_fields = {
+                "$set": {
+                    "notion_id": notion_id,
+                    "shelf": shelf,
+                    "label": label,
+                    "last_updated": last_updated,
+                    "allocated": True
+                }
+            }
+            
+            collection.update_one(search_criteria, update_fields)
+            print("Record created successfully.")
+            print()
+            confirmation_query = search_criteria = {"identifier": {matching_record['identifier']}}
+            confirmation_record = collection.find(confirmation_query)
+            pprint(confirmation_record)
             break
         else:
             print("No matching record found, trying again...")
             attempts += 1
     
     if attempts == max_attempts:
-        print(f"No matching record found after {max_attempts} attempts.")
+        print(f"After {max_attempts} tries, this script couldn't find an id code available for accessioning. Try running this script again.")
