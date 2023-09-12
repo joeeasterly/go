@@ -23,13 +23,31 @@ def update_record():
         pprint(existing_record)
         
         notion_id = input(f"Enter Notion ID (INV-) [{existing_record.get('notion_id')}]: ")
-        shelf = input(f"Enter Shelf Number [{existing_record.get('shelf')}]: ")
+        input_shelf = input(f"Enter Shelving Location [{existing_record.get('shelf')}]: ")
+        shelf_length = len(input_shelf)
+        if shelf_length == 1:
+            raise ValueError("Location must between two and five hex digits.")
+        if shelf_length >= 2:
+            shelf = input_shelf[:2]
+        if shelf_length >= 3:
+            bay = input_shelf[:3]
+        if shelf_length >= 4:
+            container = input_shelf[:4]
+        if shelf_length >= 5:
+            slot = input_shelf[:5]
+        if shelf_length >= 6:
+            raise ValueError("Location must between two and five hex digits.")
+
+
         label = input(f"Enter Label [{existing_record.get('label')}]: ")
         
         update_data = {
             "$set": {
                 "notion_id": notion_id if notion_id else existing_record.get("notion_id"),
                 "shelf": shelf if shelf else existing_record.get("shelf"),
+                "bay": bay if bay else existing_record.get("bay"),
+                "container": container if container else existing_record.get("container"),
+                "slot": slot if slot else existing_record.get("slot"),
                 "label": label if label else existing_record.get("label"),
                 "last_updated": datetime.now()
             }
