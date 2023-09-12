@@ -10,9 +10,7 @@ def random_prefix():
     return prefix
 
 def create_record():
-    print("Update Record:")
-    
-    identifier = input("Enter Identifier (QR Code): ")
+    print("Create Record:")
     
     client = pymongo.MongoClient("mungo.local:27017")
     db = client["go"]
