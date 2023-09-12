@@ -4,8 +4,12 @@
         "identifier": "fx11",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fx11"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fx11",
+        "label": "bosch laser measure",
+        "last_updated": "2023-09-12 18:02:42.253000",
+        "notion_id": "363",
+        "shelf": "10"
     },
     {
         "_id": "64f11ba3497c3069472edd6e",
