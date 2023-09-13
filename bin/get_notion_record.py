@@ -3,7 +3,7 @@ import os
 import requests
 from pprint import pprint
 # get inventory item details from notion
-def link_notion_inventory(notion_id):
+def get_notion_record(notion_id):
     # Get the NOTION_API_KEY from the environment
     NOTION_API_KEY = os.getenv('NOTION_API_KEY')
 
