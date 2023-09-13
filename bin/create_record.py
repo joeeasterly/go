@@ -36,7 +36,7 @@ def create_record():
             if label == "":
                 # Fetch the record from Notion using the notion_id
                 notion_record = get_notion_record(notion_id)
-                label = notion_record.get('Name', '')  # Replace '' with a default label if you wish
+                label = notion_record.get('properties', {}).get('Name', {}).get('title', [])[0].get('plain_text', '')
 
             last_updated = datetime.now()
             
