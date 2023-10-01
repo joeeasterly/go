@@ -23,7 +23,7 @@ Inventory Management System
 3) Update
 4) Consumables
 5) Delete
-6) Update Github
+6) Update Github3
 7) Exit''')
 
         choice = input('Select an option: ')

@@ -25,6 +25,7 @@ def update_record():
         notion_id = input(f"Enter Notion ID (INV-) [{existing_record.get('notion_id')}]: ")
         input_shelf = input(f"Enter Shelving Location [{existing_record.get('shelf')}]: ")
         shelf_length = len(input_shelf)
+        shelf = bay = container = slot = None
         if shelf_length == 1:
             raise ValueError("Location must between two and five hex digits.")
         if shelf_length >= 2:
