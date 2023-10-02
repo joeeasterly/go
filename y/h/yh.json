@@ -2996,8 +2996,12 @@
         "identifier": "yhcq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yhcq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yhcq",
+        "label": "honeywell ms9520 usb barcode scanner",
+        "last_updated": "2023-10-01 21:06:53.636000",
+        "notion_id": "379",
+        "shelf": "411"
     },
     {
         "_id": "64f11bcc497c30694736aae4",
