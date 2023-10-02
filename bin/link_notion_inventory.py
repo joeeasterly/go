@@ -2,7 +2,7 @@
 import os
 import requests
 
-def link_notion_inventory(notion_id, mungo_id):
+def link_notion_inventory(notion_id, mungo_id, mungo_label):
     # Get the NOTION_API_KEY from the environment
     NOTION_API_KEY = os.getenv('NOTION_API_KEY')
 
@@ -47,6 +47,15 @@ def link_notion_inventory(notion_id, mungo_id):
                     "Mungo ID": {
                         "type": "rich_text",
                         "rich_text": [{"text": {"content": mungo_id}}]
+                    },
+                    "Name": {
+                        "type": "title",
+                        "title": [{
+                            "type": "text",
+                            "text": {
+                                "content": mungo_label
+                            }
+                        }]
                     }
                 }
             }

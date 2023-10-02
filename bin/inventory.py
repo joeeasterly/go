@@ -23,7 +23,7 @@ Inventory Management System
 3) Update
 4) Consumables
 5) Delete
-6) Update Github3
+6) Update Github
 7) Exit''')
 
         choice = input('Select an option: ')
@@ -39,7 +39,7 @@ Inventory Management System
         elif choice == '5':
             delete_record()
         elif choice == '6':
-            os.system("python3 update_github.py")  # Execute the update_github.py script
+            os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/update_github.py")  # Execute the update_github.py script
         elif choice == '7':
             print('Goodbye!')
             break

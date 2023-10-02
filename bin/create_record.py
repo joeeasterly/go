@@ -1,5 +1,7 @@
 from datetime import datetime
-from get_notion_record import get_notion_record  # Renamed from link_notion_inventory
+from link_notion_inventory import link_notion_inventory
+from get_notion_record import get_notion_record
+from allocate_notion_id import allocate_notion_id
 import pymongo
 import random
 from pprint import pprint
@@ -16,52 +18,48 @@ def create_record():
     db = client["go"]
     collection = db["link"]
 
-    max_attempts = 5
-    attempts = 0
+    search_criteria = {"allocated": False}
 
-    while attempts < max_attempts:
-        prefix = random_prefix()
-        print(f"Attempting with prefix: {prefix}")
+    pipeline = [
+        {"$match": search_criteria},
+        {"$sample": {"size": 1}}
+    ]
 
-        search_criteria = {"identifier": {"$regex": f"^{prefix}"}, "allocated": False}
-        matching_record = collection.find_one(search_criteria)
+    matching_record = list(collection.aggregate(pipeline))
 
-        if matching_record:
-            print(f"Matching record found: {matching_record['identifier']}")
+    if matching_record:
+        selected_record = matching_record[0]
+        print(f"Allocating Identifier {selected_record['identifier'].upper()}")
 
-            notion_id = input("Enter Notion ID: ")
-            shelf = input("Enter Shelf: ")
-            label = input("Enter Label: ")
+        mungo_id = selected_record['identifier']
+        notion_id = input("Enter Notion ID: ")
+        shelf = input("Enter Shelf: ")
+        label = input("Enter Label: ")
 
-            if label == "":
-                # Fetch the record from Notion using the notion_id
-                notion_record = get_notion_record(notion_id)
-                label = notion_record.get('properties', {}).get('Name', {}).get('title', [])[0].get('plain_text', '')
+        if notion_id == "":
+            notion_id = allocate_notion_id()
+            print(f"Allocating Notion Inventory ID {notion_id}")
 
-            last_updated = datetime.now()
-            
-            update_fields = {
-                "$set": {
-                    "notion_id": notion_id,
-                    "shelf": shelf,
-                    "label": label,
-                    "last_updated": last_updated,
-                    "allocated": True
-                }
+        if label == "":
+            notion_record = get_notion_record(notion_id)
+            label = notion_record.get('properties', {}).get('Name', {}).get('title', [])[0].get('plain_text', '')
+
+        last_updated = datetime.now()
+        
+        update_fields = {
+            "$set": {
+                "notion_id": notion_id,
+                "shelf": shelf,
+                "label": label,
+                "last_updated": last_updated,
+                "allocated": True
             }
-            
-            collection.update_one({"_id": matching_record["_id"]}, update_fields)
-            print("Record updated successfully.")
+        }
+        collection.update_one({"_id": selected_record["_id"]}, update_fields)
+        link_notion_inventory(notion_id, mungo_id, label)
+        print("Record updated successfully.")
 
-            confirmation_query = {"_id": matching_record["_id"]}
-            confirmation_record = collection.find_one(confirmation_query)
-            print("Updated record:")
-            pprint(confirmation_record)
-            break
-
-        else:
-            print("No matching record found, trying again...")
-            attempts += 1
-
-    if attempts == max_attempts:
-        print(f"After {max_attempts} attempts, no unallocated identifier found.")
+        confirmation_query = {"_id": selected_record["_id"]}
+        confirmation_record = collection.find_one(confirmation_query)
+        print("Updated record:")
+        pprint(confirmation_record)
