@@ -98,7 +98,11 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/211b"
+        "permalink": "https://joeeasterly.github.io/go/211b",
+        "label": "old ram for bellatrix",
+        "last_updated": "2023-09-11 19:17:45.923000",
+        "notion_id": "362",
+        "shelf": "10"
     },
     {
         "_id": "64f11b7e497c30694727e978",
@@ -138,7 +142,14 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/211g"
+        "permalink": "https://joeeasterly.github.io/go/211g",
+        "bay": "411",
+        "container": null,
+        "label": "nintendo switch power adapter",
+        "last_updated": "2023-10-01 19:40:19.262000",
+        "notion_id": "376",
+        "shelf": "41",
+        "slot": null
     },
     {
         "_id": "64f11b7e497c30694727e97d",
@@ -146,7 +157,14 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/211h"
+        "permalink": "https://joeeasterly.github.io/go/211h",
+        "bay": "411",
+        "container": null,
+        "label": "sonos usb-c cable",
+        "last_updated": "2023-10-01 16:15:05.617000",
+        "notion_id": "375",
+        "shelf": "41",
+        "slot": null
     },
     {
         "_id": "64f11b7e497c30694727e97e",
@@ -154,7 +172,14 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/211j"
+        "permalink": "https://joeeasterly.github.io/go/211j",
+        "bay": null,
+        "container": null,
+        "label": "grey bungee cord .25\"",
+        "last_updated": "2023-10-01 16:25:09.584000",
+        "notion_id": null,
+        "shelf": null,
+        "slot": null
     },
     {
         "_id": "64f11b7e497c30694727e97f",
@@ -178,7 +203,11 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/211n"
+        "permalink": "https://joeeasterly.github.io/go/211n",
+        "label": "assorted unknown keys",
+        "last_updated": "2023-09-10 19:22:34.826000",
+        "notion_id": null,
+        "shelf": "34"
     },
     {
         "_id": "64f11b7e497c30694727e982",
