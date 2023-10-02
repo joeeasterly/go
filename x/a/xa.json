@@ -4,8 +4,12 @@
         "identifier": "xa11",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xa11"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xa11",
+        "label": "belkin 6-outlet power strip",
+        "last_updated": "2023-10-01 19:46:03.160000",
+        "notion_id": "",
+        "shelf": "411"
     },
     {
         "_id": "64f11bc9497c306947360d6e",
