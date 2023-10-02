@@ -8188,7 +8188,11 @@
         "identifier": "8azz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8azz"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8azz",
+        "label": "sennheiser hd 380 pro headphones",
+        "last_updated": "2023-10-01 20:45:00.624000",
+        "notion_id": "377",
+        "shelf": "411"
     }
 ]
