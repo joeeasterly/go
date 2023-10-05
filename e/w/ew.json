@@ -412,8 +412,12 @@
         "identifier": "ew2m",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ew2m"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ew2m",
+        "label": "zinc #8 SAE nuts",
+        "last_updated": "2023-10-05 17:03:47.094000",
+        "notion_id": "389",
+        "shelf": "411"
     },
     {
         "_id": "64f11ba0497c3069472e59a1",
