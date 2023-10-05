@@ -1012,8 +1012,12 @@
         "identifier": "jx4y",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jx4y"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/jx4y",
+        "label": "1/4 zinc SAE nuts",
+        "last_updated": "2023-10-05 16:54:37.030000",
+        "notion_id": "387",
+        "shelf": "411"
     },
     {
         "_id": "64f11bab497c306947305dec",
