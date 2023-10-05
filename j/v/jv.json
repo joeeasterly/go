@@ -484,8 +484,12 @@
         "identifier": "jv2w",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jv2w"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/jv2w",
+        "label": "1/4-20 zinc washers",
+        "last_updated": "2023-10-05 16:36:23.766000",
+        "notion_id": "382",
+        "shelf": "411"
     },
     {
         "_id": "64f11bab497c3069473055aa",
