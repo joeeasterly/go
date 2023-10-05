@@ -7308,8 +7308,12 @@
         "identifier": "xqwj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xqwj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xqwj",
+        "label": "zinc #10 SAE nuts",
+        "last_updated": "2023-10-05 17:00:37.084000",
+        "notion_id": "388",
+        "shelf": "411"
     },
     {
         "_id": "64f11bca497c3069473644ff",
