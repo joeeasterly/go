@@ -99,6 +99,11 @@
                                 link.href = "map/?shelf=" + matchingObject[key];
                                 link.textContent = "View Shelf";
                                 span.appendChild(link);
+                            } else if (key === "identifier") {
+                                var link = document.createElement("a");
+                                link.href = "sheet/?single=" + matchingObject[key];
+                                link.textContent = "View QR Code";
+                                span.appendChild(link);
                             }
 
                             jsonDisplay.appendChild(div);

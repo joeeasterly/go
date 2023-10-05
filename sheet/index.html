@@ -2,152 +2,138 @@
 <html>
 
 <head>
-  <title>Go: Data Retrieval Service</title>
-  <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
-  <meta http-equiv="pragma" content="no-cache">
-  <meta http-equiv="expires" content="0">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto+Slab:wght@300;400&family=Roboto:wght@100;400&family=Source+Code+Pro&display=swap"
-    rel="stylesheet">
-  <script type="application/javascript" src="qrcode.js"></script>
-  <script>
+    <title>Go: Data Retrieval Service</title>
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto+Slab:wght@300;400&family=Roboto:wght@100;400&family=Source+Code+Pro&display=swap" rel="stylesheet">
+    <script type="application/javascript" src="qrcode.js"></script>
+    <script>
+        // Extract URL parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const singleCode = urlParams.get('single');
+        let startCode = urlParams.get('start');
+        let noborder = urlParams.get('noborder');
+        let quantity = 56; // Default value, which is a full letter-sized sheet.
 
-    // Extract "start" variable and "noborder" from the URL
-    const urlParams = new URLSearchParams(window.location.search);
-    const startCode = urlParams.get('start');
-    const firstLetter = startCode[0];
-    const secondLetter = startCode[1];
-    const noborder = urlParams.get('noborder');
-
-    // Construct the file path
-    const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
-
-    // Determine the quantity (default to 50 if not provided as a URL parameter)
-    let quantity = 56; // Default value, which is a full letter-sized sheet.
-    const quantityParam = urlParams.get('count');
-    if (quantityParam !== null) {
-      quantity = parseInt(quantityParam, 10);
-    }
-
-    // Load the JSON file and process data
-    fetch(filePath)
-      .then(response => response.json())
-      .then(data => {
-        // Find the index of the object with the desired identifier
-        const startIndex = data.findIndex(item => item.identifier === startCode);
-
-        // Retrieve the desired object and the next 20 objects with allocated=false
-        const desiredObjects = [];
-        if (startIndex !== -1) {
-          desiredObjects.push(data[startIndex]);
-          for (let i = startIndex + 1; i < data.length && desiredObjects.length < quantity; i++) {
-            if (data[i].allocated === false) {
-              desiredObjects.push(data[i]);
-            }
-          }
+        if (singleCode) {
+            startCode = singleCode;
+            quantity = 1;
+            noborder = true;
+        } else if (urlParams.get('count') !== null) {
+            quantity = parseInt(urlParams.get('count'), 10);
         }
 
-        // Create and append div elements with spans for each field and QR code
-        const container = document.createElement('div');
-        container.className = 'container'; // Add a class to the container div
+        const firstLetter = startCode[0];
+        const secondLetter = startCode[1];
+        const filePath = `../${firstLetter}/${secondLetter}/${firstLetter}${secondLetter}.json`;
 
-        desiredObjects.forEach((obj, index) => {
-          const div = document.createElement('div');
-          div.className = 'qrcode';
+        // Load the JSON file and process data
+        fetch(filePath)
+            .then(response => response.json())
+            .then(data => {
+                const desiredObjects = [];
+                if (singleCode) {
+                    const singleIndex = data.findIndex(item => item.identifier === singleCode);
+                    if (singleIndex !== -1) {
+                        desiredObjects.push(data[singleIndex]);
+                    }
+                } else {
+                    const startIndex = data.findIndex(item => item.identifier === startCode);
+                    if (startIndex !== -1) {
+                        desiredObjects.push(data[startIndex]);
+                        for (let i = startIndex + 1; i < data.length && desiredObjects.length < quantity; i++) {
+                            if (data[i].allocated === false) {
+                                desiredObjects.push(data[i]);
+                            }
+                        }
+                    }
+                }
 
-          // Apply custom CSS if "noborder" parameter is true
-          if (noborder === 'true') {
-            div.style.border = 'none';
-            div.style.paddingBottom = '0';
-          }
+                const container = document.createElement('div');
+                container.className = 'container';
 
-          // Modify the CSS of the <img> tag (if it exists within the same <div>)
-          const imgElement = div.querySelector('img');
-          if (imgElement) {
-            // Apply your custom CSS to the <img> tag here
-            imgElement.style.margin = '0';
-          }
+                desiredObjects.forEach((obj, index) => {
+                    const div = document.createElement('div');
+                    div.className = 'qrcode';
+                    if (noborder === 'true' || noborder === true) {
+                        div.style.border = 'none';
+                        div.style.paddingBottom = '0';
+                    }
+                    const imgElement = div.querySelector('img');
+                    if (imgElement) {
+                        imgElement.style.margin = '0';
+                    }
+                    const identifierSpan = div.querySelector('span.identifier');
+                    if (identifierSpan) {
+                        identifierSpan.style.top = '24pt';
+                        identifierSpan.style.left = '20pt';
+                    }
+                    const uniqueId = `qrcode-${index}`;
+                    const qrCodeScript = document.createElement('script');
+                    qrCodeScript.type = 'text/javascript';
+                    qrCodeScript.textContent = `
+                        var qrcode = new QRCode(document.getElementById("${uniqueId}"), {
+                            text: "${obj.permalink}",
+                            width: 128,
+                            height: 128,
+                            colorDark: "#000000",
+                            colorLight: "#ffffff",
+                            correctLevel: QRCode.CorrectLevel.H
+                        });
+                    `;
+                    div.id = uniqueId;
+                    div.appendChild(qrCodeScript);
+                    const metadata = document.createElement('div');
+                    metadata.className = 'metadata';
 
-          // Modify the CSS of the <span> with class "identifier" (if it exists within the same <div>)
-          const identifierSpan = div.querySelector('span.identifier');
-          if (identifierSpan) {
-            // Apply your custom CSS to the <span> element here
-            identifierSpan.style.top = '24pt';
-            identifierSpan.style.left = '20pt';
-          }
+                    for (const field in obj) {
+                        const span = document.createElement('span');
+                        span.className = field;
+                        span.textContent = field === 'identifier' ? obj[field].toUpperCase() : obj[field];
+                        metadata.appendChild(span);
+                    }
+                    div.appendChild(metadata);
+                    container.appendChild(div);
+                });
+                document.body.appendChild(container);
+            })
+            .catch(error => {
+                console.error('Error loading JSON:', error);
+            });
+    </script>
 
-          const uniqueId = `qrcode-${index}`; // Generate a unique ID
+    <style>
+        body {
+            margin: 0 !important;
+            padding: 0 !important;
+        }
 
-          // Create QR code script
-          const qrCodeScript = document.createElement('script');
-          qrCodeScript.type = 'text/javascript';
-          qrCodeScript.textContent = `
-        var qrcode = new QRCode(document.getElementById("${uniqueId}"), {
-          text: "${obj.permalink}", // Use the appropriate field from your data
-          width: 128,
-          height: 128,
-          colorDark: "#000000",
-          colorLight: "#ffffff",
-          correctLevel: QRCode.CorrectLevel.H
-        });
-      `;
+        ._id,
+        .allocated,
+        .class,
+        .label,
+        .last_updated,
+        .permalink,
+        .quantity,
+        .shelf,
+        .target {
+            display: none;
+        }
 
-          div.id = uniqueId; // Set the unique ID to the div
-          div.appendChild(qrCodeScript); // Append the QR code script to the div
-          const metadata = document.createElement('div');
-          metadata.className = 'metadata';
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+        }
 
-          for (const field in obj) {
-            const span = document.createElement('span');
-            span.className = field; // Use field name as CSS class
-            span.textContent = obj[field];
-            span.textContent = field === 'identifier' ? obj[field].toUpperCase() : obj[field]; // Convert identifier to uppercase
-            metadata.appendChild(span);
-          }
-          div.appendChild(metadata);
-          container.appendChild(div);
-        });
-
-        // Append the container to the body
-        document.body.appendChild(container);
-      })
-      .catch(error => {
-        console.error('Error loading JSON:', error);
-      });
-
-
-  </script>
-
-  <style>
-    body {
-      margin: 0!important;
-      padding: 0!important;
-    }
-    ._id,
-    .allocated,
-    .class,
-    .label,
-    .last_updated,
-    .permalink,
-    .quantity,
-    .shelf,
-    .target {
-      display: none;
-    }
-
-    .container {
-      display: flex;
-      flex-wrap: wrap;
-    }
-
-    .qrcode {
-      width: 72pt;
-      height: 72pt;
-      border: 1pt dashed black;
-      padding-bottom: 6pt;
-    }
+        .qrcode {
+            width: 72pt;
+            height: 72pt;
+            border: 1pt dashed black;
+            padding-bottom: 6pt;
+        }
 
     .qrcode img {
       width: 60pt;
