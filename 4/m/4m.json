@@ -7636,8 +7636,12 @@
         "identifier": "4mxu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4mxu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4mxu",
+        "label": "plastic bone folder",
+        "last_updated": "2023-10-06 19:09:49.596000",
+        "notion_id": "410",
+        "shelf": "411"
     },
     {
         "_id": "64f11b85497c306947293928",
