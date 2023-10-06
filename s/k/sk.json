@@ -4564,8 +4564,12 @@
         "identifier": "skju",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/skju"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/skju",
+        "label": "2 1/4in #8 flat screws",
+        "last_updated": "2023-10-06 19:06:51.834000",
+        "notion_id": "409",
+        "shelf": "411"
     },
     {
         "_id": "64f11bbd497c30694733b3a8",
