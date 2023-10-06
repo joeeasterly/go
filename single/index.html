@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,35 +8,51 @@
     <style type="text/css">
         #qrContainer {
             display: inline-block;
-            width: 84px; /* Adjust the width as needed */
+            width: 84px;
+            /* Adjust the width as needed */
         }
+
         #qrLabel {
             display: inline-block;
-            width: 20px; /* Adjust the width as needed */
+            width: 20px;
+            /* Adjust the width as needed */
             font-family: "Courier New", Courier, monospace;
             font-weight: 900;
-            text-align: left; /* Align text to the left */
+            text-align: left;
+            /* Align text to the left */
+        }
+
+        @media print {
+            #inputForm {
+                display: none;
+            }
         }
     </style>
     <script src="qr.js" defer></script>
 </head>
+
 <body>
     <div id="qrContainer"></div>
     <div id="qrLabel"></div>
+    <div id="inputForm">
+        <input id="idInput" type="text" placeholder="Enter ID">
+        <button onclick="openPrintDialog()">Print Label</button>
+
+    </div>
     <script>
         var base_url = "https://joeeasterly.github.io/";
         var urlParams = new URLSearchParams(window.location.search);
         var identifier = urlParams.get('id');
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             var svgNode = QRCode({
-                msg : base_url + identifier,
-                dim : 84,
-                pad : 0,
-                mtx : 0,
-                ecl : "H",
-                ecb : 0,
-                pal : ["#000", "#fff"],
-                vrb : 1
+                msg: base_url + identifier,
+                dim: 84,
+                pad: 0,
+                mtx: 0,
+                ecl: "H",
+                ecb: 0,
+                pal: ["#000", "#fff"],
+                vrb: 1
             });
             document.getElementById('qrContainer').appendChild(svgNode);
         });
@@ -53,6 +70,33 @@
             }
         }
         insertIntoQRText();
+        // create a search form
+        document.getElementById('idInput').addEventListener('keydown', function (event) {
+            if (event.keyCode === 13) { // 13 is the keycode for the return/enter key
+                event.preventDefault(); // prevent the default action (form submission, etc.)
+                updateURLWithID(this.value); // call the function to update the URL
+            }
+        });
+        function updateURLWithID(newID) {
+            // Check if the newID starts with the specific substring and remove it if present
+            const targetString = "http://joeeasterly.github.io/go/";
+            if (newID.startsWith(targetString)) {
+                newID = newID.replace(targetString, "");
+            }
+
+            // get the current URL without any query parameters
+            let baseURL = window.location.href.split('?')[0];
+            // append the new id value
+            let newURL = baseURL + '?id=' + newID;
+            // redirect to the new URL
+            window.location.href = newURL;
+        }
+        // Create a Print Dialog
+        function openPrintDialog() {
+            window.print();
+        }
+
     </script>
 </body>
+
 </html>
