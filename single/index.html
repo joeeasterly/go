@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Page</title>
+    <style type="text/css">
+        #qrContainer {
+            display: inline-block;
+            width: 84px; /* Adjust the width as needed */
+        }
+        #qrLabel {
+            display: inline-block;
+            width: 20px; /* Adjust the width as needed */
+            font-family: "Courier New", Courier, monospace;
+            text-align: left; /* Align text to the left */
+        }
+    </style>
+    <script src="qr.js" defer></script>
+</head>
+<body>
+    <div id="qrContainer"></div>
+    <div id="qrLabel"></div>
+    <script>
+        var base_url = "https://joeeasterly.github.io/";
+        var identifier = "e21x".toUpperCase();
+        document.addEventListener('DOMContentLoaded', function() {
+            var svgNode = QRCode({
+                msg : base_url + identifier,
+                dim : 84,
+                pad : 0,
+                mtx : 0,
+                ecl : "H",
+                ecb : 0,
+                pal : ["#000", "#fff"],
+                vrb : 1
+            });
+            document.getElementById('qrContainer').appendChild(svgNode);
+        });
+
+        // Assuming you have a string named identifier
+        function insertIntoQRText() {
+            let divElement = document.getElementById('qrLabel');
+
+            if (divElement) {
+                // Add line breaks after each character to make the text vertical
+                let verticalText = identifier.split("").join("<br>");
+                divElement.innerHTML = verticalText;
+            } else {
+                console.error("No element with ID 'qrtext' found.");
+            }
+        }
+        insertIntoQRText();
+    </script>
+</body>
+</html>
