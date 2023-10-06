@@ -40,12 +40,12 @@
 
     </div>
     <script>
-        var base_url = "https://joeeasterly.github.io/";
+        var base_url = "https://joeeasterly.github.io/go/";
         var urlParams = new URLSearchParams(window.location.search);
         var identifier = urlParams.get('id');
         document.addEventListener('DOMContentLoaded', function () {
             var svgNode = QRCode({
-                msg: base_url + identifier,
+                msg: base_url + identifier.toLowerCase(),
                 dim: 84,
                 pad: 0,
                 mtx: 0,
