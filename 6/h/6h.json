@@ -7284,8 +7284,12 @@
         "identifier": "6hwf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6hwf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6hwf",
+        "label": "kitchenaid vegetable sheet cutter",
+        "last_updated": "2023-10-08 16:28:49.893000",
+        "notion_id": "416",
+        "shelf": "114"
     },
     {
         "_id": "64f11b8a497c3069472a2cfc",
