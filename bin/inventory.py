@@ -17,6 +17,7 @@ logo = '''
 /_/  /_/\____/_/ |_/\____/\____/
 '''
 def main():
+    os.system('clear')  # Clear the screen first.
     print('''
 #################################################
 #          Inventory Management System          #
