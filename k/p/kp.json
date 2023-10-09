@@ -6012,8 +6012,12 @@
         "identifier": "kprg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kprg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/kprg",
+        "label": "aluminum ferrules",
+        "last_updated": "2023-10-08 13:05:13.158000",
+        "notion_id": "415",
+        "shelf": "411"
     },
     {
         "_id": "64f11bad497c30694730c05d",
