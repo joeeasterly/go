@@ -3780,8 +3780,12 @@
         "identifier": "m4fs",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/m4fs"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/m4fs",
+        "label": "workstation echo show remote",
+        "last_updated": "2023-10-06 19:29:09.125000",
+        "notion_id": "412",
+        "shelf": "411"
     },
     {
         "_id": "64f11bae497c30694730f746",
