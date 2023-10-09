@@ -7388,8 +7388,12 @@
         "identifier": "h5wv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h5wv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h5wv",
+        "label": "3/4in x1/4 hex machine screws",
+        "last_updated": "2023-10-08 13:00:44.428000",
+        "notion_id": "414",
+        "shelf": "411"
     },
     {
         "_id": "64f11ba6497c3069472f7d09",
