@@ -9,23 +9,23 @@ from delete_record import delete_record
 #
 #
 # Show the main menu
+logo = '''
+    __  _____  ___   ____________ 
+   /  |/  / / / / | / / ____/ __ \\
+  / /|_/ / / / /  |/ / / __/ / / /
+ / /  / / /_/ / /|  / /_/ / /_/ /
+/_/  /_/\____/_/ |_/\____/\____/
+'''
 def main():
+    print('''
+#################################################
+#          Inventory Management System          #
+#################################################
+      1) Create  2) Search 3) Update Item      
+      4) Update Count 5) Delete
+      6) Update Github 7) Exit
+''')
     while True:
-        print('''     __  _____  ___   ____________
-    /  |/  / / / / | / / ____/ __ \\
-   / /|_/ / / / /  |/ / / __/ / / /
-  / /  / / /_/ / /|  / /_/ / /_/ /
- /_/  /_/\\____/_/ |_/\\____/\\____/
-
-Inventory Management System
-1) Create
-2) Search
-3) Update
-4) Consumables
-5) Delete
-6) Update Github
-7) Exit''')
-
         choice = input('Select an option: ')
 
         if choice == '1':

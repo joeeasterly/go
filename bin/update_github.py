@@ -41,12 +41,13 @@ for document in collection.find():
 print("Identifiers updated since the most recent GitHub commit:")
 for identifier in updated_identifiers:
     print(identifier)
+print() # add a line break
 
 # Step 6: Print prefixes
+print("Generating JSON files...")
 for prefix in updated_prefixes:
     first_letter = prefix[0]
     second_letter = prefix[1]
-    print(prefix)
     # Fetch documents whose identifiers start with the current prefix
     results = collection.find({"identifier": {'$regex': f'^{prefix}'}})
 
@@ -59,7 +60,7 @@ for prefix in updated_prefixes:
         documents_list.append(result)
 
     # Export the list of documents to a JSON file
-    json_file_path = f'../{first_letter}/{second_letter}/{prefix}.json'
+    json_file_path = f'/home/joeeasterly/Documents/GitHub/go/{first_letter}/{second_letter}/{prefix}.json'
     with open(json_file_path, 'w') as f:
         json.dump(documents_list, f, indent=4, cls=CustomJSONEncoder)
         print(f"Exported {prefix}.json")
@@ -72,3 +73,5 @@ for prefix in updated_prefixes:
     subprocess.run(["git", "commit", "-m", commit_message])
 
     print(f"Committed and added {prefix}.json to Git")
+print() # add a line break
+print("JSON files generated and committed to Git successfully. Run `git push` to publish the changes to GitHub.")
