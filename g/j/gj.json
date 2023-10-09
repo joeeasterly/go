@@ -1436,8 +1436,12 @@
         "identifier": "gj6m",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gj6m"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gj6m",
+        "label": "clear cambro temp storage",
+        "last_updated": "2023-10-08 17:16:10.294000",
+        "notion_id": "420",
+        "shelf": "402"
     },
     {
         "_id": "64f11ba5497c3069472f2e21",
