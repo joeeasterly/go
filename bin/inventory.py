@@ -5,6 +5,7 @@ from create_record import create_record
 from search_records import search_records
 from update_record import update_record
 from update_consumable import update_consumable
+from storage import add_storage
 from delete_record import delete_record
 #
 #
@@ -23,7 +24,7 @@ def main():
 #          Inventory Management System          #
 #################################################
       1) Create  2) Search 3) Update Item      
-      4) Update Count 5) Delete
+      4) Storage 5) Delete
       6) Update Github 7) Exit
 ''')
     while True:
@@ -36,7 +37,7 @@ def main():
         elif choice == '3':
             update_record()
         elif choice == '4':
-            update_consumable()
+            add_storage()
         elif choice == '5':
             delete_record()
         elif choice == '6':

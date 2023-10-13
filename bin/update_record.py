@@ -8,6 +8,8 @@ def update_record():
     print("Update Record:")
     
     identifier = input("Enter Identifier (QR Code): ")
+    if "https://joeeasterly.github.io/go/" in identifier:
+        identifier = identifier.replace("https://joeeasterly.github.io/go/", "") 
     
     client = pymongo.MongoClient("mungo.local:27017")
     db = client["go"]
@@ -60,7 +62,7 @@ def update_record():
             updated_record = collection.find_one(filter_criteria)
             print("Record updated successfully!")
             print()
-            print_inventory(updated_record, "label", "identifier", "notion_id", "shelf")
+            print_inventory(updated_record, "label", "identifier", "notion_id", "shelf", "bay", "container", "slot", "last_updated")
             print("JSON:")
             pprint(updated_record)
             # If notion_id is provided, call the update_notion_record function
@@ -71,3 +73,7 @@ def update_record():
             print("No record found with the provided identifier.")
     else:
         print("No record found with the provided identifier.")
+
+# Run the update_record function if this script is run directly
+if __name__ == "__main__":
+    update_record()
