@@ -33,9 +33,13 @@ def add_storage():
         slot = input_shelf[:5]
         analysis = analysis + ", Slot: " + slot
     if shelf_length >= 6:
-        if "https://joeeasterly.github.io/go/" in identifier:
+        if "https://joeeasterly.github.io/go/" in input_shelf:  # Checking in input_shelf, not identifier
             identifier = input_shelf.replace("https://joeeasterly.github.io/go/", "")
-        raise ValueError("SHCN must between two and five hex digits.")
+            if len(identifier) != 4:  # Ensuring the identifier has exactly 4 digits
+                raise ValueError("Identifier following the URL must have exactly 4 digits.")
+        else:
+            raise ValueError("SHCN must between two and five hex digits.")
+
     print("Input analysis: " + analysis)
 
     if shelf_length == 4:
@@ -46,18 +50,29 @@ def add_storage():
             allocated = existing_record.get('allocated')
             if allocated:
                 raise ValueError(f"Warning: identifier/shcn collision: " + identifier + ". Fix it first in mongodb compass and try again.")
-        
-    # Allocate an identifier for a new record in mongodb
-    search_criteria = {"allocated": False}
-    pipeline = [
-        {"$match": search_criteria},
-        {"$sample": {"size": 1}}
-    ]
-    new_record = list(collection.aggregate(pipeline))
+    
+    # Choose between a pre-printed QR Code, or allocate a new one
+    filter_criteria = ""
+    choose_code = input("Enter QR code or (blank to auto-assign): ")
+    if choose_code == "":
+        # Allocate an identifier for a new record in mongodb
+        search_criteria = {"allocated": False}
+        filter_criteria = [
+            {"$match": search_criteria},
+            {"$sample": {"size": 1}}
+        ]
+        new_record = list(collection.aggregate(filter_criteria))
+        selected_record = new_record[0]
+    else:
+        filter_criteria = {"identifier": choose_code}
+        new_record = collection.find_one(filter_criteria)
+        selected_record = new_record
 
     if new_record:
-        selected_record = new_record[0]
-        print(f"Allocating Identifier {selected_record['identifier'].upper()}")
+        if choose_code == "":
+            print(f"Allocating Identifier {selected_record['identifier'].upper()}")
+        else:
+            print(f"Using Identifier {selected_record['identifier'].upper()}")
         mungo_id = selected_record['identifier']
         notion_id = input("Enter Notion ID: ")
         label = input("Enter Label: ")

@@ -52,6 +52,7 @@ def update_record():
                 "container": container if container else existing_record.get("container"),
                 "slot": slot if slot else existing_record.get("slot"),
                 "label": label if label else existing_record.get("label"),
+                "allocated": True,
                 "last_updated": datetime.now()
             }
         }
