@@ -1,75 +1,31 @@
 import pymongo
-import requests
-import json
-import os
 from pprint import pprint
 from datetime import datetime
+from library.input_shcn import input_shcn
+from library.prevent_collision import prevent_collision
+from library.parse_qrcode_input import parse_qrcode_input
+from library.allocate_identifier import allocate_identifier
+from library.get_record_by_identifier import get_record_by_identifier
 from allocate_notion_id import allocate_notion_id
 from link_notion_inventory import link_notion_inventory
 from get_notion_record import get_notion_record
 from print_inventory import print_inventory
 
 def add_storage():
-    client = pymongo.MongoClient("mungo.local:27017")
-    db = client["go"]
-    collection = db["link"]
-    print("Add SHCN Record Record:")
-    input_shelf = input(f"Enter SHCN: ")
-    shelf_length = len(input_shelf)
-    identifier = allocated = shelf = bay = container = slot = None
-    analysis = None
-    if shelf_length == 1:
-        raise ValueError("SHCN must between two and five hex digits.")
-    if shelf_length >= 2:
-        shelf = input_shelf[:2]
-        analysis = "Shelf: " + shelf
-    if shelf_length >= 3:
-        bay = input_shelf[:3]
-        analysis = analysis + ", Bay: " + bay
-    if shelf_length >= 4:
-        container = input_shelf[:4]
-        analysis = analysis + ", Container: " + container
-    if shelf_length >= 5:
-        slot = input_shelf[:5]
-        analysis = analysis + ", Slot: " + slot
-    if shelf_length >= 6:
-        if "https://joeeasterly.github.io/go/" in input_shelf:  # Checking in input_shelf, not identifier
-            identifier = input_shelf.replace("https://joeeasterly.github.io/go/", "")
-            if len(identifier) != 4:  # Ensuring the identifier has exactly 4 digits
-                raise ValueError("Identifier following the URL must have exactly 4 digits.")
-        else:
-            raise ValueError("SHCN must between two and five hex digits.")
+    print("Add SHCN Record:")
+    shcn, shelf, bay, container, slot, analysis = input_shcn()
+    print(analysis)
 
-    print("Input analysis: " + analysis)
-
-    if shelf_length == 4:
-        identifier = input_shelf
-        filter_criteria = {"identifier": identifier}
-        existing_record = collection.find_one(filter_criteria)
-        if existing_record:
-            allocated = existing_record.get('allocated')
-            if allocated:
-                raise ValueError(f"Warning: identifier/shcn collision: " + identifier + ". Fix it first in mongodb compass and try again.")
+    prevent_collision(shcn)
+    mungo_id = parse_qrcode_input()
     
-    # Choose between a pre-printed QR Code, or allocate a new one
-    filter_criteria = ""
-    choose_code = input("Enter QR code or (blank to auto-assign): ")
-    if choose_code == "":
-        # Allocate an identifier for a new record in mongodb
-        search_criteria = {"allocated": False}
-        filter_criteria = [
-            {"$match": search_criteria},
-            {"$sample": {"size": 1}}
-        ]
-        new_record = list(collection.aggregate(filter_criteria))
-        selected_record = new_record[0]
+    if mungo_id == "":
+        selected_record = allocate_identifier()
     else:
-        filter_criteria = {"identifier": choose_code}
-        new_record = collection.find_one(filter_criteria)
-        selected_record = new_record
+        selected_record = get_record_by_identifier(mungo_id)
 
-    if new_record:
-        if choose_code == "":
+    if selected_record:
+        if mungo_id == "":
             print(f"Allocating Identifier {selected_record['identifier'].upper()}")
         else:
             print(f"Using Identifier {selected_record['identifier'].upper()}")
@@ -98,6 +54,8 @@ def add_storage():
             }
         }
         #  Conditionally add fields if they exist
+        if shcn is not None:
+            update_fields["$set"]["shcn"] = shcn
         if shelf is not None:
             update_fields["$set"]["shelf"] = shelf
         if bay is not None:
@@ -106,16 +64,17 @@ def add_storage():
             update_fields["$set"]["container"] = container
         if slot is not None:
             update_fields["$set"]["slot"] = slot
-
+        
+        client = pymongo.MongoClient("mungo.local:27017")
+        db = client["go"]
+        collection = db["link"]
         collection.update_one({"_id": selected_record["_id"]}, update_fields)
-        link_notion_inventory(notion_id, mungo_id, label)
+        link_notion_inventory(notion_id, mungo_id, shcn, label)
         print("Record updated successfully.")
 
         confirmation_query = {"_id": selected_record["_id"]}
         confirmation_record = collection.find_one(confirmation_query)
-        print("Updated record:")
-        pprint(confirmation_record)
-    
+        print_inventory(confirmation_record)
 
 # Run the update_record function if this script is run directly
 if __name__ == "__main__":

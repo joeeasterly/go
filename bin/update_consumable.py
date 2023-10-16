@@ -5,6 +5,8 @@ from link_notion_inventory import link_notion_inventory  # Import the function
 from print_inventory import print_inventory
 
 def update_consumable():
+    # This code basically needs to be redone.
+    raise NotImplementedError("This function has not been implemented yet.")
     print("Update Consumable:")
     identifier = input("Enter Identifier (QR Code): ")
     
@@ -43,7 +45,7 @@ def update_consumable():
             pprint(updated_record)
             # If notion_id is provided, call the update_notion_record function
             if notion_id:
-                update_result = link_notion_inventory(notion_id, identifier)
+                update_result = link_notion_inventory(notion_id, mungo_id, shcn, mungo_label)
                 print(update_result)
         else:
             print("No record found with the provided identifier.")

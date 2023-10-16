@@ -2,7 +2,7 @@
 import os
 import requests
 
-def link_notion_inventory(notion_id, mungo_id, mungo_label):
+def link_notion_inventory(notion_id, mungo_id, shcn, mungo_label):
     # Get the NOTION_API_KEY from the environment
     NOTION_API_KEY = os.getenv('NOTION_API_KEY')
 
@@ -40,13 +40,17 @@ def link_notion_inventory(notion_id, mungo_id, mungo_label):
     if response.status_code == 200:
         data = response.json()
         if data.get('results'):
-            # Assuming there's only one result, update its "Mungo ID" field
+            # Assuming there's only one result, update Mungo ID and SHCN fields
             page_id = data['results'][0]['id']
             update_data = {
                 "properties": {
                     "Mungo ID": {
                         "type": "rich_text",
                         "rich_text": [{"text": {"content": mungo_id}}]
+                    },
+                    "SHCN": {
+                        "type": "rich_text",
+                        "rich_text": [{"text": {"content": shcn}}]
                     },
                     "Name": {
                         "type": "title",

@@ -68,7 +68,7 @@ def update_record():
             pprint(updated_record)
             # If notion_id is provided, call the update_notion_record function
             if notion_id:
-                update_result = link_notion_inventory(notion_id, identifier)
+                update_result = link_notion_inventory(notion_id, identifier, shcn, mungo_label)
                 print(update_result)
         else:
             print("No record found with the provided identifier.")
