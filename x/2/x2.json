@@ -7428,8 +7428,17 @@
         "identifier": "x2x1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x2x1"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/x2x1",
+        "bay": "411",
+        "container": "4113",
+        "label": "slot 41133",
+        "last_updated": "2023-10-16 18:49:01.086000",
+        "notion_id": "462",
+        "shcn": "41133",
+        "shelf": "41",
+        "slot": "41133",
+        "type": "storage"
     },
     {
         "_id": "64f11bc9497c30694735f10e",
@@ -7458,18 +7467,9 @@
     {
         "_id": "64f11bc9497c30694735f111",
         "identifier": "x2x5",
-        "target": "#",
-        "class": "inventory",
-        "allocated": true,
+        "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/x2x5",
-        "bay": "411",
-        "container": "4110",
-        "label": "cabinet slot 41105",
-        "last_updated": "2023-10-15 21:35:53.744000",
-        "notion_id": "449",
-        "shelf": "41",
-        "slot": "41105",
-        "type": "storage"
+        "last_updated": "2023-10-15 21:38:58.863000"
     },
     {
         "_id": "64f11bc9497c30694735f112",
