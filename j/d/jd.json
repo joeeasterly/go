@@ -2251,8 +2251,15 @@
         "identifier": "jd9s",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jd9s"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/jd9s",
+        "bay": "411",
+        "container": "4113",
+        "label": "9-slot shelving container",
+        "last_updated": "2023-10-13 19:06:46.746000",
+        "notion_id": "448",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11ba9497c306947301a86",
