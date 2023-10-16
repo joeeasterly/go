@@ -7460,8 +7460,16 @@
         "identifier": "x2x5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x2x5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/x2x5",
+        "bay": "411",
+        "container": "4110",
+        "label": "cabinet slot 41105",
+        "last_updated": "2023-10-15 21:35:53.744000",
+        "notion_id": "449",
+        "shelf": "41",
+        "slot": "41105",
+        "type": "storage"
     },
     {
         "_id": "64f11bc9497c30694735f112",
@@ -7860,8 +7868,15 @@
         "identifier": "x2yq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x2yq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/x2yq",
+        "bay": "402",
+        "container": "4021",
+        "label": "5/8in #2 tacks",
+        "last_updated": "2023-10-10 19:07:25.818000",
+        "notion_id": null,
+        "shelf": "40",
+        "slot": null
     },
     {
         "_id": "64f11bc9497c30694735f144",
