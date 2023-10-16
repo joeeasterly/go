@@ -1140,8 +1140,17 @@
         "identifier": "k85f",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/k85f"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/k85f",
+        "bay": "411",
+        "container": "4112",
+        "label": "41129",
+        "last_updated": "2023-10-16 17:54:57.152000",
+        "notion_id": "459",
+        "shcn": "41129",
+        "shelf": "41",
+        "slot": "41129",
+        "type": "storage"
     },
     {
         "_id": "64f11bac497c3069473085fc",
@@ -1196,8 +1205,17 @@
         "identifier": "k85p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/k85p"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/k85p",
+        "bay": "411",
+        "container": "4112",
+        "label": "41128",
+        "last_updated": "2023-10-16 17:57:05.760000",
+        "notion_id": "460",
+        "shcn": "41128",
+        "shelf": "41",
+        "slot": "41128",
+        "type": "storage"
     },
     {
         "_id": "64f11bac497c306947308603",
@@ -1252,8 +1270,17 @@
         "identifier": "k85w",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/k85w"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/k85w",
+        "bay": "411",
+        "container": "4112",
+        "label": "slot 4112A",
+        "last_updated": "2023-10-16 18:01:03.532000",
+        "notion_id": "461",
+        "shcn": "4112A",
+        "shelf": "41",
+        "slot": "4112A",
+        "type": "storage"
     },
     {
         "_id": "64f11bac497c30694730860a",
@@ -1388,8 +1415,17 @@
         "identifier": "k86e",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/k86e"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/k86e",
+        "bay": "411",
+        "container": "4112",
+        "label": "4112b",
+        "last_updated": "2023-10-16 17:51:34.806000",
+        "notion_id": "458",
+        "shcn": "4112b",
+        "shelf": "41",
+        "slot": "4112b",
+        "type": "storage"
     },
     {
         "_id": "64f11bac497c30694730861b",
@@ -1492,8 +1528,15 @@
         "identifier": "k86u",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/k86u"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/k86u",
+        "bay": "402",
+        "container": "4021",
+        "label": "female usb-c to male usb-a adapter plug",
+        "last_updated": "2023-10-12 19:32:46.939000",
+        "notion_id": null,
+        "shelf": "40",
+        "slot": null
     },
     {
         "_id": "64f11bac497c306947308628",
