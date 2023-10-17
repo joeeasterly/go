@@ -1,7 +1,7 @@
 from datetime import datetime
-from link_notion_inventory import link_notion_inventory
-from get_notion_record import get_notion_record
-from allocate_notion_id import allocate_notion_id
+from library.link_notion_inventory import link_notion_inventory
+from library.get_notion_record import get_notion_record
+from library.allocate_notion_id import allocate_notion_id
 import pymongo
 import random
 from pprint import pprint

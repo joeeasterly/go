@@ -19,10 +19,11 @@ logo = '''
 '''
 def main():
     os.system('clear')  # Clear the screen first.
+    print(logo)
     print('''
-#################################################
-#          Inventory Management System          #
-#################################################
+##################################################
+#          Inventory Management System           #
+##################################################
       1) Create  2) Search 3) Update Item      
       4) Storage 5) Delete
       6) Update Github 7) Exit

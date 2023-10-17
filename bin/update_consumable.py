@@ -1,8 +1,8 @@
 import pymongo
 from pprint import pprint
 from datetime import datetime
-from link_notion_inventory import link_notion_inventory  # Import the function
-from print_inventory import print_inventory
+from library.link_notion_inventory import link_notion_inventory  # Import the function
+from library.print_inventory import print_inventory
 
 def update_consumable():
     # This code basically needs to be redone.

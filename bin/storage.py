@@ -6,10 +6,11 @@ from library.prevent_collision import prevent_collision
 from library.parse_qrcode_input import parse_qrcode_input
 from library.allocate_identifier import allocate_identifier
 from library.get_record_by_identifier import get_record_by_identifier
-from allocate_notion_id import allocate_notion_id
-from link_notion_inventory import link_notion_inventory
-from get_notion_record import get_notion_record
-from print_inventory import print_inventory
+from library.print_inventory import print_inventory
+from library.allocate_notion_id import allocate_notion_id
+from library.link_notion_inventory import link_notion_inventory
+from library.get_notion_record import get_notion_record
+
 
 def add_storage():
     print("Add SHCN Record:")
@@ -31,17 +32,17 @@ def add_storage():
             print(f"Using Identifier {selected_record['identifier'].upper()}")
         mungo_id = selected_record['identifier']
         notion_id = input("Enter Notion ID: ")
-        label = input("Enter Label: ")
+        
 
         if notion_id == "":
             notion_id = allocate_notion_id()
             print(f"Allocating Notion Inventory ID {notion_id}")
 
-        if label == "":
-            notion_record = get_notion_record(notion_id)
-            label = notion_record.get('properties', {}).get('Name', {}).get('title', [])[0].get('plain_text', '')
-
-        last_updated = datetime.now()
+        notion_record = get_notion_record(notion_id)
+        label = notion_record.get('properties', {}).get('Name', {}).get('title', [])[0].get('plain_text', '')
+        label_input = input(f"Enter Label: ({label}) ")
+        if label_input != "":
+            label = label_input
         
         update_fields = {
             "$set": {
@@ -49,7 +50,7 @@ def add_storage():
                 "type": "storage",
                 "class": "inventory",
                 "label": label,
-                "last_updated": last_updated,
+                "last_updated": datetime.now(),
                 "allocated": True
             }
         }

@@ -42,4 +42,6 @@ def get_notion_record(notion_id):
         if data.get('results'):
             # Assuming there's only one result, update its "Mungo ID" field
             page_id = data['results'][0]['id']
-            pprint(data['results'][0])
+            return data['results'][0]
+    else:
+        raise Exception(f"Error getting record from Notion: {response.status_code} {response.text}")
