@@ -32,6 +32,7 @@ def add_storage():
             print(f"Using Identifier {selected_record['identifier'].upper()}")
         mungo_id = selected_record['identifier']
         notion_id = input("Enter Notion ID: ")
+        mungo_label = selected_record.get('label')
         
 
         if notion_id == "":
@@ -39,17 +40,12 @@ def add_storage():
             print(f"Allocating Notion Inventory ID {notion_id}")
 
         notion_record = get_notion_record(notion_id)
-        label = notion_record.get('properties', {}).get('Name', {}).get('title', [])[0].get('plain_text', '')
-        label_input = input(f"Enter Label: ({label}) ")
-        if label_input != "":
-            label = label_input
-        
+       
         update_fields = {
             "$set": {
                 "notion_id": notion_id,
                 "type": "storage",
                 "class": "inventory",
-                "label": label,
                 "last_updated": datetime.now(),
                 "allocated": True
             }
@@ -57,21 +53,34 @@ def add_storage():
         #  Conditionally add fields if they exist
         if shcn is not None:
             update_fields["$set"]["shcn"] = shcn
+            default_label = f"SHCN {shcn}"
         if shelf is not None:
             update_fields["$set"]["shelf"] = shelf
+            default_label = f"shelf {shelf}"
         if bay is not None:
             update_fields["$set"]["bay"] = bay
+            default_label = f"bay {bay}"
         if container is not None:
             update_fields["$set"]["container"] = container
+            default_label = f"container {container}"
         if slot is not None:
             update_fields["$set"]["slot"] = slot
+            default_label = f"slot {slot}"
         
+        notion_label = notion_record.get('properties', {}).get('Name', {}).get('title', [])[0].get('plain_text', '')
+        if notion_label is "allocated_by_mungo":
+            label = default_label
+        label_input = input(f"Enter Label: ({default_label}) ")
+        if label_input != "":
+            label = label_input
+            update_fields["$set"]["label"] = label
+
         client = pymongo.MongoClient("mungo.local:27017")
         db = client["go"]
         collection = db["link"]
         collection.update_one({"_id": selected_record["_id"]}, update_fields)
         link_notion_inventory(notion_id, mungo_id, shcn, label)
-        print("Record updated successfully.")
+        print("Mungo Record updated successfully.")
 
         confirmation_query = {"_id": selected_record["_id"]}
         confirmation_record = collection.find_one(confirmation_query)

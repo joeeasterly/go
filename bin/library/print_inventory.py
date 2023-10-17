@@ -22,7 +22,8 @@ def print_inventory(record_dict):
         last_updated = last_updated.strftime("%Y-%m-%d %H:%M")
     else:
         last_updated = ''
-    # clear()
+    clear()
+    print("#" * 50)
     print("Inventory Record: " + label)
     len_location = len("SHCN: " + location)
     len_notion = len("Notion : " + notion_id)
@@ -45,6 +46,8 @@ def print_inventory(record_dict):
     id_str = f"Mungo ID: {identifier}"
     class_type_id = class_str + " " * space_between_class_type + type_str + " " * space_between_type_id + id_str
     print(class_type_id)
+    print("#" * 50)
+    print()
 
 # Run the update_record function if this script is run directly
 # if __name__ == "__main__":

@@ -69,7 +69,7 @@ def link_notion_inventory(notion_id, mungo_id, shcn, mungo_label):
                 json=update_data
             )
             if update_response.status_code == 200:
-                return "Notion record updated successfully."
+                return "Notion record updated successfully: https://notion.so/inv-" + notion_id
             else:
                 return "Failed to update Notion record."
         else:
