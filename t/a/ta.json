@@ -5196,8 +5196,17 @@
         "identifier": "tana",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tana"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tana",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 41109",
+        "last_updated": "2023-10-17 20:31:31.266000",
+        "notion_id": "491",
+        "shcn": "41109",
+        "shelf": "41",
+        "slot": "41109",
+        "type": "storage"
     },
     {
         "_id": "64f11bbf497c306947340ff7",
@@ -5252,8 +5261,17 @@
         "identifier": "tanh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tanh"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tanh",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 41103",
+        "last_updated": "2023-10-17 19:29:05.828000",
+        "notion_id": "483",
+        "shcn": "41103",
+        "shelf": "41",
+        "slot": "41103",
+        "type": "storage"
     },
     {
         "_id": "64f11bbf497c306947340ffe",
@@ -5308,8 +5326,17 @@
         "identifier": "tanr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tanr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tanr",
+        "bay": "411",
+        "container": "4113",
+        "label": "slot 41138",
+        "last_updated": "2023-10-17 19:21:00.840000",
+        "notion_id": "481",
+        "shcn": "41138",
+        "shelf": "41",
+        "slot": "41138",
+        "type": "storage"
     },
     {
         "_id": "64f11bbf497c306947341005",
@@ -5372,7 +5399,7 @@
         "identifier": "tanz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/tanz",
         "bay": "411",
         "container": "4112",
@@ -5563,8 +5590,17 @@
         "identifier": "tapq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tapq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tapq",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 4110E",
+        "last_updated": "2023-10-17 20:43:24.393000",
+        "notion_id": "496",
+        "shcn": "4110E",
+        "shelf": "41",
+        "slot": "4110E",
+        "type": "storage"
     },
     {
         "_id": "64f11bbf497c306947341024",
@@ -5619,8 +5655,17 @@
         "identifier": "tapx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tapx"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tapx",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 4110C",
+        "last_updated": "2023-10-17 20:39:15.143000",
+        "notion_id": "494",
+        "shcn": "4110C",
+        "shelf": "41",
+        "slot": "4110C",
+        "type": "storage"
     },
     {
         "_id": "64f11bbf497c30694734102b",
