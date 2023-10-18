@@ -4572,8 +4572,17 @@
         "identifier": "v3jv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v3jv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v3jv",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 41104",
+        "last_updated": "2023-10-17 19:27:14.206000",
+        "notion_id": "482",
+        "shcn": "41104",
+        "shelf": "41",
+        "slot": "41104",
+        "type": "storage"
     },
     {
         "_id": "64f11bc4497c30694734f3a9",
@@ -4628,8 +4637,17 @@
         "identifier": "v3k3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v3k3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v3k3",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 41108",
+        "last_updated": "2023-10-17 20:30:07.087000",
+        "notion_id": "490",
+        "shcn": "41108",
+        "shelf": "41",
+        "slot": "41108",
+        "type": "storage"
     },
     {
         "_id": "64f11bc4497c30694734f3b0",
@@ -4684,8 +4702,17 @@
         "identifier": "v3ka",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v3ka"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v3ka",
+        "bay": "411",
+        "container": "4110",
+        "last_updated": "2023-10-17 20:14:43.031000",
+        "notion_id": "487",
+        "shcn": "41102",
+        "shelf": "41",
+        "slot": "41102",
+        "type": "storage",
+        "label": "slot 41102"
     },
     {
         "_id": "64f11bc4497c30694734f3b7",
@@ -4932,8 +4959,17 @@
         "identifier": "v3m9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v3m9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v3m9",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 4110D",
+        "last_updated": "2023-10-17 20:40:59.587000",
+        "notion_id": "495",
+        "shcn": "4110D",
+        "shelf": "41",
+        "slot": "4110D",
+        "type": "storage"
     },
     {
         "_id": "64f11bc4497c30694734f3d6",
@@ -4988,8 +5024,17 @@
         "identifier": "v3mg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v3mg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v3mg",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 4110B",
+        "last_updated": "2023-10-17 20:36:44.813000",
+        "notion_id": "493",
+        "shcn": "4110B",
+        "shelf": "41",
+        "slot": "4110B",
+        "type": "storage"
     },
     {
         "_id": "64f11bc4497c30694734f3dd",
@@ -8068,8 +8113,12 @@
         "identifier": "v3zh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v3zh"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v3zh",
+        "label": "2in #12 phillips machine screws",
+        "last_updated": "2023-10-09 13:10:27.511000",
+        "notion_id": "427",
+        "shelf": "4021"
     },
     {
         "_id": "64f11bc4497c30694734f55e",
