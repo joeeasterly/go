@@ -67,13 +67,11 @@ def add_storage():
             update_fields["$set"]["slot"] = slot
             default_label = f"slot {slot}"
         
-        notion_label = notion_record.get('properties', {}).get('Name', {}).get('title', [])[0].get('plain_text', '')
-        if notion_label is "allocated_by_mungo":
-            label = default_label
+        label = default_label
         label_input = input(f"Enter Label: ({default_label}) ")
         if label_input != "":
             label = label_input
-            update_fields["$set"]["label"] = label
+        update_fields["$set"]["label"] = label
 
         client = pymongo.MongoClient("mungo.local:27017")
         db = client["go"]

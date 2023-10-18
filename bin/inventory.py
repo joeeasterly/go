@@ -7,6 +7,7 @@ from update_record import update_record
 from update_consumable import update_consumable
 from storage import add_storage
 from delete_record import delete_record
+from reshelve import reshelve_record
 #
 #
 # Show the main menu
@@ -25,8 +26,8 @@ def main():
 #          Inventory Management System           #
 ##################################################
       1) Create  2) Search 3) Update Item      
-      4) Storage 5) Delete
-      6) Update Github 7) Exit
+      4) Storage 5) Delete 6) Reshelve Items
+      7) Update Github 0) Exit
 ''')
     while True:
         choice = input('Select an option: ')
@@ -42,8 +43,10 @@ def main():
         elif choice == '5':
             delete_record()
         elif choice == '6':
-            os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/update_github.py")  # Execute the update_github.py script
+            reshelve_record()
         elif choice == '7':
+            os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/update_github.py")  # Execute the update_github.py script
+        elif choice == '0':
             print('Goodbye!')
             break
         else:

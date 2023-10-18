@@ -8,11 +8,12 @@ from library.get_record_by_identifier import get_record_by_identifier
 from library.update_record_by_identifier import update_record_by_identifier
 from library.allocate_notion_id import allocate_notion_id
 from library.get_notion_record import get_notion_record
+from library.parse_notion_input import parse_notion_input
 from library.input_shcn import input_shcn
 
 def update_record():
+    # Locate the record in mungo to update
     print("Update Record:")
-    
     qrcode = parse_qrcode_input()
     
     selected_record = get_record_by_identifier(qrcode)
@@ -20,15 +21,15 @@ def update_record():
     if selected_record:
         print_inventory(selected_record)
         mungo_id = selected_record['identifier']
-        notion_id = input(f"Enter Notion ID (INV-) [{selected_record.get('notion_id')}]: ")
-        if notion_id == "":
-            notion_id = allocate_notion_id()
-            print(f"Allocating Notion Inventory ID {notion_id}")
-            time.sleep(1) # Play nice with the Notion API
+        mungo_notion = selected_record.get('notion_id')
 
-        # notion_record = get_notion_record(notion_id)
-        # notion_label = notion_record.get('properties', {}).get('Name', {}).get('title', [])[0].get('plain_text', '')
+        # Create, review, or update the link the record to Notion.
+        notion_id = parse_notion_input(mungo_notion)
+        
+        # Get the shelving location for the item, and parse out the specifics.
         shcn, shelf, bay, container, slot, analysis = input_shcn()
+
+        # Create, review, or update the label for the item.
         mungo_label = selected_record.get('label')
         if mungo_label is None:
             input_label_display = ""
