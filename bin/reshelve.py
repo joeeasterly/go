@@ -15,6 +15,8 @@ def reshelve_record():
     shcn, shelf, bay, container, slot, analysis = input_shcn()
     while True:
         mungo_id = parse_qrcode_input()
+        if mungo_id == "exit_loop":
+            break
         # Construct the update_fields dictionary
         update_fields = {
             "$set": {

@@ -22,13 +22,7 @@ def update_record_by_identifier(update_fields):
     """
     
     # Extract the identifier from the update_fields dictionary
-    print("this is what was passed to update_record_by_identifier:")
-    pprint(update_fields)
-    print()
     identifier = update_fields.get('$set', {}).get('identifier', None)
-    print("this is the identifier:")
-    pprint(identifier)
-    print()
     if identifier is None:
         raise ValueError("identifier is required in update_fields.")
 

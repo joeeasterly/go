@@ -6,6 +6,8 @@ def print_inventory(record_dict):
     identifier = record_dict.get('identifier', '')
     allocated = record_dict.get('allocated')
     notion_id = record_dict.get('notion_id', '')
+    if notion_id is None:
+        notion_id = "None"
     bay = record_dict.get('bay', '')
     container = record_dict.get('container', '')
     shelf = record_dict.get('shelf', '')
@@ -22,7 +24,6 @@ def print_inventory(record_dict):
         last_updated = last_updated.strftime("%Y-%m-%d %H:%M")
     else:
         last_updated = ''
-    clear()
     print("#" * 50)
     print("Inventory Record: " + label)
     len_location = len("SHCN: " + location)

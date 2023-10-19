@@ -12,7 +12,7 @@ def search_records():
 
     if existing_record:
         print_inventory(existing_record)
-        print("Press J to view full JSON. Press any other key to continue.")
+        print("Press J to view JSON, or any other key to return.")
         # After your print statements
         key_input = get_key_press()  # Convert to lowercase to ensure both 'J' and 'j' are captured.
         if key_input == 'j':

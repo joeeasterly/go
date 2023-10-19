@@ -17,19 +17,26 @@ logo = '''
   / /|_/ / / / /  |/ / / __/ / / /
  / /  / / /_/ / /|  / /_/ / /_/ /
 /_/  /_/\____/_/ |_/\____/\____/
-'''
-def main():
-    os.system('clear')  # Clear the screen first.
-    print(logo)
-    print('''
+
 ##################################################
 #          Inventory Management System           #
 ##################################################
-      1) Create  2) Search 3) Update Item      
-      4) Storage 5) Delete 6) Reshelve Items
-      7) Update Github 0) Exit
-''')
+'''
+menu = '''
+    1) Create  2) Search 3) Update Item      
+    4) Storage 5) Delete 6) Reshelve Items
+    7) Update Github 0) Exit'''
+
+def main():
+    os.system('clear')  # Clear the screen first.
+    on_launch = True
     while True:
+        if on_launch:
+            print(logo + menu)
+            on_launch = False
+        else:
+            print(menu)
+        print()
         choice = input('Select an option: ')
 
         if choice == '1':
