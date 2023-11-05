@@ -2460,8 +2460,16 @@
         "identifier": "7wam",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7wam"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7wam",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "Eyoyo 2D Barcode Scanner EY-039",
+        "last_updated": "2023-11-05 13:12:53.787000",
+        "notion_id": "596",
+        "shcn": "1010",
+        "shelf": "10"
     },
     {
         "_id": "64f11b8d497c3069472adaa1",
@@ -6100,8 +6108,12 @@
         "identifier": "7wru",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7wru"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7wru",
+        "label": "1 1/2in x 1/4 plaster anchors",
+        "last_updated": "2023-10-05 18:45:11.480000",
+        "notion_id": "404",
+        "shelf": "411"
     },
     {
         "_id": "64f11b8d497c3069472adc68",
