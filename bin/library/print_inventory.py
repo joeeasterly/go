@@ -44,7 +44,7 @@ def print_inventory(record_dict):
     space_between_type_id = remaining_space - space_between_class_type
     class_str = f"Class: {inv_class}"
     type_str = f"Type: {inv_type}"
-    id_str = f"Mungo ID: {identifier}"
+    id_str = f"Mungo ID: {identifier.upper()}"
     class_type_id = class_str + " " * space_between_class_type + type_str + " " * space_between_type_id + id_str
     print(class_type_id)
     print("#" * 50)
