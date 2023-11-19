@@ -1,8 +1,8 @@
 import pymongo
 from pprint import pprint
 from datetime import datetime
+from library.connect_mungo import connect_mungo
 from library.input_shcn import input_shcn
-from library.prevent_collision import prevent_collision
 from library.parse_qrcode_input import parse_qrcode_input
 from library.allocate_identifier import allocate_identifier
 from library.get_record_by_identifier import get_record_by_identifier
@@ -17,7 +17,6 @@ def add_storage():
     shcn, shelf, bay, container, slot, analysis = input_shcn()
     print(analysis)
 
-    prevent_collision(shcn)
     mungo_id = parse_qrcode_input()
     
     if mungo_id == "":
@@ -73,9 +72,7 @@ def add_storage():
             label = label_input
         update_fields["$set"]["label"] = label
 
-        client = pymongo.MongoClient("mungo.local:27017")
-        db = client["go"]
-        collection = db["link"]
+        collection = connect_mungo()
         collection.update_one({"_id": selected_record["_id"]}, update_fields)
         link_notion_inventory(notion_id, mungo_id, shcn, label)
         print("Mungo Record updated successfully.")

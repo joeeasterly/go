@@ -3,6 +3,7 @@ from pprint import pprint
 from datetime import datetime
 from library.link_notion_inventory import link_notion_inventory  # Import the function
 from library.print_inventory import print_inventory
+from library.connect_mungo import connect_mungo
 
 def update_consumable():
     # This code basically needs to be redone.
@@ -10,9 +11,7 @@ def update_consumable():
     print("Update Consumable:")
     identifier = input("Enter Identifier (QR Code): ")
     
-    client = pymongo.MongoClient("mungo.local:27017")
-    db = client["go"]
-    collection = db["link"]
+    collection = connect_mungo()
     
     filter_criteria = {"identifier": identifier}
     existing_record = collection.find_one(filter_criteria)

@@ -1,12 +1,11 @@
 import pymongo
+from library.connect_mungo import connect_mungo
 def prevent_collision(shcn):
     # make sure that the SHCN is not already an allocated mungo id
     shcn = shcn.replace("https://joeeasterly.github.io/go/", "")
     shcn_length = len(shcn)
     if shcn_length == 4:
-        client = pymongo.MongoClient("mungo.local:27017")
-        db = client["go"]
-        collection = db["link"]
+        collection = connect_mungo()
         filter_criteria = {"identifier": shcn}
         existing_record = collection.find_one(filter_criteria)
         if existing_record:

@@ -1,10 +1,9 @@
 import pymongo
+from library.connect_mungo import connect_mungo
 
 def allocate_identifier():
 # Connect to mongodb
-    client = pymongo.MongoClient("mungo.local:27017")
-    db = client["go"]
-    collection = db["link"]
+    collection = connect_mungo()
     # Allocate an identifier for a new record in mongodb
     search_criteria = {"allocated": False}
     filter_criteria = [

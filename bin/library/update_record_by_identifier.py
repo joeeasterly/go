@@ -2,9 +2,10 @@
 import sys
 import pymongo
 from pprint import pprint
+from library.connect_mungo import connect_mungo
 def update_record_by_identifier(update_fields):
     """
-    Update a record in mongodb://mungo.local/go/link by identifier.
+    Update a record in mongodb://mungo/go/link by identifier.
     If this script is run directly, the update_fields dictionary is passed as a command-line argument.
 
     Args:
@@ -27,9 +28,7 @@ def update_record_by_identifier(update_fields):
         raise ValueError("identifier is required in update_fields.")
 
     # Initialize MongoDB client and collection
-    client = pymongo.MongoClient("mungo.local:27017")
-    db = client["go"]
-    collection = db["link"]
+    collection = connect_mungo()
 
     # Fetch the record by identifier
     filter_criteria = {"identifier": identifier}

@@ -5,6 +5,7 @@ import json
 import os
 from bson import ObjectId
 from datetime import datetime
+from library.connect_mungo import connect_mungo
 
 # Custom JSON encoder to handle serialization of ObjectId and datetime objects
 class CustomJSONEncoder(json.JSONEncoder):
@@ -21,9 +22,7 @@ commit_date = commit_date_output.decode("utf-8").strip()
 commit_date_datetime = datetime.strptime(commit_date, "%Y-%m-%d %H:%M:%S")
 
 # Step 2: Connect to MongoDB
-client = pymongo.MongoClient("mungo.local:27017")
-db = client["go"]
-collection = db["link"]
+collection = connect_mungo()
 
 # Step 3 and 4: Compare dates and group documents
 updated_identifiers = set()

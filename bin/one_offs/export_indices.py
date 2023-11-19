@@ -2,6 +2,7 @@
 from pymongo import MongoClient
 from bson import ObjectId
 import json
+from library.connect_mungo import connect_mungo
 
 # Function to handle ObjectId serialization
 def handle_objectid(obj):
@@ -10,9 +11,7 @@ def handle_objectid(obj):
     raise TypeError("Object of type 'ObjectId' is not JSON serializable")
 
 # Initialize MongoDB client and connect to the database
-client = MongoClient('mungo.local')
-db = client['go']
-collection = db['link']
+collection = connect_mungo()
 
 # Your array of prefixes
 prefixes = [

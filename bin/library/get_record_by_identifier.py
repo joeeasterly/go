@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 import sys
 import pymongo
+from library.connect_mungo import connect_mungo
 def get_record_by_identifier(mungo_id):
     """
-    Retrieve a record in mongodb://mungo.local/go/link by identifier.
+    Retrieve a record in mongodb://mungo/go/link by identifier.
     If this script is run directly, mungo_id is passed as a command-line argument.
 
     Args:
@@ -20,9 +21,7 @@ def get_record_by_identifier(mungo_id):
         pymongo
         sys
     """
-    client = pymongo.MongoClient("mungo.local:27017")
-    db = client["go"]
-    collection = db["link"]
+    collection = connect_mungo()
     filter_criteria = {"identifier": mungo_id}
     new_record = collection.find_one(filter_criteria)
     if not new_record:
@@ -30,7 +29,8 @@ def get_record_by_identifier(mungo_id):
     return new_record
 
 if __name__ == "__main__":
-    mungo_id = sys.argv[1]
+    # mungo_id = sys.argv[1]
+    mungo_id = "af8f"
     if mungo_id == "":
         raise ValueError("mungo id is required.")
     print(get_record_by_identifier(mungo_id))

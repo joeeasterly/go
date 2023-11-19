@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 import pymongo
+from library.connect_mungo import connect_mungo
 
 # MongoDB connection settings
-client = pymongo.MongoClient("mungo.local:27017")  # Update connection URL as needed
-database = client["go"]
-collection = database["link"]
+collection = connect_mungo()
 
 # Update documents in the collection
 def update_documents():

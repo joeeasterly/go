@@ -1,6 +1,7 @@
 from pymongo import MongoClient
 from datetime import datetime
 import csv
+from library.connect_mungo import connect_mungo
 
 try:
     # Get the number of records to allocate from user input and validate
@@ -12,9 +13,7 @@ except ValueError:
     size = 1
 
 # Connect to MongoDB
-client = MongoClient("mongodb://mungo.local:27017/")
-db = client["go"]
-collection = db["link"]
+collection = connect_mungo()
 
 # Define the aggregation pipeline
 pipeline = [

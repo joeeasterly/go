@@ -1,11 +1,10 @@
 from pymongo import MongoClient
 import csv
 import bson
+from library.connect_mungo import connect_mungo
 
 # MongoDB Connection
-client = MongoClient("mongodb://mungo.local:27017/")
-db = client['go']
-collection = db['link']
+collection = connect_mungo()
 
 # Excluded fields from update
 excluded_fields = ["some_field1", "some_field2"]
