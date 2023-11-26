@@ -172,8 +172,20 @@
         "identifier": "4w1p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4w1p"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4w1p",
+        "label": "test",
+        "last_updated": "2023-10-18 15:34:04.199000",
+        "notion_id": null,
+        "shcn": [
+            "10",
+            "10",
+            null,
+            null,
+            null,
+            "Shelf: 10"
+        ],
+        "type": "item"
     },
     {
         "_id": "64f11b86497c306947295983",
@@ -2308,8 +2320,15 @@
         "identifier": "4wa1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4wa1"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4wa1",
+        "bay": "591",
+        "label": "spice drawer",
+        "last_updated": "2023-11-25 21:01:57.359000",
+        "notion_id": "633",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "storage"
     },
     {
         "_id": "64f11b86497c306947295a8e",
@@ -6933,7 +6952,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4wv3"
+        "permalink": "https://joeeasterly.github.io/go/4wv3",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11b86497c306947295cd0",
