@@ -3693,7 +3693,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/s1fe"
+        "permalink": "https://joeeasterly.github.io/go/s1fe",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11bbb497c306947336b3b",
@@ -5332,8 +5333,17 @@
         "identifier": "s1nu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/s1nu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/s1nu",
+        "staged": "2023-10-23 14:22:43",
+        "label": "sandisk 32gb microsd card",
+        "last_updated": "2023-10-24T14:41:15.026000",
+        "notion_id": "557",
+        "bay": "412",
+        "container": "4122",
+        "shcn": "4122A",
+        "shelf": "41",
+        "slot": "4122A"
     },
     {
         "_id": "64f11bbb497c306947336c08",

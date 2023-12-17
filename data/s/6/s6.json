@@ -2316,8 +2316,16 @@
         "identifier": "s6a2",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/s6a2"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/s6a2",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "BENQ treVolo USB-A to USB-C power cable",
+        "last_updated": "2023-10-28T17:12:41.823000",
+        "notion_id": "571",
+        "shcn": "1010",
+        "shelf": "10"
     },
     {
         "_id": "64f11bbc497c306947337e8f",

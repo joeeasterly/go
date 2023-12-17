@@ -2964,8 +2964,15 @@
         "identifier": "83ck",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/83ck"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/83ck",
+        "bay": "510",
+        "label": "cocktail glasses",
+        "last_updated": "2023-11-25T19:16:36.801000",
+        "notion_id": "619",
+        "shcn": "510",
+        "shelf": "51",
+        "type": "storage"
     },
     {
         "_id": "64f11b8e497c3069472af2e0",
@@ -4125,7 +4132,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/83h4"
+        "permalink": "https://joeeasterly.github.io/go/83h4",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11b8e497c3069472af371",

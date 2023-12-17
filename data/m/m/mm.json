@@ -5252,8 +5252,16 @@
         "identifier": "mmnh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mmnh"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mmnh",
+        "bay": "411",
+        "container": "4110",
+        "label": "3/4in #6 phillips screws",
+        "last_updated": "2023-10-18T14:25:12.297000",
+        "notion_id": null,
+        "shelf": "41",
+        "slot": "4110A",
+        "shcn": "4110A"
     },
     {
         "_id": "64f11baf497c3069473137fe",
@@ -7628,8 +7636,12 @@
         "identifier": "mmxt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mmxt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mmxt",
+        "label": "1/4in zinc ext tooth lock washers",
+        "last_updated": "2023-10-08T21:37:08.924000",
+        "notion_id": "424",
+        "shelf": "4021"
     },
     {
         "_id": "64f11baf497c306947313927",

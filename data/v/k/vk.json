@@ -5748,8 +5748,12 @@
         "identifier": "vkqf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vkqf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vkqf",
+        "label": "zinc 1/4 in AAB hex nuts",
+        "last_updated": "2023-10-05T18:03:39.853000",
+        "notion_id": "396",
+        "shelf": "411"
     },
     {
         "_id": "64f11bc5497c30694735343c",

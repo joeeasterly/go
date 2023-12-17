@@ -6596,8 +6596,12 @@
         "identifier": "njts",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/njts"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/njts",
+        "label": "JBL Reflect Mini Bluetooth Earbuds",
+        "last_updated": "2023-10-08T21:33:05.013000",
+        "notion_id": "423",
+        "shelf": "4021"
     },
     {
         "_id": "64f11bb2497c30694731b0a6",

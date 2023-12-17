@@ -7892,8 +7892,16 @@
         "identifier": "zzyu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/zzyu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/zzyu",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "403",
+        "container": "4030",
+        "label": "4ft usb-a to usb-micro cable",
+        "last_updated": "2023-10-25T09:34:59.426000",
+        "notion_id": "555",
+        "shcn": "4030",
+        "shelf": "40"
     },
     {
         "_id": "64f11bd0497c306947376948",

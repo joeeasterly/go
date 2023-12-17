@@ -1492,8 +1492,15 @@
         "identifier": "j86u",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/j86u"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/j86u",
+        "bay": "513",
+        "label": "dog dishes, straws",
+        "last_updated": "2023-11-25T19:20:08.617000",
+        "notion_id": "622",
+        "shcn": "513",
+        "shelf": "51",
+        "type": "storage"
     },
     {
         "_id": "64f11ba9497c306947300628",

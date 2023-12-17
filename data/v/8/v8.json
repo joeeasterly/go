@@ -6876,8 +6876,12 @@
         "identifier": "v8uv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v8uv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v8uv",
+        "label": "1 1/5in #10 plaster screws",
+        "last_updated": "2023-10-05T18:22:37.524000",
+        "notion_id": "399",
+        "shelf": "411"
     },
     {
         "_id": "64f11bc4497c3069473508c9",

@@ -3261,7 +3261,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mfdr"
+        "permalink": "https://joeeasterly.github.io/go/mfdr",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11baf497c306947312305",
@@ -7708,8 +7709,12 @@
         "identifier": "mfy4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mfy4"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mfy4",
+        "label": "1 1/4in #12 washers",
+        "last_updated": "2023-10-09T13:06:13.978000",
+        "notion_id": "426",
+        "shelf": "4021"
     },
     {
         "_id": "64f11baf497c306947312531",

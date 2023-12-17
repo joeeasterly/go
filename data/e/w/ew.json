@@ -415,7 +415,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ew2m",
         "label": "zinc #8 SAE nuts",
-        "last_updated": "2023-10-05 17:03:47.094000",
+        "last_updated": "2023-10-05T17:03:47.094000",
         "notion_id": "389",
         "shelf": "411"
     },
@@ -5656,8 +5656,12 @@
         "identifier": "ewq3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ewq3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ewq3",
+        "label": "12in usb-c to right-angle usb-c cable",
+        "last_updated": "2023-10-08T21:30:03.150000",
+        "notion_id": "422",
+        "shelf": "4021"
     },
     {
         "_id": "64f11ba0497c3069472e5c30",

@@ -1772,8 +1772,15 @@
         "identifier": "b97x",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/b97x"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/b97x",
+        "bay": "5A1",
+        "label": "fasta pasta",
+        "last_updated": "2023-11-26T17:46:25.181000",
+        "notion_id": "655",
+        "shcn": "5A1",
+        "shelf": "5A",
+        "type": "storage"
     },
     {
         "_id": "64f11b97497c3069472c8a4b",
@@ -7644,8 +7651,16 @@
         "identifier": "b9xv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/b9xv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/b9xv",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "403",
+        "container": "4031",
+        "label": "6in female hdmi to male displayport adapter cable",
+        "last_updated": "2023-10-25T09:37:19.358000",
+        "notion_id": "546",
+        "shcn": "4031",
+        "shelf": "40"
     },
     {
         "_id": "64f11b97497c3069472c8d29",

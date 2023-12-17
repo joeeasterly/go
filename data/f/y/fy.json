@@ -2820,8 +2820,15 @@
         "identifier": "fyc1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fyc1"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fyc1",
+        "bay": "5B3",
+        "label": "cast iron pans",
+        "last_updated": "2023-11-26T17:52:17.953000",
+        "notion_id": "661",
+        "shcn": "5B3",
+        "shelf": "5B",
+        "type": "storage"
     },
     {
         "_id": "64f11ba3497c3069472ee2ce",

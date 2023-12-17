@@ -460,8 +460,14 @@
         "identifier": "452t",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/452t"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/452t",
+        "label": "dishware",
+        "last_updated": "2023-11-25T20:40:19.026000",
+        "notion_id": "609",
+        "shcn": "5A",
+        "shelf": "5A",
+        "type": "storage"
     },
     {
         "_id": "64f11b83497c30694728f9a7",

@@ -5740,8 +5740,15 @@
         "identifier": "qvqe",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qvqe"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qvqe",
+        "bay": "520",
+        "label": "kitchen desk surface",
+        "last_updated": "2023-11-25T19:22:04.758000",
+        "notion_id": "623",
+        "shcn": "520",
+        "shelf": "52",
+        "type": "storage"
     },
     {
         "_id": "64f11bb8497c30694732d83b",
@@ -5893,7 +5900,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qvr1"
+        "permalink": "https://joeeasterly.github.io/go/qvr1",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11bb8497c30694732d84e",

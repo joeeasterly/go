@@ -6308,8 +6308,14 @@
         "identifier": "fcsn",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fcsn"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fcsn",
+        "label": "flatware, utensils, rags",
+        "last_updated": "2023-11-25T20:43:51.608000",
+        "notion_id": "612",
+        "shcn": "5D",
+        "shelf": "5D",
+        "type": "storage"
     },
     {
         "_id": "64f11ba1497c3069472e9882",

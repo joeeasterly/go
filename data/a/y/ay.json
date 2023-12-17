@@ -604,8 +604,15 @@
         "identifier": "ay3c",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ay3c"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ay3c",
+        "bay": "5B2",
+        "label": "stainless steel pans",
+        "last_updated": "2023-11-26T17:51:38.108000",
+        "notion_id": "660",
+        "shcn": "5B2",
+        "shelf": "5B",
+        "type": "storage"
     },
     {
         "_id": "64f11b96497c3069472c61b9",

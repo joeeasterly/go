@@ -3092,8 +3092,15 @@
         "identifier": "aad3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/aad3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/aad3",
+        "bay": "512",
+        "label": "glassware and travel cups",
+        "last_updated": "2023-11-25T19:19:01.512000",
+        "notion_id": "621",
+        "shcn": "512",
+        "shelf": "51",
+        "type": "storage"
     },
     {
         "_id": "64f11b94497c3069472c0ef0",

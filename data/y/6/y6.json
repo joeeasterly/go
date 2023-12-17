@@ -1396,8 +1396,15 @@
         "identifier": "y66f",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/y66f"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/y66f",
+        "bay": "540",
+        "label": "coffee-making accessories",
+        "last_updated": "2023-11-25T19:29:08.100000",
+        "notion_id": "629",
+        "shcn": "540",
+        "shelf": "54",
+        "type": "storage"
     },
     {
         "_id": "64f11bcc497c306947367e1c",

@@ -7308,8 +7308,16 @@
         "identifier": "k2wj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/k2wj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/k2wj",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "403",
+        "container": "4031",
+        "label": "Amazon Basics Digital Audio Coaxial Cable - 4 Feett",
+        "last_updated": "2023-10-27T18:19:25.155000",
+        "notion_id": "566",
+        "shcn": "4031",
+        "shelf": "40"
     },
     {
         "_id": "64f11bab497c3069473070ff",
@@ -7597,7 +7605,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/k2xp"
+        "permalink": "https://joeeasterly.github.io/go/k2xp",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11bab497c306947307123",

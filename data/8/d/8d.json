@@ -6684,8 +6684,16 @@
         "identifier": "8du4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8du4"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8du4",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "403",
+        "container": "4030",
+        "label": "dji 6in usb-c to lightning cable",
+        "last_updated": "2023-10-25T09:36:56.985000",
+        "notion_id": "551",
+        "shcn": "4030",
+        "shelf": "40"
     },
     {
         "_id": "64f11b8e497c3069472b1cb1",

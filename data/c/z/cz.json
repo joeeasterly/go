@@ -260,8 +260,16 @@
         "identifier": "cz21",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/cz21"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/cz21",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "Roku Remote - Entertainment Room",
+        "last_updated": "2023-11-03T12:21:33.037000",
+        "notion_id": "573",
+        "shcn": "1010",
+        "shelf": "10"
     },
     {
         "_id": "64f11b9b497c3069472d658e",

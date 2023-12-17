@@ -188,8 +188,16 @@
         "identifier": "xd1r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xd1r"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xd1r",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "403",
+        "container": "4030",
+        "label": "cricut 8ft usb-a to usb-b cable",
+        "last_updated": "2023-10-25T09:34:32.804000",
+        "notion_id": "560",
+        "shcn": "4030",
+        "shelf": "40"
     },
     {
         "_id": "64f11bca497c306947361985",
@@ -4660,8 +4668,17 @@
         "identifier": "xdk7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xdk7"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xdk7",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "412",
+        "container": "4122",
+        "label": "female usb-micro to male usb-c adapter",
+        "last_updated": "2023-10-24T13:58:37.240000",
+        "notion_id": "550",
+        "shcn": "4122A",
+        "shelf": "41",
+        "slot": "4122A"
     },
     {
         "_id": "64f11bca497c306947361bb4",

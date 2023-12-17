@@ -6852,8 +6852,15 @@
         "identifier": "28us",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/28us"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/28us",
+        "bay": "502",
+        "label": "assorted snacks and candy",
+        "last_updated": "2023-11-25T18:35:59.294000",
+        "notion_id": "616",
+        "shcn": "502",
+        "shelf": "50",
+        "type": "storage"
     },
     {
         "_id": "64f11b7e497c3069472808c6",

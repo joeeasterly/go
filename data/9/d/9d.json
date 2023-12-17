@@ -3580,8 +3580,15 @@
         "identifier": "9dez",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9dez"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9dez",
+        "bay": "530",
+        "label": "unused, hard to reach",
+        "last_updated": "2023-11-25T19:26:11.546000",
+        "notion_id": "627",
+        "shcn": "530",
+        "shelf": "53",
+        "type": "storage"
     },
     {
         "_id": "64f11b92497c3069472b9b2d",

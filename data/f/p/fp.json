@@ -332,8 +332,14 @@
         "identifier": "fp2a",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fp2a"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fp2a",
+        "label": "dymo letratag manual labeler",
+        "last_updated": "2023-10-18T19:37:31.945000",
+        "notion_id": "428",
+        "shelf": "41",
+        "bay": "414",
+        "shcn": "414"
     },
     {
         "_id": "64f11ba2497c3069472ebd97",
@@ -6973,7 +6979,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fpv8"
+        "permalink": "https://joeeasterly.github.io/go/fpv8",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11ba2497c3069472ec0d5",

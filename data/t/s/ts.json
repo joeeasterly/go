@@ -1925,7 +1925,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ts8h"
+        "permalink": "https://joeeasterly.github.io/go/ts8h",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11bc0497c306947344a5e",
@@ -7396,8 +7397,15 @@
         "identifier": "tsww",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tsww"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tsww",
+        "bay": "5A2",
+        "label": "liquid measure, dinner bowls",
+        "last_updated": "2023-11-26T17:47:30.336000",
+        "notion_id": "656",
+        "shcn": "5A2",
+        "shelf": "5A",
+        "type": "storage"
     },
     {
         "_id": "64f11bc0497c306947344d0a",

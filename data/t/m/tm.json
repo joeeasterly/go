@@ -8124,8 +8124,15 @@
         "identifier": "tmzr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tmzr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tmzr",
+        "bay": "562",
+        "label": "dolsot",
+        "last_updated": "2023-11-25T21:29:46.878000",
+        "notion_id": "651",
+        "shcn": "562",
+        "shelf": "56",
+        "type": "storage"
     },
     {
         "_id": "64f11bbf497c306947343965",

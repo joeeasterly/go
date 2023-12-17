@@ -3227,9 +3227,9 @@
         "_id": "64f11ba2497c3069472eaf00",
         "identifier": "fjdm",
         "target": "#",
-        "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fjdm"
+        "permalink": "https://joeeasterly.github.io/go/fjdm",
+        "last_updated": "2023-11-25T18:30:51.410000"
     },
     {
         "_id": "64f11ba2497c3069472eaf01",
@@ -3404,8 +3404,17 @@
         "identifier": "fjea",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fjea"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fjea",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "412",
+        "container": "4122",
+        "label": "usb-c microsd reader",
+        "last_updated": "2023-10-24T13:55:56.900000",
+        "notion_id": "549",
+        "shcn": "4122A",
+        "shelf": "41",
+        "slot": "4122A"
     },
     {
         "_id": "64f11ba2497c3069472eaf17",

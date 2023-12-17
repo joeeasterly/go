@@ -5556,8 +5556,20 @@
         "identifier": "vspq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vspq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vspq",
+        "label": "raspberry pi 400 usb-c power adapter",
+        "last_updated": "2023-10-18T19:50:27.064000",
+        "notion_id": "506",
+        "shcn": [
+            "412",
+            "41",
+            "412",
+            null,
+            null,
+            "Shelf: 41, Bay: 412"
+        ],
+        "type": "item"
     },
     {
         "_id": "64f11bc5497c306947354c24",
@@ -6461,7 +6473,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vst8"
+        "permalink": "https://joeeasterly.github.io/go/vst8",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11bc5497c306947354c95",

@@ -3516,8 +3516,16 @@
         "identifier": "yjer",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yjer"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yjer",
+        "bay": "470",
+        "container": "4701",
+        "label": "Nintendo Switch Pro Controller HAC-013",
+        "last_updated": "2023-11-03T14:46:04.951000",
+        "notion_id": "594",
+        "shcn": "4701",
+        "shelf": "47",
+        "type": "item"
     },
     {
         "_id": "64f11bcc497c30694736af25",

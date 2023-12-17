@@ -29,6 +29,15 @@ def update_record():
         # Get the shelving location for the item, and parse out the specifics.
         shcn, shelf, bay, container, slot, analysis = input_shcn()
 
+        # If type is not storage, set it to item.
+        mungo_type = selected_record.get('type')
+        if mungo_type is None:
+            mungo_type = "item"
+        elif mungo_type == "storage":
+            mungo_type = "storage"
+        else:
+            mungo_type = "item"
+
         # Create, review, or update the label for the item.
         mungo_label = selected_record.get('label')
         if mungo_label is None:
@@ -64,6 +73,8 @@ def update_record():
             update_fields["$set"]["slot"] = slot
         if notion_id is not None:
             update_fields["$set"]["notion_id"] = notion_id
+        if mungo_type is not None:
+            update_fields["$set"]["type"] = mungo_type
         
         # Update the record
         update_record_by_identifier(update_fields)

@@ -1,14 +1,22 @@
 #!/usr/bin/env python3
-from pymongo import MongoClient
+import pymongo
 from bson import ObjectId
+from datetime import datetime
 import json
-from library.connect_mungo import connect_mungo
+
+def connect_mungo():
+    client = pymongo.MongoClient("mungo:27017")
+    db = client["go"]
+    collection = db["link"]
+    return collection
 
 # Function to handle ObjectId serialization
 def handle_objectid(obj):
     if isinstance(obj, ObjectId):
         return str(obj)
-    raise TypeError("Object of type 'ObjectId' is not JSON serializable")
+    elif isinstance(obj, datetime):
+        return obj.isoformat()
+    raise TypeError("Object of type '%s' is not JSON serializable" % type(obj).__name__)
 
 # Initialize MongoDB client and connect to the database
 collection = connect_mungo()
@@ -62,6 +70,11 @@ for prefix in prefixes:
         result['_id'] = str(result['_id'])
         documents_list.append(result)
 
+
     # Export the list of documents to a JSON file
-    with open(f'{prefix}.json', 'w') as f:
+    first_char = prefix[0]
+    second_char = prefix[1]
+    file_path = f'/home/joeeasterly/Documents/GitHub/go/data/{first_char}/{second_char}/{prefix}.json'
+    with open(f'/home/joeeasterly/Documents/GitHub/go/data/{first_char}/{second_char}/{prefix}.json', 'w') as f:
         json.dump(documents_list, f, default=handle_objectid, indent=4)
+        print(f'Exported {file_path}')

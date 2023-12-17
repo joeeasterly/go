@@ -3316,8 +3316,17 @@
         "identifier": "umdy",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/umdy"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/umdy",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "412",
+        "container": "4122",
+        "label": "samsung female usb-a to male usb-c adapter",
+        "last_updated": "2023-10-24T13:49:31.875000",
+        "notion_id": "547",
+        "shcn": "4122A",
+        "shelf": "41",
+        "slot": "4122A"
     },
     {
         "_id": "64f11bc2497c30694734b70c",

@@ -3556,8 +3556,16 @@
         "identifier": "b7ew",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/b7ew"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/b7ew",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "402",
+        "container": "4020",
+        "label": "nanoleaf power unit model DSL-42WA-42 420100 s/n S20480H3477",
+        "last_updated": "2023-10-23T14:59:07.068000",
+        "notion_id": "538",
+        "shcn": "4020",
+        "shelf": "40"
     },
     {
         "_id": "64f11b97497c3069472c832a",

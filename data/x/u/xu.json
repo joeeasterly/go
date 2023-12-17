@@ -2132,8 +2132,15 @@
         "identifier": "xu9b",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xu9b"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xu9b",
+        "bay": "531",
+        "label": "cutting boards, sheet pans",
+        "last_updated": "2023-11-25T19:26:51.971000",
+        "notion_id": "628",
+        "shcn": "531",
+        "shelf": "53",
+        "type": "storage"
     },
     {
         "_id": "64f11bcb497c306947365278",

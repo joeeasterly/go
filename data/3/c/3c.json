@@ -1932,8 +1932,16 @@
         "identifier": "3c8j",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3c8j"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3c8j",
+        "label": "XBOX S Wireless Controller",
+        "last_updated": "2023-11-03T14:48:38.762000",
+        "notion_id": "595",
+        "shcn": "4701",
+        "type": "item",
+        "bay": "470",
+        "container": "4701",
+        "shelf": "47"
     },
     {
         "_id": "64f11b81497c30694728965f",

@@ -4956,8 +4956,15 @@
         "identifier": "dmmc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dmmc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/dmmc",
+        "bay": "553",
+        "label": "coffee mugs",
+        "last_updated": "2023-11-25T21:25:42.514000",
+        "notion_id": "648",
+        "shcn": "553",
+        "shelf": "55",
+        "type": "storage"
     },
     {
         "_id": "64f11b9d497c3069472db7d9",

@@ -3709,7 +3709,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ydfg"
+        "permalink": "https://joeeasterly.github.io/go/ydfg",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11bcc497c306947369b3d",
@@ -5751,9 +5752,13 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ydqf",
         "label": "female usb-c to usb-c and usb-micro y adapter",
-        "last_updated": "2023-10-08 17:03:06.654000",
+        "last_updated": "2023-10-18T14:33:25.058000",
         "notion_id": "418",
-        "shelf": "411"
+        "shelf": "41",
+        "bay": "411",
+        "container": "4110",
+        "shcn": "4110C",
+        "slot": "4110C"
     },
     {
         "_id": "64f11bcc497c306947369c3c",

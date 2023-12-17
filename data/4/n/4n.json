@@ -500,8 +500,15 @@
         "identifier": "4n2y",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4n2y"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4n2y",
+        "bay": "5D2",
+        "label": "culinary tools",
+        "last_updated": "2023-11-26T17:58:42.606000",
+        "notion_id": "667",
+        "shcn": "5D2",
+        "shelf": "5D",
+        "type": "storage"
     },
     {
         "_id": "64f11b85497c3069472939ac",

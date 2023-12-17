@@ -1492,8 +1492,15 @@
         "identifier": "gn6u",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gn6u"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gn6u",
+        "bay": "500",
+        "label": "chips and snacks",
+        "last_updated": "2023-11-25T18:34:02.531000",
+        "notion_id": "614",
+        "shcn": "500",
+        "shelf": "50",
+        "type": "storage"
     },
     {
         "_id": "64f11ba5497c3069472f3a28",
@@ -2772,8 +2779,16 @@
         "identifier": "gnbu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gnbu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gnbu",
+        "bay": "412",
+        "container": "4120",
+        "label": "39-drawer hardware organizer",
+        "last_updated": "2023-10-12T20:37:51.329000",
+        "notion_id": "438",
+        "shelf": "41",
+        "type": "storage",
+        "slot": ""
     },
     {
         "_id": "64f11ba5497c3069472f3ac8",

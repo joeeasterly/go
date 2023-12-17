@@ -388,16 +388,34 @@
         "identifier": "h52h",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h52h"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h52h",
+        "bay": "412",
+        "container": "4120",
+        "label": "slot 4120F",
+        "last_updated": "2023-10-18T14:55:28.066000",
+        "notion_id": "499",
+        "shcn": "4120F",
+        "shelf": "41",
+        "slot": "4120F",
+        "type": "storage"
     },
     {
         "_id": "64f11ba6497c3069472f799e",
         "identifier": "h52j",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h52j"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h52j",
+        "bay": "412",
+        "container": "4123",
+        "label": "slot 41234",
+        "last_updated": "2023-10-17T18:24:59.213000",
+        "notion_id": "479",
+        "shcn": "41234",
+        "shelf": "41",
+        "slot": "41234",
+        "type": "storage"
     },
     {
         "_id": "64f11ba6497c3069472f799f",
@@ -444,16 +462,34 @@
         "identifier": "h52r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h52r"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h52r",
+        "bay": "412",
+        "container": "4120",
+        "label": "slot 4120G",
+        "last_updated": "2023-10-18T14:58:06.278000",
+        "notion_id": "500",
+        "shcn": "4120G",
+        "shelf": "41",
+        "slot": "4120G",
+        "type": "storage"
     },
     {
         "_id": "64f11ba6497c3069472f79a5",
         "identifier": "h52s",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h52s"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h52s",
+        "bay": "412",
+        "container": "4123",
+        "label": "slot 41235",
+        "last_updated": "2023-10-19T16:41:41.237000",
+        "notion_id": "508",
+        "shcn": "41235",
+        "shelf": "41",
+        "slot": "41235",
+        "type": "storage"
     },
     {
         "_id": "64f11ba6497c3069472f79a6",
@@ -508,8 +544,17 @@
         "identifier": "h52z",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h52z"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h52z",
+        "bay": "412",
+        "container": "4123",
+        "label": "slot 41232",
+        "last_updated": "2023-10-17T18:23:33.811000",
+        "notion_id": "478",
+        "shcn": "41232",
+        "shelf": "41",
+        "slot": "41232",
+        "type": "storage"
     },
     {
         "_id": "64f11ba6497c3069472f79ad",
@@ -2076,8 +2121,15 @@
         "identifier": "h594",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h594"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h594",
+        "bay": "592",
+        "label": "Gracies kibble, large pots",
+        "last_updated": "2023-11-25T21:02:44.206000",
+        "notion_id": "634",
+        "shcn": "592",
+        "shelf": "59",
+        "type": "storage"
     },
     {
         "_id": "64f11ba6497c3069472f7a71",
@@ -2957,7 +3009,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h5cj"
+        "permalink": "https://joeeasterly.github.io/go/h5cj",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11ba6497c3069472f7adf",
@@ -7391,9 +7444,13 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/h5wv",
         "label": "3/4in x1/4 hex machine screws",
-        "last_updated": "2023-10-08 13:00:44.428000",
+        "last_updated": "2023-10-18T14:32:24.856000",
         "notion_id": "414",
-        "shelf": "411"
+        "shelf": "41",
+        "bay": "411",
+        "container": "4110",
+        "shcn": "4110B",
+        "slot": "4110B"
     },
     {
         "_id": "64f11ba6497c3069472f7d09",

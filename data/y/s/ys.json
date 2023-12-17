@@ -3804,8 +3804,14 @@
         "identifier": "ysfv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ysfv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ysfv",
+        "label": "KCups, Rice",
+        "last_updated": "2023-11-20T18:27:06.864000",
+        "notion_id": "606",
+        "shcn": "57",
+        "shelf": "57",
+        "type": "storage"
     },
     {
         "_id": "64f11bcd497c30694736cb49",

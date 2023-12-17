@@ -5012,8 +5012,15 @@
         "identifier": "jamk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jamk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/jamk",
+        "label": "msi display power adapter",
+        "last_updated": "2023-10-08T21:22:37.091000",
+        "notion_id": "421",
+        "shelf": "40",
+        "bay": "402",
+        "container": "4021",
+        "slot": null
     },
     {
         "_id": "64f11ba9497c306947300fe0",

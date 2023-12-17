@@ -1700,8 +1700,20 @@
         "identifier": "bf7n",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bf7n"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bf7n",
+        "label": "5ft male hdmi to male hdmi cable",
+        "last_updated": "2023-10-23T14:52:03.462000",
+        "notion_id": "537",
+        "shcn": [
+            "4031",
+            "40",
+            "403",
+            "4031",
+            null,
+            "Shelf: 40, Bay: 403, Container: 4031"
+        ],
+        "type": "item"
     },
     {
         "_id": "64f11b97497c3069472ca242",

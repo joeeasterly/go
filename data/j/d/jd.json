@@ -1847,12 +1847,13 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/jd87",
         "label": "micro-usb y adapter",
-        "last_updated": "2023-10-08 16:59:55.165000",
+        "last_updated": "2023-10-18T14:33:36.230000",
         "notion_id": "417",
-        "shelf": "411",
-        "bay": null,
-        "container": null,
-        "slot": null
+        "shelf": "41",
+        "bay": "411",
+        "container": "4110",
+        "slot": "4110C",
+        "shcn": "4110C"
     },
     {
         "_id": "64f11ba9497c306947301a54",
@@ -2253,13 +2254,15 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/jd9s",
-        "bay": "411",
-        "container": "4113",
+        "bay": "412",
+        "container": "4123",
         "label": "9-slot shelving container",
-        "last_updated": "2023-10-13 19:06:46.746000",
+        "last_updated": "2023-10-13T19:06:46.746000",
         "notion_id": "448",
         "shelf": "41",
-        "type": "storage"
+        "type": "storage",
+        "shcn": "",
+        "slot": ""
     },
     {
         "_id": "64f11ba9497c306947301a86",

@@ -8052,8 +8052,20 @@
         "identifier": "u6zf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/u6zf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/u6zf",
+        "label": "Apple female usb-a to male usb-c adapter",
+        "last_updated": "2023-10-22T18:31:36.986000",
+        "notion_id": "535",
+        "shcn": [
+            "4030",
+            "40",
+            "403",
+            "4030",
+            null,
+            "Shelf: 40, Bay: 403, Container: 4030"
+        ],
+        "type": "item"
     },
     {
         "_id": "64f11bc1497c30694734815c",

@@ -1780,8 +1780,16 @@
         "identifier": "b47y",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/b47y"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/b47y",
+        "label": "self-drilling screws #8 x 1/2in phillips",
+        "last_updated": "2023-10-18T14:20:39.727000",
+        "notion_id": "381",
+        "shelf": "41",
+        "bay": "411",
+        "container": "4110",
+        "shcn": "41102",
+        "slot": "41102"
     },
     {
         "_id": "64f11b96497c3069472c764c",

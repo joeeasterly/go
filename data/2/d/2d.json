@@ -1,5 +1,20 @@
 [
     {
+        "_id": "64f11b7c497c306947279b19",
+        "identifier": "2ded",
+        "target": "#",
+        "class": "inventory",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2ded",
+        "bay": "521",
+        "label": "unprocessed mail and paperwork",
+        "last_updated": "2023-11-25T19:23:00.582000",
+        "notion_id": "624",
+        "shcn": "521",
+        "shelf": "52",
+        "type": "storage"
+    },
+    {
         "_id": "64f11b7f497c30694728196d",
         "identifier": "2d11",
         "target": "#",
@@ -3422,14 +3437,6 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/2dec"
-    },
-    {
-        "_id": "64f11b7f497c306947281b19",
-        "identifier": "2ded",
-        "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2ded"
     },
     {
         "_id": "64f11b7f497c306947281b1a",

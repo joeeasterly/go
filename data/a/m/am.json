@@ -6980,8 +6980,16 @@
         "identifier": "amv9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/amv9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/amv9",
+        "label": "1 1/4in #8 plaster screws",
+        "last_updated": "2023-10-18T14:35:01.518000",
+        "notion_id": "398",
+        "shelf": "41",
+        "bay": "411",
+        "container": "4110",
+        "shcn": "4110D",
+        "slot": "4110D"
     },
     {
         "_id": "64f11b95497c3069472c38d6",

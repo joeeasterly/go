@@ -6868,8 +6868,15 @@
         "identifier": "fauu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fauu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fauu",
+        "bay": "5C0",
+        "label": "sink, kitchen counter, drying rack",
+        "last_updated": "2023-11-26T17:53:07.398000",
+        "notion_id": "662",
+        "shcn": "5C0",
+        "shelf": "5C",
+        "type": "storage"
     },
     {
         "_id": "64f11ba1497c3069472e90c8",

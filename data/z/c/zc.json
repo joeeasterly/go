@@ -6100,8 +6100,16 @@
         "identifier": "zcru",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/zcru"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/zcru",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "403",
+        "container": "4030",
+        "label": "scansnap ix500 usb cable",
+        "last_updated": "2023-10-25T09:35:08.846000",
+        "notion_id": "553",
+        "shcn": "4030",
+        "shelf": "40"
     },
     {
         "_id": "64f11bce497c306947371868",

@@ -3076,8 +3076,15 @@
         "identifier": "7qd1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7qd1"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7qd1",
+        "bay": "523",
+        "label": "kitchen junk drawer",
+        "last_updated": "2023-11-25T19:24:38.759000",
+        "notion_id": "626",
+        "shcn": "523",
+        "shelf": "52",
+        "type": "storage"
     },
     {
         "_id": "64f11b8d497c3069472ac2ee",

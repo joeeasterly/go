@@ -4436,8 +4436,16 @@
         "identifier": "d5jb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/d5jb"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/d5jb",
+        "label": "1in #6 drywall screws",
+        "last_updated": "2023-10-18T14:34:47.592000",
+        "notion_id": "397",
+        "shelf": "41",
+        "bay": "411",
+        "container": "4110",
+        "shcn": "4110D",
+        "slot": "4110D"
     },
     {
         "_id": "64f11b9c497c3069472d7b98",

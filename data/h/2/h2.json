@@ -23,7 +23,7 @@
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/h213",
         "label": "test update",
-        "last_updated": "2023-09-04 15:08:51.151000",
+        "last_updated": "2023-09-04T15:08:51.151000",
         "notion_id": null,
         "shelf": "25"
     },
@@ -185,7 +185,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h21q"
+        "permalink": "https://joeeasterly.github.io/go/h21q",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11ba6497c3069472f6d84",

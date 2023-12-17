@@ -6572,8 +6572,12 @@
         "identifier": "w7tp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/w7tp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/w7tp",
+        "label": "zinc 1/4 in AAB hex nuts",
+        "last_updated": "2023-10-05T17:59:25.896000",
+        "notion_id": "394",
+        "shelf": "411"
     },
     {
         "_id": "64f11bc7497c3069473584a3",

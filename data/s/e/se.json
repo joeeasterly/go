@@ -4108,8 +4108,14 @@
         "identifier": "seh2",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/seh2"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/seh2",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "403",
+        "container": "4031",
+        "last_updated": "2023-10-27T18:19:59.356000",
+        "shcn": "4031",
+        "shelf": "40"
     },
     {
         "_id": "64f11bbc497c306947339f6f",

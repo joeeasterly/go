@@ -5252,8 +5252,14 @@
         "identifier": "8xnh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8xnh"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8xnh",
+        "label": "Beverage Supplies",
+        "last_updated": "2023-11-20T18:23:35.222000",
+        "notion_id": "603",
+        "shcn": "54",
+        "shelf": "54",
+        "type": "storage"
     },
     {
         "_id": "64f11b90497c3069472b5ffe",

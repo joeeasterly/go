@@ -5076,8 +5076,15 @@
         "identifier": "c4mu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/c4mu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/c4mu",
+        "bay": "583",
+        "label": "cooking oils, bisquick",
+        "last_updated": "2023-11-25T21:08:50.276000",
+        "notion_id": "638",
+        "shcn": "583",
+        "shelf": "58",
+        "type": "storage"
     },
     {
         "_id": "64f11b99497c3069472cf7e8",

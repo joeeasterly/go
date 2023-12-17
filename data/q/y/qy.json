@@ -5788,8 +5788,17 @@
         "identifier": "qyqm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qyqm"
+        "allocated": "true",
+        "permalink": "https://joeeasterly.github.io/go/qyqm",
+        "bay": "412",
+        "container": "4121",
+        "label": "part of item gnbu",
+        "last_updated": "2023-10-12T20:39:49.092000",
+        "notion_id": "439",
+        "shelf": "41",
+        "type": "storage",
+        "shcn": "",
+        "slot": ""
     },
     {
         "_id": "64f11bb8497c30694732e441",

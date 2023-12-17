@@ -660,8 +660,12 @@
         "identifier": "8e3k",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8e3k"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8e3k",
+        "label": "1/4in 20 x 1in phillips machine screws",
+        "last_updated": "2023-10-05T17:47:15.563000",
+        "notion_id": "391",
+        "shelf": "411"
     },
     {
         "_id": "64f11b8e497c3069472b1dc0",

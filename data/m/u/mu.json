@@ -6764,8 +6764,15 @@
         "identifier": "muue",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/muue"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/muue",
+        "bay": "574",
+        "label": "oven utensils",
+        "last_updated": "2023-11-25T21:16:36.013000",
+        "notion_id": "642",
+        "shcn": "574",
+        "shelf": "57",
+        "type": "storage"
     },
     {
         "_id": "64f11bb0497c3069473154bb",

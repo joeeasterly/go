@@ -2196,8 +2196,15 @@
         "identifier": "k19k",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/k19k"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/k19k",
+        "label": "1 1/4in #10 plastor anchors",
+        "last_updated": "2023-10-05T18:49:28.503000",
+        "notion_id": "401",
+        "shelf": "411",
+        "bay": null,
+        "container": null,
+        "slot": null
     },
     {
         "_id": "64f11bab497c306947306a80",

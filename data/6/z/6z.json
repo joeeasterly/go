@@ -2021,7 +2021,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6z8w"
+        "permalink": "https://joeeasterly.github.io/go/6z8w",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11b8b497c3069472a666a",
@@ -2916,8 +2917,15 @@
         "identifier": "6zcd",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6zcd"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6zcd",
+        "bay": "580",
+        "label": "salad spinner, mixing bowls",
+        "last_updated": "2023-11-25T21:05:20.996000",
+        "notion_id": "635",
+        "shcn": "580",
+        "shelf": "58",
+        "type": "storage"
     },
     {
         "_id": "64f11b8b497c3069472a66da",
@@ -7188,8 +7196,20 @@
         "identifier": "6zw3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6zw3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6zw3",
+        "label": "mini-stereo optical audio cable",
+        "last_updated": "2023-10-22T18:36:19.141000",
+        "notion_id": "536",
+        "shcn": [
+            "4031",
+            "40",
+            "403",
+            "4031",
+            null,
+            "Shelf: 40, Bay: 403, Container: 4031"
+        ],
+        "type": "item"
     },
     {
         "_id": "64f11b8b497c3069472a68f0",

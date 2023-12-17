@@ -3316,8 +3316,14 @@
         "identifier": "a9dy",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/a9dy"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/a9dy",
+        "label": "Cookware",
+        "last_updated": "2023-11-20T18:26:01.710000",
+        "notion_id": "605",
+        "shcn": "56",
+        "shelf": "56",
+        "type": "storage"
     },
     {
         "_id": "64f11b94497c3069472c0b0c",

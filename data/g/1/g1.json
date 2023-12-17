@@ -5657,7 +5657,7 @@
         "bay": "402",
         "container": "4021",
         "label": "1/2in #6 phillips screws",
-        "last_updated": "2023-10-09 19:57:16.625000",
+        "last_updated": "2023-10-09T19:57:16.625000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -5667,8 +5667,14 @@
         "identifier": "g1q4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1q4"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1q4",
+        "label": "HYS-TC-MB90 NMO Mount",
+        "last_updated": "2023-11-26T17:34:54.309000",
+        "notion_id": "653",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba3497c3069472eec31",
@@ -5683,8 +5689,15 @@
         "identifier": "g1q6",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1q6"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1q6",
+        "bay": "411",
+        "container": "4110",
+        "label": "3/4in x1/4 machine bolts",
+        "last_updated": "2023-10-18T14:43:22.245000",
+        "shcn": "4110F",
+        "shelf": "41",
+        "slot": "4110F"
     },
     {
         "_id": "64f11ba3497c3069472eec33",
@@ -5736,7 +5749,7 @@
         "bay": "410",
         "container": null,
         "label": "velcro cord straps",
-        "last_updated": "2023-10-16 11:27:49.873000",
+        "last_updated": "2023-10-16T11:27:49.873000",
         "notion_id": null,
         "shelf": "41",
         "slot": null
@@ -5791,7 +5804,7 @@
         "bay": "402",
         "container": "4021",
         "label": "3/4in #8 brass phillips scrs",
-        "last_updated": "2023-10-10 18:59:43.359000",
+        "last_updated": "2023-10-10T18:59:43.359000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -5825,16 +5838,30 @@
         "identifier": "g1qp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1qp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1qp",
+        "bay": "403",
+        "container": "4030",
+        "label": "ricoh ix1600 usb cable",
+        "last_updated": "2023-10-22T16:24:55.177000",
+        "notion_id": "526",
+        "shcn": "4030",
+        "shelf": "40"
     },
     {
         "_id": "64f11ba3497c3069472eec43",
         "identifier": "g1qq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1qq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1qq",
+        "bay": "403",
+        "container": "4031",
+        "label": "samsung hdmi cable",
+        "last_updated": "2023-10-22T18:24:35.440000",
+        "notion_id": "534",
+        "shcn": "4031",
+        "shelf": "40"
     },
     {
         "_id": "64f11ba3497c3069472eec44",
@@ -5870,7 +5897,7 @@
         "bay": "402",
         "container": "4021",
         "label": "3/4 in finishing nails",
-        "last_updated": "2023-10-13 19:32:56.541000",
+        "last_updated": "2023-10-13T19:32:56.541000",
         "notion_id": null,
         "shelf": "40"
     },
@@ -5900,7 +5927,7 @@
         "bay": "402",
         "container": "4021",
         "label": "1in finishing nails",
-        "last_updated": "2023-10-13 19:29:13.306000",
+        "last_updated": "2023-10-13T19:29:13.306000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -5923,7 +5950,7 @@
         "bay": "402",
         "container": "4021",
         "label": "1/2in #8 phillips screws",
-        "last_updated": "2023-10-10 19:02:24.141000",
+        "last_updated": "2023-10-10T19:02:24.141000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -5962,7 +5989,7 @@
         "bay": "402",
         "container": "4021",
         "label": "zinc 1in / #8 phillips screws",
-        "last_updated": "2023-10-09 20:28:09.018000",
+        "last_updated": "2023-10-09T20:28:09.018000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -5972,8 +5999,15 @@
         "identifier": "g1r5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1r5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1r5",
+        "bay": "101",
+        "container": "1010",
+        "label": "nail hygiene toolkit",
+        "last_updated": "2023-10-22T17:20:19.253000",
+        "notion_id": "531",
+        "shcn": "1010",
+        "shelf": "10"
     },
     {
         "_id": "64f11ba3497c3069472eec52",
@@ -5993,7 +6027,7 @@
         "bay": "402",
         "container": "4021",
         "label": "1in #8 phillips screws",
-        "last_updated": "2023-10-10 19:04:08.454000",
+        "last_updated": "2023-10-10T19:04:08.454000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -6051,16 +6085,30 @@
         "identifier": "g1re",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1re"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1re",
+        "bay": "101",
+        "container": "1010",
+        "label": "coach zippered wallet with chain",
+        "last_updated": "2023-10-22T17:15:10.548000",
+        "notion_id": "529",
+        "shcn": "1010",
+        "shelf": "10"
     },
     {
         "_id": "64f11ba3497c3069472eec5b",
         "identifier": "g1rf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1rf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1rf",
+        "bay": "411",
+        "container": "4110",
+        "label": "self-drilling phillips screws 1/2in x #8",
+        "last_updated": "2023-10-18T14:22:38.098000",
+        "shcn": "41102",
+        "shelf": "41",
+        "slot": "41102"
     },
     {
         "_id": "64f11ba3497c3069472eec5c",
@@ -6099,8 +6147,15 @@
         "identifier": "g1rm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1rm"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1rm",
+        "bay": "411",
+        "container": "4110",
+        "label": "dremel 3000 attachments",
+        "last_updated": "2023-10-18T14:10:24.229000",
+        "shcn": "41100",
+        "shelf": "41",
+        "slot": "41100"
     },
     {
         "_id": "64f11ba3497c3069472eec61",
@@ -6112,7 +6167,7 @@
         "bay": "402",
         "container": "4021",
         "label": "1/2in #6 phillips screws",
-        "last_updated": "2023-10-10 19:01:22.073000",
+        "last_updated": "2023-10-10T19:01:22.073000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -6659,7 +6714,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1ts"
+        "permalink": "https://joeeasterly.github.io/go/g1ts",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11ba3497c3069472eeca6",

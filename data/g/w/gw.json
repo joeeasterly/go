@@ -7956,8 +7956,16 @@
         "identifier": "gwz3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gwz3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gwz3",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "403",
+        "container": "4031",
+        "label": "amazon basics 15-foot mini-hdmi to hdmi cable",
+        "last_updated": "2023-10-27T18:19:46.525000",
+        "notion_id": "565",
+        "shcn": "4031",
+        "shelf": "40"
     },
     {
         "_id": "64f11ba6497c3069472f5d50",

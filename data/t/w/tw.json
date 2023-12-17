@@ -4140,8 +4140,16 @@
         "identifier": "twh6",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/twh6"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/twh6",
+        "staged": "2023-10-23 14:22:43",
+        "bay": "403",
+        "container": "4031",
+        "label": "15ft x 1/4in mono jack instrument cable",
+        "last_updated": "2023-10-25T09:37:29.141000",
+        "notion_id": "545",
+        "shcn": "4031",
+        "shelf": "40"
     },
     {
         "_id": "64f11bc0497c306947345b73",
@@ -7676,8 +7684,14 @@
         "identifier": "twxz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/twxz"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/twxz",
+        "label": "sink, kitchen cleaning",
+        "last_updated": "2023-11-25T20:42:14.956000",
+        "notion_id": "611",
+        "shcn": "5C",
+        "shelf": "5C",
+        "type": "storage"
     },
     {
         "_id": "64f11bc0497c306947345d2d",

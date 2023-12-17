@@ -5788,8 +5788,15 @@
         "identifier": "wtqm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wtqm"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wtqm",
+        "bay": "581",
+        "label": "baking scale, mixing bowls",
+        "last_updated": "2023-11-25T21:06:24.038000",
+        "notion_id": "636",
+        "shcn": "581",
+        "shelf": "58",
+        "type": "storage"
     },
     {
         "_id": "64f11bc8497c30694735d041",

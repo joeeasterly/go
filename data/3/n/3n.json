@@ -2397,7 +2397,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3nac"
+        "permalink": "https://joeeasterly.github.io/go/3nac",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11b82497c30694728ba99",
@@ -2836,8 +2837,15 @@
         "identifier": "3nc3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3nc3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3nc3",
+        "bay": "571",
+        "label": "kcups, tea bags",
+        "last_updated": "2023-11-25T21:10:59.380000",
+        "notion_id": "639",
+        "shcn": "571",
+        "shelf": "57",
+        "type": "storage"
     },
     {
         "_id": "64f11b82497c30694728bad0",

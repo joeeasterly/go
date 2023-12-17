@@ -7404,8 +7404,15 @@
         "identifier": "vvwx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vvwx"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vvwx",
+        "bay": "511",
+        "label": "stemless wine glasses",
+        "last_updated": "2023-11-25T19:17:56.098000",
+        "notion_id": "620",
+        "shcn": "511",
+        "shelf": "51",
+        "type": "storage"
     },
     {
         "_id": "64f11bc6497c30694735590b",

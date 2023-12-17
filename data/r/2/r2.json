@@ -6420,8 +6420,15 @@
         "identifier": "r2t3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/r2t3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/r2t3",
+        "bay": "563",
+        "label": "Vitamix accessories",
+        "last_updated": "2023-11-25T21:30:47.238000",
+        "notion_id": "652",
+        "shcn": "563",
+        "shelf": "56",
+        "type": "storage"
     },
     {
         "_id": "64f11bb8497c30694732f090",
@@ -7541,7 +7548,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/r2xf"
+        "permalink": "https://joeeasterly.github.io/go/r2xf",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11bb8497c30694732f11c",

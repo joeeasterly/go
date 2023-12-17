@@ -8172,8 +8172,14 @@
         "identifier": "e6zx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/e6zx"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/e6zx",
+        "label": "Cutting Boards and Drying Racks",
+        "last_updated": "2023-11-20T18:17:39.229000",
+        "notion_id": "602",
+        "shcn": "53",
+        "shelf": "53",
+        "type": "storage"
     },
     {
         "_id": "64f11b9e497c3069472e016b",

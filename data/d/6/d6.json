@@ -2452,8 +2452,20 @@
         "identifier": "d6ak",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/d6ak"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/d6ak",
+        "label": "test record",
+        "last_updated": "2023-10-18T15:42:19.257000",
+        "notion_id": "504",
+        "shcn": [
+            "10",
+            "10",
+            null,
+            null,
+            null,
+            "Shelf: 10"
+        ],
+        "type": "item"
     },
     {
         "_id": "64f11b9c497c3069472d7ea0",

@@ -3588,8 +3588,14 @@
         "identifier": "j3f1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/j3f1"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/j3f1",
+        "label": "cooking ingredients, bowls",
+        "last_updated": "2023-11-25T20:38:08.662000",
+        "notion_id": "607",
+        "shcn": "58",
+        "shelf": "58",
+        "type": "storage"
     },
     {
         "_id": "64f11ba8497c3069472ff32e",
@@ -3756,8 +3762,16 @@
         "identifier": "j3fp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/j3fp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/j3fp",
+        "bay": "410",
+        "container": "4100",
+        "label": "mophie powerstation 20000 mAh",
+        "last_updated": "2023-10-19T20:03:21.872000",
+        "notion_id": "507",
+        "shcn": "41006",
+        "shelf": "41",
+        "slot": "41006"
     },
     {
         "_id": "64f11ba8497c3069472ff343",

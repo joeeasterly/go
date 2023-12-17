@@ -3564,8 +3564,14 @@
         "identifier": "z3ex",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/z3ex"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/z3ex",
+        "label": "stove utensils, pans",
+        "last_updated": "2023-11-25T20:41:28.804000",
+        "notion_id": "610",
+        "shcn": "5B",
+        "shelf": "5B",
+        "type": "storage"
     },
     {
         "_id": "64f11bce497c30694736f32b",

@@ -4028,8 +4028,15 @@
         "identifier": "pxgr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pxgr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/pxgr",
+        "bay": "551",
+        "label": "covered round casserole dishes",
+        "last_updated": "2023-11-25T21:22:56.891000",
+        "notion_id": "646",
+        "shcn": "551",
+        "shelf": "55",
+        "type": "storage"
     },
     {
         "_id": "64f11bb5497c306947325f65",

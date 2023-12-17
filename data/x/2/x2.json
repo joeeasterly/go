@@ -3381,7 +3381,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x2e7"
+        "permalink": "https://joeeasterly.github.io/go/x2e7",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11bc9497c30694735ef14",
@@ -5517,7 +5518,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x2pj"
+        "permalink": "https://joeeasterly.github.io/go/x2pj",
+        "staged": "2023-10-23 14:22:43"
     },
     {
         "_id": "64f11bc9497c30694735f01f",
@@ -7428,16 +7430,16 @@
         "identifier": "x2x1",
         "target": "#",
         "class": "inventory",
-        "allocated": true,
+        "allocated": "true",
         "permalink": "https://joeeasterly.github.io/go/x2x1",
-        "bay": "411",
-        "container": "4113",
-        "label": "slot 41133",
-        "last_updated": "2023-10-16 18:49:01.086000",
+        "bay": "412",
+        "container": "4123",
+        "label": "slot 41233",
+        "last_updated": "2023-10-16T18:49:01.086000",
         "notion_id": "462",
-        "shcn": "41133",
+        "shcn": "41233",
         "shelf": "41",
-        "slot": "41133",
+        "slot": "41233",
         "type": "storage"
     },
     {
@@ -7445,16 +7447,16 @@
         "identifier": "x2x2",
         "target": "#",
         "class": "inventory",
-        "allocated": true,
+        "allocated": "true",
         "permalink": "https://joeeasterly.github.io/go/x2x2",
-        "bay": "411",
-        "container": "4113",
-        "label": "slot 41131",
-        "last_updated": "2023-10-17 18:17:41.351000",
+        "bay": "412",
+        "container": "4123",
+        "label": "slot 41231",
+        "last_updated": "2023-10-17T18:17:41.351000",
         "notion_id": "477",
-        "shcn": "41131",
+        "shcn": "41231",
         "shelf": "41",
-        "slot": "41131",
+        "slot": "41231",
         "type": "storage"
     },
     {
@@ -7465,7 +7467,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/x2x3",
         "bay": "412",
-        "last_updated": "2023-10-18 12:25:25.064000",
+        "last_updated": "2023-10-18T12:25:25.064000",
         "shelf": "41",
         "label": "sonos roam",
         "notion_id": "497",
@@ -7484,7 +7486,7 @@
         "identifier": "x2x5",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/x2x5",
-        "last_updated": "2023-10-15 21:38:58.863000"
+        "last_updated": "2023-10-15T21:38:58.863000"
     },
     {
         "_id": "64f11bc9497c30694735f112",
@@ -7888,7 +7890,7 @@
         "bay": "402",
         "container": "4021",
         "label": "5/8in #2 tacks",
-        "last_updated": "2023-10-10 19:07:25.818000",
+        "last_updated": "2023-10-10T19:07:25.818000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
