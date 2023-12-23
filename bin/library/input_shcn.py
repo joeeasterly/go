@@ -17,5 +17,5 @@ def input_shcn():
     if shcn_length >= 5:
         slot = shcn[:5]
         analysis = analysis + ", Slot: " + slot
-    print("Input analysis: " + analysis)
+    # print("Input analysis: " + analysis)
     return shcn, shelf, bay, container, slot, analysis
