@@ -8124,8 +8124,15 @@
         "identifier": "gmzr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gmzr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gmzr",
+        "bay": "365",
+        "label": "bay 365",
+        "last_updated": "2023-12-24 20:39:15.535000",
+        "notion_id": "361",
+        "shcn": "365",
+        "shelf": "36",
+        "type": "storage"
     },
     {
         "_id": "64f11ba5497c3069472f3965",
