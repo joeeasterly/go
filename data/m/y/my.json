@@ -1644,8 +1644,15 @@
         "identifier": "my7e",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/my7e"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/my7e",
+        "bay": "114",
+        "label": "special use 114",
+        "last_updated": "2023-12-24 17:30:15.981000",
+        "notion_id": "347",
+        "shcn": "114",
+        "shelf": "11",
+        "type": "storage"
     },
     {
         "_id": "64f11bb0497c30694731623b",
