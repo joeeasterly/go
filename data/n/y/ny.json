@@ -5812,8 +5812,14 @@
         "identifier": "nyqq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nyqq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nyqq",
+        "label": "shelf 17",
+        "last_updated": "2023-12-25 10:21:12.884000",
+        "notion_id": "104",
+        "shcn": "17",
+        "shelf": "17",
+        "type": "storage"
     },
     {
         "_id": "64f11bb3497c30694731e444",
