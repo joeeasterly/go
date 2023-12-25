@@ -6316,8 +6316,14 @@
         "identifier": "mjsp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mjsp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mjsp",
+        "label": "shelf 22",
+        "last_updated": "2023-12-24 21:07:12.666000",
+        "notion_id": "109",
+        "shcn": "22",
+        "shelf": "22",
+        "type": "storage"
     },
     {
         "_id": "64f11baf497c306947313083",
