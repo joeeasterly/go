@@ -6780,8 +6780,14 @@
         "identifier": "n3ug",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/n3ug"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/n3ug",
+        "label": "shelf 23",
+        "last_updated": "2023-12-24 21:09:58.611000",
+        "notion_id": "112",
+        "shcn": "23",
+        "shelf": "23",
+        "type": "storage"
     },
     {
         "_id": "64f11bb0497c3069473174bd",
