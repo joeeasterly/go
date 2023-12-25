@@ -3720,7 +3720,7 @@
         "permalink": "https://joeeasterly.github.io/go/7ufh",
         "bay": "5D1",
         "label": "dining utensils",
-        "last_updated": "2023-11-26T17:57:51.804000",
+        "last_updated": "2023-11-26 17:57:51.804000",
         "notion_id": "666",
         "shcn": "5D1",
         "shelf": "5D",
@@ -5499,8 +5499,15 @@
         "identifier": "7upf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7upf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7upf",
+        "bay": "348",
+        "label": "bay 348",
+        "last_updated": "2023-12-25 10:04:46.761000",
+        "notion_id": "327",
+        "shcn": "348",
+        "shelf": "34",
+        "type": "storage"
     },
     {
         "_id": "64f11b8d497c3069472ad41c",
@@ -6883,8 +6890,15 @@
         "identifier": "7uuv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7uuv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7uuv",
+        "bay": "220",
+        "label": "bay 220",
+        "last_updated": "2023-12-24 21:07:53.625000",
+        "notion_id": "278",
+        "shcn": "220",
+        "shelf": "22",
+        "type": "storage"
     },
     {
         "_id": "64f11b8d497c3069472ad4c9",
