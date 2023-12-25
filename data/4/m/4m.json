@@ -1060,8 +1060,15 @@
         "identifier": "4m55",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4m55"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4m55",
+        "bay": "122",
+        "label": "bay 122",
+        "last_updated": "2023-12-25 10:12:21.612000",
+        "notion_id": "122",
+        "shcn": "122",
+        "shelf": "12",
+        "type": "storage"
     },
     {
         "_id": "64f11b85497c3069472935f2",
@@ -7639,7 +7646,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/4mxu",
         "label": "plastic bone folder",
-        "last_updated": "2023-10-18T14:32:35.669000",
+        "last_updated": "2023-10-18 14:32:35.669000",
         "notion_id": "410",
         "shelf": "41",
         "bay": "411",
