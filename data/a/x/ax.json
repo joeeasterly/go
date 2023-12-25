@@ -5708,8 +5708,14 @@
         "identifier": "axqa",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/axqa"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/axqa",
+        "label": "shelf 33",
+        "last_updated": "2023-12-24 20:44:06.967000",
+        "notion_id": "259",
+        "shcn": "33",
+        "shelf": "33",
+        "type": "storage"
     },
     {
         "_id": "64f11b96497c3069472c6037",
