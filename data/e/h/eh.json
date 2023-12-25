@@ -7562,8 +7562,15 @@
         "identifier": "ehxh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ehxh"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ehxh",
+        "bay": "336",
+        "label": "bay 336",
+        "last_updated": "2023-12-24 20:48:04.724000",
+        "notion_id": "337",
+        "shcn": "336",
+        "shelf": "33",
+        "type": "storage"
     },
     {
         "_id": "64f11b9f497c3069472e2d1e",
