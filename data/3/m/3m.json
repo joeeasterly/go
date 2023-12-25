@@ -6236,8 +6236,17 @@
         "identifier": "3msc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3msc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3msc",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 41102",
+        "last_updated": "2023-12-24 16:53:53.680000",
+        "notion_id": "675",
+        "shcn": "41102",
+        "shelf": "41",
+        "slot": "41102",
+        "type": "storage"
     },
     {
         "_id": "64f11b82497c30694728b879",
