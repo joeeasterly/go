@@ -148,8 +148,15 @@
         "identifier": "w81k",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/w81k"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/w81k",
+        "bay": "112",
+        "label": "special use 112",
+        "last_updated": "2023-12-24 17:31:27.811000",
+        "notion_id": "345",
+        "shcn": "112",
+        "shelf": "11",
+        "type": "storage"
     },
     {
         "_id": "64f11bc7497c306947358580",
