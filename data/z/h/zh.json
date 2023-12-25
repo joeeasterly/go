@@ -7028,8 +7028,15 @@
         "identifier": "zhvf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/zhvf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/zhvf",
+        "bay": "411",
+        "label": "bay 411",
+        "last_updated": "2023-12-24 20:56:08.864000",
+        "notion_id": "430",
+        "shcn": "411",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11bcf497c306947372cdc",
