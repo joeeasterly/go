@@ -3660,8 +3660,15 @@
         "identifier": "knfa",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/knfa"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/knfa",
+        "bay": "173",
+        "label": "bay 173",
+        "last_updated": "2023-12-25 10:19:37.416000",
+        "notion_id": "142",
+        "shcn": "173",
+        "shelf": "17",
+        "type": "storage"
     },
     {
         "_id": "64f11bad497c30694730bb37",
