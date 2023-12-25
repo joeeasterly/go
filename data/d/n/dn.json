@@ -6612,8 +6612,15 @@
         "identifier": "dntu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dntu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/dntu",
+        "bay": "362",
+        "label": "bay 362",
+        "last_updated": "2023-12-24 20:38:22.733000",
+        "notion_id": "358",
+        "shcn": "362",
+        "shelf": "36",
+        "type": "storage"
     },
     {
         "_id": "64f11b9d497c3069472dbca8",
