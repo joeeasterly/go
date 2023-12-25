@@ -428,8 +428,15 @@
         "identifier": "mg2p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mg2p"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mg2p",
+        "bay": "361",
+        "label": "bay 361",
+        "last_updated": "2023-12-24 17:28:56.312000",
+        "notion_id": "357",
+        "shcn": "361",
+        "shelf": "36",
+        "type": "storage"
     },
     {
         "_id": "64f11baf497c3069473125a3",
