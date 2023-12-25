@@ -6596,8 +6596,15 @@
         "identifier": "ujts",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ujts"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ujts",
+        "bay": "472",
+        "label": "bay 472",
+        "last_updated": "2023-12-24 17:12:50.248000",
+        "notion_id": "582",
+        "shcn": "472",
+        "shelf": "47",
+        "type": "storage"
     },
     {
         "_id": "64f11bc2497c30694734b0a6",
