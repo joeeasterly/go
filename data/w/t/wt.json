@@ -4468,8 +4468,14 @@
         "identifier": "wtjf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wtjf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wtjf",
+        "label": "shelf 39",
+        "last_updated": "2023-12-24 17:33:12.392000",
+        "notion_id": "342",
+        "shcn": "39",
+        "shelf": "39",
+        "type": "storage"
     },
     {
         "_id": "64f11bc8497c30694735cf9c",
@@ -5792,7 +5798,7 @@
         "permalink": "https://joeeasterly.github.io/go/wtqm",
         "bay": "581",
         "label": "baking scale, mixing bowls",
-        "last_updated": "2023-11-25T21:06:24.038000",
+        "last_updated": "2023-11-25 21:06:24.038000",
         "notion_id": "636",
         "shcn": "581",
         "shelf": "58",
