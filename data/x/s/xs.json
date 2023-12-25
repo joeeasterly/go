@@ -6140,8 +6140,15 @@
         "identifier": "xsrz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xsrz"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xsrz",
+        "bay": "335",
+        "label": "bay 335",
+        "last_updated": "2023-12-24 20:48:22.570000",
+        "notion_id": "336",
+        "shcn": "335",
+        "shelf": "33",
+        "type": "storage"
     },
     {
         "_id": "64f11bcb497c306947364c6d",
