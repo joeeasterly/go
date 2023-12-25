@@ -7948,8 +7948,17 @@
         "identifier": "mrz2",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mrz2"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mrz2",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 4110A",
+        "last_updated": "2023-12-24 16:55:12.294000",
+        "notion_id": "677",
+        "shcn": "4110A",
+        "shelf": "41",
+        "slot": "4110A",
+        "type": "storage"
     },
     {
         "_id": "64f11bb0497c30694731494f",
