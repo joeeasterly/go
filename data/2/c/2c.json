@@ -764,8 +764,14 @@
         "identifier": "2c3z",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2c3z"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2c3z",
+        "label": "shelf 37",
+        "last_updated": "2023-12-24 17:33:57.004000",
+        "notion_id": "340",
+        "shcn": "37",
+        "shelf": "37",
+        "type": "storage"
     },
     {
         "_id": "64f11b7f497c3069472815cd",
