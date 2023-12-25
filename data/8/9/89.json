@@ -1312,7 +1312,7 @@
         "permalink": "https://joeeasterly.github.io/go/8964",
         "staged": "2023-10-23 14:22:43",
         "label": "FlexRadio Box)",
-        "last_updated": "2023-11-20T17:54:02.036000",
+        "last_updated": "2023-11-20 17:54:02.036000",
         "notion_id": "598",
         "shcn": "10",
         "shelf": "10",
@@ -4115,8 +4115,15 @@
         "identifier": "89h2",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/89h2"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/89h2",
+        "bay": "364",
+        "label": "bay 364",
+        "last_updated": "2023-12-24 20:38:57.100000",
+        "notion_id": "360",
+        "shcn": "364",
+        "shelf": "36",
+        "type": "storage"
     },
     {
         "_id": "64f11b8e497c3069472b0b6f",
