@@ -2597,8 +2597,15 @@
         "identifier": "eyb5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/eyb5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/eyb5",
+        "bay": "231",
+        "label": "bay 231",
+        "last_updated": "2023-12-24 21:10:48.092000",
+        "notion_id": "159",
+        "shcn": "231",
+        "shelf": "23",
+        "type": "storage"
     },
     {
         "_id": "64f11ba0497c3069472e62b2",
