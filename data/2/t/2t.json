@@ -8,7 +8,7 @@
         "permalink": "https://joeeasterly.github.io/go/2t9w",
         "bay": "552",
         "label": "hot beverage glassware",
-        "last_updated": "2023-11-25T21:24:25.001000",
+        "last_updated": "2023-11-25 21:24:25.001000",
         "notion_id": "647",
         "shcn": "552",
         "shelf": "55",
@@ -5755,8 +5755,15 @@
         "identifier": "2tqf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2tqf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2tqf",
+        "bay": "140",
+        "label": "bay 140",
+        "last_updated": "2023-12-25 10:18:26.556000",
+        "notion_id": "265",
+        "shcn": "140",
+        "shelf": "14",
+        "type": "storage"
     },
     {
         "_id": "64f11b80497c30694728503c",
