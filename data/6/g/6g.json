@@ -476,8 +476,15 @@
         "identifier": "6g2v",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6g2v"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6g2v",
+        "bay": "415",
+        "label": "bay 415",
+        "last_updated": "2023-12-24 20:56:59.288000",
+        "notion_id": "434",
+        "shcn": "415",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11b8a497c3069472a25a9",
