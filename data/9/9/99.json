@@ -6044,8 +6044,15 @@
         "identifier": "99rm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/99rm"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/99rm",
+        "bay": "476",
+        "label": "bay 476",
+        "last_updated": "2023-12-24 17:11:37.751000",
+        "notion_id": "586",
+        "shcn": "476",
+        "shelf": "47",
+        "type": "storage"
     },
     {
         "_id": "64f11b91497c3069472b8c61",
