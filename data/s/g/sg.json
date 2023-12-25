@@ -7148,8 +7148,14 @@
         "identifier": "sgvx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/sgvx"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/sgvx",
+        "label": "shelf 27",
+        "last_updated": "2023-12-24 17:05:53.687000",
+        "notion_id": "253",
+        "shcn": "27",
+        "shelf": "27",
+        "type": "storage"
     },
     {
         "_id": "64f11bbc497c30694733a8eb",
