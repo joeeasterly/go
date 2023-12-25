@@ -6948,8 +6948,16 @@
         "identifier": "vjv5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vjv5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vjv5",
+        "bay": "401",
+        "container": "4010",
+        "label": "container 4010",
+        "last_updated": "2023-12-24 16:49:16.819000",
+        "notion_id": "672",
+        "shcn": "4010",
+        "shelf": "40",
+        "type": "storage"
     },
     {
         "_id": "64f11bc5497c3069473530d2",
