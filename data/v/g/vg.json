@@ -1916,8 +1916,15 @@
         "identifier": "vg8g",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vg8g"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vg8g",
+        "bay": "344",
+        "label": "bay 344",
+        "last_updated": "2023-12-25 10:06:02.712000",
+        "notion_id": "323",
+        "shcn": "344",
+        "shelf": "34",
+        "type": "storage"
     },
     {
         "_id": "64f11bc5497c30694735265d",
