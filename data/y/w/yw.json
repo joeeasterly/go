@@ -900,8 +900,15 @@
         "identifier": "yw4h",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yw4h"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yw4h",
+        "bay": "403",
+        "label": "bay 403",
+        "last_updated": "2023-12-25 10:00:08.257000",
+        "notion_id": "444",
+        "shcn": "403",
+        "shelf": "40",
+        "type": "storage"
     },
     {
         "_id": "64f11bcd497c30694736d9de",
