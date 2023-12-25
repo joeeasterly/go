@@ -6236,8 +6236,15 @@
         "identifier": "dwsc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dwsc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/dwsc",
+        "bay": "342",
+        "label": "bay 342",
+        "last_updated": "2023-12-25 10:04:03.137000",
+        "notion_id": "321",
+        "shcn": "342",
+        "shelf": "34",
+        "type": "storage"
     },
     {
         "_id": "64f11b9d497c3069472ddc79",
