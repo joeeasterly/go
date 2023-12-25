@@ -6012,8 +6012,14 @@
         "identifier": "8krg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8krg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8krg",
+        "label": "shelf 35",
+        "last_updated": "2023-12-24 20:44:54.472000",
+        "notion_id": "261",
+        "shcn": "35",
+        "shelf": "35",
+        "type": "storage"
     },
     {
         "_id": "64f11b8f497c3069472b345d",
