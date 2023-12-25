@@ -2628,8 +2628,15 @@
         "identifier": "uxb9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/uxb9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/uxb9",
+        "bay": "404",
+        "label": "bay 404",
+        "last_updated": "2023-12-25 10:00:36.773000",
+        "notion_id": "445",
+        "shcn": "404",
+        "shelf": "40",
+        "type": "storage"
     },
     {
         "_id": "64f11bc3497c30694734deb6",
