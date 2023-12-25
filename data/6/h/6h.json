@@ -956,8 +956,15 @@
         "identifier": "6h4r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6h4r"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6h4r",
+        "bay": "130",
+        "label": "bay 130",
+        "last_updated": "2023-12-25 10:13:49.076000",
+        "notion_id": "264",
+        "shcn": "130",
+        "shelf": "13",
+        "type": "storage"
     },
     {
         "_id": "64f11b8a497c3069472a29e5",
@@ -7287,7 +7294,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/6hwf",
         "label": "kitchenaid vegetable sheet cutter",
-        "last_updated": "2023-10-08T16:28:49.893000",
+        "last_updated": "2023-10-08 16:28:49.893000",
         "notion_id": "416",
         "shelf": "114"
     },
