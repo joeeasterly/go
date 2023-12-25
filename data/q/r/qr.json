@@ -3812,8 +3812,17 @@
         "identifier": "qrfw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qrfw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qrfw",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 4110G",
+        "last_updated": "2023-12-24 16:59:08.020000",
+        "notion_id": "683",
+        "shcn": "4110G",
+        "shelf": "41",
+        "slot": "4110G",
+        "type": "storage"
     },
     {
         "_id": "64f11bb8497c30694732c74a",
@@ -6336,7 +6345,7 @@
         "permalink": "https://joeeasterly.github.io/go/qrsr",
         "bay": "576",
         "label": "cake pans and baking dishes",
-        "last_updated": "2023-11-25T21:19:44.877000",
+        "last_updated": "2023-11-25 21:19:44.877000",
         "notion_id": "644",
         "shcn": "576",
         "shelf": "57",
