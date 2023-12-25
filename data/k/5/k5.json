@@ -7796,8 +7796,15 @@
         "identifier": "k5yf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/k5yf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/k5yf",
+        "bay": "345",
+        "label": "bay 345",
+        "last_updated": "2023-12-25 10:05:41.413000",
+        "notion_id": "324",
+        "shcn": "345",
+        "shelf": "34",
+        "type": "storage"
     },
     {
         "_id": "64f11bac497c306947307d3c",
