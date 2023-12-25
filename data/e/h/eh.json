@@ -684,8 +684,14 @@
         "identifier": "eh3p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/eh3p"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/eh3p",
+        "label": "shelf 44",
+        "last_updated": "2023-12-24 20:41:46.087000",
+        "notion_id": "369",
+        "shcn": "44",
+        "shelf": "44",
+        "type": "storage"
     },
     {
         "_id": "64f11b9f497c3069472e29c3",
