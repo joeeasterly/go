@@ -3404,8 +3404,14 @@
         "identifier": "psea",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/psea"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/psea",
+        "label": "shelf 32",
+        "last_updated": "2023-12-24 17:08:28.021000",
+        "notion_id": "258",
+        "shcn": "32",
+        "shelf": "32",
+        "type": "storage"
     },
     {
         "_id": "64f11bb5497c306947324b17",
