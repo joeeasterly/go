@@ -8109,8 +8109,15 @@
         "identifier": "bhzp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bhzp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bhzp",
+        "bay": "213",
+        "label": "bay 213",
+        "last_updated": "2023-12-24 21:00:46.389000",
+        "notion_id": "156",
+        "shcn": "213",
+        "shelf": "21",
+        "type": "storage"
     },
     {
         "_id": "64f11b98497c3069472cad63",
