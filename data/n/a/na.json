@@ -628,8 +628,15 @@
         "identifier": "na3f",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/na3f"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/na3f",
+        "bay": "131",
+        "label": "bay 131",
+        "last_updated": "2023-12-25 10:14:04.423000",
+        "notion_id": "125",
+        "shcn": "131",
+        "shelf": "13",
+        "type": "storage"
     },
     {
         "_id": "64f11bb1497c306947318dbc",
