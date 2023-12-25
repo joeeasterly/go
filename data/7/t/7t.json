@@ -1956,8 +1956,15 @@
         "identifier": "7t8n",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7t8n"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7t8n",
+        "bay": "240",
+        "label": "bay 240",
+        "last_updated": "2023-12-24 21:12:01.901000",
+        "notion_id": "162",
+        "shcn": "240",
+        "shelf": "24",
+        "type": "storage"
     },
     {
         "_id": "64f11b8d497c3069472ace62",
