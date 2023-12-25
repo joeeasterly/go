@@ -4580,8 +4580,14 @@
         "identifier": "3kjw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3kjw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3kjw",
+        "label": "shelf 29",
+        "last_updated": "2023-12-24 17:07:09.050000",
+        "notion_id": "255",
+        "shcn": "29",
+        "shelf": "29",
+        "type": "storage"
     },
     {
         "_id": "64f11b82497c30694728b3aa",
