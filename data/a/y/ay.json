@@ -608,7 +608,7 @@
         "permalink": "https://joeeasterly.github.io/go/ay3c",
         "bay": "5B2",
         "label": "stainless steel pans",
-        "last_updated": "2023-11-26T17:51:38.108000",
+        "last_updated": "2023-11-26 17:51:38.108000",
         "notion_id": "660",
         "shcn": "5B2",
         "shelf": "5B",
@@ -1451,8 +1451,15 @@
         "identifier": "ay6n",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ay6n"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ay6n",
+        "bay": "347",
+        "label": "bay 347",
+        "last_updated": "2023-12-25 10:05:01.918000",
+        "notion_id": "326",
+        "shcn": "347",
+        "shelf": "34",
+        "type": "storage"
     },
     {
         "_id": "64f11b96497c3069472c6222",
