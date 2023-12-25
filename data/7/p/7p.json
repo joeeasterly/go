@@ -7404,8 +7404,14 @@
         "identifier": "7pwx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7pwx"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7pwx",
+        "label": "shelf 34",
+        "last_updated": "2023-12-24 20:44:24.571000",
+        "notion_id": "260",
+        "shcn": "34",
+        "shelf": "34",
+        "type": "storage"
     },
     {
         "_id": "64f11b8d497c3069472ac10b",
