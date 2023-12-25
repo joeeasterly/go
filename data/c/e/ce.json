@@ -124,8 +124,14 @@
         "identifier": "ce1g",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ce1g"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ce1g",
+        "label": "Virtual special-use shelf",
+        "last_updated": "2023-12-24 16:46:07.118000",
+        "notion_id": "671",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "storage"
     },
     {
         "_id": "64f11b9a497c3069472d1d7d",
