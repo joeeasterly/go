@@ -8172,8 +8172,14 @@
         "identifier": "tpzx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tpzx"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tpzx",
+        "label": "shelf 28",
+        "last_updated": "2023-12-24 17:06:44.838000",
+        "notion_id": "254",
+        "shcn": "28",
+        "shelf": "28",
+        "type": "storage"
     },
     {
         "_id": "64f11bc0497c30694734416b",
