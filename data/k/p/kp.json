@@ -1788,8 +1788,15 @@
         "identifier": "kp7z",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kp7z"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/kp7z",
+        "bay": "114",
+        "label": "bay 114",
+        "last_updated": "2023-12-25 10:07:35.077000",
+        "notion_id": "120",
+        "shcn": "114",
+        "shelf": "11",
+        "type": "storage"
     },
     {
         "_id": "64f11bad497c30694730be4d",
@@ -6015,7 +6022,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/kprg",
         "label": "aluminum ferrules",
-        "last_updated": "2023-10-08T13:05:13.158000",
+        "last_updated": "2023-10-08 13:05:13.158000",
         "notion_id": "415",
         "shelf": "411"
     },
