@@ -5940,8 +5940,14 @@
         "identifier": "2zr7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2zr7"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2zr7",
+        "label": "shelf 14",
+        "last_updated": "2023-12-25 10:18:37.613000",
+        "notion_id": "101",
+        "shcn": "14",
+        "shelf": "14",
+        "type": "storage"
     },
     {
         "_id": "64f11b80497c306947286854",
