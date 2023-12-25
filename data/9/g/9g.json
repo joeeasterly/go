@@ -6452,8 +6452,15 @@
         "identifier": "9gt7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9gt7"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9gt7",
+        "bay": "215",
+        "label": "bay 215",
+        "last_updated": "2023-12-24 21:00:00.297000",
+        "notion_id": "158",
+        "shcn": "215",
+        "shelf": "21",
+        "type": "storage"
     },
     {
         "_id": "64f11b92497c3069472ba894",
