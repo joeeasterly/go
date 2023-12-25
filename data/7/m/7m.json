@@ -7526,8 +7526,15 @@
         "identifier": "7mxd",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7mxd"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7mxd",
+        "bay": "414",
+        "label": "bay 414",
+        "last_updated": "2023-12-24 20:52:48.795000",
+        "notion_id": "433",
+        "shcn": "414",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11b8d497c3069472ab91a",
