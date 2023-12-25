@@ -5060,8 +5060,15 @@
         "identifier": "rvms",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rvms"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rvms",
+        "bay": "142",
+        "label": "bay 142",
+        "last_updated": "2023-12-25 10:17:40.938000",
+        "notion_id": "130",
+        "shcn": "142",
+        "shelf": "14",
+        "type": "storage"
     },
     {
         "_id": "64f11bbb497c3069473357e6",
