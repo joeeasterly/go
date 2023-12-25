@@ -5340,8 +5340,14 @@
         "identifier": "bwnv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bwnv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bwnv",
+        "label": "shelf 21",
+        "last_updated": "2023-12-24 21:01:34.741000",
+        "notion_id": "108",
+        "shcn": "21",
+        "shelf": "21",
+        "type": "storage"
     },
     {
         "_id": "64f11b99497c3069472cdc09",
