@@ -7140,8 +7140,17 @@
         "identifier": "uxvw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/uxvw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/uxvw",
+        "bay": "411",
+        "container": "4110",
+        "label": "slot 4110B",
+        "last_updated": "2023-12-24 16:56:18.375000",
+        "notion_id": "678",
+        "shcn": "4110B",
+        "shelf": "41",
+        "slot": "4110B",
+        "type": "storage"
     },
     {
         "_id": "64f11bc3497c30694734e0ea",
