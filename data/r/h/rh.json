@@ -2924,8 +2924,15 @@
         "identifier": "rhce",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rhce"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rhce",
+        "bay": "401",
+        "label": "bay 401",
+        "last_updated": "2023-12-25 09:59:25.047000",
+        "notion_id": "442",
+        "shcn": "401",
+        "shelf": "40",
+        "type": "storage"
     },
     {
         "_id": "64f11bba497c306947332adb",
