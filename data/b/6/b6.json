@@ -7140,8 +7140,15 @@
         "identifier": "b6vw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/b6vw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/b6vw",
+        "bay": "221",
+        "label": "bay 221",
+        "last_updated": "2023-12-24 21:08:45.003000",
+        "notion_id": "279",
+        "shcn": "221",
+        "shelf": "22",
+        "type": "storage"
     },
     {
         "_id": "64f11b97497c3069472c80ea",
