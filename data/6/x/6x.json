@@ -7756,8 +7756,14 @@
         "identifier": "6xya",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6xya"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6xya",
+        "label": "Rolling Workbench",
+        "last_updated": "2023-12-24 20:42:23.945000",
+        "notion_id": "371",
+        "shcn": "40",
+        "shelf": "40",
+        "type": "storage"
     },
     {
         "_id": "64f11b8b497c3069472a6137",
