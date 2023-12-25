@@ -2212,8 +2212,17 @@
         "identifier": "hn9n",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/hn9n"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/hn9n",
+        "bay": "410",
+        "container": "4102",
+        "label": "slot 41021",
+        "last_updated": "2023-12-24 16:52:09.204000",
+        "notion_id": "673",
+        "shcn": "41021",
+        "shelf": "41",
+        "slot": "41021",
+        "type": "storage"
     },
     {
         "_id": "64f11ba7497c3069472fba82",
