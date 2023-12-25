@@ -3308,8 +3308,14 @@
         "identifier": "s1dx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/s1dx"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/s1dx",
+        "label": "shelf 11",
+        "last_updated": "2023-12-25 10:12:39.413000",
+        "notion_id": "98",
+        "shcn": "11",
+        "shelf": "11",
+        "type": "storage"
     },
     {
         "_id": "64f11bbb497c306947336b0b",
@@ -5337,7 +5343,7 @@
         "permalink": "https://joeeasterly.github.io/go/s1nu",
         "staged": "2023-10-23 14:22:43",
         "label": "sandisk 32gb microsd card",
-        "last_updated": "2023-10-24T14:41:15.026000",
+        "last_updated": "2023-10-24 14:41:15.026000",
         "notion_id": "557",
         "bay": "412",
         "container": "4122",
@@ -7374,8 +7380,15 @@
         "identifier": "s1ws",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/s1ws"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/s1ws",
+        "bay": "230",
+        "label": "bay 230",
+        "last_updated": "2023-12-24 21:10:23.721000",
+        "notion_id": "282",
+        "shcn": "230",
+        "shelf": "23",
+        "type": "storage"
     },
     {
         "_id": "64f11bbb497c306947336d06",
