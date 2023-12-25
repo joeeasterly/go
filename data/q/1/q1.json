@@ -5628,8 +5628,15 @@
         "identifier": "q1pz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/q1pz"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/q1pz",
+        "bay": "413",
+        "label": "bay 413",
+        "last_updated": "2023-12-24 20:56:43.482000",
+        "notion_id": "432",
+        "shcn": "413",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11bb6497c306947326c2d",
