@@ -2332,8 +2332,15 @@
         "identifier": "7aa4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7aa4"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7aa4",
+        "bay": "478",
+        "label": "bay 478",
+        "last_updated": "2023-12-24 17:10:39.818000",
+        "notion_id": "589",
+        "shcn": "478",
+        "shelf": "47",
+        "type": "storage"
     },
     {
         "_id": "64f11b8c497c3069472a8e91",
@@ -3410,7 +3417,7 @@
         "bay": "403",
         "container": "4030",
         "label": "4ft usb-a to usb-c cable",
-        "last_updated": "2023-10-25T09:36:07.217000",
+        "last_updated": "2023-10-25 09:36:07.217000",
         "notion_id": "556",
         "shcn": "4030",
         "shelf": "40"
