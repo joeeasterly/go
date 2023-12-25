@@ -2772,8 +2772,14 @@
         "identifier": "85bu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/85bu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/85bu",
+        "label": "shelf 49",
+        "last_updated": "2023-12-24 17:15:33.473000",
+        "notion_id": "577",
+        "shcn": "49",
+        "shelf": "49",
+        "type": "storage"
     },
     {
         "_id": "64f11b8e497c3069472afac8",
