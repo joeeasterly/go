@@ -812,8 +812,15 @@
         "identifier": "sb46",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/sb46"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/sb46",
+        "bay": "475",
+        "label": "bay 475",
+        "last_updated": "2023-12-24 17:11:52.757000",
+        "notion_id": "585",
+        "shcn": "475",
+        "shelf": "47",
+        "type": "storage"
     },
     {
         "_id": "64f11bbc497c3069473391d3",
