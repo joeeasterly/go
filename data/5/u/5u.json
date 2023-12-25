@@ -6228,8 +6228,14 @@
         "identifier": "5usb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5usb"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/5usb",
+        "label": "shelf 36",
+        "last_updated": "2023-12-24 17:34:12.977000",
+        "notion_id": "339",
+        "shcn": "36",
+        "shelf": "36",
+        "type": "storage"
     },
     {
         "_id": "64f11b88497c30694729d478",
