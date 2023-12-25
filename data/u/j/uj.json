@@ -2212,8 +2212,15 @@
         "identifier": "uj9n",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/uj9n"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/uj9n",
+        "bay": "133",
+        "label": "bay 133",
+        "last_updated": "2023-12-25 10:16:55.007000",
+        "notion_id": "127",
+        "shcn": "133",
+        "shelf": "13",
+        "type": "storage"
     },
     {
         "_id": "64f11bc2497c30694734ae82",
