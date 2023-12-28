@@ -7892,8 +7892,15 @@
         "identifier": "bpyu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bpyu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bpyu",
+        "bay": "332",
+        "label": "bay 332",
+        "last_updated": "2023-12-28 14:15:19.712000",
+        "notion_id": "317",
+        "shcn": "332",
+        "shelf": "33",
+        "type": "storage"
     },
     {
         "_id": "64f11b98497c3069472cc148",
