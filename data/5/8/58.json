@@ -2708,8 +2708,15 @@
         "identifier": "58bk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/58bk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/58bk",
+        "bay": "273",
+        "label": "bay 273",
+        "last_updated": "2023-12-28 14:20:55.480000",
+        "notion_id": "291",
+        "shcn": "273",
+        "shelf": "27",
+        "type": "storage"
     },
     {
         "_id": "64f11b87497c3069472986c0",
