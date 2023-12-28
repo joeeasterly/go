@@ -1172,8 +1172,15 @@
         "identifier": "335k",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/335k"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/335k",
+        "bay": "263",
+        "label": "bay 263",
+        "last_updated": "2023-12-28 14:21:50.719000",
+        "notion_id": "287",
+        "shcn": "263",
+        "shelf": "26",
+        "type": "storage"
     },
     {
         "_id": "64f11b81497c306947287200",
