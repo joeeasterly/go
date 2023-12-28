@@ -7084,8 +7084,15 @@
         "identifier": "kyvp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kyvp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/kyvp",
+        "bay": "331",
+        "label": "bay 331",
+        "last_updated": "2023-12-28 14:15:09.683000",
+        "notion_id": "316",
+        "shcn": "331",
+        "shelf": "33",
+        "type": "storage"
     },
     {
         "_id": "64f11bae497c30694730e4e3",
