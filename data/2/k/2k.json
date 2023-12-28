@@ -3036,9 +3036,15 @@
         "identifier": "2kcv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/2kcv",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "label": "Project Source 15ft polarized 3-outlet indoor cord",
+        "last_updated": "2023-12-26 15:45:15.058000",
+        "notion_id": "689",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b7f497c3069472832e9",
