@@ -6981,8 +6981,15 @@
         "identifier": "8wv9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8wv9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8wv9",
+        "bay": "151",
+        "label": "bay 151",
+        "last_updated": "2023-12-28 14:29:38.098000",
+        "notion_id": "133",
+        "shcn": "151",
+        "shelf": "15",
+        "type": "storage"
     },
     {
         "_id": "64f11b90497c3069472b5cd6",
