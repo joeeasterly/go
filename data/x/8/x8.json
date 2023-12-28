@@ -452,8 +452,15 @@
         "identifier": "x82s",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x82s"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/x82s",
+        "bay": "320",
+        "label": "bay 320",
+        "last_updated": "2023-12-28 14:15:43.475000",
+        "notion_id": "311",
+        "shcn": "320",
+        "shelf": "32",
+        "type": "storage"
     },
     {
         "_id": "64f11bc9497c3069473605a6",
