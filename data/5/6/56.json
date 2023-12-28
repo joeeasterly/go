@@ -5004,8 +5004,14 @@
         "identifier": "56mj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/56mj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/56mj",
+        "label": "shelf 15",
+        "last_updated": "2023-12-28 14:29:47.095000",
+        "notion_id": "102",
+        "shcn": "15",
+        "shelf": "15",
+        "type": "storage"
     },
     {
         "_id": "64f11b87497c306947297fdf",
