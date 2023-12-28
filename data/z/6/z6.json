@@ -684,9 +684,15 @@
         "identifier": "z63p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/z63p",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "label": "Project Source 6ft Indoor Cord Polarized 3-outlet",
+        "last_updated": "2023-12-26 15:22:27.265000",
+        "notion_id": "687",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bce497c30694736fdc3",
