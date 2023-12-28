@@ -3972,8 +3972,15 @@
         "identifier": "mdgh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mdgh"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mdgh",
+        "bay": "202",
+        "label": "bay 202",
+        "last_updated": "2023-12-28 14:29:09.217000",
+        "notion_id": "150",
+        "shcn": "202",
+        "shelf": "20",
+        "type": "storage"
     },
     {
         "_id": "64f11baf497c306947311b5e",
