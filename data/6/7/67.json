@@ -1588,8 +1588,15 @@
         "identifier": "6777",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6777"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6777",
+        "bay": "293",
+        "label": "bay 293",
+        "last_updated": "2023-12-28 14:19:05.534000",
+        "notion_id": "304",
+        "shcn": "293",
+        "shelf": "29",
+        "type": "storage"
     },
     {
         "_id": "64f11b89497c3069472a0234",
