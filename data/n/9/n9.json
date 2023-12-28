@@ -1100,8 +1100,15 @@
         "identifier": "n95a",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/n95a"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/n95a",
+        "bay": "191",
+        "label": "bay 191",
+        "last_updated": "2023-12-28 14:28:57.124000",
+        "notion_id": "270",
+        "shcn": "191",
+        "shelf": "19",
+        "type": "storage"
     },
     {
         "_id": "64f11bb1497c3069473189f7",
