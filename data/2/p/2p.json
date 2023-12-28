@@ -1532,8 +1532,15 @@
         "identifier": "2p6z",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2p6z"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2p6z",
+        "bay": "262",
+        "label": "bay 262",
+        "last_updated": "2023-12-28 14:21:59.307000",
+        "notion_id": "286",
+        "shcn": "262",
+        "shelf": "26",
+        "type": "storage"
     },
     {
         "_id": "64f11b80497c306947283e2d",
