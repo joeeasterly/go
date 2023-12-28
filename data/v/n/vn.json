@@ -4132,8 +4132,14 @@
         "identifier": "vnh5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vnh5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vnh5",
+        "label": "shelf 19",
+        "last_updated": "2023-12-28 14:30:57.962000",
+        "notion_id": "106",
+        "shcn": "19",
+        "shelf": "19",
+        "type": "storage"
     },
     {
         "_id": "64f11bc5497c306947353b72",
