@@ -6108,8 +6108,15 @@
         "identifier": "ugrv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ugrv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ugrv",
+        "bay": "186",
+        "label": "bay 186",
+        "last_updated": "2023-12-28 14:25:58.548000",
+        "notion_id": "275",
+        "shcn": "186",
+        "shelf": "18",
+        "type": "storage"
     },
     {
         "_id": "64f11bc2497c30694734a869",
