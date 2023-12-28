@@ -7628,8 +7628,15 @@
         "identifier": "62xt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/62xt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/62xt",
+        "bay": "152",
+        "label": "bay 152",
+        "last_updated": "2023-12-28 14:29:56.468000",
+        "notion_id": "134",
+        "shcn": "152",
+        "shelf": "15",
+        "type": "storage"
     },
     {
         "_id": "64f11b89497c30694729f127",
