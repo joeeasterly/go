@@ -5996,8 +5996,15 @@
         "identifier": "nwre",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nwre"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nwre",
+        "bay": "310",
+        "label": "bay 310",
+        "last_updated": "2023-12-28 14:16:26.702000",
+        "notion_id": "307",
+        "shcn": "310",
+        "shelf": "31",
+        "type": "storage"
     },
     {
         "_id": "64f11bb2497c30694731dc5b",
