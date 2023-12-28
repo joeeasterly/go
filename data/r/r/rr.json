@@ -6052,8 +6052,15 @@
         "identifier": "rrrn",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rrrn"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rrrn",
+        "bay": "180",
+        "label": "bay 180",
+        "last_updated": "2023-12-28 14:26:33.359000",
+        "notion_id": "277",
+        "shcn": "180",
+        "shelf": "18",
+        "type": "storage"
     },
     {
         "_id": "64f11bba497c306947334862",
