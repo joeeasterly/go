@@ -2428,8 +2428,15 @@
         "identifier": "xnag",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xnag"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xnag",
+        "bay": "272",
+        "label": "bay 272",
+        "last_updated": "2023-12-28 14:21:07.300000",
+        "notion_id": "290",
+        "shcn": "272",
+        "shelf": "27",
+        "type": "storage"
     },
     {
         "_id": "64f11bca497c306947363a9d",
@@ -8024,7 +8031,7 @@
         "permalink": "https://joeeasterly.github.io/go/xnzb",
         "bay": "560",
         "label": "ttukbaegi",
-        "last_updated": "2023-11-25T21:26:30.796000",
+        "last_updated": "2023-11-25 21:26:30.796000",
         "notion_id": "649",
         "shcn": "560",
         "shelf": "56",
