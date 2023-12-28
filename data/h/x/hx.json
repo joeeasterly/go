@@ -4804,8 +4804,15 @@
         "identifier": "hxks",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/hxks"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/hxks",
+        "bay": "313",
+        "label": "bay 313",
+        "last_updated": "2023-12-28 14:17:01.104000",
+        "notion_id": "310",
+        "shcn": "313",
+        "shelf": "31",
+        "type": "storage"
     },
     {
         "_id": "64f11ba8497c3069472fdfc6",
