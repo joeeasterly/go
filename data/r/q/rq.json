@@ -6091,8 +6091,15 @@
         "identifier": "rqrs",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rqrs"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rqrs",
+        "bay": "260",
+        "label": "bay 260",
+        "last_updated": "2023-12-28 14:21:28.596000",
+        "notion_id": "296",
+        "shcn": "260",
+        "shelf": "26",
+        "type": "storage"
     },
     {
         "_id": "64f11bba497c306947334466",
