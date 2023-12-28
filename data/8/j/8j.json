@@ -452,8 +452,15 @@
         "identifier": "8j2s",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8j2s"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8j2s",
+        "bay": "164",
+        "label": "bay 164",
+        "last_updated": "2023-12-28 14:28:03.265000",
+        "notion_id": "269",
+        "shcn": "164",
+        "shelf": "16",
+        "type": "storage"
     },
     {
         "_id": "64f11b8f497c3069472b2da6",
