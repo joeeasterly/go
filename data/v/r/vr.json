@@ -6308,8 +6308,15 @@
         "identifier": "vrsn",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vrsn"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vrsn",
+        "bay": "193",
+        "label": "bay 193",
+        "last_updated": "2023-12-28 14:31:48.759000",
+        "notion_id": "272",
+        "shcn": "193",
+        "shelf": "19",
+        "type": "storage"
     },
     {
         "_id": "64f11bc5497c306947354882",
