@@ -5437,8 +5437,15 @@
         "identifier": "v5p8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v5p8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v5p8",
+        "bay": "194",
+        "label": "bay 194",
+        "last_updated": "2023-12-28 14:31:10.044000",
+        "notion_id": "273",
+        "shcn": "194",
+        "shelf": "19",
+        "type": "storage"
     },
     {
         "_id": "64f11bc4497c30694734fc15",
