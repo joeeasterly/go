@@ -7091,8 +7091,15 @@
         "identifier": "rvvp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rvvp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rvvp",
+        "bay": "282",
+        "label": "bay 282",
+        "last_updated": "2023-12-28 14:20:07.669000",
+        "notion_id": "294",
+        "shcn": "282",
+        "shelf": "28",
+        "type": "storage"
     },
     {
         "_id": "64f11bbb497c3069473358e3",
