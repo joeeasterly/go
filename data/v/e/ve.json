@@ -5895,7 +5895,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ver1",
         "label": "1in #10 flat screw",
-        "last_updated": "2023-10-18T14:31:19.932000",
+        "last_updated": "2023-10-18 14:31:19.932000",
         "notion_id": "407",
         "shelf": "41",
         "bay": "411",
@@ -6572,8 +6572,15 @@
         "identifier": "vetn",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vetn"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vetn",
+        "bay": "162",
+        "label": "bay 162",
+        "last_updated": "2023-12-28 14:27:39.916000",
+        "notion_id": "138",
+        "shcn": "162",
+        "shelf": "16",
+        "type": "storage"
     },
     {
         "_id": "64f11bc5497c3069473520a2",
