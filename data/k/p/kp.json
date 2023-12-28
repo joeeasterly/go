@@ -7887,8 +7887,14 @@
         "identifier": "kpys",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kpys"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/kpys",
+        "label": "shelf 25",
+        "last_updated": "2023-12-28 14:23:00.549000",
+        "notion_id": "111",
+        "shcn": "25",
+        "shelf": "25",
+        "type": "storage"
     },
     {
         "_id": "64f11bad497c30694730c146",
