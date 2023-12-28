@@ -1148,8 +1148,15 @@
         "identifier": "945g",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/945g"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/945g",
+        "bay": "190",
+        "label": "bay 190",
+        "last_updated": "2023-12-28 14:29:19.662000",
+        "notion_id": "148",
+        "shcn": "190",
+        "shelf": "19",
+        "type": "storage"
     },
     {
         "_id": "64f11b91497c3069472b75fd",
