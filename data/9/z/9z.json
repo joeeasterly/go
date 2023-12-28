@@ -156,8 +156,14 @@
         "identifier": "9z1m",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9z1m"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9z1m",
+        "label": "shelf 16",
+        "last_updated": "2023-12-28 14:26:45.506000",
+        "notion_id": "103",
+        "shcn": "16",
+        "shelf": "16",
+        "type": "storage"
     },
     {
         "_id": "64f11b93497c3069472be581",
