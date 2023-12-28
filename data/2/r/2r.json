@@ -5324,8 +5324,15 @@
         "identifier": "2rnt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2rnt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2rnt",
+        "bay": "204",
+        "label": "bay 204",
+        "last_updated": "2023-12-28 14:30:20.506000",
+        "notion_id": "152",
+        "shcn": "204",
+        "shelf": "20",
+        "type": "storage"
     },
     {
         "_id": "64f11b80497c306947284807",
@@ -5852,8 +5859,15 @@
         "identifier": "2rqv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2rqv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2rqv",
+        "bay": "301",
+        "label": "bay 301",
+        "last_updated": "2023-12-28 14:17:15.773000",
+        "notion_id": "306",
+        "shcn": "301",
+        "shelf": "30",
+        "type": "storage"
     },
     {
         "_id": "64f11b80497c306947284849",
