@@ -1372,8 +1372,15 @@
         "identifier": "jf6c",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jf6c"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/jf6c",
+        "bay": "201",
+        "label": "bay 201",
+        "last_updated": "2023-12-28 14:30:39.131000",
+        "notion_id": "149",
+        "shcn": "201",
+        "shelf": "20",
+        "type": "storage"
     },
     {
         "_id": "64f11ba9497c306947302219",
