@@ -1628,8 +1628,15 @@
         "identifier": "ap7c",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ap7c"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ap7c",
+        "bay": "271",
+        "label": "bay 271",
+        "last_updated": "2023-12-28 14:22:24.734000",
+        "notion_id": "289",
+        "shcn": "271",
+        "shelf": "27",
+        "type": "storage"
     },
     {
         "_id": "64f11b95497c3069472c3e39",
