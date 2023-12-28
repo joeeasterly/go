@@ -4948,8 +4948,14 @@
         "identifier": "bwmb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bwmb"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bwmb",
+        "label": "shelf 20",
+        "last_updated": "2023-12-28 14:30:46.486000",
+        "notion_id": "107",
+        "shcn": "20",
+        "shelf": "20",
+        "type": "storage"
     },
     {
         "_id": "64f11b99497c3069472cdbd8",
