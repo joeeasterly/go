@@ -3637,9 +3637,16 @@
         "identifier": "5mf7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/5mf7",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "592",
+        "label": "power cable for Ankarsrum Mixer",
+        "last_updated": "2023-12-28 17:32:43.659000",
+        "notion_id": "693",
+        "shcn": "592",
+        "shelf": "59",
+        "type": "item"
     },
     {
         "_id": "64f11b88497c30694729b734",
