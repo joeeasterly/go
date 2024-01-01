@@ -180,8 +180,15 @@
         "identifier": "xq1q",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xq1q"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xq1q",
+        "bay": "5G5",
+        "label": "bay 5G5",
+        "last_updated": "2024-01-01 16:05:29.657000",
+        "notion_id": "745",
+        "shcn": "5G5",
+        "shelf": "5G",
+        "type": "storage"
     },
     {
         "_id": "64f11bca497c306947364184",
@@ -7311,7 +7318,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/xqwj",
         "label": "zinc #10 SAE nuts",
-        "last_updated": "2023-10-05T17:00:37.084000",
+        "last_updated": "2023-10-05 17:00:37.084000",
         "notion_id": "388",
         "shelf": "411"
     },
