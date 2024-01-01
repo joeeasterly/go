@@ -5188,8 +5188,14 @@
         "identifier": "v1n9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v1n9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v1n9",
+        "label": "wall-mount pantry shelf",
+        "last_updated": "2024-01-01 15:57:37.990000",
+        "notion_id": "739",
+        "shcn": "5G",
+        "shelf": "5G",
+        "type": "storage"
     },
     {
         "_id": "64f11bc3497c30694734ebf6",
