@@ -1700,9 +1700,17 @@
         "identifier": "ey7n",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ey7n",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "Box: Canon Lens Hood ET-74B",
+        "last_updated": "2023-12-31 10:53:40.189000",
+        "notion_id": "705",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba0497c3069472e6242",
