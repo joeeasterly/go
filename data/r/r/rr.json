@@ -1276,8 +1276,15 @@
         "identifier": "rr5z",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rr5z"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rr5z",
+        "bay": "5F8",
+        "label": "bay 5F8",
+        "last_updated": "2024-01-01 15:46:10.680000",
+        "notion_id": "730",
+        "shcn": "5F8",
+        "shelf": "5F",
+        "type": "storage"
     },
     {
         "_id": "64f11bba497c30694733460d",
