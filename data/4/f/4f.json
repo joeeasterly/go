@@ -540,8 +540,15 @@
         "identifier": "4f34",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4f34"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4f34",
+        "bay": "5EC",
+        "label": "bay 5EC",
+        "last_updated": "2024-01-01 15:54:25.530000",
+        "notion_id": "737",
+        "shcn": "5EC",
+        "shelf": "5E",
+        "type": "storage"
     },
     {
         "_id": "64f11b84497c3069472921b1",
