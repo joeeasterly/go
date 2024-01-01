@@ -3644,8 +3644,15 @@
         "identifier": "tdf8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tdf8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tdf8",
+        "bay": "5E8",
+        "label": "bay 5E8",
+        "last_updated": "2024-01-01 15:53:05.624000",
+        "notion_id": "733",
+        "shcn": "5E8",
+        "shelf": "5E",
+        "type": "storage"
     },
     {
         "_id": "64f11bbf497c306947341b35",
@@ -6536,7 +6543,7 @@
         "permalink": "https://joeeasterly.github.io/go/tdth",
         "bay": "561",
         "label": "earthen serveware",
-        "last_updated": "2023-11-25T21:28:50.370000",
+        "last_updated": "2023-11-25 21:28:50.370000",
         "notion_id": "650",
         "shcn": "561",
         "shelf": "56",
