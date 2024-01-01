@@ -4516,8 +4516,15 @@
         "identifier": "ymjn",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ymjn"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ymjn",
+        "bay": "5V1",
+        "label": "bay 5V1",
+        "last_updated": "2024-01-01 17:14:08.068000",
+        "notion_id": "808",
+        "shcn": "5V1",
+        "shelf": "5V",
+        "type": "storage"
     },
     {
         "_id": "64f11bcd497c30694736b7a2",
