@@ -4716,8 +4716,15 @@
         "identifier": "nmke",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nmke"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nmke",
+        "bay": "5P2",
+        "label": "bay 5P2",
+        "last_updated": "2024-01-01 16:34:15.276000",
+        "notion_id": "771",
+        "shcn": "5P2",
+        "shelf": "5P",
+        "type": "storage"
     },
     {
         "_id": "64f11bb2497c30694731b7bb",
