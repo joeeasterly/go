@@ -540,8 +540,14 @@
         "identifier": "up34",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/up34"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/up34",
+        "label": "great room bookshelf",
+        "last_updated": "2024-01-01 16:52:06.371000",
+        "notion_id": "787",
+        "shcn": "5S",
+        "shelf": "5S",
+        "type": "storage"
     },
     {
         "_id": "64f11bc2497c30694734bdb1",
