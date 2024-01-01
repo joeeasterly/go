@@ -3116,8 +3116,15 @@
         "identifier": "69d6",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/69d6"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/69d6",
+        "bay": "5Q1",
+        "label": "bay 5Q1",
+        "last_updated": "2024-01-01 16:37:08.939000",
+        "notion_id": "776",
+        "shcn": "5Q1",
+        "shelf": "5Q",
+        "type": "storage"
     },
     {
         "_id": "64f11b89497c3069472a0af3",
