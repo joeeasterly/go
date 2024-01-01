@@ -2455,16 +2455,9 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/d6ak",
         "label": "test record",
-        "last_updated": "2023-10-18T15:42:19.257000",
+        "last_updated": "2023-10-18 15:42:19.257000",
         "notion_id": "504",
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
+        "shcn": "10",
         "type": "item"
     },
     {
@@ -7664,8 +7657,15 @@
         "identifier": "d6xw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/d6xw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/d6xw",
+        "bay": "5J1",
+        "label": "bay 5J1",
+        "last_updated": "2024-01-01 16:20:47.380000",
+        "notion_id": "756",
+        "shcn": "5J1",
+        "shelf": "5J",
+        "type": "storage"
     },
     {
         "_id": "64f11b9c497c3069472d812a",
