@@ -3772,8 +3772,15 @@
         "identifier": "v4fr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v4fr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v4fr",
+        "bay": "5U4",
+        "label": "bay 5U4",
+        "last_updated": "2024-01-01 17:07:59.336000",
+        "notion_id": "804",
+        "shcn": "5U4",
+        "shelf": "5U",
+        "type": "storage"
     },
     {
         "_id": "64f11bc4497c30694734f745",
