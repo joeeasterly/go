@@ -2540,8 +2540,15 @@
         "identifier": "zvax",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/zvax"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/zvax",
+        "bay": "5T1",
+        "label": "powder closet hanging rack",
+        "last_updated": "2024-01-01 17:04:09.538000",
+        "notion_id": "797",
+        "shcn": "5T1",
+        "shelf": "5T",
+        "type": "storage"
     },
     {
         "_id": "64f11bd0497c3069473756ab",
