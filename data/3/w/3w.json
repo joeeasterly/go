@@ -6204,8 +6204,15 @@
         "identifier": "3ws8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3ws8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3ws8",
+        "bay": "5U5",
+        "label": "bay 5U5",
+        "last_updated": "2024-01-01 17:08:18.581000",
+        "notion_id": "805",
+        "shcn": "5U5",
+        "shelf": "5U",
+        "type": "storage"
     },
     {
         "_id": "64f11b83497c30694728dc75",
