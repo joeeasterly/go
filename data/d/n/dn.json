@@ -6683,8 +6683,14 @@
         "identifier": "dnu3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dnu3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/dnu3",
+        "label": "laundry room closet",
+        "last_updated": "2024-01-01 16:36:26.756000",
+        "notion_id": "774",
+        "shcn": "5Q",
+        "shelf": "5Q",
+        "type": "storage"
     },
     {
         "_id": "64f11b9d497c3069472dbcb0",
