@@ -5324,8 +5324,14 @@
         "identifier": "pant",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pant"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/pant",
+        "label": "black pantry shelf",
+        "last_updated": "2024-01-01 16:09:36.038000",
+        "notion_id": "749",
+        "shcn": "5H",
+        "shelf": "5H",
+        "type": "storage"
     },
     {
         "_id": "64f11bb4497c306947321007",
