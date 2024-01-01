@@ -5251,8 +5251,14 @@
         "identifier": "x7ng",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x7ng"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/x7ng",
+        "label": "white laundry room shelf",
+        "last_updated": "2024-01-01 16:28:39.849000",
+        "notion_id": "768",
+        "shcn": "5P",
+        "shelf": "5P",
+        "type": "storage"
     },
     {
         "_id": "64f11bc9497c3069473603fd",
