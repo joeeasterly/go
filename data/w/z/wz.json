@@ -4756,8 +4756,14 @@
         "identifier": "wzkk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wzkk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wzkk",
+        "label": "laundry supplies",
+        "last_updated": "2024-01-01 16:25:54.604000",
+        "notion_id": "760",
+        "shcn": "5M",
+        "shelf": "5M",
+        "type": "storage"
     },
     {
         "_id": "64f11bc9497c30694735e7c0",
