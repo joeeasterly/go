@@ -2452,8 +2452,15 @@
         "identifier": "tyak",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tyak"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tyak",
+        "bay": "5G7",
+        "label": "bay 5G7",
+        "last_updated": "2024-01-01 16:07:11.235000",
+        "notion_id": "747",
+        "shcn": "5G7",
+        "shelf": "5G",
+        "type": "storage"
     },
     {
         "_id": "64f11bc0497c3069473462a0",
