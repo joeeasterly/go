@@ -4028,8 +4028,15 @@
         "identifier": "7sgr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7sgr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7sgr",
+        "bay": "5EA",
+        "label": "bay 5EA",
+        "last_updated": "2024-01-01 15:53:42.663000",
+        "notion_id": "735",
+        "shcn": "5EA",
+        "shelf": "5E",
+        "type": "storage"
     },
     {
         "_id": "64f11b8d497c3069472acb65",
