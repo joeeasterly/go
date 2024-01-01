@@ -5200,9 +5200,15 @@
         "identifier": "qpn9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/qpn9",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "label": "Apple 3ft usb-a to lightning cable",
+        "last_updated": "2023-12-31 16:51:15.402000",
+        "notion_id": "715",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11bb7497c30694732bff6",
