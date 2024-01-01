@@ -7354,8 +7354,15 @@
         "identifier": "n3wq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/n3wq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/n3wq",
+        "bay": "5F2",
+        "label": "bay 5F2",
+        "last_updated": "2024-01-01 15:39:05.154000",
+        "notion_id": "723",
+        "shcn": "5F2",
+        "shelf": "5F",
+        "type": "storage"
     },
     {
         "_id": "64f11bb0497c306947317504",
