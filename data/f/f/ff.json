@@ -1108,8 +1108,15 @@
         "identifier": "ff5b",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ff5b"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ff5b",
+        "bay": "5R0",
+        "label": "bay 5R0",
+        "last_updated": "2024-01-01 16:48:15.364000",
+        "notion_id": "781",
+        "shcn": "5R0",
+        "shelf": "5R",
+        "type": "storage"
     },
     {
         "_id": "64f11ba2497c3069472ea1f8",
