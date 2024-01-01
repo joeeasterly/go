@@ -7316,8 +7316,14 @@
         "identifier": "zjwk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/zjwk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/zjwk",
+        "label": "utility cabinet",
+        "last_updated": "2024-01-01 16:19:49.719000",
+        "notion_id": "754",
+        "shcn": "5J",
+        "shelf": "5J",
+        "type": "storage"
     },
     {
         "_id": "64f11bcf497c306947373100",
