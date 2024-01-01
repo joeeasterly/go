@@ -5668,8 +5668,15 @@
         "identifier": "d9q5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/d9q5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/d9q5",
+        "bay": "5S4",
+        "label": "weather station display",
+        "last_updated": "2024-01-01 16:54:51.444000",
+        "notion_id": "792",
+        "shcn": "5S4",
+        "shelf": "5S",
+        "type": "storage"
     },
     {
         "_id": "64f11b9c497c3069472d8c32",
@@ -7356,8 +7363,15 @@
         "identifier": "d9wr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/d9wr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/d9wr",
+        "bay": "5EB",
+        "label": "bay 5EB",
+        "last_updated": "2024-01-01 15:54:05.019000",
+        "notion_id": "736",
+        "shcn": "5EB",
+        "shelf": "5E",
+        "type": "storage"
     },
     {
         "_id": "64f11b9c497c3069472d8d05",
