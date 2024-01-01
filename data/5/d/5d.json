@@ -4380,8 +4380,14 @@
         "identifier": "5dj4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5dj4"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/5dj4",
+        "label": "utility sink",
+        "last_updated": "2024-01-01 16:24:19.323000",
+        "notion_id": "758",
+        "shcn": "5K",
+        "shelf": "5K",
+        "type": "storage"
     },
     {
         "_id": "64f11b87497c306947299b91",
