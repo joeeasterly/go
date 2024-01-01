@@ -428,8 +428,15 @@
         "identifier": "z32p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/z32p"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/z32p",
+        "bay": "5S6",
+        "label": "main floor printer",
+        "last_updated": "2024-01-01 16:55:57.403000",
+        "notion_id": "794",
+        "shcn": "5S6",
+        "shelf": "5S",
+        "type": "storage"
     },
     {
         "_id": "64f11bce497c30694736f1a3",
@@ -3567,7 +3574,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/z3ex",
         "label": "stove utensils, pans",
-        "last_updated": "2023-11-25T20:41:28.804000",
+        "last_updated": "2023-11-25 20:41:28.804000",
         "notion_id": "610",
         "shcn": "5B",
         "shelf": "5B",
