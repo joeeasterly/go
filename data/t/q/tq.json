@@ -7876,8 +7876,15 @@
         "identifier": "tqys",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tqys"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tqys",
+        "bay": "5U2",
+        "label": "bay 5U2",
+        "last_updated": "2024-01-01 17:07:36.805000",
+        "notion_id": "802",
+        "shcn": "5U2",
+        "shelf": "5U",
+        "type": "storage"
     },
     {
         "_id": "64f11bc0497c306947344546",
