@@ -6436,9 +6436,15 @@
         "identifier": "m3t5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/m3t5",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "label": "Apple 3ft usb-c to usb-c cable",
+        "last_updated": "2023-12-31 11:09:26.527000",
+        "notion_id": "711",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11bae497c30694730f492",
