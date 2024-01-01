@@ -3516,9 +3516,17 @@
         "identifier": "h3er",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/h3er",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "Box: Apple Magic Mouse",
+        "last_updated": "2023-12-31 16:52:28.878000",
+        "notion_id": "716",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba6497c3069472f7325",
