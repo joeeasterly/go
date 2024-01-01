@@ -5083,8 +5083,15 @@
         "identifier": "ujmu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ujmu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ujmu",
+        "bay": "5S5",
+        "label": "bay 5S5",
+        "last_updated": "2024-01-01 16:55:31.180000",
+        "notion_id": "793",
+        "shcn": "5S5",
+        "shelf": "5S",
+        "type": "storage"
     },
     {
         "_id": "64f11bc2497c30694734afe8",
