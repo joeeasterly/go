@@ -2460,8 +2460,15 @@
         "identifier": "fnam",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fnam"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fnam",
+        "bay": "5V2",
+        "label": "bay 5v2",
+        "last_updated": "2024-01-01 17:14:53.965000",
+        "notion_id": "809",
+        "shcn": "5V2",
+        "shelf": "5V",
+        "type": "storage"
     },
     {
         "_id": "64f11ba2497c3069472ebaa1",
