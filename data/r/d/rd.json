@@ -2468,8 +2468,15 @@
         "identifier": "rdan",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rdan"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rdan",
+        "bay": "5E3",
+        "label": "leftovers",
+        "last_updated": "2023-12-31 10:31:37.150000",
+        "notion_id": "697",
+        "shcn": "5E3",
+        "shelf": "5E",
+        "type": "storage"
     },
     {
         "_id": "64f11bb9497c306947331aa2",
