@@ -6035,9 +6035,16 @@
         "identifier": "q5rj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/q5rj",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "222",
+        "label": "Box: Sony A7RV Camera",
+        "last_updated": "2023-12-31 16:48:30.431000",
+        "notion_id": "708",
+        "shcn": "222",
+        "shelf": "22",
+        "type": "item"
     },
     {
         "_id": "64f11bb6497c306947327c5f",
