@@ -6804,8 +6804,15 @@
         "identifier": "quuk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/quuk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/quuk",
+        "bay": "5F4",
+        "label": "bay 5F4",
+        "last_updated": "2024-01-01 15:39:41.700000",
+        "notion_id": "725",
+        "shcn": "5F4",
+        "shelf": "5F",
+        "type": "storage"
     },
     {
         "_id": "64f11bb8497c30694732d4c0",
