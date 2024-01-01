@@ -5988,8 +5988,15 @@
         "identifier": "fard",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fard"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fard",
+        "bay": "5T0",
+        "label": "bay 5T0",
+        "last_updated": "2024-01-01 17:02:30.831000",
+        "notion_id": "796",
+        "shcn": "5T0",
+        "shelf": "5T",
+        "type": "storage"
     },
     {
         "_id": "64f11ba1497c3069472e905a",
@@ -6872,7 +6879,7 @@
         "permalink": "https://joeeasterly.github.io/go/fauu",
         "bay": "5C0",
         "label": "sink, kitchen counter, drying rack",
-        "last_updated": "2023-11-26T17:53:07.398000",
+        "last_updated": "2023-11-26 17:53:07.398000",
         "notion_id": "662",
         "shcn": "5C0",
         "shelf": "5C",
