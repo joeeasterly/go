@@ -7540,8 +7540,15 @@
         "identifier": "ruxf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ruxf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ruxf",
+        "bay": "5H2",
+        "label": "bay 5H2",
+        "last_updated": "2024-01-01 16:11:30.537000",
+        "notion_id": "752",
+        "shcn": "5H2",
+        "shelf": "5H",
+        "type": "storage"
     },
     {
         "_id": "64f11bbb497c30694733551c",
