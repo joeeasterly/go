@@ -3948,8 +3948,15 @@
         "identifier": "juge",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/juge"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/juge",
+        "bay": "5S3",
+        "label": "cookbooks",
+        "last_updated": "2024-01-01 16:54:15.192000",
+        "notion_id": "791",
+        "shcn": "5S3",
+        "shelf": "5S",
+        "type": "storage"
     },
     {
         "_id": "64f11bab497c30694730535b",
