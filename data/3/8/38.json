@@ -4564,8 +4564,15 @@
         "identifier": "38ju",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/38ju"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/38ju",
+        "bay": "5ED",
+        "label": "bay 5ED",
+        "last_updated": "2024-01-01 15:54:40.829000",
+        "notion_id": "738",
+        "shcn": "5ED",
+        "shelf": "5E",
+        "type": "storage"
     },
     {
         "_id": "64f11b81497c3069472887a8",
