@@ -3700,8 +3700,14 @@
         "identifier": "buff",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/buff"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/buff",
+        "label": "dining room buffet",
+        "last_updated": "2024-01-01 17:13:24.135000",
+        "notion_id": "806",
+        "shcn": "5V",
+        "shelf": "5V",
+        "type": "storage"
     },
     {
         "_id": "64f11b98497c3069472cd33c",
