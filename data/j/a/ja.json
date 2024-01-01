@@ -2180,8 +2180,15 @@
         "identifier": "ja9h",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ja9h"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ja9h",
+        "bay": "5E4",
+        "label": "kimchi",
+        "last_updated": "2023-12-31 10:32:00.405000",
+        "notion_id": "698",
+        "shcn": "5E4",
+        "shelf": "5E",
+        "type": "storage"
     },
     {
         "_id": "64f11ba9497c306947300e7e",
@@ -5015,7 +5022,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/jamk",
         "label": "msi display power adapter",
-        "last_updated": "2023-10-08T21:22:37.091000",
+        "last_updated": "2023-10-08 21:22:37.091000",
         "notion_id": "421",
         "shelf": "40",
         "bay": "402",
