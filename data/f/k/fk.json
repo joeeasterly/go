@@ -244,8 +244,15 @@
         "identifier": "fk1y",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fk1y"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fk1y",
+        "bay": "5U1",
+        "label": "bay 5U1",
+        "last_updated": "2024-01-01 17:07:26.257000",
+        "notion_id": "801",
+        "shcn": "5U1",
+        "shelf": "5U",
+        "type": "storage"
     },
     {
         "_id": "64f11ba2497c3069472eb18c",
