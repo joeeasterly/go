@@ -7644,8 +7644,15 @@
         "identifier": "p8xv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/p8xv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/p8xv",
+        "bay": "5U3",
+        "label": "bay 5U3",
+        "last_updated": "2024-01-01 17:07:49.539000",
+        "notion_id": "803",
+        "shcn": "5U3",
+        "shelf": "5U",
+        "type": "storage"
     },
     {
         "_id": "64f11bb3497c306947320929",
