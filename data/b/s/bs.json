@@ -5828,8 +5828,15 @@
         "identifier": "bsqs",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bsqs"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bsqs",
+        "bay": "5F9",
+        "label": "bay 5F9",
+        "last_updated": "2024-01-01 15:46:44.022000",
+        "notion_id": "731",
+        "shcn": "5F9",
+        "shelf": "5F",
+        "type": "storage"
     },
     {
         "_id": "64f11b98497c3069472ccc46",
