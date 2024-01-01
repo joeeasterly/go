@@ -3220,8 +3220,16 @@
         "identifier": "uudk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/uudk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/uudk",
+        "bay": "5E4",
+        "container": "5E40",
+        "label": "cheese drawer",
+        "last_updated": "2024-01-01 15:45:17.808000",
+        "notion_id": "727",
+        "shcn": "5E40",
+        "shelf": "5E",
+        "type": "storage"
     },
     {
         "_id": "64f11bc3497c30694734d300",
@@ -3836,8 +3844,15 @@
         "identifier": "uufz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/uufz"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/uufz",
+        "bay": "5S2",
+        "label": "cookbooks",
+        "last_updated": "2024-01-01 16:53:44.681000",
+        "notion_id": "790",
+        "shcn": "5S2",
+        "shelf": "5S",
+        "type": "storage"
     },
     {
         "_id": "64f11bc3497c30694734d34d",
