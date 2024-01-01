@@ -5940,9 +5940,16 @@
         "identifier": "jsr7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/jsr7",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "222",
+        "label": "Box: Sony RMT-P1BT Remote Commander",
+        "last_updated": "2023-12-31 16:47:56.807000",
+        "notion_id": "703",
+        "shcn": "222",
+        "shelf": "22",
+        "type": "item"
     },
     {
         "_id": "64f11bab497c306947304c54",
