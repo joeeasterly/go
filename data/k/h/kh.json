@@ -4092,9 +4092,17 @@
         "identifier": "khgz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/khgz",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "Box: Korg opsix SE Altered FM synthesizer",
+        "last_updated": "2023-12-31 11:19:57.418000",
+        "notion_id": "714",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bad497c30694730ab6d",
