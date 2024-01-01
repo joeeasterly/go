@@ -7348,8 +7348,15 @@
         "identifier": "x4wq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x4wq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/x4wq",
+        "bay": "5S1",
+        "label": "home reference books",
+        "last_updated": "2024-01-01 16:53:22.555000",
+        "notion_id": "789",
+        "shcn": "5S1",
+        "shelf": "5S",
+        "type": "storage"
     },
     {
         "_id": "64f11bc9497c30694735f904",
