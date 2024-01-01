@@ -804,8 +804,15 @@
         "identifier": "kv45",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kv45"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/kv45",
+        "bay": "5R3",
+        "label": "bay 5R3",
+        "last_updated": "2024-01-01 16:49:45.272000",
+        "notion_id": "784",
+        "shcn": "5R3",
+        "shelf": "5R",
+        "type": "storage"
     },
     {
         "_id": "64f11bae497c30694730d5d2",
