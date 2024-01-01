@@ -4979,8 +4979,15 @@
         "identifier": "p5me",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/p5me"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/p5me",
+        "bay": "5G1",
+        "label": "bay 5G1",
+        "last_updated": "2024-01-01 15:59:43.558000",
+        "notion_id": "741",
+        "shcn": "5G1",
+        "shelf": "5G",
+        "type": "storage"
     },
     {
         "_id": "64f11bb3497c30694731fbdb",
