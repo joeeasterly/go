@@ -7628,8 +7628,15 @@
         "identifier": "9rxt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9rxt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9rxt",
+        "bay": "5F0",
+        "label": "bay 5F0",
+        "last_updated": "2024-01-01 15:37:43.981000",
+        "notion_id": "721",
+        "shcn": "5F0",
+        "shelf": "5F",
+        "type": "storage"
     },
     {
         "_id": "64f11b92497c3069472bc927",
