@@ -6619,8 +6619,15 @@
         "identifier": "gstu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gstu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gstu",
+        "bay": "5F6",
+        "label": "bay 5F6",
+        "last_updated": "2024-01-01 15:45:39.038000",
+        "notion_id": "728",
+        "shcn": "5F6",
+        "shelf": "5F",
+        "type": "storage"
     },
     {
         "_id": "64f11ba5497c3069472f4ca8",
