@@ -2100,9 +2100,17 @@
         "identifier": "nh97",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/nh97",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "Box: BENQ treVolo U Bluetooth Speaker",
+        "last_updated": "2023-12-31 16:59:03.450000",
+        "notion_id": "717",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bb1497c30694731aa74",
