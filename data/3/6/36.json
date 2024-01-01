@@ -3141,8 +3141,14 @@
         "identifier": "36d9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/36d9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/36d9",
+        "label": "powder closet wall mount shelf",
+        "last_updated": "2024-01-01 17:01:11.770000",
+        "notion_id": "795",
+        "shcn": "5T",
+        "shelf": "5T",
+        "type": "storage"
     },
     {
         "_id": "64f11b81497c306947287ef6",
