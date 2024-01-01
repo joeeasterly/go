@@ -1493,9 +1493,17 @@
         "identifier": "wv6t",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/wv6t",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "Solix bi-color LED studio light",
+        "last_updated": "2023-12-31 17:16:14.404000",
+        "notion_id": "719",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bc8497c30694735d627",
