@@ -3677,9 +3677,16 @@
         "identifier": "u9fc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/u9fc",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "592",
+        "label": "Ankarsrum Assistent Original Mixer",
+        "last_updated": "2023-12-28 17:32:13.200000",
+        "notion_id": "692",
+        "shcn": "592",
+        "shelf": "59",
+        "type": "item"
     },
     {
         "_id": "64f11bc1497c306947348b39",
@@ -7742,8 +7749,15 @@
         "identifier": "u9y8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/u9y8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/u9y8",
+        "bay": "5E5",
+        "label": "produce",
+        "last_updated": "2023-12-31 10:32:36.872000",
+        "notion_id": "699",
+        "shcn": "5E5",
+        "shelf": "5E",
+        "type": "storage"
     },
     {
         "_id": "64f11bc1497c306947348d35",
