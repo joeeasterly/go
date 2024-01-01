@@ -8106,8 +8106,15 @@
         "identifier": "7pzn",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7pzn"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7pzn",
+        "bay": "5Q2",
+        "label": "bay 5Q2",
+        "last_updated": "2024-01-01 16:38:02.858000",
+        "notion_id": "777",
+        "shcn": "5Q2",
+        "shelf": "5Q",
+        "type": "storage"
     },
     {
         "_id": "64f11b8d497c3069472ac162",
