@@ -5250,8 +5250,15 @@
         "identifier": "v1ng",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v1ng"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v1ng",
+        "bay": "670",
+        "label": "bay 670",
+        "last_updated": "2024-01-03 10:49:48.582000",
+        "notion_id": "860",
+        "shcn": "670",
+        "shelf": "67",
+        "type": "storage"
     },
     {
         "_id": "64f11bc3497c30694734ebfd",
