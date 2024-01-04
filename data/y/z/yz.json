@@ -4060,8 +4060,15 @@
         "identifier": "yzgv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yzgv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yzgv",
+        "bay": "6B0",
+        "label": "bay 6B0",
+        "last_updated": "2024-01-03 10:55:31.845000",
+        "notion_id": "871",
+        "shcn": "6B0",
+        "shelf": "6B",
+        "type": "storage"
     },
     {
         "_id": "64f11bce497c30694736e769",
