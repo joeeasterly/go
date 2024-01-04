@@ -1436,8 +1436,14 @@
         "identifier": "qt6m",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qt6m"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qt6m",
+        "label": "south wall master closet",
+        "last_updated": "2024-01-03 10:20:01.006000",
+        "notion_id": "819",
+        "shcn": "64",
+        "shelf": "64",
+        "type": "storage"
     },
     {
         "_id": "64f11bb8497c30694732ce21",
