@@ -4524,8 +4524,15 @@
         "identifier": "q9jp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/q9jp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/q9jp",
+        "bay": "681",
+        "label": "bay 681",
+        "last_updated": "2024-01-03 10:53:30.181000",
+        "notion_id": "866",
+        "shcn": "681",
+        "shelf": "68",
+        "type": "storage"
     },
     {
         "_id": "64f11bb6497c306947328ba3",
