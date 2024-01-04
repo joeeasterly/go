@@ -6116,8 +6116,14 @@
         "identifier": "s2rw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/s2rw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/s2rw",
+        "label": "north side night stand",
+        "last_updated": "2024-01-03 10:26:16.610000",
+        "notion_id": "827",
+        "shcn": "6C",
+        "shelf": "6C",
+        "type": "storage"
     },
     {
         "_id": "64f11bbb497c30694733706a",
