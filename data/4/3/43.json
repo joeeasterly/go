@@ -244,8 +244,15 @@
         "identifier": "431y",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/431y"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/431y",
+        "bay": "660",
+        "label": "bay 660",
+        "last_updated": "2024-01-03 10:46:17.600000",
+        "notion_id": "854",
+        "shcn": "660",
+        "shelf": "66",
+        "type": "storage"
     },
     {
         "_id": "64f11b83497c30694728f18c",
