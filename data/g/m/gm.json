@@ -7884,8 +7884,14 @@
         "identifier": "gmyt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gmyt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gmyt",
+        "label": "south wall master bedroom",
+        "last_updated": "2024-01-03 10:12:41.439000",
+        "notion_id": "815",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "storage"
     },
     {
         "_id": "64f11ba5497c3069472f3947",
