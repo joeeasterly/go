@@ -556,8 +556,15 @@
         "identifier": "rp36",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rp36"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rp36",
+        "bay": "642",
+        "label": "bay 642",
+        "last_updated": "2024-01-03 10:39:39.362000",
+        "notion_id": "842",
+        "shcn": "642",
+        "shelf": "64",
+        "type": "storage"
     },
     {
         "_id": "64f11bba497c306947333db3",
