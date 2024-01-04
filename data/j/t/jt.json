@@ -2220,8 +2220,15 @@
         "identifier": "jt9p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jt9p"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/jt9p",
+        "bay": "641",
+        "label": "upper hanging rack",
+        "last_updated": "2024-01-03 10:39:20.068000",
+        "notion_id": "841",
+        "shcn": "641",
+        "shelf": "64",
+        "type": "storage"
     },
     {
         "_id": "64f11bab497c306947304e83",
