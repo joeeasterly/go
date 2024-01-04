@@ -7436,8 +7436,15 @@
         "identifier": "71x2",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/71x2"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/71x2",
+        "bay": "6D1",
+        "label": "bay 6D1",
+        "last_updated": "2024-01-03 10:58:05.881000",
+        "notion_id": "879",
+        "shcn": "6D1",
+        "shelf": "6D",
+        "type": "storage"
     },
     {
         "_id": "64f11b8b497c3069472a6d0f",
