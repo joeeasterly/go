@@ -3445,8 +3445,15 @@
         "identifier": "xbef",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xbef"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xbef",
+        "bay": "681",
+        "label": "bay 681",
+        "last_updated": "2024-01-03 10:32:30.146000",
+        "notion_id": "831",
+        "shcn": "681",
+        "shelf": "68",
+        "type": "storage"
     },
     {
         "_id": "64f11bc9497c30694736131c",
