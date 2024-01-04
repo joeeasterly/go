@@ -620,8 +620,15 @@
         "identifier": "rm3e",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rm3e"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rm3e",
+        "bay": "680",
+        "label": "bay 680",
+        "last_updated": "2024-01-03 10:32:03.006000",
+        "notion_id": "830",
+        "shcn": "680",
+        "shelf": "68",
+        "type": "storage"
     },
     {
         "_id": "64f11bba497c3069473335bb",
