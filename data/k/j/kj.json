@@ -2109,8 +2109,15 @@
         "identifier": "kj98",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kj98"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/kj98",
+        "bay": "662",
+        "label": "bay 662",
+        "last_updated": "2024-01-03 10:46:48.774000",
+        "notion_id": "856",
+        "shcn": "662",
+        "shelf": "66",
+        "type": "storage"
     },
     {
         "_id": "64f11bad497c30694730ae75",
