@@ -7572,8 +7572,15 @@
         "identifier": "59xk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/59xk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/59xk",
+        "bay": "654",
+        "label": "bay 654",
+        "last_updated": "2024-01-03 10:44:41.169000",
+        "notion_id": "848",
+        "shcn": "654",
+        "shelf": "65",
+        "type": "storage"
     },
     {
         "_id": "64f11b87497c306947298d20",
