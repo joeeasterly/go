@@ -964,8 +964,15 @@
         "identifier": "rs4s",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rs4s"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rs4s",
+        "bay": "671",
+        "label": "upper hanging rack",
+        "last_updated": "2024-01-03 10:50:08.014000",
+        "notion_id": "861",
+        "shcn": "671",
+        "shelf": "67",
+        "type": "storage"
     },
     {
         "_id": "64f11bba497c3069473349e6",
@@ -1796,8 +1803,15 @@
         "identifier": "rs81",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rs81"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rs81",
+        "bay": "672",
+        "label": "bay 672",
+        "last_updated": "2024-01-03 10:50:49.873000",
+        "notion_id": "862",
+        "shcn": "672",
+        "shelf": "67",
+        "type": "storage"
     },
     {
         "_id": "64f11bba497c306947334a4e",
