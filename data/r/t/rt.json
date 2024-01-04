@@ -5516,8 +5516,15 @@
         "identifier": "rtpj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rtpj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rtpj",
+        "bay": "6C0",
+        "label": "bay 6C0",
+        "last_updated": "2024-01-03 10:56:26.482000",
+        "notion_id": "874",
+        "shcn": "6C0",
+        "shelf": "6C",
+        "type": "storage"
     },
     {
         "_id": "64f11bba497c30694733501f",
