@@ -3755,8 +3755,15 @@
         "identifier": "4sfn",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4sfn"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4sfn",
+        "bay": "651",
+        "label": "south side surface",
+        "last_updated": "2024-01-03 10:43:54.701000",
+        "notion_id": "845",
+        "shcn": "651",
+        "shelf": "65",
+        "type": "storage"
     },
     {
         "_id": "64f11b85497c306947294b42",
