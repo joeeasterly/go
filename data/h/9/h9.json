@@ -4052,8 +4052,14 @@
         "identifier": "h9gu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h9gu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h9gu",
+        "label": "master bathroom closet",
+        "last_updated": "2024-01-03 10:21:57.640000",
+        "notion_id": "821",
+        "shcn": "66",
+        "shelf": "66",
+        "type": "storage"
     },
     {
         "_id": "64f11ba6497c3069472f8b68",
