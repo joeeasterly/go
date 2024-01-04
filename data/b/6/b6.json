@@ -2196,8 +2196,15 @@
         "identifier": "b69k",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/b69k"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/b69k",
+        "bay": "621",
+        "label": "north wall hanging rack",
+        "last_updated": "2024-01-03 10:34:36.409000",
+        "notion_id": "834",
+        "shcn": "621",
+        "shelf": "62",
+        "type": "storage"
     },
     {
         "_id": "64f11b97497c3069472c7e80",
