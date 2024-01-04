@@ -4572,8 +4572,14 @@
         "identifier": "eyjt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/eyjt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/eyjt",
+        "label": "east wall master bedroom",
+        "last_updated": "2024-01-03 10:24:10.639000",
+        "notion_id": "823",
+        "shcn": "68",
+        "shelf": "68",
+        "type": "storage"
     },
     {
         "_id": "64f11ba0497c3069472e63a7",
