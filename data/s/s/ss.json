@@ -8055,8 +8055,15 @@
         "identifier": "ssze",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ssze"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ssze",
+        "bay": "643",
+        "label": "lower hanging rack",
+        "last_updated": "2024-01-03 10:39:50.388000",
+        "notion_id": "843",
+        "shcn": "643",
+        "shelf": "64",
+        "type": "storage"
     },
     {
         "_id": "64f11bbd497c30694733cd5b",
