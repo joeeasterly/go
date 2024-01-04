@@ -3492,8 +3492,15 @@
         "identifier": "puen",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/puen"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/puen",
+        "bay": "634",
+        "label": "bay 634",
+        "last_updated": "2024-01-03 10:36:32.802000",
+        "notion_id": "839",
+        "shcn": "634",
+        "shelf": "63",
+        "type": "storage"
     },
     {
         "_id": "64f11bb5497c306947325322",
