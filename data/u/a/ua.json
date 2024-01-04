@@ -3828,8 +3828,15 @@
         "identifier": "uafy",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/uafy"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/uafy",
+        "bay": "601",
+        "label": "bay 601",
+        "last_updated": "2024-01-03 10:30:57.678000",
+        "notion_id": "829",
+        "shcn": "601",
+        "shelf": "60",
+        "type": "storage"
     },
     {
         "_id": "64f11bc1497c306947348f4c",
