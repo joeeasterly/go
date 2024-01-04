@@ -2988,8 +2988,15 @@
         "identifier": "9gcp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9gcp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9gcp",
+        "bay": "658",
+        "label": "bay 658",
+        "last_updated": "2024-01-03 10:45:37.906000",
+        "notion_id": "852",
+        "shcn": "658",
+        "shelf": "65",
+        "type": "storage"
     },
     {
         "_id": "64f11b92497c3069472ba6e3",
