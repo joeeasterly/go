@@ -6330,8 +6330,15 @@
         "identifier": "9zsq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9zsq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9zsq",
+        "bay": "6D0",
+        "label": "bay 6D0",
+        "last_updated": "2024-01-03 10:57:55.981000",
+        "notion_id": "878",
+        "shcn": "6D0",
+        "shelf": "6D",
+        "type": "storage"
     },
     {
         "_id": "64f11b93497c3069472be884",
