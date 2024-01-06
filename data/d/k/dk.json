@@ -3388,8 +3388,15 @@
         "identifier": "dke8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dke8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/dke8",
+        "bay": "464",
+        "label": "bay 464",
+        "last_updated": "2024-01-04T17:12:34.096000",
+        "notion_id": "911",
+        "shcn": "464",
+        "shelf": "46",
+        "type": "storage"
     },
     {
         "_id": "64f11b9d497c3069472db315",

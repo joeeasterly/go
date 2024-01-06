@@ -4291,8 +4291,15 @@
         "identifier": "xuhr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xuhr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xuhr",
+        "bay": "450",
+        "label": "bay 450",
+        "last_updated": "2024-01-04T17:07:44.960000",
+        "notion_id": "901",
+        "shcn": "450",
+        "shelf": "45",
+        "type": "storage"
     },
     {
         "_id": "64f11bcb497c306947365385",

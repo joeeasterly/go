@@ -1796,8 +1796,15 @@
         "identifier": "y781",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/y781"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/y781",
+        "bay": "481",
+        "label": "bay 481",
+        "last_updated": "2024-01-04T16:51:31.451000",
+        "notion_id": "889",
+        "shcn": "481",
+        "shelf": "48",
+        "type": "storage"
     },
     {
         "_id": "64f11bcc497c30694736824e",

@@ -2836,8 +2836,14 @@
         "identifier": "5yc3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5yc3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/5yc3",
+        "label": "Canon Lens 50mm F1.2L",
+        "last_updated": "2024-01-06T12:53:52.120000",
+        "notion_id": "918",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11b88497c30694729e2d0",

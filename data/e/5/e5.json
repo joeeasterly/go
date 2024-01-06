@@ -3736,7 +3736,7 @@
         "permalink": "https://joeeasterly.github.io/go/e5fk",
         "bay": "334",
         "label": "bay 334",
-        "last_updated": "2023-12-24 20:48:36.057000",
+        "last_updated": "2023-12-24T20:48:36.057000",
         "notion_id": "335",
         "shcn": "334",
         "shelf": "33",
@@ -6083,8 +6083,15 @@
         "identifier": "e5rr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/e5rr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/e5rr",
+        "bay": "442",
+        "label": "keyboard drawer",
+        "last_updated": "2024-01-04T17:04:04.276000",
+        "notion_id": "899",
+        "shcn": "442",
+        "shelf": "44",
+        "type": "storage"
     },
     {
         "_id": "64f11b9e497c3069472dfc65",

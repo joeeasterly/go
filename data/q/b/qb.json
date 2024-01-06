@@ -5324,8 +5324,15 @@
         "identifier": "qbnt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qbnt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qbnt",
+        "bay": "484",
+        "label": "bay 484",
+        "last_updated": "2024-01-04T16:52:40.953000",
+        "notion_id": "892",
+        "shcn": "484",
+        "shelf": "48",
+        "type": "storage"
     },
     {
         "_id": "64f11bb7497c306947329407",

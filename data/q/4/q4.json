@@ -7540,8 +7540,15 @@
         "identifier": "q4x6",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/q4x6"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/q4x6",
+        "bay": "440",
+        "label": "bay 440",
+        "last_updated": "2024-01-04T17:02:56.636000",
+        "notion_id": "897",
+        "shcn": "440",
+        "shelf": "44",
+        "type": "storage"
     },
     {
         "_id": "64f11bb6497c306947327913",

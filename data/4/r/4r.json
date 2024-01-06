@@ -4004,8 +4004,15 @@
         "identifier": "4rgn",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4rgn"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4rgn",
+        "bay": "490",
+        "label": "nespresso and ice maker",
+        "last_updated": "2024-01-04T16:54:16.243000",
+        "notion_id": "893",
+        "shcn": "490",
+        "shelf": "49",
+        "type": "storage"
     },
     {
         "_id": "64f11b85497c306947294762",

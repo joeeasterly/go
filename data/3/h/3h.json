@@ -4428,8 +4428,14 @@
         "identifier": "3hja",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3hja"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3hja",
+        "label": "Canon RF 200-800mm F6.3-9 IS USM Lens",
+        "last_updated": "2024-01-06T12:53:03.658000",
+        "notion_id": "917",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11b82497c30694728ab97",

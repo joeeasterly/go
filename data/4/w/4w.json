@@ -177,14 +177,7 @@
         "label": "test",
         "last_updated": "2023-10-18T15:34:04.199000",
         "notion_id": null,
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
+        "shcn": "10",
         "type": "item"
     },
     {
@@ -784,8 +777,15 @@
         "identifier": "4w41",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4w41"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4w41",
+        "bay": "480",
+        "label": "bay 480",
+        "last_updated": "2024-01-04T16:51:05.911000",
+        "notion_id": "888",
+        "shcn": "480",
+        "shelf": "48",
+        "type": "storage"
     },
     {
         "_id": "64f11b86497c3069472959ce",

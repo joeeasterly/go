@@ -3916,9 +3916,17 @@
         "identifier": "hzga",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/hzga",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "412",
+        "container": "4120",
+        "label": "usb-c charger cable for Glocusent reading light",
+        "last_updated": "2023-12-28T16:21:37.523000",
+        "notion_id": "691",
+        "shcn": "4120",
+        "shelf": "41",
+        "type": "item"
     },
     {
         "_id": "64f11ba8497c3069472fe757",

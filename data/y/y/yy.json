@@ -1103,17 +1103,12 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/yy5a",
         "label": "Canon CX0-7706 Lens Hood EW-55",
-        "last_updated": "2023-12-31 10:38:02.326000",
+        "last_updated": "2024-01-04T12:35:50.354000",
         "notion_id": "700",
-        "shcn": [
-            "1010",
-            "10",
-            "101",
-            "1010",
-            null,
-            "Shelf: 10, Bay: 101, Container: 1010"
-        ],
-        "type": "item"
+        "shcn": "221",
+        "type": "item",
+        "bay": "221",
+        "shelf": "22"
     },
     {
         "_id": "64f11bcd497c30694736e1f7",

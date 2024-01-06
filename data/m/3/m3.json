@@ -2364,8 +2364,15 @@
         "identifier": "m3a8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/m3a8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/m3a8",
+        "bay": "441",
+        "label": "upper shelf",
+        "last_updated": "2024-01-04T17:03:32.924000",
+        "notion_id": "898",
+        "shcn": "441",
+        "shelf": "44",
+        "type": "storage"
     },
     {
         "_id": "64f11bae497c30694730f295",
@@ -6440,7 +6447,7 @@
         "permalink": "https://joeeasterly.github.io/go/m3t5",
         "staged": "2023-10-23 14:22:43",
         "label": "Apple 3ft usb-c to usb-c cable",
-        "last_updated": "2023-12-31 11:09:26.527000",
+        "last_updated": "2023-12-31T11:09:26.527000",
         "notion_id": "711",
         "shcn": "60",
         "shelf": "60",

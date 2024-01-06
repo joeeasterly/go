@@ -4447,12 +4447,12 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/x2jc",
-        "bay": "330",
-        "label": "bay 330",
-        "last_updated": "2023-12-25 10:06:50.637000",
+        "bay": "324",
+        "label": "bay 324",
+        "last_updated": "2024-01-04T15:36:36.465000",
         "notion_id": "315",
-        "shcn": "330",
-        "shelf": "33",
+        "shcn": "324",
+        "shelf": "32",
         "type": "storage"
     },
     {
@@ -7442,7 +7442,7 @@
         "bay": "412",
         "container": "4123",
         "label": "slot 41233",
-        "last_updated": "2023-10-16 18:49:01.086000",
+        "last_updated": "2023-10-16T18:49:01.086000",
         "notion_id": "462",
         "shcn": "41233",
         "shelf": "41",
@@ -7459,7 +7459,7 @@
         "bay": "412",
         "container": "4123",
         "label": "slot 41231",
-        "last_updated": "2023-10-17 18:17:41.351000",
+        "last_updated": "2023-10-17T18:17:41.351000",
         "notion_id": "477",
         "shcn": "41231",
         "shelf": "41",
@@ -7474,7 +7474,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/x2x3",
         "bay": "412",
-        "last_updated": "2023-10-18 12:25:25.064000",
+        "last_updated": "2023-10-18T12:25:25.064000",
         "shelf": "41",
         "label": "sonos roam",
         "notion_id": "497",
@@ -7493,7 +7493,7 @@
         "identifier": "x2x5",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/x2x5",
-        "last_updated": "2023-10-15 21:38:58.863000"
+        "last_updated": "2023-10-15T21:38:58.863000"
     },
     {
         "_id": "64f11bc9497c30694735f112",
@@ -7897,7 +7897,7 @@
         "bay": "402",
         "container": "4021",
         "label": "5/8in #2 tacks",
-        "last_updated": "2023-10-10 19:07:25.818000",
+        "last_updated": "2023-10-10T19:07:25.818000",
         "notion_id": null,
         "shelf": "40",
         "slot": null

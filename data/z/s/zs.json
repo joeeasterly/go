@@ -6580,9 +6580,17 @@
         "identifier": "zstq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/zstq",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "Solo Stove Mesa portable fire pit",
+        "last_updated": "2024-01-06T15:54:31.522000",
+        "notion_id": "923",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bd0497c306947374ca4",

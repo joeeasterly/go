@@ -4044,8 +4044,15 @@
         "identifier": "scgt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/scgt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/scgt",
+        "bay": "462",
+        "label": "bay 462",
+        "last_updated": "2024-01-04T17:11:46.578000",
+        "notion_id": "909",
+        "shcn": "462",
+        "shelf": "46",
+        "type": "storage"
     },
     {
         "_id": "64f11bbc497c306947339767",

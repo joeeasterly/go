@@ -3908,8 +3908,15 @@
         "identifier": "s4g9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/s4g9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/s4g9",
+        "bay": "465",
+        "label": "bay 465",
+        "last_updated": "2024-01-04T17:12:52.327000",
+        "notion_id": "912",
+        "shcn": "465",
+        "shelf": "46",
+        "type": "storage"
     },
     {
         "_id": "64f11bbb497c306947337756",

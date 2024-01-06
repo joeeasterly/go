@@ -4278,7 +4278,18 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/w4hq",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "miralax",
+        "last_updated": "2024-01-06T15:40:29.457000",
+        "notion_id": "922",
+        "percentage": 75.0,
+        "quantity": "1",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "041100564542"
     },
     {
         "_id": "64f11bc6497c306947357784",

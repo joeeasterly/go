@@ -5973,8 +5973,15 @@
         "identifier": "jerb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jerb"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/jerb",
+        "bay": "460",
+        "label": "bay 460",
+        "last_updated": "2024-01-04T17:11:24.970000",
+        "notion_id": "907",
+        "shcn": "460",
+        "shelf": "46",
+        "type": "storage"
     },
     {
         "_id": "64f11ba9497c306947302058",

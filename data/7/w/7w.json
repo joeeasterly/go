@@ -1164,8 +1164,15 @@
         "identifier": "7w5j",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7w5j"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7w5j",
+        "bay": "454",
+        "label": "bay 454",
+        "last_updated": "2024-01-04T17:08:49.036000",
+        "notion_id": "905",
+        "shcn": "454",
+        "shelf": "45",
+        "type": "storage"
     },
     {
         "_id": "64f11b8d497c3069472ad9ff",

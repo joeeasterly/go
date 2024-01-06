@@ -2108,8 +2108,15 @@
         "identifier": "9r98",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9r98"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9r98",
+        "bay": "483",
+        "label": "bay 483",
+        "last_updated": "2024-01-04T16:52:25.224000",
+        "notion_id": "891",
+        "shcn": "483",
+        "shelf": "48",
+        "type": "storage"
     },
     {
         "_id": "64f11b92497c3069472bc675",
@@ -7632,7 +7639,7 @@
         "permalink": "https://joeeasterly.github.io/go/9rxt",
         "bay": "5F0",
         "label": "bay 5F0",
-        "last_updated": "2024-01-01 15:37:43.981000",
+        "last_updated": "2024-01-01T15:37:43.981000",
         "notion_id": "721",
         "shcn": "5F0",
         "shelf": "5F",

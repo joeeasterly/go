@@ -3220,15 +3220,8 @@
         "identifier": "9xdk",
         "target": "#",
         "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/9xdk",
-        "bay": "680",
-        "label": "bay 680",
-        "last_updated": "2024-01-03 10:53:08.239000",
-        "notion_id": "865",
-        "shcn": "680",
-        "shelf": "68",
-        "type": "storage"
+        "allocated": false,
+        "permalink": "https://joeeasterly.github.io/go/9xdk"
     },
     {
         "_id": "64f11b93497c3069472bdf00",

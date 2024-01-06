@@ -6015,7 +6015,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/8krg",
         "label": "shelf 35",
-        "last_updated": "2023-12-24 20:44:54.472000",
+        "last_updated": "2023-12-24T20:44:54.472000",
         "notion_id": "261",
         "shcn": "35",
         "shelf": "35",
@@ -7722,8 +7722,15 @@
         "identifier": "8ky5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8ky5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8ky5",
+        "bay": "463",
+        "label": "bay 463",
+        "last_updated": "2024-01-04T17:12:18.269000",
+        "notion_id": "910",
+        "shcn": "463",
+        "shelf": "46",
+        "type": "storage"
     },
     {
         "_id": "64f11b8f497c3069472b3532",

@@ -4583,7 +4583,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/3kjw",
         "label": "shelf 29",
-        "last_updated": "2023-12-24 17:07:09.050000",
+        "last_updated": "2023-12-24T17:07:09.050000",
         "notion_id": "255",
         "shcn": "29",
         "shelf": "29",
@@ -6754,8 +6754,14 @@
         "identifier": "3kuc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3kuc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3kuc",
+        "label": "Canon EOS R3 camera body",
+        "last_updated": "2024-01-06T12:54:58.931000",
+        "notion_id": "919",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11b82497c30694728b4b9",

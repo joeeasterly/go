@@ -1511,7 +1511,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/916w",
         "label": "east wall master closet",
-        "last_updated": "2024-01-03 10:19:32.230000",
+        "last_updated": "2024-01-03T10:19:32.230000",
         "notion_id": "818",
         "shcn": "63",
         "shelf": "63",
@@ -1996,7 +1996,16 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/918s",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "211",
+        "label": "large dog toy squeakers",
+        "last_updated": "2024-01-06T16:03:31.103000",
+        "notion_id": "924",
+        "percentage": "95",
+        "quantity": "1",
+        "shcn": "211",
+        "shelf": "21",
+        "type": "consumable"
     },
     {
         "_id": "64f11b90497c3069472b6a66",

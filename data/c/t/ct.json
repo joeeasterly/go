@@ -1468,8 +1468,15 @@
         "identifier": "ct6r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ct6r"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ct6r",
+        "bay": "461",
+        "label": "bay 461",
+        "last_updated": "2024-01-04T17:11:36.953000",
+        "notion_id": "908",
+        "shcn": "461",
+        "shelf": "46",
+        "type": "storage"
     },
     {
         "_id": "64f11b9b497c3069472d4e25",
