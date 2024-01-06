@@ -1,15 +1,15 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3                                                                                              
 import sys
 import pymongo
 from pprint import pprint
 from library.connect_mungo import connect_mungo
-def update_record_by_identifier(update_fields):
+def update_record_by_identifier(update_fields, unset_fields=None):
     """
-    Update a record in mongodb://mungo/go/link by identifier.
-    If this script is run directly, the update_fields dictionary is passed as a command-line argument.
+    Update a record in mongodb://mungo/go/link by identifier, using both update and unset fields.
 
     Args:
-        update_fields (dict): A dictionary containing the fields to update and the identifier of the record to update.
+        update_fields (dict): A dictionary containing the fields to update.
+        unset_fields (dict, optional): A dictionary containing the fields to unset. Defaults to None.
 
     Raises:
         ValueError: If the identifier is not provided in the update_fields dictionary.
@@ -17,11 +17,12 @@ def update_record_by_identifier(update_fields):
 
     Returns:
         None
-    Dependencies:
-        pymongo
-        sys
     """
     
+    # Check if unset_fields is None and if so, initialize it to an empty dictionary
+    if unset_fields is None:
+        unset_fields = {}
+
     # Extract the identifier from the update_fields dictionary
     identifier = update_fields.get('$set', {}).get('identifier', None)
     if identifier is None:
@@ -36,14 +37,11 @@ def update_record_by_identifier(update_fields):
     if not existing_record:
         raise Exception(f"Identifier {identifier} not found.")
 
+    # Merge update_fields and unset_fields into a single update operation
+    update_operation = {**update_fields, **unset_fields}
+
     # Apply the update
-    collection.update_one({"identifier": identifier}, update_fields)
+    collection.update_one({"identifier": identifier}, update_operation)
 
     # Optionally, print or return a confirmation
     print(f"Record with identifier {identifier} updated successfully.")
-if __name__ == "__main__":
-    import sys
-    update_fields = sys.argv[1]
-    if update_fields == "":
-        raise ValueError("update_fields dictionary is required.")
-    update_record_by_identifier(update_fields)

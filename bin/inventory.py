@@ -25,7 +25,7 @@ logo = '''
 menu = '''
     1) Create  2) Search 3) Update Item      
     4) Storage 5) Delete 6) Reshelve Items
-    7) Update Github 0) Exit'''
+    7) Update Github 8) Update Consumable 0) Exit'''
 
 def main():
     os.system('clear')  # Clear the screen first.
@@ -53,7 +53,9 @@ def main():
             reshelve_record()
         elif choice == '7':
             os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/update_github.py")  # Execute the update_github.py script
-        elif choice == '0':
+        elif choice == '8':
+            update_consumable()
+        elif choice == '0                    `':
             print('Goodbye!')
             break
         else:

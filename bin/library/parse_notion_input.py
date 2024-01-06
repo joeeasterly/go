@@ -1,8 +1,9 @@
 from library.allocate_notion_id import allocate_notion_id
 import time
 
-def parse_notion_input(notion_id=""):
-    notion_input = str(input(f"Enter Notion ID (INV-) [{notion_id}]: ")).lower().replace("inv-", "")
+def parse_notion_input(mungo_notion=""):
+    notion_id = None
+    notion_input = str(input(f"Enter Notion ID (INV-) [{mungo_notion}]: ")).lower().replace("inv-", "")
 
     # Validate and use the user's input if provided
     if notion_input:

@@ -2,7 +2,7 @@
 import os
 import requests
 
-def link_notion_inventory(notion_id, mungo_id, shcn, mungo_label):
+def link_notion_inventory(notion_id, mungo_id, shcn, mungo_label, upc = None, percentage = None, quantity = None):
     # Get the NOTION_API_KEY from the environment
     NOTION_API_KEY = os.getenv('NOTION_API_KEY')
 
@@ -63,6 +63,28 @@ def link_notion_inventory(notion_id, mungo_id, shcn, mungo_label):
                     }
                 }
             }
+            # Conditionally add fields if they exist
+            if upc is not None:
+                update_data["properties"]["UPC"] = {
+                    "type": "number",
+                    "number": upc
+                }
+            if percentage is not None:
+                update_data["properties"]["Remaining"] = {
+                    "type": "number",
+                    "number": percentage
+                }
+            if percentage is not None:
+                update_data["properties"]["Type"] = {
+                    "multi_select": [
+                    { "name": "Consumable" }
+                    ]
+                }
+            if quantity is not None:
+                update_data["properties"]["Count"] = {
+                    "type": "number",
+                    "number": quantity
+                }
             update_response = requests.patch(
                 f'https://api.notion.com/v1/pages/{page_id}',
                 headers=headers,

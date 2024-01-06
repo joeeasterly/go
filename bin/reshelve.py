@@ -27,17 +27,34 @@ def reshelve_record():
                 "last_updated": datetime.now()
             }
         }
+        # Construct the unset_fields dictionary
+        unset_fields = {
+            "$unset": {
+                "unsetted": ""
+            }
+        }
 
         if shelf is not None:
             update_fields["$set"]["shelf"] = shelf
+        else:
+            unset_fields["$unset"]["shelf"] = ""
+        
         if bay is not None:
             update_fields["$set"]["bay"] = bay
+        else:
+            unset_fields["$unset"]["bay"] = ""
+        
         if container is not None:
             update_fields["$set"]["container"] = container
+        else:
+            unset_fields["$unset"]["container"] = ""
+        
         if slot is not None:
             update_fields["$set"]["slot"] = slot
+        else:
+            unset_fields["$unset"]["slot"] = ""
 
         # Update the record
-        update_record_by_identifier(update_fields)
+        update_record_by_identifier(update_fields, unset_fields)
         print_inventory(get_record_by_identifier(mungo_id))
         print ("scan additional item(s) or press * to quit")
