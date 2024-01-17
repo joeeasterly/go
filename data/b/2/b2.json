@@ -7646,7 +7646,18 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/b2xv",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23 14:22:43",
+        "bay": "412",
+        "container": "4123",
+        "label": "plastic key tags",
+        "last_updated": "2024-01-06 18:46:23.435000",
+        "notion_id": "926",
+        "percentage": "100",
+        "quantity": "18",
+        "shcn": "41231",
+        "shelf": "41",
+        "slot": "41231",
+        "type": "consumable"
     },
     {
         "_id": "64f11b96497c3069472c7129",
