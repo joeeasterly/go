@@ -357,7 +357,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/zs2d"
+        "permalink": "https://joeeasterly.github.io/go/zs2d",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bcf497c30694737499a",
@@ -6583,13 +6584,12 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/zstq",
         "staged": "2023-10-23 14:22:43",
-        "bay": "101",
-        "container": "1010",
+        "bay": "110",
         "label": "Solo Stove Mesa portable fire pit",
-        "last_updated": "2024-01-06T15:54:31.522000",
+        "last_updated": "2024-01-06 19:16:07.314000",
         "notion_id": "923",
-        "shcn": "1010",
-        "shelf": "10",
+        "shcn": "110",
+        "shelf": "11",
         "type": "item"
     },
     {
