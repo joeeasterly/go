@@ -5657,7 +5657,7 @@
         "bay": "402",
         "container": "4021",
         "label": "1/2in #6 phillips screws",
-        "last_updated": "2023-10-09T19:57:16.625000",
+        "last_updated": "2023-10-09 19:57:16.625000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -5670,7 +5670,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/g1q4",
         "label": "HYS-TC-MB90 NMO Mount",
-        "last_updated": "2023-11-26T17:34:54.309000",
+        "last_updated": "2023-11-26 17:34:54.309000",
         "notion_id": "653",
         "shcn": "10",
         "shelf": "10",
@@ -5694,7 +5694,7 @@
         "bay": "411",
         "container": "4110",
         "label": "3/4in x1/4 machine bolts",
-        "last_updated": "2023-10-18T14:43:22.245000",
+        "last_updated": "2023-10-18 14:43:22.245000",
         "shcn": "4110F",
         "shelf": "41",
         "slot": "4110F"
@@ -5749,7 +5749,7 @@
         "bay": "410",
         "container": null,
         "label": "velcro cord straps",
-        "last_updated": "2023-10-16T11:27:49.873000",
+        "last_updated": "2023-10-16 11:27:49.873000",
         "notion_id": null,
         "shelf": "41",
         "slot": null
@@ -5791,8 +5791,15 @@
         "identifier": "g1qh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1qh"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1qh",
+        "bay": "380",
+        "label": "Hospital clothes, May 2020",
+        "last_updated": "2024-01-06 19:21:49.671000",
+        "notion_id": "929",
+        "shcn": "380",
+        "shelf": "38",
+        "type": "item"
     },
     {
         "_id": "64f11ba3497c3069472eec3e",
@@ -5804,7 +5811,7 @@
         "bay": "402",
         "container": "4021",
         "label": "3/4in #8 brass phillips scrs",
-        "last_updated": "2023-10-10T18:59:43.359000",
+        "last_updated": "2023-10-10 18:59:43.359000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -5843,7 +5850,7 @@
         "bay": "403",
         "container": "4030",
         "label": "ricoh ix1600 usb cable",
-        "last_updated": "2023-10-22T16:24:55.177000",
+        "last_updated": "2023-10-22 16:24:55.177000",
         "notion_id": "526",
         "shcn": "4030",
         "shelf": "40"
@@ -5858,7 +5865,7 @@
         "bay": "403",
         "container": "4031",
         "label": "samsung hdmi cable",
-        "last_updated": "2023-10-22T18:24:35.440000",
+        "last_updated": "2023-10-22 18:24:35.440000",
         "notion_id": "534",
         "shcn": "4031",
         "shelf": "40"
@@ -5884,8 +5891,17 @@
         "identifier": "g1qt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1qt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1qt",
+        "bay": "412",
+        "container": "4123",
+        "label": "Anti-tarnish strips for silver",
+        "last_updated": "2024-01-06 18:41:46.530000",
+        "notion_id": "925",
+        "shcn": "41234",
+        "shelf": "41",
+        "slot": "41234",
+        "type": "item"
     },
     {
         "_id": "64f11ba3497c3069472eec47",
@@ -5897,7 +5913,7 @@
         "bay": "402",
         "container": "4021",
         "label": "3/4 in finishing nails",
-        "last_updated": "2023-10-13T19:32:56.541000",
+        "last_updated": "2023-10-13 19:32:56.541000",
         "notion_id": null,
         "shelf": "40"
     },
@@ -5927,7 +5943,7 @@
         "bay": "402",
         "container": "4021",
         "label": "1in finishing nails",
-        "last_updated": "2023-10-13T19:29:13.306000",
+        "last_updated": "2023-10-13 19:29:13.306000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -5950,7 +5966,7 @@
         "bay": "402",
         "container": "4021",
         "label": "1/2in #8 phillips screws",
-        "last_updated": "2023-10-10T19:02:24.141000",
+        "last_updated": "2023-10-10 19:02:24.141000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -5989,7 +6005,7 @@
         "bay": "402",
         "container": "4021",
         "label": "zinc 1in / #8 phillips screws",
-        "last_updated": "2023-10-09T20:28:09.018000",
+        "last_updated": "2023-10-09 20:28:09.018000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -6004,7 +6020,7 @@
         "bay": "101",
         "container": "1010",
         "label": "nail hygiene toolkit",
-        "last_updated": "2023-10-22T17:20:19.253000",
+        "last_updated": "2023-10-22 17:20:19.253000",
         "notion_id": "531",
         "shcn": "1010",
         "shelf": "10"
@@ -6027,7 +6043,7 @@
         "bay": "402",
         "container": "4021",
         "label": "1in #8 phillips screws",
-        "last_updated": "2023-10-10T19:04:08.454000",
+        "last_updated": "2023-10-10 19:04:08.454000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
@@ -6090,7 +6106,7 @@
         "bay": "101",
         "container": "1010",
         "label": "coach zippered wallet with chain",
-        "last_updated": "2023-10-22T17:15:10.548000",
+        "last_updated": "2023-10-22 17:15:10.548000",
         "notion_id": "529",
         "shcn": "1010",
         "shelf": "10"
@@ -6105,7 +6121,7 @@
         "bay": "411",
         "container": "4110",
         "label": "self-drilling phillips screws 1/2in x #8",
-        "last_updated": "2023-10-18T14:22:38.098000",
+        "last_updated": "2023-10-18 14:22:38.098000",
         "shcn": "41102",
         "shelf": "41",
         "slot": "41102"
@@ -6152,7 +6168,7 @@
         "bay": "411",
         "container": "4110",
         "label": "dremel 3000 attachments",
-        "last_updated": "2023-10-18T14:10:24.229000",
+        "last_updated": "2023-10-18 14:10:24.229000",
         "shcn": "41100",
         "shelf": "41",
         "slot": "41100"
@@ -6167,7 +6183,7 @@
         "bay": "402",
         "container": "4021",
         "label": "1/2in #6 phillips screws",
-        "last_updated": "2023-10-10T19:01:22.073000",
+        "last_updated": "2023-10-10 19:01:22.073000",
         "notion_id": null,
         "shelf": "40",
         "slot": null
