@@ -2164,8 +2164,20 @@
         "identifier": "wc9f",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wc9f"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wc9f",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "5H1",
+        "expires": "2025-02-21 00:00:00",
+        "label": "Amazon Fresh Peanut Butter 16oz",
+        "last_updated": "2024-01-07 17:00:12.869000",
+        "notion_id": "932",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5H1",
+        "shelf": "5H",
+        "type": "item",
+        "upc": "842379152535"
     },
     {
         "_id": "64f11bc7497c30694735967c",
@@ -4805,7 +4817,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wcks"
+        "permalink": "https://joeeasterly.github.io/go/wcks",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bc7497c3069473597c6",
