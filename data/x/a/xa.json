@@ -7,7 +7,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/xa11",
         "label": "belkin 6-outlet power strip",
-        "last_updated": "2023-10-01T19:46:03.160000",
+        "last_updated": "2023-10-01 19:46:03.160000",
         "notion_id": "",
         "shelf": "411"
     },
@@ -667,13 +667,11 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/xa3k",
         "staged": "2023-10-23 14:22:43",
-        "bay": "101",
-        "container": "1010",
         "label": "Box - Canon 95mm screw-in uv filter",
-        "last_updated": "2024-01-06T12:41:27.283000",
+        "last_updated": "2024-01-06 19:00:36.617000",
         "notion_id": "915",
-        "shcn": "1010",
-        "shelf": "10",
+        "shcn": "60",
+        "shelf": "60",
         "type": "item"
     },
     {
@@ -6154,7 +6152,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xarz"
+        "permalink": "https://joeeasterly.github.io/go/xarz",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bc9497c30694736106d",
