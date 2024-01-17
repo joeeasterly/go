@@ -1389,7 +1389,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yz6e"
+        "permalink": "https://joeeasterly.github.io/go/yz6e",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bcd497c30694736e61b",
@@ -4064,7 +4065,7 @@
         "permalink": "https://joeeasterly.github.io/go/yzgv",
         "bay": "6B0",
         "label": "bay 6B0",
-        "last_updated": "2024-01-03T10:55:31.845000",
+        "last_updated": "2024-01-03 10:55:31.845000",
         "notion_id": "871",
         "shcn": "6B0",
         "shelf": "6B",
@@ -6580,7 +6581,19 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yztp"
+        "permalink": "https://joeeasterly.github.io/go/yztp",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "592",
+        "expires": "2025-05-04 00:00:00",
+        "label": "Fromm Small Breed Adult Gold 5lb",
+        "last_updated": "2024-01-08 16:48:04.781000",
+        "notion_id": "941",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "592",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "072705105670"
     },
     {
         "_id": "64f11bce497c30694736e8a3",
