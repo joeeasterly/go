@@ -6044,8 +6044,17 @@
         "identifier": "jkrm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jkrm"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/jkrm",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "183",
+        "container": "1830",
+        "label": "Pandora Moments Barrel Clasp Snake Chain Bracelet 21cm",
+        "last_updated": "2024-01-17 15:01:50.311000",
+        "notion_id": "944",
+        "shcn": "1830",
+        "shelf": "18",
+        "type": "item"
     },
     {
         "_id": "64f11baa497c306947303461",
