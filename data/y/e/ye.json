@@ -452,8 +452,17 @@
         "identifier": "ye2s",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ye2s"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ye2s",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "183",
+        "container": "1830",
+        "label": "Pink Travel Bag Charm",
+        "last_updated": "2024-01-17 15:01:07.717000",
+        "notion_id": "59",
+        "shcn": "1830",
+        "shelf": "18",
+        "type": "item"
     },
     {
         "_id": "64f11bcc497c306947369da6",
@@ -7493,7 +7502,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yex9"
+        "permalink": "https://joeeasterly.github.io/go/yex9",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bcc497c30694736a116",
