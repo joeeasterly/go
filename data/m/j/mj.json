@@ -1524,8 +1524,17 @@
         "identifier": "mj6y",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mj6y"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mj6y",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "183",
+        "container": "1830",
+        "label": "Festive Snowflake Charm",
+        "last_updated": "2024-01-17 15:01:12.678000",
+        "notion_id": "55",
+        "shcn": "1830",
+        "shelf": "18",
+        "type": "item"
     },
     {
         "_id": "64f11baf497c306947312e2c",
@@ -4260,8 +4269,17 @@
         "identifier": "mjhn",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mjhn"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mjhn",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "183",
+        "container": "1830",
+        "label": "Wheat Grains Safety Chain Clip Charm",
+        "last_updated": "2024-01-17 15:01:03.211000",
+        "notion_id": "57",
+        "shcn": "1830",
+        "shelf": "18",
+        "type": "item"
     },
     {
         "_id": "64f11baf497c306947312f82",
@@ -6319,7 +6337,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/mjsp",
         "label": "shelf 22",
-        "last_updated": "2023-12-24T21:07:12.666000",
+        "last_updated": "2023-12-24 21:07:12.666000",
         "notion_id": "109",
         "shcn": "22",
         "shelf": "22",
