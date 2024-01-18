@@ -1,9 +1,10 @@
 import pymongo
 from pprint import pprint
 from datetime import datetime
-from library.link_notion_inventory import link_notion_inventory  # Import the function
+from library.link_notion_consumable import link_notion_consumable  # Import the function
 from library.print_inventory import print_inventory
 from library.connect_mungo import connect_mungo
+from library.parse_date import parse_date
 from library.parse_qrcode_input import parse_qrcode_input
 from library.parse_percentage import parse_percentage
 from library.parse_quantity import parse_quantity
@@ -24,8 +25,16 @@ def update_consumable():
     if existing_record:
         print("Current Record:")
         pprint(existing_record)
-        upc = parse_upc(existing_upc=existing_record.get("upc"))
-        label = parse_label(existing_label = existing_record.get("label"))
+        upc, upc_label = parse_upc(existing_upc=existing_record.get("upc"))
+        existing_label = existing_record.get("label")
+        if existing_label:
+            default_label = existing_label
+        elif upc_label:
+            default_label = upc_label
+        else:
+            default_label = None
+        label = parse_label(default_label)
+        expires = parse_date(message = "Expiration Date: ")
         percentage = parse_percentage()
         shcn, shelf, bay, container, slot, analysis = input_shcn(existing_shcn=existing_record.get("shcn"))
         quantity = parse_quantity(existing_quantity=existing_record.get("quantity"))
@@ -46,6 +55,8 @@ def update_consumable():
             update_fields["$set"]["upc"] = upc
         if label is not None:
             update_fields["$set"]["label"] = label
+        if expires is not None:
+            update_fields["$set"]["expires"] = expires
         if percentage is not None:
             update_fields["$set"]["percentage"] = percentage
         if quantity is not None:
@@ -70,7 +81,7 @@ def update_consumable():
             print_inventory(updated_record)
             # If notion_id is provided, call the update_notion_record function
             if notion_id:
-                update_result = link_notion_inventory(notion_id, identifier, shcn, label)
+                update_result = link_notion_consumable(notion_id, identifier, shcn, label, expires, upc, percentage, quantity)
                 print(update_result)
         else:
             print("No record found with the provided identifier.")

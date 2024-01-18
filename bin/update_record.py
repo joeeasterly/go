@@ -25,6 +25,10 @@ def update_record():
 
         # Create, review, or update the link the record to Notion.
         notion_id = parse_notion_input(mungo_notion)
+        notion_title = None
+        if notion_id is not None:
+            notion_record = get_notion_record(notion_id)
+            notion_title = notion_record.get('properties').get('Name').get('title')[0].get('text').get('content')
         
         # Get the shelving location for the item, and parse out the specifics.
         shcn, shelf, bay, container, slot, analysis = input_shcn()
@@ -40,16 +44,21 @@ def update_record():
 
         # Create, review, or update the label for the item.
         mungo_label = selected_record.get('label')
-        if mungo_label is None:
+        if mungo_label is None and notion_title is None:
             input_label_display = ""
+            default_label = ""
+        elif mungo_label is None and notion_title is not None:
+            input_label_display = "[" + notion_title + "]"
+            default_label = notion_title
         else:
             input_label_display = "[" + mungo_label + "]"
+            default_label = mungo_label
         
         input_label = input(f"Enter Label: " + input_label_display)
         if input_label != "":
             label = input_label
         else:
-            label = mungo_label
+            label = default_label
 
         # Construct the update_fields dictionary
         update_fields = {

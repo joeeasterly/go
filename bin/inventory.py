@@ -55,7 +55,7 @@ def main():
             os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/update_github.py")  # Execute the update_github.py script
         elif choice == '8':
             update_consumable()
-        elif choice == '0                    `':
+        elif choice == '0':
             print('Goodbye!')
             break
         else:
