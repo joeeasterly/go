@@ -1285,7 +1285,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g661"
+        "permalink": "https://joeeasterly.github.io/go/g661",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11ba3497c3069472efe0e",
@@ -2660,8 +2661,17 @@
         "identifier": "g6bd",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g6bd"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g6bd",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "183",
+        "container": "1830",
+        "label": "Pandora Moments Barrel Clasp Snake Chain Bracelet 20cm",
+        "last_updated": "2024-01-17 15:01:38.015000",
+        "notion_id": "945",
+        "shcn": "1830",
+        "shelf": "18",
+        "type": "item"
     },
     {
         "_id": "64f11ba3497c3069472efeba",
