@@ -4548,8 +4548,17 @@
         "identifier": "zwjs",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/zwjs"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/zwjs",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "183",
+        "container": "1830",
+        "label": "Festive Mouse & Stocking Charm",
+        "last_updated": "2024-01-17 15:01:17.480000",
+        "notion_id": "63",
+        "shcn": "1830",
+        "shelf": "18",
+        "type": "item"
     },
     {
         "_id": "64f11bd0497c306947375ba6",
