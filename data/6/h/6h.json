@@ -960,7 +960,7 @@
         "permalink": "https://joeeasterly.github.io/go/6h4r",
         "bay": "130",
         "label": "bay 130",
-        "last_updated": "2023-12-25T10:13:49.076000",
+        "last_updated": "2023-12-25 10:13:49.076000",
         "notion_id": "264",
         "shcn": "130",
         "shelf": "13",
@@ -6515,8 +6515,17 @@
         "identifier": "6hte",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6hte"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6hte",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "183",
+        "container": "1830",
+        "label": "Winter Blue Snowflake Murano Charm",
+        "last_updated": "2024-01-17 15:00:02.387000",
+        "notion_id": "56",
+        "shcn": "1830",
+        "shelf": "18",
+        "type": "item"
     },
     {
         "_id": "64f11b8a497c3069472a2c9b",
@@ -7294,7 +7303,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/6hwf",
         "label": "kitchenaid vegetable sheet cutter",
-        "last_updated": "2023-10-08T16:28:49.893000",
+        "last_updated": "2023-10-08 16:28:49.893000",
         "notion_id": "416",
         "shelf": "114"
     },
