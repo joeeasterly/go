@@ -359,7 +359,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/vq2d",
         "label": "rolling laundry cart",
-        "last_updated": "2024-01-03T10:58:49.259000",
+        "last_updated": "2024-01-03 10:58:49.259000",
         "notion_id": "880",
         "shcn": "6E",
         "shelf": "6E",
@@ -2386,8 +2386,17 @@
         "identifier": "vqaa",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vqaa"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vqaa",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "183",
+        "container": "1830",
+        "label": "Pandora Alarm Clock Charm",
+        "last_updated": "2024-01-17 14:59:21.405000",
+        "notion_id": "95",
+        "shcn": "1830",
+        "shelf": "18",
+        "type": "item"
     },
     {
         "_id": "64f11bc5497c306947354297",
