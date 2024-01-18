@@ -4816,9 +4816,17 @@
         "identifier": "wcks",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/wcks",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07 13:56:33",
+        "bay": "101",
+        "container": "1010",
+        "label": "Small White Marble Box",
+        "last_updated": "2024-01-17 13:19:14.139000",
+        "notion_id": "943",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bc7497c3069473597c6",
