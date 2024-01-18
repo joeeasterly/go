@@ -6015,7 +6015,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/8krg",
         "label": "shelf 35",
-        "last_updated": "2023-12-24T20:44:54.472000",
+        "last_updated": "2023-12-24 20:44:54.472000",
         "notion_id": "261",
         "shcn": "35",
         "shelf": "35",
@@ -6738,8 +6738,17 @@
         "identifier": "8kua",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8kua"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8kua",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "183",
+        "container": "1830",
+        "label": "Matte Green Murano Glass Charm",
+        "last_updated": "2024-01-17 15:00:49.312000",
+        "notion_id": "53",
+        "shcn": "1830",
+        "shelf": "18",
+        "type": "item"
     },
     {
         "_id": "64f11b8f497c3069472b34b7",
@@ -7726,7 +7735,7 @@
         "permalink": "https://joeeasterly.github.io/go/8ky5",
         "bay": "463",
         "label": "bay 463",
-        "last_updated": "2024-01-04T17:12:18.269000",
+        "last_updated": "2024-01-04 17:12:18.269000",
         "notion_id": "910",
         "shcn": "463",
         "shelf": "46",
@@ -7978,7 +7987,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8kz4"
+        "permalink": "https://joeeasterly.github.io/go/8kz4",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11b8f497c3069472b3551",
