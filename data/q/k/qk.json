@@ -6428,8 +6428,17 @@
         "identifier": "qkt4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qkt4"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qkt4",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "183",
+        "container": "1830",
+        "label": "Canada Red Maple Leaf Charm",
+        "last_updated": "2024-01-17 14:59:36.997000",
+        "notion_id": "62",
+        "shcn": "1830",
+        "shelf": "18",
+        "type": "item"
     },
     {
         "_id": "64f11bb7497c30694732b491",
