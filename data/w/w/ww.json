@@ -776,7 +776,7 @@
         "permalink": "https://joeeasterly.github.io/go/ww41",
         "bay": "470",
         "label": "bay 470",
-        "last_updated": "2023-12-24T17:13:48.867000",
+        "last_updated": "2023-12-24 17:13:48.867000",
         "notion_id": "579",
         "shcn": "470",
         "shelf": "47",
@@ -1780,7 +1780,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ww7x"
+        "permalink": "https://joeeasterly.github.io/go/ww7x",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc8497c30694735da4b",
@@ -5059,8 +5060,20 @@
         "identifier": "wwmr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wwmr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wwmr",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2025-03-18 00:00:00",
+        "label": "Wegmans Smooth Pizza Sauce",
+        "last_updated": "2024-01-18 21:41:31.014000",
+        "notion_id": "961",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G2",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "077890493137",
+        "bay": "5G2"
     },
     {
         "_id": "64f11bc8497c30694735dbe5",
@@ -7615,7 +7628,7 @@
         "permalink": "https://joeeasterly.github.io/go/wwxq",
         "bay": "501",
         "label": "cookies, biscuits, crackers",
-        "last_updated": "2023-11-25T18:35:19.436000",
+        "last_updated": "2023-11-25 18:35:19.436000",
         "notion_id": "615",
         "shcn": "501",
         "shelf": "50",
