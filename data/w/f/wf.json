@@ -1109,7 +1109,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wf5b"
+        "permalink": "https://joeeasterly.github.io/go/wf5b",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc7497c30694735a1f8",
@@ -3764,8 +3765,21 @@
         "identifier": "wffq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wffq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wffq",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-07-29 00:00:00",
+        "instance_of": "cyby",
+        "label": "Wegmans Albacore Tuna 5oz",
+        "last_updated": "2024-01-19 12:12:51.826000",
+        "notion_id": "974",
+        "percentage": 100,
+        "quantity": 1,
+        "shcn": "5G7",
+        "shelf": "5G",
+        "type": "consumable_instance",
+        "upc": "077890436936",
+        "bay": "5G7"
     },
     {
         "_id": "64f11bc7497c30694735a344",
@@ -4042,7 +4056,7 @@
         "bay": "470",
         "container": "4701",
         "label": "Elite Screens Projection Screen Remote model ZSP-RF-8 V2.0 Type A",
-        "last_updated": "2023-11-03T14:24:44.815000",
+        "last_updated": "2023-11-03 14:24:44.815000",
         "notion_id": "592",
         "shcn": "4701",
         "shelf": "47",
