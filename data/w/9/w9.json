@@ -2764,8 +2764,19 @@
         "identifier": "w9bt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/w9bt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/w9bt",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2023-04-14 00:00:00",
+        "label": "Banh Trang Viet Nam Vietnamese Rice Paper",
+        "last_updated": "2024-01-19 15:33:11.240000",
+        "notion_id": "990",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "8936007820049"
     },
     {
         "_id": "64f11bc7497c306947358ac7",
@@ -5957,7 +5968,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/w9r9"
+        "permalink": "https://joeeasterly.github.io/go/w9r9",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc7497c306947358c56",
