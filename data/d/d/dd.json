@@ -5988,7 +5988,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ddrc"
+        "permalink": "https://joeeasterly.github.io/go/ddrc",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b9c497c3069472d9c59",
@@ -7438,16 +7439,16 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ddx1",
         "staged": "2024-01-07 13:56:33",
-        "bay": "5H1",
+        "bay": "5G3",
         "expires": "2024-10-18 00:00:00",
         "label": "CJ Haechandle Gochujang",
-        "last_updated": "2024-01-07 17:08:59.666000",
+        "last_updated": "2024-01-18 21:57:41.666000",
         "notion_id": "933",
         "percentage": "100",
         "quantity": "1",
-        "shcn": "5H1",
-        "shelf": "5H",
-        "type": "item",
+        "shcn": "5G3",
+        "shelf": "5G",
+        "type": "consumable",
         "upc": "807176710760"
     },
     {
