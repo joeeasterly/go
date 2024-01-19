@@ -952,7 +952,7 @@
         "permalink": "https://joeeasterly.github.io/go/bh4q",
         "staged": "2023-10-23 14:22:43",
         "label": "Case for Canon cameras",
-        "last_updated": "2024-01-06T12:49:29.371000",
+        "last_updated": "2024-01-06 12:49:29.371000",
         "notion_id": "916",
         "shcn": "60",
         "shelf": "60",
@@ -2683,8 +2683,19 @@
         "identifier": "bhbf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bhbf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bhbf",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2022-12-07 00:00:00",
+        "label": "Assi Roasted Sesame Seeds 16oz",
+        "last_updated": "2024-01-19 11:06:40.521000",
+        "notion_id": "983",
+        "percentage": "95",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "081652053903"
     },
     {
         "_id": "64f11b98497c3069472caabc",
@@ -5388,7 +5399,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bhp1"
+        "permalink": "https://joeeasterly.github.io/go/bhp1",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b98497c3069472cac0e",
@@ -8119,7 +8131,7 @@
         "permalink": "https://joeeasterly.github.io/go/bhzp",
         "bay": "213",
         "label": "bay 213",
-        "last_updated": "2023-12-24T21:00:46.389000",
+        "last_updated": "2023-12-24 21:00:46.389000",
         "notion_id": "156",
         "shcn": "213",
         "shelf": "21",
