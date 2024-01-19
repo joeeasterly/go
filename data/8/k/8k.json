@@ -6155,7 +6155,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8ks1"
+        "permalink": "https://joeeasterly.github.io/go/8ks1",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b8f497c3069472b346e",
@@ -7986,9 +7987,20 @@
         "identifier": "8kz4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/8kz4",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2025-12-05 00:00:00",
+        "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
+        "last_updated": "2024-01-19 12:08:55.533000",
+        "notion_id": "963",
+        "percentage": "100",
+        "quantity": 5.0,
+        "shcn": "5G1",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "048000732675",
+        "bay": "5G1"
     },
     {
         "_id": "64f11b8f497c3069472b3551",
