@@ -3804,18 +3804,18 @@
         "identifier": "r6fv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/r6fv",
         "staged": "2024-01-07 13:56:33",
-        "bay": "5H1",
+        "bay": "5G3",
         "expires": "2024-10-18 00:00:00",
         "label": "CJ Haechandle Gochujang",
-        "last_updated": "2024-01-07 18:12:40.302000",
+        "last_updated": "2024-01-18 21:57:46.025000",
         "notion_id": "935",
         "percentage": "100",
         "quantity": "1",
-        "shcn": "5H1",
-        "shelf": "5H",
+        "shcn": "5G3",
+        "shelf": "5G",
         "type": "consumable",
         "upc": "807176710760"
     },
@@ -7617,7 +7617,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/r6xq"
+        "permalink": "https://joeeasterly.github.io/go/r6xq",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bb9497c306947330124",
