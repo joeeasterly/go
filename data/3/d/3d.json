@@ -4244,8 +4244,21 @@
         "identifier": "3dhk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3dhk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3dhk",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-07-29 00:00:00",
+        "instance_of": "cyby",
+        "label": "Wegmans Albacore Tuna 5oz",
+        "last_updated": "2024-01-19 12:12:56.536000",
+        "notion_id": "974",
+        "percentage": 100,
+        "quantity": 1,
+        "shcn": "5G7",
+        "shelf": "5G",
+        "type": "consumable_instance",
+        "upc": "077890436936",
+        "bay": "5G7"
     },
     {
         "_id": "64f11b81497c306947289b80",
@@ -5461,7 +5474,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3dpb"
+        "permalink": "https://joeeasterly.github.io/go/3dpb",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11b81497c306947289c18",
@@ -7237,7 +7251,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3dw9"
+        "permalink": "https://joeeasterly.github.io/go/3dw9",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b81497c306947289cf6",
