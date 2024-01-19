@@ -3317,7 +3317,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x1dy"
+        "permalink": "https://joeeasterly.github.io/go/x1dy",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc9497c30694735eb0c",
@@ -3647,7 +3648,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/x1f8",
         "label": "zinc 1/4 in AAB hex nuts",
-        "last_updated": "2023-10-05T18:02:09.533000",
+        "last_updated": "2023-10-05 18:02:09.533000",
         "notion_id": "395",
         "shelf": "411"
     },
@@ -8008,8 +8009,20 @@
         "identifier": "x1z9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x1z9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/x1z9",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-11-08 00:00:00",
+        "label": "Premier Protein 30g Cafe Latte Shake",
+        "last_updated": "2024-01-18 21:37:39.294000",
+        "notion_id": "955",
+        "percentage": "100",
+        "quantity": 14.0,
+        "shcn": "5G4",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "643843716655",
+        "bay": "5G4"
     },
     {
         "_id": "64f11bc9497c30694735ed56",
