@@ -2804,8 +2804,20 @@
         "identifier": "cyby",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/cyby"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/cyby",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-07-29 00:00:00",
+        "label": "Wegmans Albacore Tuna 5oz",
+        "last_updated": "2024-01-19 12:12:49.843000",
+        "notion_id": "974",
+        "percentage": "100",
+        "quantity": 4.0,
+        "shcn": "5G7",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "077890436936",
+        "bay": "5G7"
     },
     {
         "_id": "64f11b9b497c3069472d62cc",
