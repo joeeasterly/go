@@ -6092,8 +6092,20 @@
         "identifier": "53rt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/53rt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/53rt",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2025-05-30 00:00:00",
+        "label": "Wegmans Smooth Pizza Sauce",
+        "last_updated": "2024-01-18 21:41:46.245000",
+        "notion_id": "962",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G2",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "077890493137",
+        "bay": "5G2"
     },
     {
         "_id": "64f11b86497c306947297467",
