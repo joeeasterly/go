@@ -2428,8 +2428,20 @@
         "identifier": "d7ag",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/d7ag"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/d7ag",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-12-15 00:00:00",
+        "label": "amazon fresh peanut butter 16oz",
+        "last_updated": "2024-01-18 21:41:54.978000",
+        "notion_id": "949",
+        "percentage": "70",
+        "quantity": "1",
+        "shcn": "5G2",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "842379152535",
+        "bay": "5G2"
     },
     {
         "_id": "64f11b9c497c3069472d829d",
