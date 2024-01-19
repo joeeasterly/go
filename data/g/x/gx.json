@@ -4589,7 +4589,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gxjx"
+        "permalink": "https://joeeasterly.github.io/go/gxjx",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11ba6497c3069472f5fab",
@@ -7676,8 +7677,20 @@
         "identifier": "gxxz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gxxz"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gxxz",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2028-07-19 00:00:00",
+        "label": "Goya Pinto Beans 15.5oz",
+        "last_updated": "2024-01-18 22:00:10.645000",
+        "notion_id": "957",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G5",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "041331124379",
+        "bay": "5G5"
     },
     {
         "_id": "64f11ba6497c3069472f612d",
