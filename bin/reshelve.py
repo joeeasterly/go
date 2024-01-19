@@ -8,6 +8,7 @@ from library.input_shcn import input_shcn
 from library.parse_qrcode_input import parse_qrcode_input
 from library.update_record_by_identifier import update_record_by_identifier
 from library.get_record_by_identifier import get_record_by_identifier
+from library.reshelve_notion_inventory import reshelve_notion_inventory
 from library.print_inventory import print_inventory
 from datetime import datetime
 
@@ -17,6 +18,9 @@ def reshelve_record():
         mungo_id = parse_qrcode_input()
         if mungo_id == "exit_loop":
             break
+        # Get the notion_id
+        record = get_record_by_identifier(mungo_id)
+        notion_id = record.get("notion_id")
         # Construct the update_fields dictionary
         update_fields = {
             "$set": {
@@ -56,5 +60,7 @@ def reshelve_record():
 
         # Update the record
         update_record_by_identifier(update_fields, unset_fields)
+        # Update the Notion inventory
+        reshelve_notion_inventory(notion_id, shcn)
         print_inventory(get_record_by_identifier(mungo_id))
         print ("scan additional item(s) or press * to quit")

@@ -38,7 +38,7 @@ identifiers = []
 if random_docs:
     for chosen_record in random_docs:
         # Get the value of the 'identifier' field
-        identifier_value = chosen_record.get("identifier", None)
+        identifier_value = chosen_record.get("identifier", None).upper()
         permalink = chosen_record.get("permalink", None)
 
         # Update that record by setting the 'staged' field to the current timestamp

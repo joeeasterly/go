@@ -5,6 +5,8 @@ from create_record import create_record
 from search_records import search_records
 from update_record import update_record
 from update_consumable import update_consumable
+from add_consumable_instance import add_consumable_instance
+from delete_consumable import delete_consumable
 from storage import add_storage
 from delete_record import delete_record
 from reshelve import reshelve_record
@@ -49,12 +51,16 @@ def main():
             add_storage()
         elif choice == '5':
             delete_record()
+        elif choice == '51':
+            delete_consumable()
         elif choice == '6':
             reshelve_record()
         elif choice == '7':
             os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/update_github.py")  # Execute the update_github.py script
         elif choice == '8':
             update_consumable()
+        elif choice == '81':
+            add_consumable_instance()
         elif choice == '0':
             print('Goodbye!')
             break

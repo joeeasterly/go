@@ -45,7 +45,8 @@ def update_consumable():
         update_fields = {
             "$set": {
                 "type": "consumable",
-                "last_updated": datetime.now()
+                "last_updated": datetime.now(),
+                "allocated": True,
             }
         }
         #  Conditionally add fields if they exist
