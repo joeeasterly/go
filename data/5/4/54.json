@@ -6116,8 +6116,21 @@
         "identifier": "54rw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/54rw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/54rw",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-11-08 00:00:00",
+        "instance_of": "x1z9",
+        "label": "Premier Protein 30g Cafe Latte Shake",
+        "last_updated": "2024-01-18 22:00:56.850000",
+        "notion_id": "955",
+        "percentage": 100,
+        "quantity": 1,
+        "shcn": "5G5",
+        "shelf": "5G",
+        "type": "consumable_instance",
+        "upc": "643843716655",
+        "bay": "5G5"
     },
     {
         "_id": "64f11b86497c30694729786a",
