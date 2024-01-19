@@ -1284,8 +1284,20 @@
         "identifier": "wb61",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wb61"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wb61",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-09-07 00:00:00",
+        "label": "Wegmans Hearty Chicken Noodle 18.6 oz",
+        "last_updated": "2024-01-18 21:43:16.270000",
+        "notion_id": "964",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G2",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "077890145067",
+        "bay": "5G2"
     },
     {
         "_id": "64f11bc7497c30694735920e",
