@@ -1356,8 +1356,20 @@
         "identifier": "aw6a",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/aw6a"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/aw6a",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-12-30 00:00:00",
+        "label": "Wegmans Organic Vegetarian Refried Black Beans 15oz",
+        "last_updated": "2024-01-18 22:00:13.537000",
+        "notion_id": "958",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G5",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "077890447635",
+        "bay": "5G5"
     },
     {
         "_id": "64f11b96497c3069472c5a17",
