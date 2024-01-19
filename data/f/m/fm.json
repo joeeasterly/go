@@ -5757,8 +5757,19 @@
         "identifier": "fmqg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fmqg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fmqg",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2023-11-07 00:00:00",
+        "label": "Lays Ruffles Ridges 28oz",
+        "last_updated": "2024-01-19 12:06:56.340000",
+        "notion_id": "989",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "028400077910"
     },
     {
         "_id": "64f11ba2497c3069472eb83d",
@@ -6673,7 +6684,7 @@
         "permalink": "https://joeeasterly.github.io/go/fmu2",
         "bay": "471",
         "label": "bay 471",
-        "last_updated": "2023-12-24T17:13:04.615000",
+        "last_updated": "2023-12-24 17:13:04.615000",
         "notion_id": "580",
         "shcn": "471",
         "shelf": "47",
@@ -7797,7 +7808,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fmye"
+        "permalink": "https://joeeasterly.github.io/go/fmye",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11ba2497c3069472eb93b",
