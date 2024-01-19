@@ -5756,8 +5756,20 @@
         "identifier": "a6qg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/a6qg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/a6qg",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2025-02-16 00:00:00",
+        "label": "Paesana Non Pareil Capers 32 oz",
+        "last_updated": "2024-01-19 12:15:02.280000",
+        "notion_id": "973",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G6",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "076050220507",
+        "bay": "5G6"
     },
     {
         "_id": "64f11b94497c3069472c003d",
