@@ -868,8 +868,20 @@
         "identifier": "6b4d",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6b4d"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6b4d",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2025-05-07 00:00:00",
+        "label": "JELL-O Sugar Free Raspberry 0.6oz",
+        "last_updated": "2024-01-19 15:15:35.707000",
+        "notion_id": "968",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G7",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "043000201466",
+        "bay": "5G7"
     },
     {
         "_id": "64f11b89497c3069472a11da",
