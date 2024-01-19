@@ -93,7 +93,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rb1c"
+        "permalink": "https://joeeasterly.github.io/go/rb1c",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bb9497c306947331179",
@@ -1244,8 +1245,21 @@
         "identifier": "rb5v",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rb5v"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rb5v",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-11-08 00:00:00",
+        "instance_of": "x1z9",
+        "label": "Premier Protein 30g Cafe Latte Shake",
+        "last_updated": "2024-01-18 21:36:41.019000",
+        "notion_id": "955",
+        "percentage": 100,
+        "quantity": 1,
+        "shcn": "5G4",
+        "shelf": "5G",
+        "type": "consumable_instance",
+        "upc": "643843716655",
+        "bay": "5G4"
     },
     {
         "_id": "64f11bb9497c306947331209",
@@ -7511,7 +7525,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/rbxb",
         "label": "usb-c to usb-c power/data cable, 1m",
-        "last_updated": "2023-10-22T17:27:59.277000",
+        "last_updated": "2023-10-22 17:27:59.277000",
         "notion_id": "532",
         "shcn": "4030",
         "type": "item"
