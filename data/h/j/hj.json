@@ -2265,14 +2265,15 @@
         "staged": "2024-01-07 13:56:33",
         "expires": "2025-05-31 00:00:00",
         "label": "Niblack Chick Peas 5lb",
-        "last_updated": "2024-01-19 15:51:57.197000",
+        "last_updated": "2024-01-19 16:05:48.356000",
         "notion_id": "992",
         "percentage": "60",
         "quantity": "1",
-        "shcn": "10",
-        "shelf": "10",
+        "shcn": "5G0",
+        "shelf": "5G",
         "type": "consumable",
-        "upc": "075974110529"
+        "upc": "075974110529",
+        "bay": "5G0"
     },
     {
         "_id": "64f11ba7497c3069472fae88",
