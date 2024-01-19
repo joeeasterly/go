@@ -4924,8 +4924,20 @@
         "identifier": "f3m8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/f3m8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/f3m8",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2025-08-01 00:00:00",
+        "label": "Royal Sugar Free Cherry Gelatin 0.32 oz",
+        "last_updated": "2024-01-19 15:15:39.066000",
+        "notion_id": "967",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G7",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "072392005796",
+        "bay": "5G7"
     },
     {
         "_id": "64f11ba1497c3069472e73d5",
