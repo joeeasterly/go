@@ -3812,8 +3812,19 @@
         "identifier": "fwfw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/fwfw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/fwfw",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2023-05-01 00:00:00",
+        "label": "Wegmans Peanut Oil 32oz",
+        "last_updated": "2024-01-19 10:38:51.544000",
+        "notion_id": "970",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "077890311677"
     },
     {
         "_id": "64f11ba3497c3069472edb4a",
