@@ -6773,7 +6773,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bkuf"
+        "permalink": "https://joeeasterly.github.io/go/bkuf",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b98497c3069472cb4bc",
@@ -7756,8 +7757,21 @@
         "identifier": "bkya",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bkya"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bkya",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-11-08 00:00:00",
+        "instance_of": "x1z9",
+        "label": "Premier Protein 30g Cafe Latte Shake",
+        "last_updated": "2024-01-18 21:37:58.852000",
+        "notion_id": "955",
+        "percentage": 100,
+        "quantity": 1,
+        "shcn": "5G4",
+        "shelf": "5G",
+        "type": "consumable_instance",
+        "upc": "643843716655",
+        "bay": "5G4"
     },
     {
         "_id": "64f11b98497c3069472cb537",
