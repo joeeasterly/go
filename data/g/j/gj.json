@@ -1439,7 +1439,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/gj6m",
         "label": "clear cambro temp storage",
-        "last_updated": "2023-10-08T17:16:10.294000",
+        "last_updated": "2023-10-08 17:16:10.294000",
         "notion_id": "420",
         "shelf": "402"
     },
@@ -2689,7 +2689,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gjbg"
+        "permalink": "https://joeeasterly.github.io/go/gjbg",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11ba5497c3069472f2ebd",
@@ -4792,8 +4793,20 @@
         "identifier": "gjkq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gjkq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gjkq",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-08-10 00:00:00",
+        "label": "Premier Protein 30g Chocolate Shake 11 fl oz",
+        "last_updated": "2024-01-18 21:36:10.119000",
+        "notion_id": "953",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G4",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "643843715344",
+        "bay": "5G4"
     },
     {
         "_id": "64f11ba5497c3069472f2fc4",
