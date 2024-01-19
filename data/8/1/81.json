@@ -5676,8 +5676,20 @@
         "identifier": "81q6",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/81q6"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/81q6",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2025-01-25 00:00:00",
+        "label": "Solestado Muffuletta Olive Salad 33.9 oz",
+        "last_updated": "2024-01-19 12:15:09.042000",
+        "notion_id": "978",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G6",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "687250802488",
+        "bay": "5G6"
     },
     {
         "_id": "64f11b8e497c3069472aec33",
