@@ -7540,8 +7540,20 @@
         "identifier": "v9xf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v9xf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v9xf",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-12-11 00:00:00",
+        "label": "Jayone Gochujang 500g",
+        "last_updated": "2024-01-18 21:57:37.447000",
+        "notion_id": "965",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G3",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "678108151179",
+        "bay": "5G3"
     },
     {
         "_id": "64f11bc4497c306947350d1c",
@@ -8181,7 +8193,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v9zy"
+        "permalink": "https://joeeasterly.github.io/go/v9zy",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bc4497c306947350d6c",
