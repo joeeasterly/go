@@ -2260,8 +2260,19 @@
         "identifier": "hj9u",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/hj9u"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/hj9u",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2025-05-31 00:00:00",
+        "label": "Niblack Chick Peas 5lb",
+        "last_updated": "2024-01-19 15:51:57.197000",
+        "notion_id": "992",
+        "percentage": "60",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "075974110529"
     },
     {
         "_id": "64f11ba7497c3069472fae88",
@@ -3077,7 +3088,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/hjd1"
+        "permalink": "https://joeeasterly.github.io/go/hjd1",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11ba7497c3069472faeee",
