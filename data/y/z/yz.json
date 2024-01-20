@@ -1388,9 +1388,19 @@
         "identifier": "yz6e",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/yz6e",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-07-24 00:00:00",
+        "label": "Frosted Flakes 13.5oz",
+        "last_updated": "2024-01-19 16:18:47.291000",
+        "notion_id": "1000",
+        "percentage": "65",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "038000199042"
     },
     {
         "_id": "64f11bcd497c30694736e61b",
@@ -5637,7 +5647,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yzpz"
+        "permalink": "https://joeeasterly.github.io/go/yzpz",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bce497c30694736e82d",
@@ -6580,7 +6591,7 @@
         "identifier": "yztp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/yztp",
         "staged": "2024-01-07 13:56:33",
         "bay": "592",
