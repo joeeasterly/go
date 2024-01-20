@@ -2204,8 +2204,15 @@
         "identifier": "jh9m",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jh9m"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/jh9m",
+        "staged": "2024-01-19 11:39:27",
+        "label": "TP-Link 24-Port Gigabit Easy Smart Switch",
+        "last_updated": "2024-01-20 15:03:06.363000",
+        "shcn": "4A",
+        "shelf": "4A",
+        "type": "item",
+        "notion_id": "1077"
     },
     {
         "_id": "64f11baa497c306947302a81",
@@ -3479,7 +3486,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/jhek",
         "label": "spices, large pots",
-        "last_updated": "2023-11-25T20:39:36.898000",
+        "last_updated": "2023-11-25 20:39:36.898000",
         "notion_id": "608",
         "shcn": "59",
         "shelf": "59",
