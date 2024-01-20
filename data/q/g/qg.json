@@ -4284,8 +4284,15 @@
         "identifier": "qghr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qghr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qghr",
+        "bay": "711",
+        "label": "bay 711",
+        "last_updated": "2024-01-20 14:28:31.137000",
+        "notion_id": "1064",
+        "shcn": "711",
+        "shelf": "71",
+        "type": "storage"
     },
     {
         "_id": "64f11bb7497c30694732a785",
@@ -5901,7 +5908,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qgr2"
+        "permalink": "https://joeeasterly.github.io/go/qgr2",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bb7497c30694732a84f",
