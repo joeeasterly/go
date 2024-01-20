@@ -45,7 +45,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4416"
+        "permalink": "https://joeeasterly.github.io/go/4416",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b83497c30694728f573",
@@ -364,8 +365,20 @@
         "identifier": "442e",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/442e"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/442e",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2024-08-31 00:00:00",
+        "label": "Niblack Hot Curry Powder 2oz",
+        "last_updated": "2024-01-19 21:09:59.201000",
+        "notion_id": "1034",
+        "percentage": "95",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "075974188214"
     },
     {
         "_id": "64f11b83497c30694728f59b",
@@ -1936,7 +1949,7 @@
         "permalink": "https://joeeasterly.github.io/go/448j",
         "bay": "5Q3",
         "label": "back of laundry room closet door",
-        "last_updated": "2024-01-01T16:38:17.039000",
+        "last_updated": "2024-01-01 16:38:17.039000",
         "notion_id": "778",
         "shcn": "5Q3",
         "shelf": "5Q",
@@ -7719,7 +7732,7 @@
         "permalink": "https://joeeasterly.github.io/go/44y4",
         "bay": "550",
         "label": "tea pots",
-        "last_updated": "2023-11-25T21:22:03.197000",
+        "last_updated": "2023-11-25 21:22:03.197000",
         "notion_id": "645",
         "shcn": "550",
         "shelf": "55",
