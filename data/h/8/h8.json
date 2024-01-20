@@ -1365,7 +1365,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h86b"
+        "permalink": "https://joeeasterly.github.io/go/h86b",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11ba6497c3069472f8618",
@@ -2976,7 +2977,7 @@
         "permalink": "https://joeeasterly.github.io/go/h8cm",
         "bay": "402",
         "label": "bay 402",
-        "last_updated": "2023-12-25T09:59:51.871000",
+        "last_updated": "2023-12-25 09:59:51.871000",
         "notion_id": "443",
         "shcn": "402",
         "shelf": "40",
@@ -6049,7 +6050,7 @@
         "bay": "102",
         "container": "1020",
         "label": "cabling processing for inventory",
-        "last_updated": "2023-10-24T13:08:13.599000",
+        "last_updated": "2023-10-24 13:08:13.599000",
         "notion_id": "544",
         "shcn": "1020",
         "shelf": "10",
@@ -7820,8 +7821,17 @@
         "identifier": "h8yg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h8yg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h8yg",
+        "bay": "721",
+        "container": "7210",
+        "label": "slot 72100",
+        "last_updated": "2024-01-20 14:44:25.756000",
+        "notion_id": "1041",
+        "shcn": "72100",
+        "shelf": "72",
+        "slot": "72100",
+        "type": "storage"
     },
     {
         "_id": "64f11ba6497c3069472f893d",
@@ -8079,7 +8089,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/h8zg",
         "label": "1/2in #6 phillips screws",
-        "last_updated": "2023-10-18T14:24:45.278000",
+        "last_updated": "2023-10-18 14:24:45.278000",
         "notion_id": "406",
         "shelf": "41",
         "bay": "411",
