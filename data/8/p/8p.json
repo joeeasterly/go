@@ -1213,7 +1213,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8p5r"
+        "permalink": "https://joeeasterly.github.io/go/8p5r",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11b8f497c3069472b3e05",
@@ -2484,8 +2485,20 @@
         "identifier": "8paq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8paq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8paq",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "5G0",
+        "expires": "2025-05-01 00:00:00",
+        "label": "Wegmans Confectioners 10-X Powdered Sugar 32oz",
+        "last_updated": "2024-01-19 16:34:48.103000",
+        "notion_id": "995",
+        "percentage": "80",
+        "quantity": "1",
+        "shcn": "5G0",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "077890479377"
     },
     {
         "_id": "64f11b8f497c3069472b3ea4",
