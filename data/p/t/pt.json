@@ -2324,8 +2324,14 @@
         "identifier": "pta3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pta3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/pta3",
+        "label": "Electrical Cabinet",
+        "last_updated": "2024-01-20 14:53:38.580000",
+        "notion_id": "1068",
+        "shcn": "4A",
+        "shelf": "4A",
+        "type": "storage"
     },
     {
         "_id": "64f11bb5497c306947324e90",
@@ -5277,7 +5283,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ptnm"
+        "permalink": "https://joeeasterly.github.io/go/ptnm",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bb5497c306947325001",
