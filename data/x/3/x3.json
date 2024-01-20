@@ -4524,8 +4524,20 @@
         "identifier": "x3jp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x3jp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/x3jp",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2024-05-26 00:00:00",
+        "label": "McCormick Organic Hot Madras Curry Powder 1.37oz",
+        "last_updated": "2024-01-19 21:03:58.368000",
+        "notion_id": "1030",
+        "percentage": "30",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "052100035505"
     },
     {
         "_id": "64f11bc9497c30694735f3a3",
