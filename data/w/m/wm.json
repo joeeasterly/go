@@ -5260,8 +5260,20 @@
         "identifier": "wmnj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wmnj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wmnj",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "583",
+        "expires": "2024-04-05 00:00:00",
+        "label": "Pam Cooking Spray 12oz",
+        "last_updated": "2024-01-19 21:22:35.612000",
+        "notion_id": "1038",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "583",
+        "shelf": "58",
+        "type": "consumable",
+        "upc": "064144030941"
     },
     {
         "_id": "64f11bc8497c30694735b7ff",
@@ -6333,7 +6345,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wmsr"
+        "permalink": "https://joeeasterly.github.io/go/wmsr",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc8497c30694735b885",
