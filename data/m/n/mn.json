@@ -188,8 +188,20 @@
         "identifier": "mn1r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mn1r"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mn1r",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "583",
+        "expires": "2024-08-06 00:00:00",
+        "label": "Costco Pure Vanilla Extract 16oz",
+        "last_updated": "2024-01-19 21:19:56.984000",
+        "notion_id": "1037",
+        "percentage": "60",
+        "quantity": "1",
+        "shcn": "583",
+        "shelf": "58",
+        "type": "consumable",
+        "upc": "017300010554"
     },
     {
         "_id": "64f11baf497c306947313985",
