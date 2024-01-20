@@ -2517,8 +2517,20 @@
         "identifier": "2wau",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2wau"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2wau",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "583",
+        "expires": "2025-03-24 00:00:00",
+        "label": "Harvest 2000 Pho Beef Broth Powder 1lb",
+        "last_updated": "2024-01-19 21:16:10.082000",
+        "notion_id": "1036",
+        "percentage": "85",
+        "quantity": "1",
+        "shcn": "583",
+        "shelf": "58",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11b80497c306947285aa8",
