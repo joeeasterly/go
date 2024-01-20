@@ -5445,7 +5445,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xmp9"
+        "permalink": "https://joeeasterly.github.io/go/xmp9",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bca497c306947363816",
@@ -7276,8 +7277,20 @@
         "identifier": "xmwe",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xmwe"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xmwe",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Black Peppercorns 4oz",
+        "last_updated": "2024-01-19 21:00:14.737000",
+        "notion_id": "1027",
+        "percentage": "50",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11bca497c3069473638fb",
