@@ -3093,7 +3093,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gmd3"
+        "permalink": "https://joeeasterly.github.io/go/gmd3",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11ba5497c3069472f36f0",
@@ -3532,8 +3533,20 @@
         "identifier": "gmet",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gmet"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gmet",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2025-02-28 00:00:00",
+        "label": "Niblack Spanish Paprika 120 ASTA 2oz",
+        "last_updated": "2024-01-19 21:05:23.044000",
+        "notion_id": "1031",
+        "percentage": "95",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "075974185527"
     },
     {
         "_id": "64f11ba5497c3069472f3727",
@@ -7887,7 +7900,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/gmyt",
         "label": "south wall master bedroom",
-        "last_updated": "2024-01-03T10:12:41.439000",
+        "last_updated": "2024-01-03 10:12:41.439000",
         "notion_id": "815",
         "shcn": "60",
         "shelf": "60",
@@ -8134,7 +8147,7 @@
         "permalink": "https://joeeasterly.github.io/go/gmzr",
         "bay": "365",
         "label": "bay 365",
-        "last_updated": "2023-12-24T20:39:15.535000",
+        "last_updated": "2023-12-24 20:39:15.535000",
         "notion_id": "361",
         "shcn": "365",
         "shelf": "36",
