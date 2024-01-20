@@ -3620,8 +3620,17 @@
         "identifier": "bsf5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bsf5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bsf5",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "101",
+        "container": "1010",
+        "label": "rack mounting plates for tp-link 24-port gigabit switch",
+        "last_updated": "2024-01-20 15:18:37.443000",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item",
+        "notion_id": "1078"
     },
     {
         "_id": "64f11b98497c3069472ccb32",
@@ -5832,7 +5841,7 @@
         "permalink": "https://joeeasterly.github.io/go/bsqs",
         "bay": "5F9",
         "label": "bay 5F9",
-        "last_updated": "2024-01-01T15:46:44.022000",
+        "last_updated": "2024-01-01 15:46:44.022000",
         "notion_id": "731",
         "shcn": "5F9",
         "shelf": "5F",
