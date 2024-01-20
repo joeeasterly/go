@@ -3996,8 +3996,17 @@
         "identifier": "rcgm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rcgm"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rcgm",
+        "bay": "721",
+        "container": "7210",
+        "label": "slot 7210C",
+        "last_updated": "2024-01-20 14:35:02.098000",
+        "notion_id": "1053",
+        "shcn": "7210C",
+        "shelf": "72",
+        "slot": "7210C",
+        "type": "storage"
     },
     {
         "_id": "64f11bb9497c306947331761",
@@ -7445,7 +7454,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rcx3"
+        "permalink": "https://joeeasterly.github.io/go/rcx3",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bb9497c306947331910",
