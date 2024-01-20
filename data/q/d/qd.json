@@ -596,8 +596,20 @@
         "identifier": "qd3b",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qd3b"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qd3b",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2026-12-31 00:00:00",
+        "label": "Monosodium Glutamate MSG 4oz",
+        "last_updated": "2024-01-19 20:54:48.277000",
+        "notion_id": "1024",
+        "percentage": "95",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11bb7497c3069473299b8",
