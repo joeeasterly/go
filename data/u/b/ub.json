@@ -2133,7 +2133,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ub9b"
+        "permalink": "https://joeeasterly.github.io/go/ub9b",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bc1497c306947349278",
@@ -5492,8 +5493,19 @@
         "identifier": "ubpf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ubpf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ubpf",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-06-21 00:00:00",
+        "label": "Multi Grain Cheerios 9oz",
+        "last_updated": "2024-01-19 16:17:33.833000",
+        "notion_id": "999",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "016000275157"
     },
     {
         "_id": "64f11bc1497c30694734941c",
@@ -7437,7 +7449,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ubx2"
+        "permalink": "https://joeeasterly.github.io/go/ubx2",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc1497c30694734950f",
