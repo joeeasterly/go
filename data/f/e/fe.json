@@ -3492,8 +3492,15 @@
         "identifier": "feen",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/feen"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/feen",
+        "bay": "710",
+        "label": "bay 710",
+        "last_updated": "2024-01-20 14:29:25.380000",
+        "notion_id": "1063",
+        "shcn": "710",
+        "shelf": "71",
+        "type": "storage"
     },
     {
         "_id": "64f11ba2497c3069472e9f22",
