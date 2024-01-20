@@ -2812,8 +2812,19 @@
         "identifier": "4kbz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4kbz"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4kbz",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Double Golden Fish Brand 1mm Rice Noodles 16oz",
+        "last_updated": "2024-01-19 16:12:17.054000",
+        "notion_id": "996",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "030891053724"
     },
     {
         "_id": "64f11b85497c3069472932cd",
@@ -3685,7 +3696,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4kfd"
+        "permalink": "https://joeeasterly.github.io/go/4kfd",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b85497c30694729333a",
