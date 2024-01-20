@@ -3029,7 +3029,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wrcu"
+        "permalink": "https://joeeasterly.github.io/go/wrcu",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc8497c30694735c6e8",
@@ -4677,7 +4678,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wrk9"
+        "permalink": "https://joeeasterly.github.io/go/wrk9",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bc8497c30694735c7b6",
@@ -6876,8 +6878,15 @@
         "identifier": "wruv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wruv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wruv",
+        "bay": "713",
+        "label": "bay 713",
+        "last_updated": "2024-01-20 14:25:38.247000",
+        "notion_id": "1066",
+        "shcn": "713",
+        "shelf": "71",
+        "type": "storage"
     },
     {
         "_id": "64f11bc8497c30694735c8c9",
