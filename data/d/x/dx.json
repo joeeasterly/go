@@ -2320,7 +2320,7 @@
         "permalink": "https://joeeasterly.github.io/go/dxa2",
         "bay": "653",
         "label": "bay 653",
-        "last_updated": "2024-01-03T10:44:31.322000",
+        "last_updated": "2024-01-03 10:44:31.322000",
         "notion_id": "847",
         "shcn": "653",
         "shelf": "65",
@@ -3515,8 +3515,17 @@
         "identifier": "dxeq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dxeq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/dxeq",
+        "bay": "721",
+        "container": "7210",
+        "label": "slot 72109",
+        "last_updated": "2024-01-20 14:36:38.987000",
+        "notion_id": "1050",
+        "shcn": "72109",
+        "shelf": "72",
+        "slot": "72109",
+        "type": "storage"
     },
     {
         "_id": "64f11b9e497c3069472ddf24",
@@ -4924,7 +4933,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dxm7"
+        "permalink": "https://joeeasterly.github.io/go/dxm7",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b9e497c3069472ddfd4",
