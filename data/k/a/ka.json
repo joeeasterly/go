@@ -1485,7 +1485,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ka6t"
+        "permalink": "https://joeeasterly.github.io/go/ka6t",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bac497c306947308e27",
@@ -7340,8 +7341,20 @@
         "identifier": "kawp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kawp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/kawp",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2024-04-30 00:00:00",
+        "label": "Niblack Hulled Sesame Seed 20oz",
+        "last_updated": "2024-01-19 20:45:11.963000",
+        "notion_id": "1019",
+        "percentage": "60",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "075974240530"
     },
     {
         "_id": "64f11bac497c306947309103",
