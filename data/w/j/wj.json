@@ -5268,8 +5268,20 @@
         "identifier": "wjnk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wjnk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wjnk",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2024-06-25 00:00:00",
+        "label": "Wang Korea Gochugaru 7.05oz",
+        "last_updated": "2024-01-19 20:44:04.171000",
+        "notion_id": "1018",
+        "percentage": "95",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "087703143227"
     },
     {
         "_id": "64f11bc8497c30694735b000",
