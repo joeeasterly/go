@@ -3348,8 +3348,17 @@
         "identifier": "rje3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rje3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rje3",
+        "bay": "721",
+        "container": "7210",
+        "label": "#8-32 brass nuts",
+        "last_updated": "2024-01-20 14:36:12.377000",
+        "notion_id": "1051",
+        "shcn": "7210A",
+        "shelf": "72",
+        "slot": "7210A",
+        "type": "storage"
     },
     {
         "_id": "64f11bba497c306947332f10",
