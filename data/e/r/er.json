@@ -516,8 +516,20 @@
         "identifier": "er31",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/er31"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/er31",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2020-04-10 00:00:00",
+        "label": "Spice Islands Organic Ground Tumeric 2.0 oz",
+        "last_updated": "2024-01-19 20:57:58.740000",
+        "notion_id": "1025",
+        "percentage": "80",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "04018810"
     },
     {
         "_id": "64f11ba0497c3069472e45ae",
