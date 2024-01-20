@@ -8141,8 +8141,20 @@
         "identifier": "zwzs",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/zwzs"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/zwzs",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2019-11-30 00:00:00",
+        "label": "Niblack Whole Cumin",
+        "last_updated": "2024-01-19 20:23:20.269000",
+        "notion_id": "1008",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "075974166236"
     },
     {
         "_id": "64f11bd0497c306947375d66",
