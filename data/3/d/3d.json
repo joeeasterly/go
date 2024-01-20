@@ -5473,9 +5473,19 @@
         "identifier": "3dpb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/3dpb",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07 13:56:33",
+        "bay": "5G0",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Milly Vietnamese Cinnamon 12oz",
+        "last_updated": "2024-01-19 16:33:07.119000",
+        "notion_id": "1001",
+        "percentage": "80",
+        "quantity": "1",
+        "shcn": "5G0",
+        "shelf": "5G",
+        "type": "item"
     },
     {
         "_id": "64f11b81497c306947289c18",
