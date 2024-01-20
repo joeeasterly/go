@@ -6500,8 +6500,19 @@
         "identifier": "76td",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/76td"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/76td",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-08-10 00:00:00",
+        "label": "Cheerios 8.9oz",
+        "last_updated": "2024-01-19 16:16:49.538000",
+        "notion_id": "998",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "016000275263"
     },
     {
         "_id": "64f11b8c497c3069472a809a",
