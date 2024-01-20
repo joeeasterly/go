@@ -5068,8 +5068,20 @@
         "identifier": "bamt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bamt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bamt",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Oriental Mascot Five Spice Powder 4oz",
+        "last_updated": "2024-01-19 20:48:06.642000",
+        "notion_id": "1020",
+        "percentage": "99",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "023452062129"
     },
     {
         "_id": "64f11b97497c3069472c8fe7",
