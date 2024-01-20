@@ -7748,8 +7748,20 @@
         "identifier": "4xy9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4xy9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4xy9",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2023-12-16 00:00:00",
+        "label": "McCormick Organic Whole Nutmeg 1.5oz",
+        "last_updated": "2024-01-19 20:51:56.851000",
+        "notion_id": "1022",
+        "percentage": "95",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "05234316"
     },
     {
         "_id": "64f11b86497c306947296136",
