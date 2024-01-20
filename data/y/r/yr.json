@@ -2917,7 +2917,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yrcd"
+        "permalink": "https://joeeasterly.github.io/go/yrcd",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bcd497c30694736c6da",
@@ -3020,8 +3021,19 @@
         "identifier": "yrct",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yrct"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yrct",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2025-06-13 00:00:00",
+        "label": "Wegmans Vegetable Oil 32oz",
+        "last_updated": "2024-01-19 18:59:02.187000",
+        "notion_id": "1004",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "077890455456"
     },
     {
         "_id": "64f11bcd497c30694736c6e7",
