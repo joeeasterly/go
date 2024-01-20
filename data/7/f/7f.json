@@ -2956,8 +2956,14 @@
         "identifier": "7fcj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7fcj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7fcj",
+        "label": "Plumbing Cabinet",
+        "last_updated": "2024-01-20 14:55:08.174000",
+        "notion_id": "1070",
+        "shcn": "4C",
+        "shelf": "4C",
+        "type": "storage"
     },
     {
         "_id": "64f11b8c497c3069472aa2df",
@@ -5228,8 +5234,14 @@
         "identifier": "7fne",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7fne"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7fne",
+        "label": "Water Heater Closet",
+        "last_updated": "2024-01-20 14:54:23.121000",
+        "notion_id": "1069",
+        "shcn": "4B",
+        "shelf": "4B",
+        "type": "storage"
     },
     {
         "_id": "64f11b8c497c3069472aa3fb",
