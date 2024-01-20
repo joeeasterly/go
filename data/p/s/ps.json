@@ -517,7 +517,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ps31"
+        "permalink": "https://joeeasterly.github.io/go/ps31",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bb5497c3069473249ae",
@@ -2516,8 +2517,20 @@
         "identifier": "psau",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/psau"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/psau",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2026-01-31 00:00:00",
+        "label": "Kirkland Signature Black Pepper 6.3oz",
+        "last_updated": "2024-01-19 20:49:39.225000",
+        "notion_id": "1021",
+        "percentage": "60",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "3133113"
     },
     {
         "_id": "64f11bb5497c306947324aa8",
@@ -3407,7 +3420,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/psea",
         "label": "shelf 32",
-        "last_updated": "2023-12-24T17:08:28.021000",
+        "last_updated": "2023-12-24 17:08:28.021000",
         "notion_id": "258",
         "shcn": "32",
         "shelf": "32",
@@ -5270,7 +5283,7 @@
         "permalink": "https://joeeasterly.github.io/go/psnj",
         "bay": "5H0",
         "label": "bay 5H0",
-        "last_updated": "2024-01-01T16:11:06.204000",
+        "last_updated": "2024-01-01 16:11:06.204000",
         "notion_id": "750",
         "shcn": "5H0",
         "shelf": "5H",
