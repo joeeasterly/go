@@ -6348,8 +6348,15 @@
         "identifier": "68st",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/68st"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/68st",
+        "bay": "700",
+        "label": "Bonus Room Closet Top Shelf",
+        "last_updated": "2024-01-20 14:30:47.099000",
+        "notion_id": "1060",
+        "shcn": "700",
+        "shelf": "70",
+        "type": "storage"
     },
     {
         "_id": "64f11b89497c3069472a0887",
