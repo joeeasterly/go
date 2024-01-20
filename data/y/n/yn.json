@@ -197,7 +197,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yn1s"
+        "permalink": "https://joeeasterly.github.io/go/yn1s",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bcd497c30694736b986",
@@ -3333,7 +3334,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yne1"
+        "permalink": "https://joeeasterly.github.io/go/yne1",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bcd497c30694736bb0e",
@@ -7740,8 +7742,20 @@
         "identifier": "yny8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yny8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yny8",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2025-02-28 00:00:00",
+        "label": "Niblack Herbes de Provence 3oz",
+        "last_updated": "2024-01-19 20:38:16.417000",
+        "notion_id": "1015",
+        "percentage": "70",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "075974122102"
     },
     {
         "_id": "64f11bcd497c30694736bd35",
