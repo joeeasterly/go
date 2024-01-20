@@ -70,6 +70,11 @@ def update_record():
                 "last_updated": datetime.now()
             }
         }
+        unset_fields = {
+            "$unset": {
+                "unsetted": ""
+            }
+        }
         if shcn is not None:
             update_fields["$set"]["shcn"] = shcn
         if shelf is not None:
@@ -85,8 +90,17 @@ def update_record():
         if mungo_type is not None:
             update_fields["$set"]["type"] = mungo_type
         
+        if not shelf:
+            unset_fields["$unset"]["shelf"] = ""
+        if not bay:
+            unset_fields["$unset"]["bay"] = ""
+        if not container:
+            unset_fields["$unset"]["container"] = ""
+        if not slot:
+            unset_fields["$unset"]["slot"] = ""
+        
         # Update the record
-        update_record_by_identifier(update_fields)
+        update_record_by_identifier(update_fields, unset_fields)
 
         # Sync the record to Notion.
         link_notion_inventory(notion_id, mungo_id, shcn, label)

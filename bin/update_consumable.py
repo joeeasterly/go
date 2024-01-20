@@ -23,10 +23,15 @@ def update_consumable():
     filter_criteria = {"identifier": identifier}
     existing_record = collection.find_one(filter_criteria)
     if existing_record:
-        print("Current Record:")
-        pprint(existing_record)
-        upc, upc_label = parse_upc(existing_upc=existing_record.get("upc"))
+        print_inventory(existing_record)
+        if existing_record.get("upc"):
+            existing_upc = existing_record.get("upc")
+        else:
+            existing_upc = "none"
+        upc, upc_label = parse_upc(existing_upc)
         existing_label = existing_record.get("label")
+        if upc is None:
+            upc = "none"
         if existing_label:
             default_label = existing_label
         elif upc_label:
@@ -52,6 +57,8 @@ def update_consumable():
         #  Conditionally add fields if they exist
         if notion_id is not None:
             update_fields["$set"]["notion_id"] = notion_id
+        if upc is not "none":
+            update_fields["$set"]["upc"] = upc
         if upc is not None:
             update_fields["$set"]["upc"] = upc
         if label is not None:

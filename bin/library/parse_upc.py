@@ -3,7 +3,7 @@ def parse_upc(existing_upc = None):
     from library.connect_mungo import connect_mungo
     permitted_characters = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
     upc_prompt = "Enter UPC: "
-    upc = ""
+    upc, upc_label = "", ""
     if existing_upc:
         upc_prompt = f"Enter UPC [{existing_upc}]: "
     upc = input(upc_prompt)
@@ -17,6 +17,6 @@ def parse_upc(existing_upc = None):
             upc_label = existing_record.get("label")
         else:
             upc_label = None
-    if not upc:
+    if not upc and existing_upc:
         upc = existing_upc
     return upc, upc_label

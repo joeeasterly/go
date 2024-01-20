@@ -1,5 +1,5 @@
 def parse_qrcode_input():
-    qrcode = input("Mungo ID or QR Code: ")
+    qrcode = input("Mungo ID or QR Code: ").lower()
     if qrcode == "*":
         qrcode = "exit_loop"
     if qrcode.startswith("https://joeeasterly.github.io/go/"):
