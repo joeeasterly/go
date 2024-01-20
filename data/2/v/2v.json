@@ -1684,8 +1684,19 @@
         "identifier": "2v7k",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2v7k"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2v7k",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-05-01 00:00:00",
+        "label": "Nabisco Premium Oyster Crackers 9oz",
+        "last_updated": "2024-01-19 19:00:31.067000",
+        "notion_id": "1005",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "consumable",
+        "upc": "044000024772"
     },
     {
         "_id": "64f11b80497c306947285640",
@@ -2157,7 +2168,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2v9e"
+        "permalink": "https://joeeasterly.github.io/go/2v9e",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11b80497c30694728567b",
@@ -2560,7 +2572,7 @@
         "permalink": "https://joeeasterly.github.io/go/2vaz",
         "bay": "181",
         "label": "bay 181",
-        "last_updated": "2023-12-28T14:26:09.389000",
+        "last_updated": "2023-12-28 14:26:09.389000",
         "notion_id": "144",
         "shcn": "181",
         "shelf": "18",
