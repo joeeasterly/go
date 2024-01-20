@@ -949,7 +949,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/we4q"
+        "permalink": "https://joeeasterly.github.io/go/we4q",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc7497c306947359de4",
@@ -2772,8 +2773,17 @@
         "identifier": "webu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/webu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/webu",
+        "bay": "721",
+        "container": "7210",
+        "label": "#8-32 3/4in brass bolts",
+        "last_updated": "2024-01-20 14:37:02.100000",
+        "notion_id": "1049",
+        "shcn": "72108",
+        "shelf": "72",
+        "slot": "72108",
+        "type": "storage"
     },
     {
         "_id": "64f11bc7497c306947359ec8",
