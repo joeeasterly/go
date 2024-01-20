@@ -5323,8 +5323,15 @@
         "identifier": "z6ns",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/z6ns"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/z6ns",
+        "bay": "722",
+        "label": "bay 722",
+        "last_updated": "2024-01-20 14:58:38.905000",
+        "notion_id": "1075",
+        "shcn": "722",
+        "shelf": "72",
+        "type": "storage"
     },
     {
         "_id": "64f11bce497c306947370006",
