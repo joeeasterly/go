@@ -2475,9 +2475,20 @@
         "identifier": "pfan",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/pfan",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Madras Curry 4oz",
+        "last_updated": "2024-01-19 21:02:28.278000",
+        "notion_id": "1029",
+        "percentage": "35",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11bb4497c3069473222a2",
