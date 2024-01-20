@@ -6376,7 +6376,7 @@
         "permalink": "https://joeeasterly.github.io/go/t4sw",
         "bay": "5E2",
         "label": "butter and eggs",
-        "last_updated": "2023-12-31T10:30:38.915000",
+        "last_updated": "2023-12-31 10:30:38.915000",
         "notion_id": "696",
         "shcn": "5E2",
         "shelf": "5E",
@@ -6867,8 +6867,14 @@
         "identifier": "t4ut",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/t4ut"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/t4ut",
+        "label": "Bonus Room Closet",
+        "last_updated": "2024-01-20 14:31:12.290000",
+        "notion_id": "1059",
+        "shcn": "70",
+        "shelf": "70",
+        "type": "storage"
     },
     {
         "_id": "64f11bbe497c30694733f8c7",
