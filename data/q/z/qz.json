@@ -5660,8 +5660,20 @@
         "identifier": "qzq4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qzq4"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qzq4",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5G2",
+        "expires": "2024-07-29 00:00:00",
+        "label": "Kirkland Signature Aged Balsamic Vinegar 33.8 oz",
+        "last_updated": "2024-01-19 19:13:15.381000",
+        "notion_id": "1007",
+        "percentage": "95",
+        "quantity": "1",
+        "shcn": "5G2",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "096619461769"
     },
     {
         "_id": "64f11bb8497c30694732e831",
