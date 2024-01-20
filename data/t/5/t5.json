@@ -365,7 +365,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/t52e"
+        "permalink": "https://joeeasterly.github.io/go/t52e",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bbe497c30694733f99b",
@@ -5324,8 +5325,15 @@
         "identifier": "t5nt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/t5nt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/t5nt",
+        "bay": "723",
+        "label": "bay 723",
+        "last_updated": "2024-01-20 14:58:58.184000",
+        "notion_id": "1076",
+        "shcn": "723",
+        "shelf": "72",
+        "type": "storage"
     },
     {
         "_id": "64f11bbe497c30694733fc07",
