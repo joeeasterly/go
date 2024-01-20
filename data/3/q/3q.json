@@ -4338,7 +4338,7 @@
         "bay": "403",
         "container": "4030",
         "label": "18in usb-a to usb-3-micro cable",
-        "last_updated": "2023-10-25T09:36:48.587000",
+        "last_updated": "2023-10-25 09:36:48.587000",
         "notion_id": "561",
         "shcn": "4030",
         "shelf": "40"
@@ -6940,8 +6940,20 @@
         "identifier": "3qv3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3qv3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3qv3",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2024-01-31 00:00:00",
+        "label": "Everything Bagel Seasoning 4oz",
+        "last_updated": "2024-01-19 20:36:35.663000",
+        "notion_id": "1014",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11b82497c30694728c4d0",
