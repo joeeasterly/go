@@ -3372,8 +3372,17 @@
         "identifier": "are6",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/are6"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/are6",
+        "bay": "721",
+        "container": "7210",
+        "label": "slot 7210H",
+        "last_updated": "2024-01-20 14:31:53.709000",
+        "notion_id": "1058",
+        "shcn": "7210H",
+        "shelf": "72",
+        "slot": "7210H",
+        "type": "storage"
     },
     {
         "_id": "64f11b95497c3069472c4713",
