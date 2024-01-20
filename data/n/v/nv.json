@@ -1124,8 +1124,20 @@
         "identifier": "nv5d",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nv5d"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nv5d",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2024-03-31 00:00:00",
+        "label": "Red Pepper Flakes 4oz",
+        "last_updated": "2024-01-19 21:08:27.762000",
+        "notion_id": "1033",
+        "percentage": "75",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11bb2497c30694731d5fa",
