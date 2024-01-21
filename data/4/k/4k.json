@@ -3695,9 +3695,20 @@
         "identifier": "4kfd",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/4kfd",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "583",
+        "expires": "2026-12-31 00:00:00",
+        "label": "Morton Salt 26oz",
+        "last_updated": "2024-01-20 20:27:00.967000",
+        "notion_id": "1090",
+        "percentage": "25",
+        "quantity": "1",
+        "shcn": "583",
+        "shelf": "58",
+        "type": "consumable",
+        "upc": "024600010016"
     },
     {
         "_id": "64f11b85497c30694729333a",
