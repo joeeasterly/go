@@ -1501,7 +1501,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/uf6v"
+        "permalink": "https://joeeasterly.github.io/go/uf6v",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc2497c30694734a229",
@@ -3685,7 +3686,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/uffd"
+        "permalink": "https://joeeasterly.github.io/go/uffd",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc2497c30694734a33a",
@@ -5913,7 +5915,7 @@
         "permalink": "https://joeeasterly.github.io/go/ufr3",
         "bay": "503",
         "label": "medication and vitamins",
-        "last_updated": "2023-11-25T18:37:01.419000",
+        "last_updated": "2023-11-25 18:37:01.419000",
         "notion_id": "617",
         "shcn": "503",
         "shelf": "50",
@@ -7348,8 +7350,20 @@
         "identifier": "ufwp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ufwp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ufwp",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "583",
+        "expires": "2024-06-07 00:00:00",
+        "label": "Bisquick 1654g cwt 1327g",
+        "last_updated": "2024-01-20 20:06:20.790000",
+        "notion_id": "1087",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "583",
+        "shelf": "58",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11bc2497c30694734a503",
