@@ -816,7 +816,7 @@
         "permalink": "https://joeeasterly.github.io/go/sb46",
         "bay": "475",
         "label": "bay 475",
-        "last_updated": "2023-12-24T17:11:52.757000",
+        "last_updated": "2023-12-24 17:11:52.757000",
         "notion_id": "585",
         "shcn": "475",
         "shelf": "47",
@@ -1516,7 +1516,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/sb6w"
+        "permalink": "https://joeeasterly.github.io/go/sb6w",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bbc497c30694733922a",
@@ -4020,7 +4021,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/sbgp"
+        "permalink": "https://joeeasterly.github.io/go/sbgp",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bbc497c306947339363",
@@ -5939,8 +5941,20 @@
         "identifier": "sbr6",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/sbr6"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/sbr6",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "583",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Medium Grain Rice 1800g cwt 219g",
+        "last_updated": "2024-01-20 20:13:43.939000",
+        "notion_id": "1088",
+        "percentage": "75",
+        "quantity": "1",
+        "shcn": "583",
+        "shelf": "58",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11bbc497c306947339453",
