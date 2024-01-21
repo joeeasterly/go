@@ -7260,9 +7260,16 @@
         "identifier": "3dw9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/3dw9",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "583",
+        "label": "Brown Rice 2374g cwt 219g",
+        "last_updated": "2024-01-20 20:01:27.298000",
+        "notion_id": "1086",
+        "shcn": "583",
+        "shelf": "58",
+        "type": "item"
     },
     {
         "_id": "64f11b81497c306947289cf6",
