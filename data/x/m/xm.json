@@ -5444,9 +5444,20 @@
         "identifier": "xmp9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/xmp9",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "492",
+        "expires": "2024-12-14 00:00:00",
+        "label": "Wegmans Spring Water 128oz",
+        "last_updated": "2024-01-20 16:21:57.757000",
+        "notion_id": "1083",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "492",
+        "shelf": "49",
+        "type": "consumable",
+        "upc": "077890414576"
     },
     {
         "_id": "64f11bca497c306947363816",
