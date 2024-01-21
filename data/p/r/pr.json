@@ -108,8 +108,16 @@
         "identifier": "pr1e",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pr1e"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/pr1e",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "583",
+        "label": "Corn Meal 764g cwt 762g",
+        "last_updated": "2024-01-20 19:55:34.427000",
+        "notion_id": "1085",
+        "shcn": "583",
+        "shelf": "58",
+        "type": "item"
     },
     {
         "_id": "64f11bb5497c30694732457b",
@@ -6986,7 +6994,7 @@
         "bay": "470",
         "container": "4701",
         "label": "DENON RC-1244 AV Remote",
-        "last_updated": "2023-11-03T14:19:46.018000",
+        "last_updated": "2023-11-03 14:19:46.018000",
         "notion_id": "590",
         "shcn": "4701",
         "shelf": "47",
