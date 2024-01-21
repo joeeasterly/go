@@ -6932,8 +6932,20 @@
         "identifier": "5sv3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5sv3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/5sv3",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "583",
+        "expires": "2025-01-23 00:00:00",
+        "label": "Clabber Girl Baking Powder 8.1oz",
+        "last_updated": "2024-01-20 20:30:22.685000",
+        "notion_id": "1091",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "583",
+        "shelf": "58",
+        "type": "consumable",
+        "upc": "019900003202"
     },
     {
         "_id": "64f11b88497c30694729ccd0",
