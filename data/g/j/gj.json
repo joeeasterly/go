@@ -2688,9 +2688,20 @@
         "identifier": "gjbg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/gjbg",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "502",
+        "expires": "2024-03-05 00:00:00",
+        "label": "Little Debbie Nutty Buddy 12oz",
+        "last_updated": "2024-01-22 15:39:46.203000",
+        "notion_id": "1102",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "502",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "024300041204"
     },
     {
         "_id": "64f11ba5497c3069472f2ebd",
