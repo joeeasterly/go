@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .shelving-record {
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+
+        .shelf-content-item {
+            margin-top: 10px;
+            padding: 5px;
+            border: 1px solid #eee;
+        }
+
+        .field {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .label {
+            font-weight: bold;
+            margin-right: 5px;
+        }
+
+        .field-value {
+            display: inline-block;
+        }
+        ._id {
+            display:none;
+        }
+    </style>
+    <title>Shelving Record</title>
+</head>
+<body>
+
+<script>
+    function getParameterByName(name, url) {
+        if (!url) url = window.location.href;
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+
+    // Retrieve the "s" parameter from the URL
+    const sParameter = getParameterByName('s');
+
+    if (sParameter) {
+        const jsonUrl = `${sParameter.charAt(0)}/${sParameter}.json`;
+
+        // Fetch JSON data from the specified URL
+        fetch(jsonUrl)
+            .then(response => response.json())
+            .then(data => renderShelvingRecord(data))
+            .catch(error => console.error('Error fetching JSON:', error));
+    } else {
+        console.error('Missing "s" parameter in the URL.');
+    }
+
+    function renderShelvingRecord(record) {
+        const shelvingRecordDiv = document.createElement('div');
+        shelvingRecordDiv.className = 'shelving-record';
+
+        // Render shelving record details
+        const shelvingRecordDetails = document.createElement('div');
+        shelvingRecordDetails.innerHTML = `<strong>Shelving Record:</strong>`;
+        Object.keys(record.shelving_record).forEach(fieldName => {
+            const fieldSpan = document.createElement('span');
+            fieldSpan.className = `field ${fieldName}`;
+            const fieldValue = fieldName === 'last_updated'
+                ? new Date(record.shelving_record[fieldName].$date).toLocaleString()
+                : record.shelving_record[fieldName];
+            fieldSpan.innerHTML = `<span class="label ${fieldName}">${fieldName}:</span><span class="field-value ${fieldName}">${fieldValue}</span>`;
+            shelvingRecordDetails.appendChild(fieldSpan);
+        });
+        shelvingRecordDiv.appendChild(shelvingRecordDetails);
+
+        // Render shelf contents
+        const shelfContentsDiv = document.createElement('div');
+        shelfContentsDiv.innerHTML = `<strong>Shelf Contents:</strong>`;
+        record.shelf_contents.forEach((item, index) => {
+            const itemDiv = document.createElement('div');
+            itemDiv.className = 'shelf-content-item';
+            itemDiv.innerHTML = `<strong>Item ${index + 1}:</strong>`;
+            Object.keys(item).forEach(fieldName => {
+                const fieldSpan = document.createElement('span');
+                fieldSpan.className = `field ${fieldName}`;
+                const fieldValue = fieldName === 'last_updated'
+                    ? new Date(item[fieldName].$date).toLocaleString()
+                    : item[fieldName];
+                fieldSpan.innerHTML = `<span class="label ${fieldName}">${fieldName}:</span><span class="field-value ${fieldName}">${fieldValue}</span>`;
+                itemDiv.appendChild(fieldSpan);
+            });
+            shelfContentsDiv.appendChild(itemDiv);
+        });
+        shelvingRecordDiv.appendChild(shelfContentsDiv);
+
+        document.body.appendChild(shelvingRecordDiv);
+    }
+</script>
+
+</body>
+</html>
