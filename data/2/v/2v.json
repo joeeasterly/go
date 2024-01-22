@@ -1689,14 +1689,16 @@
         "staged": "2024-01-07 13:56:33",
         "expires": "2024-05-01 00:00:00",
         "label": "Nabisco Premium Oyster Crackers 9oz",
-        "last_updated": "2024-01-19 19:00:31.067000",
+        "last_updated": "2024-01-22 13:16:07.829000",
         "notion_id": "1005",
         "percentage": "100",
         "quantity": "1",
-        "shcn": "10",
+        "shcn": "1010",
         "shelf": "10",
-        "type": "consumable",
-        "upc": "044000024772"
+        "type": "item",
+        "upc": "044000024772",
+        "bay": "101",
+        "container": "1010"
     },
     {
         "_id": "64f11b80497c306947285640",
