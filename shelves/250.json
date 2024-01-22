@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb3497c306947320509"
+    },
+    "identifier": "p7ww",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/p7ww",
+    "bay": "250",
+    "label": "bay 250",
+    "last_updated": {
+      "$date": "2023-12-28T14:23:11.621Z"
+    },
+    "notion_id": "168",
+    "shcn": "250",
+    "shelf": "25",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb3497c306947320509"
+      },
+      "identifier": "p7ww",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/p7ww",
+      "bay": "250",
+      "label": "bay 250",
+      "last_updated": {
+        "$date": "2023-12-28T14:23:11.621Z"
+      },
+      "notion_id": "168",
+      "shcn": "250",
+      "shelf": "25",
+      "type": "storage"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b83497c30694728f65e"
+    },
+    "identifier": "448j",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/448j",
+    "bay": "5Q3",
+    "label": "back of laundry room closet door",
+    "last_updated": {
+      "$date": "2024-01-01T16:38:17.039Z"
+    },
+    "notion_id": "778",
+    "shcn": "5Q3",
+    "shelf": "5Q",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728f65e"
+      },
+      "identifier": "448j",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/448j",
+      "bay": "5Q3",
+      "label": "back of laundry room closet door",
+      "last_updated": {
+        "$date": "2024-01-01T16:38:17.039Z"
+      },
+      "notion_id": "778",
+      "shcn": "5Q3",
+      "shelf": "5Q",
+      "type": "storage"
+    }
+  ]
+}

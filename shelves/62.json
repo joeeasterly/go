@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc3497c30694734db70"
+    },
+    "identifier": "uwh4",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/uwh4",
+    "label": "north wall master closet",
+    "last_updated": {
+      "$date": "2024-01-03T10:18:38.162Z"
+    },
+    "notion_id": "817",
+    "shcn": "62",
+    "shelf": "62",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734db70"
+      },
+      "identifier": "uwh4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uwh4",
+      "label": "north wall master closet",
+      "last_updated": {
+        "$date": "2024-01-03T10:18:38.162Z"
+      },
+      "notion_id": "817",
+      "shcn": "62",
+      "shelf": "62",
+      "type": "storage"
+    }
+  ]
+}

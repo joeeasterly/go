@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba2497c3069472ec6fc"
+    },
+    "identifier": "frdg",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/frdg",
+    "label": "Refrigerator",
+    "last_updated": {
+      "$date": "2023-12-08T14:46:50.408Z"
+    },
+    "notion_id": "670",
+    "shcn": "5E",
+    "shelf": "5E",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472ec6fc"
+      },
+      "identifier": "frdg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/frdg",
+      "label": "Refrigerator",
+      "last_updated": {
+        "$date": "2023-12-08T14:46:50.408Z"
+      },
+      "notion_id": "670",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "storage"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc8497c30694735d040"
+    },
+    "identifier": "wtqm",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/wtqm",
+    "bay": "581",
+    "label": "baking scale, mixing bowls",
+    "last_updated": {
+      "$date": "2023-11-25T21:06:24.038Z"
+    },
+    "notion_id": "636",
+    "shcn": "581",
+    "shelf": "58",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735d040"
+      },
+      "identifier": "wtqm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wtqm",
+      "bay": "581",
+      "label": "baking scale, mixing bowls",
+      "last_updated": {
+        "$date": "2023-11-25T21:06:24.038Z"
+      },
+      "notion_id": "636",
+      "shcn": "581",
+      "shelf": "58",
+      "type": "storage"
+    }
+  ]
+}

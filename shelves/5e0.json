@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba7497c3069472f9b03"
+    },
+    "identifier": "hddq",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/hddq",
+    "bay": "5E0",
+    "label": "kitchen blocks",
+    "last_updated": {
+      "$date": "2023-12-31T10:27:20.654Z"
+    },
+    "notion_id": "694",
+    "shcn": "5E0",
+    "shelf": "5E",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472f9b03"
+      },
+      "identifier": "hddq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hddq",
+      "bay": "5E0",
+      "label": "kitchen blocks",
+      "last_updated": {
+        "$date": "2023-12-31T10:27:20.654Z"
+      },
+      "notion_id": "694",
+      "shcn": "5E0",
+      "shelf": "5E",
+      "type": "storage"
+    }
+  ]
+}

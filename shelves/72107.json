@@ -1,0 +1,46 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bbb497c306947337999"
+    },
+    "identifier": "s52d",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/s52d",
+    "bay": "721",
+    "container": "7210",
+    "label": "#8-32 1/2in brass bolts",
+    "last_updated": {
+      "$date": "2024-01-20T14:37:33.958Z"
+    },
+    "notion_id": "1048",
+    "shcn": "72107",
+    "shelf": "72",
+    "slot": "72107",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bbb497c306947337999"
+      },
+      "identifier": "s52d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s52d",
+      "bay": "721",
+      "container": "7210",
+      "label": "#8-32 1/2in brass bolts",
+      "last_updated": {
+        "$date": "2024-01-20T14:37:33.958Z"
+      },
+      "notion_id": "1048",
+      "shcn": "72107",
+      "shelf": "72",
+      "slot": "72107",
+      "type": "storage"
+    }
+  ]
+}

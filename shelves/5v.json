@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b98497c3069472cd33b"
+    },
+    "identifier": "buff",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/buff",
+    "label": "dining room buffet",
+    "last_updated": {
+      "$date": "2024-01-01T17:13:24.135Z"
+    },
+    "notion_id": "806",
+    "shcn": "5V",
+    "shelf": "5V",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cd33b"
+      },
+      "identifier": "buff",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/buff",
+      "label": "dining room buffet",
+      "last_updated": {
+        "$date": "2024-01-01T17:13:24.135Z"
+      },
+      "notion_id": "806",
+      "shcn": "5V",
+      "shelf": "5V",
+      "type": "storage"
+    }
+  ]
+}

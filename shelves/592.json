@@ -1,0 +1,202 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba6497c3069472f7a70"
+    },
+    "identifier": "h594",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/h594",
+    "bay": "592",
+    "label": "Gracies kibble, large pots",
+    "last_updated": {
+      "$date": "2023-11-25T21:02:44.206Z"
+    },
+    "notion_id": "634",
+    "shcn": "592",
+    "shelf": "59",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b85497c306947294921"
+      },
+      "identifier": "4rxn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4rxn",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "592",
+      "expires": "2025-05-04 00:00:00",
+      "label": "Fromm Small Breed Adult Gold 5lb",
+      "last_updated": {
+        "$date": "2024-01-08T16:44:16.174Z"
+      },
+      "notion_id": "938",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "072705105670"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729b733"
+      },
+      "identifier": "5mf7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5mf7",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "592",
+      "label": "power cable for Ankarsrum Mixer",
+      "last_updated": {
+        "$date": "2023-12-28T17:32:43.659Z"
+      },
+      "notion_id": "693",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b93497c3069472bdfe5"
+      },
+      "identifier": "9xms",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9xms",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "592",
+      "expires": "2025-05-04 00:00:00",
+      "label": "Fromm Small Breed Adult Gold 5lb",
+      "last_updated": {
+        "$date": "2024-01-08T16:46:36.604Z"
+      },
+      "notion_id": "939",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "072705105670"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f50ff"
+      },
+      "identifier": "gtwk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gtwk",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "592",
+      "expires": "2024-12-25 00:00:00",
+      "label": "Fromm Small Breed Adult Gold 5lb",
+      "last_updated": {
+        "$date": "2024-01-08T16:55:39.009Z"
+      },
+      "notion_id": "942",
+      "percentage": "75",
+      "quantity": "1",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "072705105670"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f7a70"
+      },
+      "identifier": "h594",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h594",
+      "bay": "592",
+      "label": "Gracies kibble, large pots",
+      "last_updated": {
+        "$date": "2023-11-25T21:02:44.206Z"
+      },
+      "notion_id": "634",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472fe2b6"
+      },
+      "identifier": "hyba",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hyba",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "592",
+      "expires": "2025-05-04 00:00:00",
+      "label": "Fromm Small Breed Adult Gold 5lb",
+      "last_updated": {
+        "$date": "2024-01-08T16:47:26.526Z"
+      },
+      "notion_id": "940",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "072705105670"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc1497c306947348b38"
+      },
+      "identifier": "u9fc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/u9fc",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "592",
+      "label": "Ankarsrum Assistent Original Mixer",
+      "last_updated": {
+        "$date": "2023-12-28T17:32:13.200Z"
+      },
+      "notion_id": "692",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c30694736e8a2"
+      },
+      "identifier": "yztp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yztp",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "592",
+      "expires": "2025-05-04 00:00:00",
+      "label": "Fromm Small Breed Adult Gold 5lb",
+      "last_updated": {
+        "$date": "2024-01-08T16:48:04.781Z"
+      },
+      "notion_id": "941",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "072705105670"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bbf497c306947341b34"
+    },
+    "identifier": "tdf8",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/tdf8",
+    "bay": "5E8",
+    "label": "bay 5E8",
+    "last_updated": {
+      "$date": "2024-01-01T15:53:05.624Z"
+    },
+    "notion_id": "733",
+    "shcn": "5E8",
+    "shelf": "5E",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947341b34"
+      },
+      "identifier": "tdf8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tdf8",
+      "bay": "5E8",
+      "label": "bay 5E8",
+      "last_updated": {
+        "$date": "2024-01-01T15:53:05.624Z"
+      },
+      "notion_id": "733",
+      "shcn": "5E8",
+      "shelf": "5E",
+      "type": "storage"
+    }
+  ]
+}

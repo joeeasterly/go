@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bac497c306947307ebe"
+    },
+    "identifier": "k6bj",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/k6bj",
+    "bay": "673",
+    "label": "lower hanging rack",
+    "last_updated": {
+      "$date": "2024-01-03T10:51:13.375Z"
+    },
+    "notion_id": "863",
+    "shcn": "673",
+    "shelf": "67",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bac497c306947307ebe"
+      },
+      "identifier": "k6bj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/k6bj",
+      "bay": "673",
+      "label": "lower hanging rack",
+      "last_updated": {
+        "$date": "2024-01-03T10:51:13.375Z"
+      },
+      "notion_id": "863",
+      "shcn": "673",
+      "shelf": "67",
+      "type": "storage"
+    }
+  ]
+}

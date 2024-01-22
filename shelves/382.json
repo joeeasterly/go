@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba6497c3069472f66e4"
+    },
+    "identifier": "gzcr",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/gzcr",
+    "bay": "382",
+    "label": "Rolling Garment Rack Base",
+    "last_updated": {
+      "$date": "2024-01-21T15:57:06.705Z"
+    },
+    "notion_id": "1096",
+    "shcn": "382",
+    "shelf": "38",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f66e4"
+      },
+      "identifier": "gzcr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gzcr",
+      "bay": "382",
+      "label": "Rolling Garment Rack Base",
+      "last_updated": {
+        "$date": "2024-01-21T15:57:06.705Z"
+      },
+      "notion_id": "1096",
+      "shcn": "382",
+      "shelf": "38",
+      "type": "storage"
+    }
+  ]
+}

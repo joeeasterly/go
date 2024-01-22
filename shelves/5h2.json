@@ -1,0 +1,65 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bbb497c30694733551b"
+    },
+    "identifier": "ruxf",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/ruxf",
+    "bay": "5H2",
+    "label": "bay 5H2",
+    "last_updated": {
+      "$date": "2024-01-01T16:11:30.537Z"
+    },
+    "notion_id": "752",
+    "shcn": "5H2",
+    "shelf": "5H",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb7497c3069473296d6"
+      },
+      "identifier": "qcca",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qcca",
+      "bay": "5H2",
+      "expires": "2024-12-21 00:00:00",
+      "label": "Ghirardelli Triple Chocolate Brownie Mix",
+      "last_updated": {
+        "$date": "2024-01-17T18:57:57.822Z"
+      },
+      "notion_id": "948",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5H2",
+      "shelf": "5H",
+      "type": "consumable",
+      "upc": "041449305486"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c30694733551b"
+      },
+      "identifier": "ruxf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ruxf",
+      "bay": "5H2",
+      "label": "bay 5H2",
+      "last_updated": {
+        "$date": "2024-01-01T16:11:30.537Z"
+      },
+      "notion_id": "752",
+      "shcn": "5H2",
+      "shelf": "5H",
+      "type": "storage"
+    }
+  ]
+}

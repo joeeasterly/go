@@ -1,0 +1,240 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bca497c306947364183"
+    },
+    "identifier": "xq1q",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/xq1q",
+    "bay": "5G5",
+    "label": "bay 5G5",
+    "last_updated": {
+      "$date": "2024-01-01T16:05:29.657Z"
+    },
+    "notion_id": "745",
+    "shcn": "5G5",
+    "shelf": "5G",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b80497c306947286b3a"
+      },
+      "identifier": "31fe",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/31fe",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T22:00:59.558Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b85497c306947295330"
+      },
+      "identifier": "4uf4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4uf4",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T22:00:53.883Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b86497c3069472969ff"
+      },
+      "identifier": "515k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/515k",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-06-03 00:00:00",
+      "label": "Wegmans Creamy Peanut Butter 18oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:59:56.942Z"
+      },
+      "notion_id": "950",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890324509",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b86497c306947297869"
+      },
+      "identifier": "54rw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/54rw",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T22:00:56.850Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c5a16"
+      },
+      "identifier": "aw6a",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/aw6a",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-30 00:00:00",
+      "label": "Wegmans Organic Vegetarian Refried Black Beans 15oz",
+      "last_updated": {
+        "$date": "2024-01-18T22:00:13.537Z"
+      },
+      "notion_id": "958",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890447635",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e26f7"
+      },
+      "identifier": "egdb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/egdb",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T22:01:02.307Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f612c"
+      },
+      "identifier": "gxxz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gxxz",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2028-07-19 00:00:00",
+      "label": "Goya Pinto Beans 15.5oz",
+      "last_updated": {
+        "$date": "2024-01-18T22:00:10.645Z"
+      },
+      "notion_id": "957",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "041331124379",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947343ac1"
+      },
+      "identifier": "tnbn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tnbn",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G5",
+      "expires": {
+        "$date": "2025-02-21T00:00:00Z"
+      },
+      "label": "amazon fresh peanut butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:59:53.669Z"
+      },
+      "notion_id": "930",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "842379152535"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c306947364183"
+      },
+      "identifier": "xq1q",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xq1q",
+      "bay": "5G5",
+      "label": "bay 5G5",
+      "last_updated": {
+        "$date": "2024-01-01T16:05:29.657Z"
+      },
+      "notion_id": "745",
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "storage"
+    }
+  ]
+}

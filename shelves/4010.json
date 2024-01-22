@@ -1,0 +1,64 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc5497c3069473530d1"
+    },
+    "identifier": "vjv5",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/vjv5",
+    "bay": "401",
+    "container": "4010",
+    "label": "container 4010",
+    "last_updated": {
+      "$date": "2023-12-24T16:49:16.819Z"
+    },
+    "notion_id": "672",
+    "shcn": "4010",
+    "shelf": "40",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728e0b2"
+      },
+      "identifier": "3xu6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3xu6",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "401",
+      "container": "4010",
+      "label": "Coach Weekly Pill Box In Signature Canvas",
+      "last_updated": {
+        "$date": "2023-10-26T17:47:03.092Z"
+      },
+      "notion_id": "92",
+      "shcn": "4010",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c3069473530d1"
+      },
+      "identifier": "vjv5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vjv5",
+      "bay": "401",
+      "container": "4010",
+      "label": "container 4010",
+      "last_updated": {
+        "$date": "2023-12-24T16:49:16.819Z"
+      },
+      "notion_id": "672",
+      "shcn": "4010",
+      "shelf": "40",
+      "type": "storage"
+    }
+  ]
+}

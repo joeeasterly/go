@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb8497c30694732d0b6"
+    },
+    "identifier": "qtua",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/qtua",
+    "bay": "405",
+    "label": "bay 405",
+    "last_updated": {
+      "$date": "2023-12-25T10:00:50.453Z"
+    },
+    "notion_id": "446",
+    "shcn": "405",
+    "shelf": "40",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732d0b6"
+      },
+      "identifier": "qtua",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qtua",
+      "bay": "405",
+      "label": "bay 405",
+      "last_updated": {
+        "$date": "2023-12-25T10:00:50.453Z"
+      },
+      "notion_id": "446",
+      "shcn": "405",
+      "shelf": "40",
+      "type": "storage"
+    }
+  ]
+}

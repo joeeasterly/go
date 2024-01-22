@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba8497c3069472fbea8"
+    },
+    "identifier": "hpav",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/hpav",
+    "bay": "172",
+    "label": "bay 172",
+    "last_updated": {
+      "$date": "2023-12-25T10:19:56.669Z"
+    },
+    "notion_id": "141",
+    "shcn": "172",
+    "shelf": "17",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472fbea8"
+      },
+      "identifier": "hpav",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hpav",
+      "bay": "172",
+      "label": "bay 172",
+      "last_updated": {
+        "$date": "2023-12-25T10:19:56.669Z"
+      },
+      "notion_id": "141",
+      "shcn": "172",
+      "shelf": "17",
+      "type": "storage"
+    }
+  ]
+}

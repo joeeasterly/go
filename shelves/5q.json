@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b9d497c3069472dbcaf"
+    },
+    "identifier": "dnu3",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/dnu3",
+    "label": "laundry room closet",
+    "last_updated": {
+      "$date": "2024-01-01T16:36:26.756Z"
+    },
+    "notion_id": "774",
+    "shcn": "5Q",
+    "shelf": "5Q",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b9d497c3069472dbcaf"
+      },
+      "identifier": "dnu3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dnu3",
+      "label": "laundry room closet",
+      "last_updated": {
+        "$date": "2024-01-01T16:36:26.756Z"
+      },
+      "notion_id": "774",
+      "shcn": "5Q",
+      "shelf": "5Q",
+      "type": "storage"
+    }
+  ]
+}

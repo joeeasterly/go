@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b81497c306947287ef5"
+    },
+    "identifier": "36d9",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/36d9",
+    "label": "powder closet wall mount shelf",
+    "last_updated": {
+      "$date": "2024-01-01T17:01:11.770Z"
+    },
+    "notion_id": "795",
+    "shcn": "5T",
+    "shelf": "5T",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b81497c306947287ef5"
+      },
+      "identifier": "36d9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/36d9",
+      "label": "powder closet wall mount shelf",
+      "last_updated": {
+        "$date": "2024-01-01T17:01:11.770Z"
+      },
+      "notion_id": "795",
+      "shcn": "5T",
+      "shelf": "5T",
+      "type": "storage"
+    }
+  ]
+}

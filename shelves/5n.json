@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb0497c306947315c2c"
+    },
+    "identifier": "mwpz",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/mwpz",
+    "label": "housecleaning supplies",
+    "last_updated": {
+      "$date": "2024-01-01T16:27:17.697Z"
+    },
+    "notion_id": "764",
+    "shcn": "5N",
+    "shelf": "5N",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb0497c306947315c2c"
+      },
+      "identifier": "mwpz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mwpz",
+      "label": "housecleaning supplies",
+      "last_updated": {
+        "$date": "2024-01-01T16:27:17.697Z"
+      },
+      "notion_id": "764",
+      "shcn": "5N",
+      "shelf": "5N",
+      "type": "storage"
+    }
+  ]
+}

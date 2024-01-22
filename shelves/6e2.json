@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc3497c30694734cbc7"
+    },
+    "identifier": "usku",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/usku",
+    "bay": "6E2",
+    "label": "bay 6E2",
+    "last_updated": {
+      "$date": "2024-01-03T11:00:07.712Z"
+    },
+    "notion_id": "883",
+    "shcn": "6E2",
+    "shelf": "6E",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734cbc7"
+      },
+      "identifier": "usku",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/usku",
+      "bay": "6E2",
+      "label": "bay 6E2",
+      "last_updated": {
+        "$date": "2024-01-03T11:00:07.712Z"
+      },
+      "notion_id": "883",
+      "shcn": "6E2",
+      "shelf": "6E",
+      "type": "storage"
+    }
+  ]
+}

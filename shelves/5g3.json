@@ -1,0 +1,114 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb5497c3069473254f5"
+    },
+    "identifier": "puw9",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/puw9",
+    "bay": "5G3",
+    "label": "bay 5G3",
+    "last_updated": {
+      "$date": "2024-01-01T16:01:44.953Z"
+    },
+    "notion_id": "743",
+    "shcn": "5G3",
+    "shelf": "5G",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472d9d0d"
+      },
+      "identifier": "ddx1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ddx1",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G3",
+      "expires": "2024-10-18 00:00:00",
+      "label": "CJ Haechandle Gochujang",
+      "last_updated": {
+        "$date": "2024-01-18T21:57:41.666Z"
+      },
+      "notion_id": "933",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G3",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "807176710760"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c3069473254f5"
+      },
+      "identifier": "puw9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/puw9",
+      "bay": "5G3",
+      "label": "bay 5G3",
+      "last_updated": {
+        "$date": "2024-01-01T16:01:44.953Z"
+      },
+      "notion_id": "743",
+      "shcn": "5G3",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb9497c30694732ff48"
+      },
+      "identifier": "r6fv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r6fv",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G3",
+      "expires": "2024-10-18 00:00:00",
+      "label": "CJ Haechandle Gochujang",
+      "last_updated": {
+        "$date": "2024-01-18T21:57:46.025Z"
+      },
+      "notion_id": "935",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G3",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "807176710760"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c306947350d1b"
+      },
+      "identifier": "v9xf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/v9xf",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-11 00:00:00",
+      "label": "Jayone Gochujang 500g",
+      "last_updated": {
+        "$date": "2024-01-18T21:57:37.447Z"
+      },
+      "notion_id": "965",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G3",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "678108151179",
+      "bay": "5G3"
+    }
+  ]
+}

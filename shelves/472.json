@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc2497c30694734b0a5"
+    },
+    "identifier": "ujts",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/ujts",
+    "bay": "472",
+    "label": "bay 472",
+    "last_updated": {
+      "$date": "2023-12-24T17:12:50.248Z"
+    },
+    "notion_id": "582",
+    "shcn": "472",
+    "shelf": "47",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734b0a5"
+      },
+      "identifier": "ujts",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ujts",
+      "bay": "472",
+      "label": "bay 472",
+      "last_updated": {
+        "$date": "2023-12-24T17:12:50.248Z"
+      },
+      "notion_id": "582",
+      "shcn": "472",
+      "shelf": "47",
+      "type": "storage"
+    }
+  ]
+}

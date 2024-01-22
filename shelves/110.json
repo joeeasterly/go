@@ -1,0 +1,62 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bbe497c306947340742"
+    },
+    "identifier": "t8fp",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/t8fp",
+    "bay": "110",
+    "label": "special use 110",
+    "last_updated": {
+      "$date": "2023-12-24T20:58:45.737Z"
+    },
+    "notion_id": "117",
+    "shcn": "110",
+    "shelf": "11",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bbe497c306947340742"
+      },
+      "identifier": "t8fp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/t8fp",
+      "bay": "110",
+      "label": "special use 110",
+      "last_updated": {
+        "$date": "2023-12-24T20:58:45.737Z"
+      },
+      "notion_id": "117",
+      "shcn": "110",
+      "shelf": "11",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bd0497c306947374ca3"
+      },
+      "identifier": "zstq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zstq",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "110",
+      "label": "Solo Stove Mesa portable fire pit",
+      "last_updated": {
+        "$date": "2024-01-06T19:16:07.314Z"
+      },
+      "notion_id": "923",
+      "shcn": "110",
+      "shelf": "11",
+      "type": "item"
+    }
+  ]
+}

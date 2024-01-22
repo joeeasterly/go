@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b7e497c3069472802d3"
+    },
+    "identifier": "27c7",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/27c7",
+    "bay": "590",
+    "label": "kitchen appliances",
+    "last_updated": {
+      "$date": "2023-11-25T21:01:06.898Z"
+    },
+    "notion_id": "632",
+    "shcn": "590",
+    "shelf": "59",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b7e497c3069472802d3"
+      },
+      "identifier": "27c7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/27c7",
+      "bay": "590",
+      "label": "kitchen appliances",
+      "last_updated": {
+        "$date": "2023-11-25T21:01:06.898Z"
+      },
+      "notion_id": "632",
+      "shcn": "590",
+      "shelf": "59",
+      "type": "storage"
+    }
+  ]
+}

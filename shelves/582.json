@@ -1,0 +1,66 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b8d497c3069472ab2b9"
+    },
+    "identifier": "7kbd",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/7kbd",
+    "bay": "582",
+    "label": "corn meal, sugar",
+    "last_updated": {
+      "$date": "2023-11-25T21:08:02.933Z"
+    },
+    "notion_id": "637",
+    "shcn": "582",
+    "shelf": "58",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472ab2b9"
+      },
+      "identifier": "7kbd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7kbd",
+      "bay": "582",
+      "label": "corn meal, sugar",
+      "last_updated": {
+        "$date": "2023-11-25T21:08:02.933Z"
+      },
+      "notion_id": "637",
+      "shcn": "582",
+      "shelf": "58",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb2497c30694731b642"
+      },
+      "identifier": "nm7p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/nm7p",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "582",
+      "expires": "2023-02-15 00:00:00",
+      "label": "Seoul Sisters Kimchi Seasoning Mix 3.5oz",
+      "last_updated": {
+        "$date": "2024-01-20T20:36:10.016Z"
+      },
+      "notion_id": "1093",
+      "percentage": "65",
+      "quantity": "1",
+      "shcn": "582",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "8809990164134"
+    }
+  ]
+}

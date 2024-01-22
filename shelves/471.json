@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba2497c3069472eb8ae"
+    },
+    "identifier": "fmu2",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/fmu2",
+    "bay": "471",
+    "label": "bay 471",
+    "last_updated": {
+      "$date": "2023-12-24T17:13:04.615Z"
+    },
+    "notion_id": "580",
+    "shcn": "471",
+    "shelf": "47",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472eb8ae"
+      },
+      "identifier": "fmu2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fmu2",
+      "bay": "471",
+      "label": "bay 471",
+      "last_updated": {
+        "$date": "2023-12-24T17:13:04.615Z"
+      },
+      "notion_id": "580",
+      "shcn": "471",
+      "shelf": "47",
+      "type": "storage"
+    }
+  ]
+}

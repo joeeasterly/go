@@ -1,0 +1,85 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b82497c30694728b878"
+    },
+    "identifier": "3msc",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/3msc",
+    "bay": "411",
+    "container": "4110",
+    "label": "slot 41102",
+    "last_updated": {
+      "$date": "2023-12-24T16:53:53.680Z"
+    },
+    "notion_id": "675",
+    "shcn": "41102",
+    "shelf": "41",
+    "slot": "41102",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728b878"
+      },
+      "identifier": "3msc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3msc",
+      "bay": "411",
+      "container": "4110",
+      "label": "slot 41102",
+      "last_updated": {
+        "$date": "2023-12-24T16:53:53.680Z"
+      },
+      "notion_id": "675",
+      "shcn": "41102",
+      "shelf": "41",
+      "slot": "41102",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c764b"
+      },
+      "identifier": "b47y",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/b47y",
+      "label": "self-drilling screws #8 x 1/2in phillips",
+      "last_updated": {
+        "$date": "2023-10-18T14:20:39.727Z"
+      },
+      "notion_id": "381",
+      "shelf": "41",
+      "bay": "411",
+      "container": "4110",
+      "shcn": "41102",
+      "slot": "41102"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec5b"
+      },
+      "identifier": "g1rf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1rf",
+      "bay": "411",
+      "container": "4110",
+      "label": "self-drilling phillips screws 1/2in x #8",
+      "last_updated": {
+        "$date": "2023-10-18T14:22:38.098Z"
+      },
+      "shcn": "41102",
+      "shelf": "41",
+      "slot": "41102"
+    }
+  ]
+}

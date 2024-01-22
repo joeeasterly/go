@@ -1,0 +1,615 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b9a497c3069472d1d7c"
+    },
+    "identifier": "ce1g",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/ce1g",
+    "label": "Virtual special-use shelf",
+    "last_updated": {
+      "$date": "2023-12-24T16:46:07.118Z"
+    },
+    "notion_id": "671",
+    "shcn": "10",
+    "shelf": "10",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b7f497c3069472832e8"
+      },
+      "identifier": "2kcv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2kcv",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Project Source 15ft polarized 3-outlet indoor cord",
+      "last_updated": {
+        "$date": "2023-12-26T15:45:15.058Z"
+      },
+      "notion_id": "689",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b80497c30694728563f"
+      },
+      "identifier": "2v7k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2v7k",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-05-01 00:00:00",
+      "label": "Nabisco Premium Oyster Crackers 9oz",
+      "last_updated": {
+        "$date": "2024-01-19T19:00:31.067Z"
+      },
+      "notion_id": "1005",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "044000024772"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728e7b7"
+      },
+      "identifier": "3zkb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3zkb",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-09-11 00:00:00",
+      "label": "Pillsbury Funfetti Cake Mix 15.25oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:55:31.427Z"
+      },
+      "notion_id": "994",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "013300606063"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b85497c3069472932cc"
+      },
+      "identifier": "4kbz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4kbz",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Double Golden Fish Brand 1mm Rice Noodles 16oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:12:17.054Z"
+      },
+      "notion_id": "996",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "030891053724"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b86497c306947295982"
+      },
+      "identifier": "4w1p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4w1p",
+      "label": "test",
+      "last_updated": {
+        "$date": "2023-10-18T15:34:04.199Z"
+      },
+      "notion_id": null,
+      "shcn": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8c497c3069472a8099"
+      },
+      "identifier": "76td",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/76td",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-08-10 00:00:00",
+      "label": "Cheerios 8.9oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:16:49.538Z"
+      },
+      "notion_id": "998",
+      "percentage": "90",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "016000275263"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472ab712"
+      },
+      "identifier": "7me6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7me6",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-04-30 00:00:00",
+      "label": "Betty Crocker Chocolate Frosting 16oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:53:29.376Z"
+      },
+      "notion_id": "993",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "016000458406"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b0a10"
+      },
+      "identifier": "8964",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8964",
+      "staged": "2023-10-23 14:22:43",
+      "label": "FlexRadio Box)",
+      "last_updated": {
+        "$date": "2023-11-20T17:54:02.036Z"
+      },
+      "notion_id": "598",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b93497c3069472bf1cf"
+      },
+      "identifier": "a343",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a343",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-12-29 00:00:00",
+      "label": "Naan-Tastic Screamin Vindaloo 24oz",
+      "last_updated": {
+        "$date": "2024-01-19T10:41:04.132Z"
+      },
+      "notion_id": "971",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "787269022492"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472caabb"
+      },
+      "identifier": "bhbf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bhbf",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2022-12-07 00:00:00",
+      "label": "Assi Roasted Sesame Seeds 16oz",
+      "last_updated": {
+        "$date": "2024-01-19T11:06:40.521Z"
+      },
+      "notion_id": "983",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "081652053903"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce96d"
+      },
+      "identifier": "c111",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c111",
+      "label": "scansnap ix-1600",
+      "last_updated": {
+        "$date": "2023-10-20T18:26:44.009Z"
+      },
+      "notion_id": "521",
+      "shcn": "10",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce96e"
+      },
+      "identifier": "c112",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c112",
+      "label": "scansnap ix1600 power adapter",
+      "last_updated": {
+        "$date": "2023-10-20T18:27:13.494Z"
+      },
+      "notion_id": "522",
+      "shcn": "10",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9a497c3069472d1d7c"
+      },
+      "identifier": "ce1g",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ce1g",
+      "label": "Virtual special-use shelf",
+      "last_updated": {
+        "$date": "2023-12-24T16:46:07.118Z"
+      },
+      "notion_id": "671",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472d7e9f"
+      },
+      "identifier": "d6ak",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/d6ak",
+      "label": "test record",
+      "last_updated": {
+        "$date": "2023-10-18T15:42:19.257Z"
+      },
+      "notion_id": "504",
+      "shcn": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472eb83c"
+      },
+      "identifier": "fmqg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fmqg",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-11-07 00:00:00",
+      "label": "Lays Ruffles Ridges 28oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:06:56.340Z"
+      },
+      "notion_id": "989",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "028400077910"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472edb49"
+      },
+      "identifier": "fwfw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fwfw",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-05-01 00:00:00",
+      "label": "Wegmans Peanut Oil 32oz",
+      "last_updated": {
+        "$date": "2024-01-19T10:38:51.544Z"
+      },
+      "notion_id": "970",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "077890311677"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec30"
+      },
+      "identifier": "g1q4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1q4",
+      "label": "HYS-TC-MB90 NMO Mount",
+      "last_updated": {
+        "$date": "2023-11-26T17:34:54.309Z"
+      },
+      "notion_id": "653",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baf497c306947312bc1"
+      },
+      "identifier": "mhkn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mhkn",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-01-03 00:00:00",
+      "label": "Wegmans Organic Stir-Fry Sauce 14oz",
+      "last_updated": {
+        "$date": "2024-01-19T11:00:16.510Z"
+      },
+      "notion_id": "979",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "077890376461"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc1497c30694734941b"
+      },
+      "identifier": "ubpf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ubpf",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-06-21 00:00:00",
+      "label": "Multi Grain Cheerios 9oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:17:33.833Z"
+      },
+      "notion_id": "999",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "016000275157"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c306947358ac6"
+      },
+      "identifier": "w9bt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/w9bt",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-04-14 00:00:00",
+      "label": "Banh Trang Viet Nam Vietnamese Rice Paper",
+      "last_updated": {
+        "$date": "2024-01-19T15:33:11.240Z"
+      },
+      "notion_id": "990",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "8936007820049"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c306947358f81"
+      },
+      "identifier": "wahn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wahn",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Loris Natural Foods Steelhead Oats 21oz bag",
+      "last_updated": {
+        "$date": "2024-01-19T18:53:54.482Z"
+      },
+      "notion_id": "1003",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcb497c3069473658c6"
+      },
+      "identifier": "xvut",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xvut",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-05-23 00:00:00",
+      "label": "Wegmans Box Mac n Cheese Original 7.25oz",
+      "last_updated": {
+        "$date": "2024-01-19T10:53:50.980Z"
+      },
+      "notion_id": "975",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "077890465325"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcb497c306947367384"
+      },
+      "identifier": "y3hr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/y3hr",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-11-22 00:00:00",
+      "label": "Hellmanns Real Mayonnaise 20oz",
+      "last_updated": {
+        "$date": "2024-01-19T11:07:57.861Z"
+      },
+      "notion_id": "984",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "048001354500"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcc497c30694736a115"
+      },
+      "identifier": "yex9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yex9",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-03-07 00:00:00",
+      "label": "Emerald Cove Toasted Sushi Nori 10 sheets",
+      "last_updated": {
+        "$date": "2024-01-19T16:13:44.945Z"
+      },
+      "notion_id": "997",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "023547300518"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736c6e6"
+      },
+      "identifier": "yrct",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yrct",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-06-13 00:00:00",
+      "label": "Wegmans Vegetable Oil 32oz",
+      "last_updated": {
+        "$date": "2024-01-19T18:59:02.187Z"
+      },
+      "notion_id": "1004",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "077890455456"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736e61a"
+      },
+      "identifier": "yz6e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yz6e",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-24 00:00:00",
+      "label": "Frosted Flakes 13.5oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:18:47.291Z"
+      },
+      "notion_id": "1000",
+      "percentage": "65",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "038000199042"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c30694736fdc2"
+      },
+      "identifier": "z63p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/z63p",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Project Source 6ft Indoor Cord Polarized 3-outlet",
+      "last_updated": {
+        "$date": "2023-12-26T15:22:27.265Z"
+      },
+      "notion_id": "687",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c306947371026"
+      },
+      "identifier": "zapt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zapt",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Project Source 15ft polarized 3-outlet indoor cord",
+      "last_updated": {
+        "$date": "2023-12-26T15:39:28.146Z"
+      },
+      "notion_id": "688",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "item"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba7497c3069472f9fee"
+    },
+    "identifier": "hen2",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/hen2",
+    "bay": "5G0",
+    "label": "bay 5G0",
+    "last_updated": {
+      "$date": "2024-01-01T15:59:23.055Z"
+    },
+    "notion_id": "740",
+    "shcn": "5G0",
+    "shelf": "5G",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b81497c306947289c17"
+      },
+      "identifier": "3dpb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3dpb",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G0",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Milly Vietnamese Cinnamon 12oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:33:07.119Z"
+      },
+      "notion_id": "1001",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8f497c3069472b3ea3"
+      },
+      "identifier": "8paq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8paq",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G0",
+      "expires": "2025-05-01 00:00:00",
+      "label": "Wegmans Confectioners 10-X Powdered Sugar 32oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:34:48.103Z"
+      },
+      "notion_id": "995",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890479377"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472ba153"
+      },
+      "identifier": "9ez7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9ez7",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G0",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Somen Noodles 60oz",
+      "last_updated": {
+        "$date": "2024-01-19T19:07:31.368Z"
+      },
+      "notion_id": "1006",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f6f06"
+      },
+      "identifier": "h2dt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h2dt",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-31 00:00:00",
+      "label": "South Bay Rice Paper",
+      "last_updated": {
+        "$date": "2024-01-19T16:34:42.373Z"
+      },
+      "notion_id": "991",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "023452894041",
+      "bay": "5G0"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472f9fee"
+      },
+      "identifier": "hen2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hen2",
+      "bay": "5G0",
+      "label": "bay 5G0",
+      "last_updated": {
+        "$date": "2024-01-01T15:59:23.055Z"
+      },
+      "notion_id": "740",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472fae87"
+      },
+      "identifier": "hj9u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hj9u",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-05-31 00:00:00",
+      "label": "Niblack Chick Peas 5lb",
+      "last_updated": {
+        "$date": "2024-01-19T16:33:20.775Z"
+      },
+      "notion_id": "992",
+      "percentage": "60",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "075974110529",
+      "bay": "5G0"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472ff49b"
+      },
+      "identifier": "j3tf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/j3tf",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G0",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Red Rose Rice Paper 12oz",
+      "last_updated": {
+        "$date": "2024-01-19T18:34:57.362Z"
+      },
+      "notion_id": "1002",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "627404030145"
+    }
+  ]
+}

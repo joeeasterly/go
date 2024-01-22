@@ -1,0 +1,142 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b94497c3069472bf63e"
+    },
+    "identifier": "a47j",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/a47j",
+    "bay": "222",
+    "label": "bay 222",
+    "last_updated": {
+      "$date": "2023-12-24T21:08:31.548Z"
+    },
+    "notion_id": "280",
+    "shcn": "222",
+    "shelf": "22",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b7f497c3069472816d8"
+      },
+      "identifier": "2ccc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2ccc",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "222",
+      "label": "Box: Canon Rf 28mm F2.8 STM Lens",
+      "last_updated": {
+        "$date": "2023-12-31T16:48:16.572Z"
+      },
+      "notion_id": "702",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472bf63e"
+      },
+      "identifier": "a47j",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a47j",
+      "bay": "222",
+      "label": "bay 222",
+      "last_updated": {
+        "$date": "2023-12-24T21:08:31.548Z"
+      },
+      "notion_id": "280",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f7324"
+      },
+      "identifier": "h3er",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h3er",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "222",
+      "label": "Box: Apple Magic Mouse",
+      "last_updated": {
+        "$date": "2024-01-04T12:37:58.741Z"
+      },
+      "notion_id": "716",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f7ade"
+      },
+      "identifier": "h5cj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h5cj",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "222",
+      "label": "Box: ICOM IC-R8600 Communications Receiver",
+      "last_updated": {
+        "$date": "2023-12-31T16:47:16.025Z"
+      },
+      "notion_id": "713",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c306947309741"
+      },
+      "identifier": "kcfn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kcfn",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "222",
+      "label": "Box: Sony FE PZ 16-35mm F4 G Lens",
+      "last_updated": {
+        "$date": "2023-12-31T16:48:08.603Z"
+      },
+      "notion_id": "707",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c306947327c5e"
+      },
+      "identifier": "q5rj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q5rj",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "222",
+      "label": "Box: Sony A7RV Camera",
+      "last_updated": {
+        "$date": "2023-12-31T16:48:30.431Z"
+      },
+      "notion_id": "708",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "item"
+    }
+  ]
+}

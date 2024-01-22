@@ -1,0 +1,210 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc0497c3069473466e6"
+    },
+    "identifier": "tzct",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/tzct",
+    "bay": "5G2",
+    "label": "bay 5G2",
+    "last_updated": {
+      "$date": "2024-01-01T16:01:07.899Z"
+    },
+    "notion_id": "742",
+    "shcn": "5G2",
+    "shelf": "5G",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b86497c306947297466"
+      },
+      "identifier": "53rt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/53rt",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-05-30 00:00:00",
+      "label": "Wegmans Smooth Pizza Sauce",
+      "last_updated": {
+        "$date": "2024-01-18T21:41:46.245Z"
+      },
+      "notion_id": "962",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890493137",
+      "bay": "5G2"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472d829c"
+      },
+      "identifier": "d7ag",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/d7ag",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-15 00:00:00",
+      "label": "amazon fresh peanut butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:41:54.978Z"
+      },
+      "notion_id": "949",
+      "percentage": "70",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "842379152535",
+      "bay": "5G2"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732e830"
+      },
+      "identifier": "qzq4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qzq4",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5G2",
+      "expires": "2024-07-29 00:00:00",
+      "label": "Kirkland Signature Aged Balsamic Vinegar 33.8 oz",
+      "last_updated": {
+        "$date": "2024-01-19T19:13:15.381Z"
+      },
+      "notion_id": "1007",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "096619461769"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c3069473359e1"
+      },
+      "identifier": "rw4n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rw4n",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-06-03 00:00:00",
+      "label": "Wegmans Creamy Peanut Butter 18oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:42:02.150Z"
+      },
+      "notion_id": "951",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890324509",
+      "bay": "5G2"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c3069473466e6"
+      },
+      "identifier": "tzct",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tzct",
+      "bay": "5G2",
+      "label": "bay 5G2",
+      "last_updated": {
+        "$date": "2024-01-01T16:01:07.899Z"
+      },
+      "notion_id": "742",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735920d"
+      },
+      "identifier": "wb61",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wb61",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-09-07 00:00:00",
+      "label": "Wegmans Hearty Chicken Noodle 18.6 oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:43:16.270Z"
+      },
+      "notion_id": "964",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890145067",
+      "bay": "5G2"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735967b"
+      },
+      "identifier": "wc9f",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wc9f",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G2",
+      "expires": "2025-02-21 00:00:00",
+      "label": "Amazon Fresh Peanut Butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:42:05.870Z"
+      },
+      "notion_id": "932",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "item",
+      "upc": "842379152535"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735dbe4"
+      },
+      "identifier": "wwmr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wwmr",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-03-18 00:00:00",
+      "label": "Wegmans Smooth Pizza Sauce",
+      "last_updated": {
+        "$date": "2024-01-18T21:41:31.014Z"
+      },
+      "notion_id": "961",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890493137",
+      "bay": "5G2"
+    }
+  ]
+}

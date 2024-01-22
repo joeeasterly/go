@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b89497c30694729ee3f"
+    },
+    "identifier": "627k",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/627k",
+    "label": "hall closet master bedroom",
+    "last_updated": {
+      "$date": "2024-01-03T10:23:13.631Z"
+    },
+    "notion_id": "822",
+    "shcn": "67",
+    "shelf": "67",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b89497c30694729ee3f"
+      },
+      "identifier": "627k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/627k",
+      "label": "hall closet master bedroom",
+      "last_updated": {
+        "$date": "2024-01-03T10:23:13.631Z"
+      },
+      "notion_id": "822",
+      "shcn": "67",
+      "shelf": "67",
+      "type": "storage"
+    }
+  ]
+}

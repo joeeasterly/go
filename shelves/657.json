@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba4497c3069472f1fd6"
+    },
+    "identifier": "gema",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/gema",
+    "bay": "657",
+    "label": "bay 657",
+    "last_updated": {
+      "$date": "2024-01-03T10:45:09.447Z"
+    },
+    "notion_id": "851",
+    "shcn": "657",
+    "shelf": "65",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba4497c3069472f1fd6"
+      },
+      "identifier": "gema",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gema",
+      "bay": "657",
+      "label": "bay 657",
+      "last_updated": {
+        "$date": "2024-01-03T10:45:09.447Z"
+      },
+      "notion_id": "851",
+      "shcn": "657",
+      "shelf": "65",
+      "type": "storage"
+    }
+  ]
+}

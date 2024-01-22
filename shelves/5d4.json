@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b92497c3069472ba050"
+    },
+    "identifier": "9er4",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/9er4",
+    "bay": "5D4",
+    "label": "plastic bags",
+    "last_updated": {
+      "$date": "2023-11-26T18:00:28.791Z"
+    },
+    "notion_id": "669",
+    "shcn": "5D4",
+    "shelf": "5D",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472ba050"
+      },
+      "identifier": "9er4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9er4",
+      "bay": "5D4",
+      "label": "plastic bags",
+      "last_updated": {
+        "$date": "2023-11-26T18:00:28.791Z"
+      },
+      "notion_id": "669",
+      "shcn": "5D4",
+      "shelf": "5D",
+      "type": "storage"
+    }
+  ]
+}

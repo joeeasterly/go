@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b98497c3069472cc8f4"
+    },
+    "identifier": "brw8",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/brw8",
+    "label": "south side night stand",
+    "last_updated": {
+      "$date": "2024-01-03T10:25:36.629Z"
+    },
+    "notion_id": "826",
+    "shcn": "6B",
+    "shelf": "6B",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cc8f4"
+      },
+      "identifier": "brw8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/brw8",
+      "label": "south side night stand",
+      "last_updated": {
+        "$date": "2024-01-03T10:25:36.629Z"
+      },
+      "notion_id": "826",
+      "shcn": "6B",
+      "shelf": "6B",
+      "type": "storage"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b9f497c3069472e206e"
+    },
+    "identifier": "ees2",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/ees2",
+    "label": "Physical Computing Workbench",
+    "last_updated": {
+      "$date": "2023-12-24T20:41:01.419Z"
+    },
+    "notion_id": "368",
+    "shcn": "41",
+    "shelf": "41",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e206e"
+      },
+      "identifier": "ees2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ees2",
+      "label": "Physical Computing Workbench",
+      "last_updated": {
+        "$date": "2023-12-24T20:41:01.419Z"
+      },
+      "notion_id": "368",
+      "shcn": "41",
+      "shelf": "41",
+      "type": "storage"
+    }
+  ]
+}

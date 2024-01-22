@@ -1,0 +1,309 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc0497c30694734629f"
+    },
+    "identifier": "tyak",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/tyak",
+    "bay": "5G7",
+    "label": "bay 5G7",
+    "last_updated": {
+      "$date": "2024-01-01T16:07:11.235Z"
+    },
+    "notion_id": "747",
+    "shcn": "5G7",
+    "shelf": "5G",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b81497c306947289b7f"
+      },
+      "identifier": "3dhk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3dhk",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-29 00:00:00",
+      "instance_of": "cyby",
+      "label": "Wegmans Albacore Tuna 5oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:56.536Z"
+      },
+      "notion_id": "974",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "077890436936",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b87497c3069472984ac"
+      },
+      "identifier": "57tz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/57tz",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-10-01 00:00:00",
+      "label": "Campbells Tomato Soup 10.75oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:42.966Z"
+      },
+      "notion_id": "960",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "051000000118",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b89497c3069472a11d9"
+      },
+      "identifier": "6b4d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6b4d",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-05-07 00:00:00",
+      "label": "JELL-O Sugar Free Raspberry 0.6oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:15:35.707Z"
+      },
+      "notion_id": "968",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "043000201466",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a3dca"
+      },
+      "identifier": "6p3x",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6p3x",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-01-01 00:00:00",
+      "label": "Wegmans Organic Vegetarian Refried Pinto Beans 15oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:38.454Z"
+      },
+      "notion_id": "959",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890447642",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cc681"
+      },
+      "identifier": "br9n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/br9n",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G7",
+      "expires": "2025-08-22 00:00:00",
+      "label": "Campbells Broccoli Cheese Soup",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:40.695Z"
+      },
+      "notion_id": "934",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "051000013477"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9b497c3069472d62cb"
+      },
+      "identifier": "cyby",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/cyby",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-29 00:00:00",
+      "label": "Wegmans Albacore Tuna 5oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:49.843Z"
+      },
+      "notion_id": "974",
+      "percentage": "100",
+      "quantity": 4.0,
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890436936",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba1497c3069472e73d4"
+      },
+      "identifier": "f3m8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/f3m8",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-08-01 00:00:00",
+      "label": "Royal Sugar Free Cherry Gelatin 0.32 oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:15:39.066Z"
+      },
+      "notion_id": "967",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "072392005796",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472efe0d"
+      },
+      "identifier": "g661",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g661",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-04-10 00:00:00",
+      "label": "Barqs Root Beer 7.5oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:47.166Z"
+      },
+      "notion_id": "987",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "049000067194",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732ed32"
+      },
+      "identifier": "r1y6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r1y6",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-29 00:00:00",
+      "instance_of": "cyby",
+      "label": "Wegmans Albacore Tuna 5oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:53.710Z"
+      },
+      "notion_id": "974",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "077890436936",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c3069473429d7"
+      },
+      "identifier": "th4b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/th4b",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-07-07 00:00:00",
+      "label": "JELL-O Sugar Free Orange 0.3 oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:15:44.309Z"
+      },
+      "notion_id": "966",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "043000201435",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c30694734629f"
+      },
+      "identifier": "tyak",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tyak",
+      "bay": "5G7",
+      "label": "bay 5G7",
+      "last_updated": {
+        "$date": "2024-01-01T16:07:11.235Z"
+      },
+      "notion_id": "747",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735a343"
+      },
+      "identifier": "wffq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wffq",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-29 00:00:00",
+      "instance_of": "cyby",
+      "label": "Wegmans Albacore Tuna 5oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:51.826Z"
+      },
+      "notion_id": "974",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "077890436936",
+      "bay": "5G7"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b92497c3069472bb439"
+    },
+    "identifier": "9kqd",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/9kqd",
+    "label": "Medicine and Snacks",
+    "last_updated": {
+      "$date": "2023-11-20T18:08:09.047Z"
+    },
+    "notion_id": "599",
+    "shcn": "50",
+    "shelf": "50",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b8c497c3069472a8f16"
+      },
+      "identifier": "7aea",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7aea",
+      "staged": "2023-10-23 14:22:43",
+      "label": "4ft usb-a to usb-c cable",
+      "last_updated": {
+        "$date": "2024-01-03T16:40:27.897Z"
+      },
+      "notion_id": "556",
+      "shcn": "50",
+      "shelf": "50"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472bb439"
+      },
+      "identifier": "9kqd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9kqd",
+      "label": "Medicine and Snacks",
+      "last_updated": {
+        "$date": "2023-11-20T18:08:09.047Z"
+      },
+      "notion_id": "599",
+      "shcn": "50",
+      "shelf": "50",
+      "type": "storage"
+    }
+  ]
+}

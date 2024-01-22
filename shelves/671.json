@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bba497c3069473349e5"
+    },
+    "identifier": "rs4s",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/rs4s",
+    "bay": "671",
+    "label": "upper hanging rack",
+    "last_updated": {
+      "$date": "2024-01-03T10:50:08.014Z"
+    },
+    "notion_id": "861",
+    "shcn": "671",
+    "shelf": "67",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bba497c3069473349e5"
+      },
+      "identifier": "rs4s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rs4s",
+      "bay": "671",
+      "label": "upper hanging rack",
+      "last_updated": {
+        "$date": "2024-01-03T10:50:08.014Z"
+      },
+      "notion_id": "861",
+      "shcn": "671",
+      "shelf": "67",
+      "type": "storage"
+    }
+  ]
+}

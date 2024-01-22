@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb4497c306947321006"
+    },
+    "identifier": "pant",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/pant",
+    "label": "black pantry shelf",
+    "last_updated": {
+      "$date": "2024-01-01T16:09:36.038Z"
+    },
+    "notion_id": "749",
+    "shcn": "5H",
+    "shelf": "5H",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb4497c306947321006"
+      },
+      "identifier": "pant",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pant",
+      "label": "black pantry shelf",
+      "last_updated": {
+        "$date": "2024-01-01T16:09:36.038Z"
+      },
+      "notion_id": "749",
+      "shcn": "5H",
+      "shelf": "5H",
+      "type": "storage"
+    }
+  ]
+}

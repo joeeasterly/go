@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba5497c3069472f3a27"
+    },
+    "identifier": "gn6u",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/gn6u",
+    "bay": "500",
+    "label": "chips and snacks",
+    "last_updated": {
+      "$date": "2023-11-25T18:34:02.531Z"
+    },
+    "notion_id": "614",
+    "shcn": "500",
+    "shelf": "50",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f3a27"
+      },
+      "identifier": "gn6u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gn6u",
+      "bay": "500",
+      "label": "chips and snacks",
+      "last_updated": {
+        "$date": "2023-11-25T18:34:02.531Z"
+      },
+      "notion_id": "614",
+      "shcn": "500",
+      "shelf": "50",
+      "type": "storage"
+    }
+  ]
+}

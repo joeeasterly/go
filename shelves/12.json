@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b97497c3069472c9a90"
+    },
+    "identifier": "bda4",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/bda4",
+    "label": "shelf 12",
+    "last_updated": {
+      "$date": "2023-12-25T10:13:19.815Z"
+    },
+    "notion_id": "99",
+    "shcn": "12",
+    "shelf": "12",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c9a90"
+      },
+      "identifier": "bda4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bda4",
+      "label": "shelf 12",
+      "last_updated": {
+        "$date": "2023-12-25T10:13:19.815Z"
+      },
+      "notion_id": "99",
+      "shcn": "12",
+      "shelf": "12",
+      "type": "storage"
+    }
+  ]
+}

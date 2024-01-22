@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bce497c30694736f1a2"
+    },
+    "identifier": "z32p",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/z32p",
+    "bay": "5S6",
+    "label": "main floor printer",
+    "last_updated": {
+      "$date": "2024-01-01T16:55:57.403Z"
+    },
+    "notion_id": "794",
+    "shcn": "5S6",
+    "shelf": "5S",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bce497c30694736f1a2"
+      },
+      "identifier": "z32p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/z32p",
+      "bay": "5S6",
+      "label": "main floor printer",
+      "last_updated": {
+        "$date": "2024-01-01T16:55:57.403Z"
+      },
+      "notion_id": "794",
+      "shcn": "5S6",
+      "shelf": "5S",
+      "type": "storage"
+    }
+  ]
+}

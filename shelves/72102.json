@@ -1,0 +1,46 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b9b497c3069472d43cc"
+    },
+    "identifier": "cqkz",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/cqkz",
+    "bay": "721",
+    "container": "7210",
+    "label": "slot 72102",
+    "last_updated": {
+      "$date": "2024-01-20T14:43:22.674Z"
+    },
+    "notion_id": "1043",
+    "shcn": "72102",
+    "shelf": "72",
+    "slot": "72102",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b9b497c3069472d43cc"
+      },
+      "identifier": "cqkz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/cqkz",
+      "bay": "721",
+      "container": "7210",
+      "label": "slot 72102",
+      "last_updated": {
+        "$date": "2024-01-20T14:43:22.674Z"
+      },
+      "notion_id": "1043",
+      "shcn": "72102",
+      "shelf": "72",
+      "slot": "72102",
+      "type": "storage"
+    }
+  ]
+}

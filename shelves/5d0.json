@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bae497c30694730fbee"
+    },
+    "identifier": "m5n2",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/m5n2",
+    "bay": "5D0",
+    "label": "kitchen counter",
+    "last_updated": {
+      "$date": "2023-11-26T17:56:43.206Z"
+    },
+    "notion_id": "665",
+    "shcn": "5D0",
+    "shelf": "5D",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bae497c30694730fbee"
+      },
+      "identifier": "m5n2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/m5n2",
+      "bay": "5D0",
+      "label": "kitchen counter",
+      "last_updated": {
+        "$date": "2023-11-26T17:56:43.206Z"
+      },
+      "notion_id": "665",
+      "shcn": "5D0",
+      "shelf": "5D",
+      "type": "storage"
+    }
+  ]
+}

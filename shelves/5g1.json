@@ -1,0 +1,263 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb3497c30694731fbda"
+    },
+    "identifier": "p5me",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/p5me",
+    "bay": "5G1",
+    "label": "bay 5G1",
+    "last_updated": {
+      "$date": "2024-01-01T15:59:43.558Z"
+    },
+    "notion_id": "741",
+    "shcn": "5G1",
+    "shelf": "5G",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b7e497c30694727f90e"
+      },
+      "identifier": "24x2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/24x2",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-12-05 00:00:00",
+      "instance_of": "8kz4",
+      "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:09:02.278Z"
+      },
+      "notion_id": "963",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "048000732675",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728d0ff"
+      },
+      "identifier": "3twk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3twk",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-12-05 00:00:00",
+      "instance_of": "8kz4",
+      "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:58.985Z"
+      },
+      "notion_id": "963",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "048000732675",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b84497c306947291c92"
+      },
+      "identifier": "4dt6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4dt6",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-09-07 00:00:00",
+      "label": "Naan-Tastic Screamin Vindaloo 24oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:43.526Z"
+      },
+      "notion_id": "972",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "787269022492",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8f497c3069472b3550"
+      },
+      "identifier": "8kz4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8kz4",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-12-05 00:00:00",
+      "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:55.533Z"
+      },
+      "notion_id": "963",
+      "percentage": "100",
+      "quantity": 5.0,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "048000732675",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9d497c3069472db5a8"
+      },
+      "identifier": "dm2v",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dm2v",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-05-31 00:00:00",
+      "instance_of": "enrm",
+      "label": "Kirkland Organic Chicken Stock 32oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:30.858Z"
+      },
+      "notion_id": "988",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "096619782581",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e2efe"
+      },
+      "identifier": "ejdj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ejdj",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-05-26 00:00:00",
+      "label": "Raos Homemade Marinara 28oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:10:37.379Z"
+      },
+      "notion_id": "982",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "747479000413",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e3c60"
+      },
+      "identifier": "enrm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/enrm",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-05-31 00:00:00",
+      "label": "Kirkland Organic Chicken Stock 32oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:34.401Z"
+      },
+      "notion_id": "988",
+      "percentage": "100",
+      "quantity": 2.0,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "096619782581",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba1497c3069472e8f3e"
+      },
+      "identifier": "fafj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fafj",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-12-05 00:00:00",
+      "instance_of": "8kz4",
+      "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:09:00.624Z"
+      },
+      "notion_id": "963",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "048000732675",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb3497c30694731fbda"
+      },
+      "identifier": "p5me",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/p5me",
+      "bay": "5G1",
+      "label": "bay 5G1",
+      "last_updated": {
+        "$date": "2024-01-01T15:59:43.558Z"
+      },
+      "notion_id": "741",
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c30694734f3ef"
+      },
+      "identifier": "v3n3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/v3n3",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-12-05 00:00:00",
+      "instance_of": "8kz4",
+      "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:57.133Z"
+      },
+      "notion_id": "963",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "048000732675",
+      "bay": "5G1"
+    }
+  ]
+}

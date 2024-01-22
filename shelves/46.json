@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb7497c30694732bfe0"
+    },
+    "identifier": "qpmm",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/qpmm",
+    "label": "Media Console",
+    "last_updated": {
+      "$date": "2023-12-24T17:19:25.308Z"
+    },
+    "notion_id": "574",
+    "shcn": "46",
+    "shelf": "46",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb7497c30694732bfe0"
+      },
+      "identifier": "qpmm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qpmm",
+      "label": "Media Console",
+      "last_updated": {
+        "$date": "2023-12-24T17:19:25.308Z"
+      },
+      "notion_id": "574",
+      "shcn": "46",
+      "shelf": "46",
+      "type": "storage"
+    }
+  ]
+}

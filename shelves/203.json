@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba9497c30694730169b"
+    },
+    "identifier": "jcaf",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/jcaf",
+    "bay": "203",
+    "label": "bay 203",
+    "last_updated": {
+      "$date": "2023-12-28T14:28:47.313Z"
+    },
+    "notion_id": "151",
+    "shcn": "203",
+    "shelf": "20",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba9497c30694730169b"
+      },
+      "identifier": "jcaf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jcaf",
+      "bay": "203",
+      "label": "bay 203",
+      "last_updated": {
+        "$date": "2023-12-28T14:28:47.313Z"
+      },
+      "notion_id": "151",
+      "shcn": "203",
+      "shelf": "20",
+      "type": "storage"
+    }
+  ]
+}

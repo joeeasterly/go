@@ -1,0 +1,322 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b99497c3069472cf7e7"
+    },
+    "identifier": "c4mu",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/c4mu",
+    "bay": "583",
+    "label": "cooking oils, bisquick",
+    "last_updated": {
+      "$date": "2023-11-25T21:08:50.276Z"
+    },
+    "notion_id": "638",
+    "shcn": "583",
+    "shelf": "58",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b80497c306947285aa7"
+      },
+      "identifier": "2wau",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2wau",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "583",
+      "expires": "2025-03-24 00:00:00",
+      "label": "Harvest 2000 Pho Beef Broth Powder 1lb",
+      "last_updated": {
+        "$date": "2024-01-19T21:16:10.082Z"
+      },
+      "notion_id": "1036",
+      "percentage": "85",
+      "quantity": "1",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b81497c306947289cf5"
+      },
+      "identifier": "3dw9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3dw9",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "583",
+      "label": "Brown Rice 2374g cwt 219g",
+      "last_updated": {
+        "$date": "2024-01-20T20:01:27.298Z"
+      },
+      "notion_id": "1086",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b85497c306947293339"
+      },
+      "identifier": "4kfd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4kfd",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "583",
+      "expires": "2026-12-31 00:00:00",
+      "label": "Morton Salt 26oz",
+      "last_updated": {
+        "$date": "2024-01-20T20:27:00.967Z"
+      },
+      "notion_id": "1090",
+      "percentage": "25",
+      "quantity": "1",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "024600010016"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729cccf"
+      },
+      "identifier": "5sv3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5sv3",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "583",
+      "expires": "2025-01-23 00:00:00",
+      "label": "Clabber Girl Baking Powder 8.1oz",
+      "last_updated": {
+        "$date": "2024-01-20T20:30:22.685Z"
+      },
+      "notion_id": "1091",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "019900003202"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472cf7e7"
+      },
+      "identifier": "c4mu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c4mu",
+      "bay": "583",
+      "label": "cooking oils, bisquick",
+      "last_updated": {
+        "$date": "2023-11-25T21:08:50.276Z"
+      },
+      "notion_id": "638",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e1433"
+      },
+      "identifier": "ebq7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ebq7",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "583",
+      "expires": "2023-05-29 00:00:00",
+      "label": "Surasang Kimchi Hot Sauce 230ml",
+      "last_updated": {
+        "$date": "2024-01-20T20:32:54.090Z"
+      },
+      "notion_id": "1092",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "087703207066"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baf497c306947313984"
+      },
+      "identifier": "mn1r",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mn1r",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "583",
+      "expires": "2024-08-06 00:00:00",
+      "label": "Costco Pure Vanilla Extract 16oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:19:56.984Z"
+      },
+      "notion_id": "1037",
+      "percentage": "60",
+      "quantity": "1",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "017300010554"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb1497c30694731aa31"
+      },
+      "identifier": "nh75",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/nh75",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "583",
+      "expires": "2025-12-31 00:00:00",
+      "label": "White Granulated Sugar 719g cwt 516g",
+      "last_updated": {
+        "$date": "2024-01-20T20:23:56.548Z"
+      },
+      "notion_id": "1089",
+      "percentage": "99",
+      "quantity": "1",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c30694732457a"
+      },
+      "identifier": "pr1e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pr1e",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "583",
+      "label": "Corn Meal 764g cwt 762g",
+      "last_updated": {
+        "$date": "2024-01-20T19:55:34.427Z"
+      },
+      "notion_id": "1085",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbc497c306947339452"
+      },
+      "identifier": "sbr6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sbr6",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "583",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Medium Grain Rice 1800g cwt 219g",
+      "last_updated": {
+        "$date": "2024-01-20T20:13:43.939Z"
+      },
+      "notion_id": "1088",
+      "percentage": "75",
+      "quantity": "1",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734a502"
+      },
+      "identifier": "ufwp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ufwp",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "583",
+      "expires": "2024-06-07 00:00:00",
+      "label": "Bisquick 1654g cwt 1327g",
+      "last_updated": {
+        "$date": "2024-01-20T20:06:20.790Z"
+      },
+      "notion_id": "1087",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735b7fe"
+      },
+      "identifier": "wmnj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wmnj",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "583",
+      "expires": "2024-04-05 00:00:00",
+      "label": "Pam Cooking Spray 12oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:22:35.612Z"
+      },
+      "notion_id": "1038",
+      "percentage": "90",
+      "quantity": "1",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "064144030941"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c3069473627b7"
+      },
+      "identifier": "xgkb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xgkb",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "583",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Lee Kum Kee Premium Dark Soy Sauce 16.9oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:24:40.007Z"
+      },
+      "notion_id": "1039",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "583",
+      "shelf": "58",
+      "type": "consumable",
+      "upc": "078895126389"
+    }
+  ]
+}

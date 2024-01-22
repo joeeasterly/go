@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b85497c306947294761"
+    },
+    "identifier": "4rgn",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/4rgn",
+    "bay": "490",
+    "label": "nespresso and ice maker",
+    "last_updated": {
+      "$date": "2024-01-04T16:54:16.243Z"
+    },
+    "notion_id": "893",
+    "shcn": "490",
+    "shelf": "49",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b85497c306947294761"
+      },
+      "identifier": "4rgn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4rgn",
+      "bay": "490",
+      "label": "nespresso and ice maker",
+      "last_updated": {
+        "$date": "2024-01-04T16:54:16.243Z"
+      },
+      "notion_id": "893",
+      "shcn": "490",
+      "shelf": "49",
+      "type": "storage"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b97497c3069472c80e9"
+    },
+    "identifier": "b6vw",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/b6vw",
+    "bay": "221",
+    "label": "bay 221",
+    "last_updated": {
+      "$date": "2023-12-24T21:08:45.003Z"
+    },
+    "notion_id": "279",
+    "shcn": "221",
+    "shelf": "22",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c80e9"
+      },
+      "identifier": "b6vw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/b6vw",
+      "bay": "221",
+      "label": "bay 221",
+      "last_updated": {
+        "$date": "2023-12-24T21:08:45.003Z"
+      },
+      "notion_id": "279",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cc522"
+      },
+      "identifier": "bqxp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bqxp",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: ICOM ID-52A VHF-UHF Transceiver",
+      "last_updated": {
+        "$date": "2024-01-04T12:34:20.284Z"
+      },
+      "notion_id": "712",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e6241"
+      },
+      "identifier": "ey7n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ey7n",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: Canon Lens Hood ET-74B",
+      "last_updated": {
+        "$date": "2024-01-04T12:34:08.795Z"
+      },
+      "notion_id": "705",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f6539"
+      },
+      "identifier": "gyyd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gyyd",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: Canon BR-E1 Wireless Remote Control",
+      "last_updated": {
+        "$date": "2024-01-04T12:35:59.698Z"
+      },
+      "notion_id": "701",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bab497c306947304c53"
+      },
+      "identifier": "jsr7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jsr7",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: Sony RMT-P1BT Remote Commander",
+      "last_updated": {
+        "$date": "2024-01-04T12:35:58.452Z"
+      },
+      "notion_id": "703",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbc497c306947338e53"
+      },
+      "identifier": "sa87",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sa87",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: iPad mini 6th gen 256gb wifi space gray",
+      "last_updated": {
+        "$date": "2024-01-04T12:34:15.454Z"
+      },
+      "notion_id": "709",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbd497c30694733b0c7"
+      },
+      "identifier": "sjuu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sjuu",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: Sony FE 85mm F1.8 Lens",
+      "last_updated": {
+        "$date": "2024-01-04T12:34:11.477Z"
+      },
+      "notion_id": "704",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736e1f6"
+      },
+      "identifier": "yy5a",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yy5a",
+      "label": "Canon CX0-7706 Lens Hood EW-55",
+      "last_updated": {
+        "$date": "2024-01-04T12:35:50.354Z"
+      },
+      "notion_id": "700",
+      "shcn": "221",
+      "type": "item",
+      "bay": "221",
+      "shelf": "22"
+    }
+  ]
+}

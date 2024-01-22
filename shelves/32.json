@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb5497c306947324b16"
+    },
+    "identifier": "psea",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/psea",
+    "label": "shelf 32",
+    "last_updated": {
+      "$date": "2023-12-24T17:08:28.021Z"
+    },
+    "notion_id": "258",
+    "shcn": "32",
+    "shelf": "32",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947324b16"
+      },
+      "identifier": "psea",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/psea",
+      "label": "shelf 32",
+      "last_updated": {
+        "$date": "2023-12-24T17:08:28.021Z"
+      },
+      "notion_id": "258",
+      "shcn": "32",
+      "shelf": "32",
+      "type": "storage"
+    }
+  ]
+}

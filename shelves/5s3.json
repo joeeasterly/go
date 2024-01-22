@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bab497c30694730535a"
+    },
+    "identifier": "juge",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/juge",
+    "bay": "5S3",
+    "label": "cookbooks",
+    "last_updated": {
+      "$date": "2024-01-01T16:54:15.192Z"
+    },
+    "notion_id": "791",
+    "shcn": "5S3",
+    "shelf": "5S",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bab497c30694730535a"
+      },
+      "identifier": "juge",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/juge",
+      "bay": "5S3",
+      "label": "cookbooks",
+      "last_updated": {
+        "$date": "2024-01-01T16:54:15.192Z"
+      },
+      "notion_id": "791",
+      "shcn": "5S3",
+      "shelf": "5S",
+      "type": "storage"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b95497c3069472c3e38"
+    },
+    "identifier": "ap7c",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/ap7c",
+    "bay": "271",
+    "label": "bay 271",
+    "last_updated": {
+      "$date": "2023-12-28T14:22:24.734Z"
+    },
+    "notion_id": "289",
+    "shcn": "271",
+    "shelf": "27",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b95497c3069472c3e38"
+      },
+      "identifier": "ap7c",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ap7c",
+      "bay": "271",
+      "label": "bay 271",
+      "last_updated": {
+        "$date": "2023-12-28T14:22:24.734Z"
+      },
+      "notion_id": "289",
+      "shcn": "271",
+      "shelf": "27",
+      "type": "storage"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc8497c30694735dd23"
+    },
+    "identifier": "wwxq",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/wwxq",
+    "bay": "501",
+    "label": "cookies, biscuits, crackers",
+    "last_updated": {
+      "$date": "2023-11-25T18:35:19.436Z"
+    },
+    "notion_id": "615",
+    "shcn": "501",
+    "shelf": "50",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735dd23"
+      },
+      "identifier": "wwxq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wwxq",
+      "bay": "501",
+      "label": "cookies, biscuits, crackers",
+      "last_updated": {
+        "$date": "2023-11-25T18:35:19.436Z"
+      },
+      "notion_id": "615",
+      "shcn": "501",
+      "shelf": "50",
+      "type": "storage"
+    }
+  ]
+}

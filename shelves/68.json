@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba0497c3069472e63a6"
+    },
+    "identifier": "eyjt",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/eyjt",
+    "label": "east wall master bedroom",
+    "last_updated": {
+      "$date": "2024-01-03T10:24:10.639Z"
+    },
+    "notion_id": "823",
+    "shcn": "68",
+    "shelf": "68",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e63a6"
+      },
+      "identifier": "eyjt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/eyjt",
+      "label": "east wall master bedroom",
+      "last_updated": {
+        "$date": "2024-01-03T10:24:10.639Z"
+      },
+      "notion_id": "823",
+      "shcn": "68",
+      "shelf": "68",
+      "type": "storage"
+    }
+  ]
+}

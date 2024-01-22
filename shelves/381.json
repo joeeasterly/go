@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b96497c3069472c6423"
+    },
+    "identifier": "aypq",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/aypq",
+    "bay": "381",
+    "label": "Rack Two",
+    "last_updated": {
+      "$date": "2024-01-21T15:56:39.466Z"
+    },
+    "notion_id": "1095",
+    "shcn": "381",
+    "shelf": "38",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c6423"
+      },
+      "identifier": "aypq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/aypq",
+      "bay": "381",
+      "label": "Rack Two",
+      "last_updated": {
+        "$date": "2024-01-21T15:56:39.466Z"
+      },
+      "notion_id": "1095",
+      "shcn": "381",
+      "shelf": "38",
+      "type": "storage"
+    }
+  ]
+}

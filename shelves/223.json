@@ -1,0 +1,82 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b86497c3069472965ea"
+    },
+    "identifier": "4z4x",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/4z4x",
+    "bay": "223",
+    "label": "bay 223",
+    "last_updated": {
+      "$date": "2023-12-24T21:08:08.986Z"
+    },
+    "notion_id": "281",
+    "shcn": "223",
+    "shelf": "22",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b86497c3069472965ea"
+      },
+      "identifier": "4z4x",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4z4x",
+      "bay": "223",
+      "label": "bay 223",
+      "last_updated": {
+        "$date": "2023-12-24T21:08:08.986Z"
+      },
+      "notion_id": "281",
+      "shcn": "223",
+      "shelf": "22",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c9492"
+      },
+      "identifier": "bbt6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bbt6",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "223",
+      "label": "Box: HYPERX Quadcast 5 USB Microphone",
+      "last_updated": {
+        "$date": "2024-01-04T12:37:50.785Z"
+      },
+      "notion_id": "718",
+      "shcn": "223",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c3069473342f7"
+      },
+      "identifier": "rqdb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rqdb",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "223",
+      "label": "Box: Canon RF 200-800mm F6.3-9 IS USM",
+      "last_updated": {
+        "$date": "2024-01-06T19:01:31.426Z"
+      },
+      "notion_id": "914",
+      "shcn": "223",
+      "shelf": "22",
+      "type": "item"
+    }
+  ]
+}

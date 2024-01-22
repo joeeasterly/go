@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb5497c306947325f64"
+    },
+    "identifier": "pxgr",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/pxgr",
+    "bay": "551",
+    "label": "covered round casserole dishes",
+    "last_updated": {
+      "$date": "2023-11-25T21:22:56.891Z"
+    },
+    "notion_id": "646",
+    "shcn": "551",
+    "shelf": "55",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947325f64"
+      },
+      "identifier": "pxgr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pxgr",
+      "bay": "551",
+      "label": "covered round casserole dishes",
+      "last_updated": {
+        "$date": "2023-11-25T21:22:56.891Z"
+      },
+      "notion_id": "646",
+      "shcn": "551",
+      "shelf": "55",
+      "type": "storage"
+    }
+  ]
+}

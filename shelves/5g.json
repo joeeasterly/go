@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc3497c30694734ebf5"
+    },
+    "identifier": "v1n9",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/v1n9",
+    "label": "wall-mount pantry shelf",
+    "last_updated": {
+      "$date": "2024-01-01T15:57:37.990Z"
+    },
+    "notion_id": "739",
+    "shcn": "5G",
+    "shelf": "5G",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734ebf5"
+      },
+      "identifier": "v1n9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/v1n9",
+      "label": "wall-mount pantry shelf",
+      "last_updated": {
+        "$date": "2024-01-01T15:57:37.990Z"
+      },
+      "notion_id": "739",
+      "shcn": "5G",
+      "shelf": "5G",
+      "type": "storage"
+    }
+  ]
+}

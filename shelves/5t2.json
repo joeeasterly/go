@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb3497c30694731f0fc"
+    },
+    "identifier": "p2wg",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/p2wg",
+    "bay": "5T2",
+    "label": "powder closet floor",
+    "last_updated": {
+      "$date": "2024-01-01T17:04:54.616Z"
+    },
+    "notion_id": "798",
+    "shcn": "5T2",
+    "shelf": "5T",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb3497c30694731f0fc"
+      },
+      "identifier": "p2wg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/p2wg",
+      "bay": "5T2",
+      "label": "powder closet floor",
+      "last_updated": {
+        "$date": "2024-01-01T17:04:54.616Z"
+      },
+      "notion_id": "798",
+      "shcn": "5T2",
+      "shelf": "5T",
+      "type": "storage"
+    }
+  ]
+}

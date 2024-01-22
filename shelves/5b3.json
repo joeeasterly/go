@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba3497c3069472ee2cd"
+    },
+    "identifier": "fyc1",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/fyc1",
+    "bay": "5B3",
+    "label": "cast iron pans",
+    "last_updated": {
+      "$date": "2023-11-26T17:52:17.953Z"
+    },
+    "notion_id": "661",
+    "shcn": "5B3",
+    "shelf": "5B",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472ee2cd"
+      },
+      "identifier": "fyc1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fyc1",
+      "bay": "5B3",
+      "label": "cast iron pans",
+      "last_updated": {
+        "$date": "2023-11-26T17:52:17.953Z"
+      },
+      "notion_id": "661",
+      "shcn": "5B3",
+      "shelf": "5B",
+      "type": "storage"
+    }
+  ]
+}

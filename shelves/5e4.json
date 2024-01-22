@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba9497c306947300e7d"
+    },
+    "identifier": "ja9h",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/ja9h",
+    "bay": "5E4",
+    "label": "kimchi",
+    "last_updated": {
+      "$date": "2023-12-31T10:32:00.405Z"
+    },
+    "notion_id": "698",
+    "shcn": "5E4",
+    "shelf": "5E",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba9497c306947300e7d"
+      },
+      "identifier": "ja9h",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ja9h",
+      "bay": "5E4",
+      "label": "kimchi",
+      "last_updated": {
+        "$date": "2023-12-31T10:32:00.405Z"
+      },
+      "notion_id": "698",
+      "shcn": "5E4",
+      "shelf": "5E",
+      "type": "storage"
+    }
+  ]
+}

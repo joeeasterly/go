@@ -1,0 +1,61 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b98497c3069472cd3ee"
+    },
+    "identifier": "bun2",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/bun2",
+    "bay": "113",
+    "label": "bay 113",
+    "last_updated": {
+      "$date": "2023-12-25T10:10:29.365Z"
+    },
+    "notion_id": "119",
+    "shcn": "113",
+    "shelf": "11",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cd3ee"
+      },
+      "identifier": "bun2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bun2",
+      "bay": "113",
+      "label": "bay 113",
+      "last_updated": {
+        "$date": "2023-12-25T10:10:29.365Z"
+      },
+      "notion_id": "119",
+      "shcn": "113",
+      "shelf": "11",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc6497c306947355626"
+      },
+      "identifier": "vv6t",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vv6t",
+      "bay": "113",
+      "label": "special use 113",
+      "last_updated": {
+        "$date": "2023-12-24T17:30:35.675Z"
+      },
+      "notion_id": "346",
+      "shcn": "113",
+      "shelf": "11",
+      "type": "storage"
+    }
+  ]
+}

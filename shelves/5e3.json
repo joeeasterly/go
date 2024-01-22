@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb9497c306947331aa1"
+    },
+    "identifier": "rdan",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/rdan",
+    "bay": "5E3",
+    "label": "leftovers",
+    "last_updated": {
+      "$date": "2023-12-31T10:31:37.150Z"
+    },
+    "notion_id": "697",
+    "shcn": "5E3",
+    "shelf": "5E",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb9497c306947331aa1"
+      },
+      "identifier": "rdan",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rdan",
+      "bay": "5E3",
+      "label": "leftovers",
+      "last_updated": {
+        "$date": "2023-12-31T10:31:37.150Z"
+      },
+      "notion_id": "697",
+      "shcn": "5E3",
+      "shelf": "5E",
+      "type": "storage"
+    }
+  ]
+}

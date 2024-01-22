@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bcf497c30694737272c"
+    },
+    "identifier": "zgez",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/zgez",
+    "bay": "5C2",
+    "label": "dish detergent, kitchen cleaning",
+    "last_updated": {
+      "$date": "2023-11-26T17:54:59.941Z"
+    },
+    "notion_id": "664",
+    "shcn": "5C2",
+    "shelf": "5C",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bcf497c30694737272c"
+      },
+      "identifier": "zgez",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zgez",
+      "bay": "5C2",
+      "label": "dish detergent, kitchen cleaning",
+      "last_updated": {
+        "$date": "2023-11-26T17:54:59.941Z"
+      },
+      "notion_id": "664",
+      "shcn": "5C2",
+      "shelf": "5C",
+      "type": "storage"
+    }
+  ]
+}

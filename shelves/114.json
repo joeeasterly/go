@@ -1,0 +1,61 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bad497c30694730be4c"
+    },
+    "identifier": "kp7z",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/kp7z",
+    "bay": "114",
+    "label": "bay 114",
+    "last_updated": {
+      "$date": "2023-12-25T10:07:35.077Z"
+    },
+    "notion_id": "120",
+    "shcn": "114",
+    "shelf": "11",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bad497c30694730be4c"
+      },
+      "identifier": "kp7z",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kp7z",
+      "bay": "114",
+      "label": "bay 114",
+      "last_updated": {
+        "$date": "2023-12-25T10:07:35.077Z"
+      },
+      "notion_id": "120",
+      "shcn": "114",
+      "shelf": "11",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb0497c30694731623a"
+      },
+      "identifier": "my7e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/my7e",
+      "bay": "114",
+      "label": "special use 114",
+      "last_updated": {
+        "$date": "2023-12-24T17:30:15.981Z"
+      },
+      "notion_id": "347",
+      "shcn": "114",
+      "shelf": "11",
+      "type": "storage"
+    }
+  ]
+}

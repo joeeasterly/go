@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc5497c30694735265c"
+    },
+    "identifier": "vg8g",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/vg8g",
+    "bay": "374",
+    "label": "bay 374",
+    "last_updated": {
+      "$date": "2024-01-04T15:30:18.896Z"
+    },
+    "notion_id": "323",
+    "shcn": "374",
+    "shelf": "37",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bc5497c30694735265c"
+      },
+      "identifier": "vg8g",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vg8g",
+      "bay": "374",
+      "label": "bay 374",
+      "last_updated": {
+        "$date": "2024-01-04T15:30:18.896Z"
+      },
+      "notion_id": "323",
+      "shcn": "374",
+      "shelf": "37",
+      "type": "storage"
+    }
+  ]
+}

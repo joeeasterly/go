@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba5497c3069472f3964"
+    },
+    "identifier": "gmzr",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/gmzr",
+    "bay": "365",
+    "label": "bay 365",
+    "last_updated": {
+      "$date": "2023-12-24T20:39:15.535Z"
+    },
+    "notion_id": "361",
+    "shcn": "365",
+    "shelf": "36",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f3964"
+      },
+      "identifier": "gmzr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gmzr",
+      "bay": "365",
+      "label": "bay 365",
+      "last_updated": {
+        "$date": "2023-12-24T20:39:15.535Z"
+      },
+      "notion_id": "361",
+      "shcn": "365",
+      "shelf": "36",
+      "type": "storage"
+    }
+  ]
+}

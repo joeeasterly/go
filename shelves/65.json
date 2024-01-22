@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb0497c30694731557b"
+    },
+    "identifier": "mv1f",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/mv1f",
+    "label": "master bathroom sink",
+    "last_updated": {
+      "$date": "2024-01-03T10:21:14.229Z"
+    },
+    "notion_id": "820",
+    "shcn": "65",
+    "shelf": "65",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb0497c30694731557b"
+      },
+      "identifier": "mv1f",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mv1f",
+      "label": "master bathroom sink",
+      "last_updated": {
+        "$date": "2024-01-03T10:21:14.229Z"
+      },
+      "notion_id": "820",
+      "shcn": "65",
+      "shelf": "65",
+      "type": "storage"
+    }
+  ]
+}

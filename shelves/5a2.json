@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc0497c306947344d09"
+    },
+    "identifier": "tsww",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/tsww",
+    "bay": "5A2",
+    "label": "liquid measure, dinner bowls",
+    "last_updated": {
+      "$date": "2023-11-26T17:47:30.336Z"
+    },
+    "notion_id": "656",
+    "shcn": "5A2",
+    "shelf": "5A",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bc0497c306947344d09"
+      },
+      "identifier": "tsww",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tsww",
+      "bay": "5A2",
+      "label": "liquid measure, dinner bowls",
+      "last_updated": {
+        "$date": "2023-11-26T17:47:30.336Z"
+      },
+      "notion_id": "656",
+      "shcn": "5A2",
+      "shelf": "5A",
+      "type": "storage"
+    }
+  ]
+}

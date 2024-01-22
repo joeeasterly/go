@@ -1,0 +1,168 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b93497c3069472bee9b"
+    },
+    "identifier": "a2af",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/a2af",
+    "bay": "470",
+    "container": "4701",
+    "label": "Media Remotes",
+    "last_updated": {
+      "$date": "2023-11-19T18:09:36.821Z"
+    },
+    "notion_id": "597",
+    "shcn": "4701",
+    "shelf": "47",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b80497c3069472852e6"
+      },
+      "identifier": "2uct",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2uct",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "470",
+      "container": "4701",
+      "label": "Samsung M7 SmartMonitor Remote (Spare)",
+      "last_updated": {
+        "$date": "2023-11-03T14:22:31.320Z"
+      },
+      "notion_id": "591",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b81497c30694728965e"
+      },
+      "identifier": "3c8j",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3c8j",
+      "label": "XBOX S Wireless Controller",
+      "last_updated": {
+        "$date": "2023-11-03T14:48:38.762Z"
+      },
+      "notion_id": "595",
+      "shcn": "4701",
+      "type": "item",
+      "bay": "470",
+      "container": "4701",
+      "shelf": "47"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b93497c3069472bee9b"
+      },
+      "identifier": "a2af",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a2af",
+      "bay": "470",
+      "container": "4701",
+      "label": "Media Remotes",
+      "last_updated": {
+        "$date": "2023-11-19T18:09:36.821Z"
+      },
+      "notion_id": "597",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c3069473248d5"
+      },
+      "identifier": "prv9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/prv9",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "470",
+      "container": "4701",
+      "label": "DENON RC-1244 AV Remote",
+      "last_updated": {
+        "$date": "2023-11-03T14:19:46.018Z"
+      },
+      "notion_id": "590",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c3069473274c2"
+      },
+      "identifier": "q3up",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q3up",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "470",
+      "container": "4701",
+      "label": "BENQ Projector Remote",
+      "last_updated": {
+        "$date": "2023-11-03T14:26:33.971Z"
+      },
+      "notion_id": "593",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735a365"
+      },
+      "identifier": "wfgs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wfgs",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "470",
+      "container": "4701",
+      "label": "Elite Screens Projection Screen Remote model ZSP-RF-8 V2.0 Type A",
+      "last_updated": {
+        "$date": "2023-11-03T14:24:44.815Z"
+      },
+      "notion_id": "592",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcc497c30694736af24"
+      },
+      "identifier": "yjer",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yjer",
+      "bay": "470",
+      "container": "4701",
+      "label": "Nintendo Switch Pro Controller HAC-013",
+      "last_updated": {
+        "$date": "2023-11-03T14:46:04.951Z"
+      },
+      "notion_id": "594",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "item"
+    }
+  ]
+}

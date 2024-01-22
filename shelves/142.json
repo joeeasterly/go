@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bbb497c3069473357e5"
+    },
+    "identifier": "rvms",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/rvms",
+    "bay": "142",
+    "label": "bay 142",
+    "last_updated": {
+      "$date": "2023-12-25T10:17:40.938Z"
+    },
+    "notion_id": "130",
+    "shcn": "142",
+    "shelf": "14",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bbb497c3069473357e5"
+      },
+      "identifier": "rvms",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rvms",
+      "bay": "142",
+      "label": "bay 142",
+      "last_updated": {
+        "$date": "2023-12-25T10:17:40.938Z"
+      },
+      "notion_id": "130",
+      "shcn": "142",
+      "shelf": "14",
+      "type": "storage"
+    }
+  ]
+}

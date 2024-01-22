@@ -1,0 +1,67 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba9497c306947301a85"
+    },
+    "identifier": "jd9s",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/jd9s",
+    "bay": "412",
+    "container": "4123",
+    "label": "9-slot shelving container",
+    "last_updated": {
+      "$date": "2023-10-13T19:06:46.746Z"
+    },
+    "notion_id": "448",
+    "shelf": "41",
+    "type": "storage",
+    "shcn": "",
+    "slot": ""
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba9497c306947301a85"
+      },
+      "identifier": "jd9s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jd9s",
+      "bay": "412",
+      "container": "4123",
+      "label": "9-slot shelving container",
+      "last_updated": {
+        "$date": "2023-10-13T19:06:46.746Z"
+      },
+      "notion_id": "448",
+      "shelf": "41",
+      "type": "storage",
+      "shcn": "",
+      "slot": ""
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732e440"
+      },
+      "identifier": "qyqm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/qyqm",
+      "bay": "412",
+      "container": "4121",
+      "label": "part of item gnbu",
+      "last_updated": {
+        "$date": "2023-10-12T20:39:49.092Z"
+      },
+      "notion_id": "439",
+      "shelf": "41",
+      "type": "storage",
+      "shcn": "",
+      "slot": ""
+    }
+  ]
+}

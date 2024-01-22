@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bcf497c3069473730ff"
+    },
+    "identifier": "zjwk",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/zjwk",
+    "label": "utility cabinet",
+    "last_updated": {
+      "$date": "2024-01-01T16:19:49.719Z"
+    },
+    "notion_id": "754",
+    "shcn": "5J",
+    "shelf": "5J",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bcf497c3069473730ff"
+      },
+      "identifier": "zjwk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zjwk",
+      "label": "utility cabinet",
+      "last_updated": {
+        "$date": "2024-01-01T16:19:49.719Z"
+      },
+      "notion_id": "754",
+      "shcn": "5J",
+      "shelf": "5J",
+      "type": "storage"
+    }
+  ]
+}

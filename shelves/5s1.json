@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc9497c30694735f903"
+    },
+    "identifier": "x4wq",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/x4wq",
+    "bay": "5S1",
+    "label": "home reference books",
+    "last_updated": {
+      "$date": "2024-01-01T16:53:22.555Z"
+    },
+    "notion_id": "789",
+    "shcn": "5S1",
+    "shelf": "5S",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694735f903"
+      },
+      "identifier": "x4wq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x4wq",
+      "bay": "5S1",
+      "label": "home reference books",
+      "last_updated": {
+        "$date": "2024-01-01T16:53:22.555Z"
+      },
+      "notion_id": "789",
+      "shcn": "5S1",
+      "shelf": "5S",
+      "type": "storage"
+    }
+  ]
+}

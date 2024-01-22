@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b90497c3069472b5ffd"
+    },
+    "identifier": "8xnh",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/8xnh",
+    "label": "Beverage Supplies",
+    "last_updated": {
+      "$date": "2023-11-20T18:23:35.222Z"
+    },
+    "notion_id": "603",
+    "shcn": "54",
+    "shelf": "54",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b90497c3069472b5ffd"
+      },
+      "identifier": "8xnh",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8xnh",
+      "label": "Beverage Supplies",
+      "last_updated": {
+        "$date": "2023-11-20T18:23:35.222Z"
+      },
+      "notion_id": "603",
+      "shcn": "54",
+      "shelf": "54",
+      "type": "storage"
+    }
+  ]
+}

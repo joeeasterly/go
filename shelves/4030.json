@@ -1,0 +1,336 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b99497c3069472ce97a"
+    },
+    "identifier": "c11e",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/c11e",
+    "bay": "403",
+    "container": "4030",
+    "label": "usb cables",
+    "last_updated": {
+      "$date": "2023-10-22T16:12:14.371Z"
+    },
+    "notion_id": "525",
+    "shcn": "4030",
+    "shelf": "40",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728beb3"
+      },
+      "identifier": "3pb7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3pb7",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "4ft usb-a to usb-micro cable",
+      "last_updated": {
+        "$date": "2023-10-25T09:36:27.288Z"
+      },
+      "notion_id": "552",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728c38a"
+      },
+      "identifier": "3qhx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3qhx",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "18in usb-a to usb-3-micro cable",
+      "last_updated": {
+        "$date": "2023-10-25T09:36:48.587Z"
+      },
+      "notion_id": "561",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b1cb0"
+      },
+      "identifier": "8du4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8du4",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "dji 6in usb-c to lightning cable",
+      "last_updated": {
+        "$date": "2023-10-25T09:36:56.985Z"
+      },
+      "notion_id": "551",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472bbc43"
+      },
+      "identifier": "9nqq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9nqq",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "samsung 3-ft usb-c to usb-c cable",
+      "last_updated": {
+        "$date": "2023-10-25T09:34:46.829Z"
+      },
+      "notion_id": "559",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce97a"
+      },
+      "identifier": "c11e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c11e",
+      "bay": "403",
+      "container": "4030",
+      "label": "usb cables",
+      "last_updated": {
+        "$date": "2023-10-22T16:12:14.371Z"
+      },
+      "notion_id": "525",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472d7894"
+      },
+      "identifier": "d4t8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/d4t8",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "18in usb-a to usb-b cable",
+      "last_updated": {
+        "$date": "2023-10-25T09:35:41.411Z"
+      },
+      "notion_id": "558",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472da634"
+      },
+      "identifier": "dg78",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dg78",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "3ft usb-a to usb-micro cable",
+      "last_updated": {
+        "$date": "2023-10-25T09:35:55.138Z"
+      },
+      "notion_id": "554",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec42"
+      },
+      "identifier": "g1qp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1qp",
+      "bay": "403",
+      "container": "4030",
+      "label": "ricoh ix1600 usb cable",
+      "last_updated": {
+        "$date": "2023-10-22T16:24:55.177Z"
+      },
+      "notion_id": "526",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472ef725"
+      },
+      "identifier": "g4es",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g4es",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "2ft usb-a to right-angle usb-micro cable",
+      "last_updated": {
+        "$date": "2023-10-25T09:36:16.228Z"
+      },
+      "notion_id": "543",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb9497c306947331517"
+      },
+      "identifier": "rbxb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rbxb",
+      "label": "usb-c to usb-c power/data cable, 1m",
+      "last_updated": {
+        "$date": "2023-10-22T17:27:59.277Z"
+      },
+      "notion_id": "532",
+      "shcn": "4030",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947341005"
+      },
+      "identifier": "tans",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tans",
+      "bay": "403",
+      "container": "4030",
+      "label": "usb-c to lightning cable, 2m",
+      "last_updated": {
+        "$date": "2023-10-22T16:54:54.211Z"
+      },
+      "notion_id": "527",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc1497c30694734815b"
+      },
+      "identifier": "u6zf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/u6zf",
+      "label": "Apple female usb-a to male usb-c adapter",
+      "last_updated": {
+        "$date": "2023-10-22T18:31:36.986Z"
+      },
+      "notion_id": "535",
+      "shcn": "4030",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c306947350430"
+      },
+      "identifier": "v7q4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/v7q4",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "15ft x 1/4in mono jack instrument cable",
+      "last_updated": {
+        "$date": "2023-10-26T17:25:31.690Z"
+      },
+      "notion_id": "563",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c306947361984"
+      },
+      "identifier": "xd1r",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xd1r",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "cricut 8ft usb-a to usb-b cable",
+      "last_updated": {
+        "$date": "2023-10-25T09:34:32.804Z"
+      },
+      "notion_id": "560",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c306947371867"
+      },
+      "identifier": "zcru",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zcru",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "scansnap ix500 usb cable",
+      "last_updated": {
+        "$date": "2023-10-25T09:35:08.846Z"
+      },
+      "notion_id": "553",
+      "shcn": "4030",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bd0497c306947376947"
+      },
+      "identifier": "zzyu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zzyu",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "403",
+      "container": "4030",
+      "label": "4ft usb-a to usb-micro cable",
+      "last_updated": {
+        "$date": "2023-10-25T09:34:59.426Z"
+      },
+      "notion_id": "555",
+      "shcn": "4030",
+      "shelf": "40"
+    }
+  ]
+}

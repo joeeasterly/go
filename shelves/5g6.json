@@ -1,0 +1,162 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb4497c3069473221a7"
+    },
+    "identifier": "pf2u",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/pf2u",
+    "bay": "5G6",
+    "label": "bay 5G6",
+    "last_updated": {
+      "$date": "2024-01-01T16:06:06.979Z"
+    },
+    "notion_id": "746",
+    "shcn": "5G6",
+    "shelf": "5G",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472aec32"
+      },
+      "identifier": "81q6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/81q6",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-01-25 00:00:00",
+      "label": "Solestado Muffuletta Olive Salad 33.9 oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:15:09.042Z"
+      },
+      "notion_id": "978",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "687250802488",
+      "bay": "5G6"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b08ad"
+      },
+      "identifier": "88u1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/88u1",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-10-04 00:00:00",
+      "label": "Franks RedHot Original Sauce 25oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:15:06.209Z"
+      },
+      "notion_id": "980",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "041500967806",
+      "bay": "5G6"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472c003c"
+      },
+      "identifier": "a6qg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a6qg",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-02-16 00:00:00",
+      "label": "Paesana Non Pareil Capers 32 oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:15:02.280Z"
+      },
+      "notion_id": "973",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "076050220507",
+      "bay": "5G6"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e175c"
+      },
+      "identifier": "ecgg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ecgg",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-10-04 00:00:00",
+      "label": "Franks RedHot Original Sauce 25oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:15:07.640Z"
+      },
+      "notion_id": "986",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "041500967806",
+      "bay": "5G6"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472fdeb1"
+      },
+      "identifier": "hxb5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hxb5",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-10-21 00:00:00",
+      "label": "Mighty Taco Hot Sauce 12oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:15:04.535Z"
+      },
+      "notion_id": "981",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "792080650014",
+      "bay": "5G6"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb4497c3069473221a7"
+      },
+      "identifier": "pf2u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pf2u",
+      "bay": "5G6",
+      "label": "bay 5G6",
+      "last_updated": {
+        "$date": "2024-01-01T16:06:06.979Z"
+      },
+      "notion_id": "746",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "storage"
+    }
+  ]
+}

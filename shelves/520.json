@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb8497c30694732d83a"
+    },
+    "identifier": "qvqe",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/qvqe",
+    "bay": "520",
+    "label": "kitchen desk surface",
+    "last_updated": {
+      "$date": "2023-11-25T19:22:04.758Z"
+    },
+    "notion_id": "623",
+    "shcn": "520",
+    "shelf": "52",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732d83a"
+      },
+      "identifier": "qvqe",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qvqe",
+      "bay": "520",
+      "label": "kitchen desk surface",
+      "last_updated": {
+        "$date": "2023-11-25T19:22:04.758Z"
+      },
+      "notion_id": "623",
+      "shcn": "520",
+      "shelf": "52",
+      "type": "storage"
+    }
+  ]
+}

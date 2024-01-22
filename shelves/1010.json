@@ -1,0 +1,324 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b99497c3069472ce97d"
+    },
+    "identifier": "c11h",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/c11h",
+    "bay": "101",
+    "container": "1010",
+    "label": "transit basket",
+    "last_updated": {
+      "$date": "2023-10-22T17:08:12.702Z"
+    },
+    "notion_id": "530",
+    "shcn": "1010",
+    "shelf": "10",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728edd0"
+      },
+      "identifier": "4244",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4244",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "101",
+      "container": "1010",
+      "label": "BENQ treVolo mini-stereo audio cable",
+      "last_updated": {
+        "$date": "2023-10-28T17:10:58.387Z"
+      },
+      "notion_id": "569",
+      "shcn": "1010",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b89497c30694729ffff"
+      },
+      "identifier": "66nk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/66nk",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "101",
+      "container": "1010",
+      "label": "JJC LH-74B Lens Hood",
+      "last_updated": {
+        "$date": "2023-12-31T10:55:10.055Z"
+      },
+      "notion_id": "706",
+      "shcn": "1010",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472adaa0"
+      },
+      "identifier": "7wam",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7wam",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "101",
+      "container": "1010",
+      "label": "Eyoyo 2D Barcode Scanner EY-039",
+      "last_updated": {
+        "$date": "2023-11-05T13:12:53.787Z"
+      },
+      "notion_id": "596",
+      "shcn": "1010",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472bf711"
+      },
+      "identifier": "a4e5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a4e5",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "101",
+      "container": "1010",
+      "label": "BENQ treVolo U bluetooth speaker",
+      "last_updated": {
+        "$date": "2023-10-28T17:10:00.430Z"
+      },
+      "notion_id": "568",
+      "shcn": "1010",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472ccb31"
+      },
+      "identifier": "bsf5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bsf5",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "101",
+      "container": "1010",
+      "label": "rack mounting plates for tp-link 24-port gigabit switch",
+      "last_updated": {
+        "$date": "2024-01-20T15:18:37.443Z"
+      },
+      "shcn": "1010",
+      "shelf": "10",
+      "type": "item",
+      "notion_id": "1078"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce97d"
+      },
+      "identifier": "c11h",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c11h",
+      "bay": "101",
+      "container": "1010",
+      "label": "transit basket",
+      "last_updated": {
+        "$date": "2023-10-22T17:08:12.702Z"
+      },
+      "notion_id": "530",
+      "shcn": "1010",
+      "shelf": "10",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9b497c3069472d658d"
+      },
+      "identifier": "cz21",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/cz21",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "101",
+      "container": "1010",
+      "label": "Roku Remote - Entertainment Room",
+      "last_updated": {
+        "$date": "2023-11-03T12:21:33.037Z"
+      },
+      "notion_id": "573",
+      "shcn": "1010",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec51"
+      },
+      "identifier": "g1r5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1r5",
+      "bay": "101",
+      "container": "1010",
+      "label": "nail hygiene toolkit",
+      "last_updated": {
+        "$date": "2023-10-22T17:20:19.253Z"
+      },
+      "notion_id": "531",
+      "shcn": "1010",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec5a"
+      },
+      "identifier": "g1re",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1re",
+      "bay": "101",
+      "container": "1010",
+      "label": "coach zippered wallet with chain",
+      "last_updated": {
+        "$date": "2023-10-22T17:15:10.548Z"
+      },
+      "notion_id": "529",
+      "shcn": "1010",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba4497c3069472f0d04"
+      },
+      "identifier": "g9wr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g9wr",
+      "label": "Benq treVolo U Desktop Dialogue Speaker",
+      "last_updated": {
+        "$date": "2023-10-28T10:39:45.346Z"
+      },
+      "notion_id": "567",
+      "shcn": "1010",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bad497c30694730ab6c"
+      },
+      "identifier": "khgz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/khgz",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "101",
+      "container": "1010",
+      "label": "Box: Korg opsix SE Altered FM synthesizer",
+      "last_updated": {
+        "$date": "2023-12-31T11:19:57.418Z"
+      },
+      "notion_id": "714",
+      "shcn": "1010",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bae497c30694731016f"
+      },
+      "identifier": "m713",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/m713",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "101",
+      "container": "1010",
+      "label": "BENQ treVolo UC13US USB power charger",
+      "last_updated": {
+        "$date": "2023-10-28T17:13:53.325Z"
+      },
+      "notion_id": "572",
+      "shcn": "1010",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb1497c30694731aa73"
+      },
+      "identifier": "nh97",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/nh97",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "101",
+      "container": "1010",
+      "label": "Box: BENQ treVolo U Bluetooth Speaker",
+      "last_updated": {
+        "$date": "2023-12-31T16:59:03.450Z"
+      },
+      "notion_id": "717",
+      "shcn": "1010",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbc497c306947337e8e"
+      },
+      "identifier": "s6a2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s6a2",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "101",
+      "container": "1010",
+      "label": "BENQ treVolo USB-A to USB-C power cable",
+      "last_updated": {
+        "$date": "2023-10-28T17:12:41.823Z"
+      },
+      "notion_id": "571",
+      "shcn": "1010",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c3069473597c5"
+      },
+      "identifier": "wcks",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wcks",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "101",
+      "container": "1010",
+      "label": "Small White Marble Box",
+      "last_updated": {
+        "$date": "2024-01-17T13:19:14.139Z"
+      },
+      "notion_id": "943",
+      "shcn": "1010",
+      "shelf": "10",
+      "type": "item"
+    }
+  ]
+}

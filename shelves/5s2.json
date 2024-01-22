@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc3497c30694734d34c"
+    },
+    "identifier": "uufz",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/uufz",
+    "bay": "5S2",
+    "label": "cookbooks",
+    "last_updated": {
+      "$date": "2024-01-01T16:53:44.681Z"
+    },
+    "notion_id": "790",
+    "shcn": "5S2",
+    "shelf": "5S",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734d34c"
+      },
+      "identifier": "uufz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uufz",
+      "bay": "5S2",
+      "label": "cookbooks",
+      "last_updated": {
+        "$date": "2024-01-01T16:53:44.681Z"
+      },
+      "notion_id": "790",
+      "shcn": "5S2",
+      "shelf": "5S",
+      "type": "storage"
+    }
+  ]
+}

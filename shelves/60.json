@@ -1,0 +1,189 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba5497c3069472f3946"
+    },
+    "identifier": "gmyt",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/gmyt",
+    "label": "south wall master bedroom",
+    "last_updated": {
+      "$date": "2024-01-03T10:12:41.439Z"
+    },
+    "notion_id": "815",
+    "shcn": "60",
+    "shelf": "60",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728ab96"
+      },
+      "identifier": "3hja",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3hja",
+      "label": "Canon RF 200-800mm F6.3-9 IS USM Lens",
+      "last_updated": {
+        "$date": "2024-01-06T12:53:03.658Z"
+      },
+      "notion_id": "917",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728b4b8"
+      },
+      "identifier": "3kuc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3kuc",
+      "label": "Canon EOS R3 camera body",
+      "last_updated": {
+        "$date": "2024-01-06T12:54:58.931Z"
+      },
+      "notion_id": "919",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729e2cf"
+      },
+      "identifier": "5yc3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5yc3",
+      "label": "Canon Lens 50mm F1.2L",
+      "last_updated": {
+        "$date": "2024-01-06T12:53:52.120Z"
+      },
+      "notion_id": "918",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472ca9e3"
+      },
+      "identifier": "bh4q",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bh4q",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Case for Canon cameras",
+      "last_updated": {
+        "$date": "2024-01-06T12:49:29.371Z"
+      },
+      "notion_id": "916",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f3946"
+      },
+      "identifier": "gmyt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gmyt",
+      "label": "south wall master bedroom",
+      "last_updated": {
+        "$date": "2024-01-03T10:12:41.439Z"
+      },
+      "notion_id": "815",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bae497c30694730f491"
+      },
+      "identifier": "m3t5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/m3t5",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Apple 3ft usb-c to usb-c cable",
+      "last_updated": {
+        "$date": "2023-12-31T11:09:26.527Z"
+      },
+      "notion_id": "711",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c30694732bff5"
+      },
+      "identifier": "qpn9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qpn9",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Apple 3ft usb-a to lightning cable",
+      "last_updated": {
+        "$date": "2023-12-31T16:51:15.402Z"
+      },
+      "notion_id": "715",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735805b"
+      },
+      "identifier": "w6rf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/w6rf",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Apple 20W USB-C Power Adapter",
+      "last_updated": {
+        "$date": "2023-12-31T11:07:21.652Z"
+      },
+      "notion_id": "710",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c306947360dbf"
+      },
+      "identifier": "xa3k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xa3k",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Box - Canon 95mm screw-in uv filter",
+      "last_updated": {
+        "$date": "2024-01-06T19:00:36.617Z"
+      },
+      "notion_id": "915",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    }
+  ]
+}

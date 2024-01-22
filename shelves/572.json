@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b9d497c3069472dc834"
+    },
+    "identifier": "drq8",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/drq8",
+    "bay": "572",
+    "label": "brown rice, drip coffeemaker",
+    "last_updated": {
+      "$date": "2023-11-25T21:13:06.666Z"
+    },
+    "notion_id": "640",
+    "shcn": "572",
+    "shelf": "57",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b9d497c3069472dc834"
+      },
+      "identifier": "drq8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/drq8",
+      "bay": "572",
+      "label": "brown rice, drip coffeemaker",
+      "last_updated": {
+        "$date": "2023-11-25T21:13:06.666Z"
+      },
+      "notion_id": "640",
+      "shcn": "572",
+      "shelf": "57",
+      "type": "storage"
+    }
+  ]
+}

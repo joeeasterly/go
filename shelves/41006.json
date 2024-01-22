@@ -1,0 +1,66 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b99497c3069472ce975"
+    },
+    "identifier": "c119",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/c119",
+    "bay": "410",
+    "container": "4100",
+    "label": "slot 41006",
+    "last_updated": {
+      "$date": "2023-10-19T20:02:44.150Z"
+    },
+    "notion_id": "520",
+    "shcn": "41006",
+    "shelf": "41",
+    "slot": "41006",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce975"
+      },
+      "identifier": "c119",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c119",
+      "bay": "410",
+      "container": "4100",
+      "label": "slot 41006",
+      "last_updated": {
+        "$date": "2023-10-19T20:02:44.150Z"
+      },
+      "notion_id": "520",
+      "shcn": "41006",
+      "shelf": "41",
+      "slot": "41006",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472ff342"
+      },
+      "identifier": "j3fp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/j3fp",
+      "bay": "410",
+      "container": "4100",
+      "label": "mophie powerstation 20000 mAh",
+      "last_updated": {
+        "$date": "2023-10-19T20:03:21.872Z"
+      },
+      "notion_id": "507",
+      "shcn": "41006",
+      "shelf": "41",
+      "slot": "41006"
+    }
+  ]
+}

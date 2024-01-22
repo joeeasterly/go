@@ -1,0 +1,106 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb8497c30694732c749"
+    },
+    "identifier": "qrfw",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/qrfw",
+    "bay": "411",
+    "container": "4110",
+    "label": "slot 4110G",
+    "last_updated": {
+      "$date": "2023-12-24T16:59:08.020Z"
+    },
+    "notion_id": "683",
+    "shcn": "4110G",
+    "shelf": "41",
+    "slot": "4110G",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728f024"
+      },
+      "identifier": "42pr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/42pr",
+      "label": "gray dog training clicker",
+      "last_updated": {
+        "$date": "2023-10-18T19:17:38.560Z"
+      },
+      "notion_id": "501",
+      "shelf": "41",
+      "bay": "411",
+      "container": "4110",
+      "shcn": "4110G",
+      "slot": "4110G"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba9497c306947300395"
+      },
+      "identifier": "j7j9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/j7j9",
+      "label": "red dog training clicker",
+      "last_updated": {
+        "$date": "2023-10-18T14:58:45.690Z"
+      },
+      "notion_id": "384",
+      "shelf": "41",
+      "bay": "411",
+      "container": "4110",
+      "shcn": "4110G",
+      "slot": "4110G"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732c749"
+      },
+      "identifier": "qrfw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qrfw",
+      "bay": "411",
+      "container": "4110",
+      "label": "slot 4110G",
+      "last_updated": {
+        "$date": "2023-12-24T16:59:08.020Z"
+      },
+      "notion_id": "683",
+      "shcn": "4110G",
+      "shelf": "41",
+      "slot": "4110G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734c3cc"
+      },
+      "identifier": "uqkz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uqkz",
+      "label": "lime green dog training clicker",
+      "last_updated": {
+        "$date": "2023-10-18T14:58:36.477Z"
+      },
+      "notion_id": "383",
+      "shelf": "41",
+      "bay": "411",
+      "container": "4110",
+      "shcn": "4110G",
+      "slot": "4110G"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bbc497c30694733a8ea"
+    },
+    "identifier": "sgvx",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/sgvx",
+    "label": "shelf 27",
+    "last_updated": {
+      "$date": "2023-12-24T17:05:53.687Z"
+    },
+    "notion_id": "253",
+    "shcn": "27",
+    "shelf": "27",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bbc497c30694733a8ea"
+      },
+      "identifier": "sgvx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sgvx",
+      "label": "shelf 27",
+      "last_updated": {
+        "$date": "2023-12-24T17:05:53.687Z"
+      },
+      "notion_id": "253",
+      "shcn": "27",
+      "shelf": "27",
+      "type": "storage"
+    }
+  ]
+}

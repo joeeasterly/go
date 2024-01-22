@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb5497c306947325c91"
+    },
+    "identifier": "pwt5",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/pwt5",
+    "label": "shelf 18",
+    "last_updated": {
+      "$date": "2023-12-28T14:24:02.713Z"
+    },
+    "notion_id": "105",
+    "shcn": "18",
+    "shelf": "18",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947325c91"
+      },
+      "identifier": "pwt5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pwt5",
+      "label": "shelf 18",
+      "last_updated": {
+        "$date": "2023-12-28T14:24:02.713Z"
+      },
+      "notion_id": "105",
+      "shcn": "18",
+      "shelf": "18",
+      "type": "storage"
+    }
+  ]
+}

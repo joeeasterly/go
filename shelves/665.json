@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b7f497c306947282d4c"
+    },
+    "identifier": "2hyz",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/2hyz",
+    "bay": "665",
+    "label": "master bath closet floor",
+    "last_updated": {
+      "$date": "2024-01-03T10:48:45.477Z"
+    },
+    "notion_id": "859",
+    "shcn": "665",
+    "shelf": "66",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b7f497c306947282d4c"
+      },
+      "identifier": "2hyz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2hyz",
+      "bay": "665",
+      "label": "master bath closet floor",
+      "last_updated": {
+        "$date": "2024-01-03T10:48:45.477Z"
+      },
+      "notion_id": "859",
+      "shcn": "665",
+      "shelf": "66",
+      "type": "storage"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b7d497c30694727ce89"
+    },
+    "identifier": "2t9w",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/2t9w",
+    "bay": "552",
+    "label": "hot beverage glassware",
+    "last_updated": {
+      "$date": "2023-11-25T21:24:25.001Z"
+    },
+    "notion_id": "647",
+    "shcn": "552",
+    "shelf": "55",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b7d497c30694727ce89"
+      },
+      "identifier": "2t9w",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2t9w",
+      "bay": "552",
+      "label": "hot beverage glassware",
+      "last_updated": {
+        "$date": "2023-11-25T21:24:25.001Z"
+      },
+      "notion_id": "647",
+      "shcn": "552",
+      "shelf": "55",
+      "type": "storage"
+    }
+  ]
+}

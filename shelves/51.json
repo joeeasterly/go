@@ -1,0 +1,40 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bbb497c306947335a0d"
+    },
+    "identifier": "rw61",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/rw61",
+    "label": "Glassware",
+    "last_updated": {
+      "$date": "2023-11-20T18:08:58.872Z"
+    },
+    "notion_id": "600",
+    "shcn": "51",
+    "shelf": "51",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bbb497c306947335a0d"
+      },
+      "identifier": "rw61",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rw61",
+      "label": "Glassware",
+      "last_updated": {
+        "$date": "2023-11-20T18:08:58.872Z"
+      },
+      "notion_id": "600",
+      "shcn": "51",
+      "shelf": "51",
+      "type": "storage"
+    }
+  ]
+}
