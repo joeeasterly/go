@@ -20,27 +20,5 @@
     "shelf": "10",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11ba6497c3069472f885f"
-      },
-      "identifier": "h8rk",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/h8rk",
-      "staged": "2023-10-23 14:22:43",
-      "bay": "102",
-      "container": "1020",
-      "label": "cabling processing for inventory",
-      "last_updated": {
-        "$date": "2023-10-24T13:08:13.599Z"
-      },
-      "notion_id": "544",
-      "shcn": "1020",
-      "shelf": "10",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

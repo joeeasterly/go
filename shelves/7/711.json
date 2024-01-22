@@ -18,25 +18,5 @@
     "shelf": "71",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bb7497c30694732a784"
-      },
-      "identifier": "qghr",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/qghr",
-      "bay": "711",
-      "label": "bay 711",
-      "last_updated": {
-        "$date": "2024-01-20T14:28:31.137Z"
-      },
-      "notion_id": "1064",
-      "shcn": "711",
-      "shelf": "71",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

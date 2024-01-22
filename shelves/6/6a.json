@@ -10,7 +10,7 @@
     "permalink": "https://joeeasterly.github.io/go/2dhb",
     "label": "secretary desk",
     "last_updated": {
-      "$date": "2024-01-03T10:25:14.957Z"
+      "$date": "2024-01-22T13:14:09.535Z"
     },
     "notion_id": "825",
     "shcn": "6A",
@@ -20,19 +20,58 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b7f497c306947281b77"
+        "$oid": "64f11b82497c30694728bbff"
       },
-      "identifier": "2dhb",
+      "identifier": "3nnk",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/2dhb",
-      "label": "secretary desk",
+      "permalink": "https://joeeasterly.github.io/go/3nnk",
+      "bay": "6A0",
+      "label": "bay 6A0",
       "last_updated": {
-        "$date": "2024-01-03T10:25:14.957Z"
+        "$date": "2024-01-03T10:54:19.098Z"
       },
-      "notion_id": "825",
-      "shcn": "6A",
+      "notion_id": "868",
+      "shcn": "6A0",
+      "shelf": "6A",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8c497c3069472a864f"
+      },
+      "identifier": "7883",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7883",
+      "bay": "6A2",
+      "label": "stationery holder",
+      "last_updated": {
+        "$date": "2024-01-03T10:55:02.346Z"
+      },
+      "notion_id": "870",
+      "shcn": "6A2",
+      "shelf": "6A",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c306947372286"
+      },
+      "identifier": "zf9t",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zf9t",
+      "bay": "6A1",
+      "label": "bay 6A1",
+      "last_updated": {
+        "$date": "2024-01-03T10:54:46.131Z"
+      },
+      "notion_id": "869",
+      "shcn": "6A1",
       "shelf": "6A",
       "type": "storage"
     }

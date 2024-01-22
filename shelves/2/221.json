@@ -21,25 +21,6 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b97497c3069472c80e9"
-      },
-      "identifier": "b6vw",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/b6vw",
-      "bay": "221",
-      "label": "bay 221",
-      "last_updated": {
-        "$date": "2023-12-24T21:08:45.003Z"
-      },
-      "notion_id": "279",
-      "shcn": "221",
-      "shelf": "22",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11b98497c3069472cc522"
       },
       "identifier": "bqxp",

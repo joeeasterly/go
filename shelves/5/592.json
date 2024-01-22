@@ -113,25 +113,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11ba6497c3069472f7a70"
-      },
-      "identifier": "h594",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/h594",
-      "bay": "592",
-      "label": "Gracies kibble, large pots",
-      "last_updated": {
-        "$date": "2023-11-25T21:02:44.206Z"
-      },
-      "notion_id": "634",
-      "shcn": "592",
-      "shelf": "59",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11ba8497c3069472fe2b6"
       },
       "identifier": "hyba",

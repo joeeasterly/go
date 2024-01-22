@@ -20,27 +20,5 @@
     "slot": "72108",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bc7497c306947359ec7"
-      },
-      "identifier": "webu",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/webu",
-      "bay": "721",
-      "container": "7210",
-      "label": "#8-32 3/4in brass bolts",
-      "last_updated": {
-        "$date": "2024-01-20T14:37:02.100Z"
-      },
-      "notion_id": "1049",
-      "shcn": "72108",
-      "shelf": "72",
-      "slot": "72108",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

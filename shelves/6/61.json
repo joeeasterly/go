@@ -17,24 +17,5 @@
     "shelf": "61",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bba497c30694733255b"
-      },
-      "identifier": "rfzf",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/rfzf",
-      "label": "brown pegboard",
-      "last_updated": {
-        "$date": "2024-01-03T10:17:09.702Z"
-      },
-      "notion_id": "816",
-      "shcn": "61",
-      "shelf": "61",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

@@ -96,26 +96,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11b99497c3069472ce979"
-      },
-      "identifier": "c11d",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/c11d",
-      "bay": "403",
-      "container": "4031",
-      "label": "av cables",
-      "last_updated": {
-        "$date": "2023-10-22T18:20:28.532Z"
-      },
-      "notion_id": "533",
-      "shcn": "4031",
-      "shelf": "40",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11b9a497c3069472d31aa"
       },
       "identifier": "ck2x",

@@ -18,25 +18,5 @@
     "shelf": "33",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bae497c30694730e4e2"
-      },
-      "identifier": "kyvp",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/kyvp",
-      "bay": "331",
-      "label": "bay 331",
-      "last_updated": {
-        "$date": "2023-12-28T14:15:09.683Z"
-      },
-      "notion_id": "316",
-      "shcn": "331",
-      "shelf": "33",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

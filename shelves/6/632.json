@@ -18,25 +18,5 @@
     "shelf": "63",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bb0497c30694731611f"
-      },
-      "identifier": "mxxk",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/mxxk",
-      "bay": "632",
-      "label": "bay 632",
-      "last_updated": {
-        "$date": "2024-01-03T10:36:09.982Z"
-      },
-      "notion_id": "837",
-      "shcn": "632",
-      "shelf": "63",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

@@ -10,7 +10,7 @@
     "permalink": "https://joeeasterly.github.io/go/2zr7",
     "label": "shelf 14",
     "last_updated": {
-      "$date": "2023-12-25T10:18:37.613Z"
+      "$date": "2024-01-22T13:16:31.034Z"
     },
     "notion_id": "101",
     "shcn": "14",
@@ -20,19 +20,96 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b80497c306947286853"
+        "$oid": "64f11b80497c30694728503b"
       },
-      "identifier": "2zr7",
+      "identifier": "2tqf",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/2zr7",
-      "label": "shelf 14",
+      "permalink": "https://joeeasterly.github.io/go/2tqf",
+      "bay": "140",
+      "label": "bay 140",
       "last_updated": {
-        "$date": "2023-12-25T10:18:37.613Z"
+        "$date": "2023-12-25T10:18:26.556Z"
       },
-      "notion_id": "101",
-      "shcn": "14",
+      "notion_id": "265",
+      "shcn": "140",
+      "shelf": "14",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b85497c306947294ccc"
+      },
+      "identifier": "4suz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4suz",
+      "bay": "143",
+      "label": "bay 143",
+      "last_updated": {
+        "$date": "2023-12-25T10:17:32.300Z"
+      },
+      "notion_id": "131",
+      "shcn": "143",
+      "shelf": "14",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b95497c3069472c29c7"
+      },
+      "identifier": "ah3u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ah3u",
+      "bay": "141",
+      "label": "bay 141",
+      "last_updated": {
+        "$date": "2023-12-25T10:17:59.132Z"
+      },
+      "notion_id": "129",
+      "shcn": "141",
+      "shelf": "14",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c3069473357e5"
+      },
+      "identifier": "rvms",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rvms",
+      "bay": "142",
+      "label": "bay 142",
+      "last_updated": {
+        "$date": "2023-12-25T10:17:40.938Z"
+      },
+      "notion_id": "130",
+      "shcn": "142",
+      "shelf": "14",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc1497c306947348420"
+      },
+      "identifier": "u7pm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/u7pm",
+      "bay": "144",
+      "label": "bay 144",
+      "last_updated": {
+        "$date": "2023-12-25T10:17:23.548Z"
+      },
+      "notion_id": "132",
+      "shcn": "144",
       "shelf": "14",
       "type": "storage"
     }

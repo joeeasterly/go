@@ -18,25 +18,5 @@
     "shelf": "34",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11ba0497c3069472e3805"
-      },
-      "identifier": "emns",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/emns",
-      "bay": "344",
-      "label": "bay 344",
-      "last_updated": {
-        "$date": "2024-01-04T15:41:56.205Z"
-      },
-      "notion_id": "886",
-      "shcn": "344",
-      "shelf": "34",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

@@ -97,26 +97,6 @@
       "notion_id": "528",
       "shcn": "4020",
       "shelf": "40"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bcf497c3069473732a7"
-      },
-      "identifier": "zkau",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/zkau",
-      "bay": "402",
-      "container": "4020",
-      "label": "assorted electronics",
-      "last_updated": {
-        "$date": "2023-10-22T15:33:18.193Z"
-      },
-      "notion_id": "523",
-      "shcn": "4020",
-      "shelf": "40",
-      "type": "storage"
     }
   ]
 }

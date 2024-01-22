@@ -18,25 +18,5 @@
     "shelf": "13",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bb1497c306947318dbb"
-      },
-      "identifier": "na3f",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/na3f",
-      "bay": "131",
-      "label": "bay 131",
-      "last_updated": {
-        "$date": "2023-12-25T10:14:04.423Z"
-      },
-      "notion_id": "125",
-      "shcn": "131",
-      "shelf": "13",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

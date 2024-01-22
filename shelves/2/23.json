@@ -20,21 +20,139 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bb0497c3069473174bc"
+        "$oid": "64f11b92497c3069472bc248"
       },
-      "identifier": "n3ug",
+      "identifier": "9q7v",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/n3ug",
-      "label": "shelf 23",
+      "permalink": "https://joeeasterly.github.io/go/9q7v",
+      "bay": "233",
+      "label": "bay 233",
       "last_updated": {
-        "$date": "2023-12-24T21:09:58.611Z"
+        "$date": "2023-12-24T21:11:18.257Z"
       },
-      "notion_id": "112",
-      "shcn": "23",
+      "notion_id": "161",
+      "shcn": "233",
       "shelf": "23",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e62b1"
+      },
+      "identifier": "eyb5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/eyb5",
+      "bay": "231",
+      "label": "bay 231",
+      "last_updated": {
+        "$date": "2023-12-24T21:10:48.092Z"
+      },
+      "notion_id": "159",
+      "shcn": "231",
+      "shelf": "23",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba1497c3069472e7777"
+      },
+      "identifier": "f4hb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/f4hb",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "231",
+      "label": "Focusrite Scarlertt 2i4",
+      "last_updated": {
+        "$date": "2024-01-07T20:15:31.585Z"
+      },
+      "notion_id": "936",
+      "shcn": "231",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732d84d"
+      },
+      "identifier": "qvr1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qvr1",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "230",
+      "label": "Box - Ankarsrum Assistent Mixer",
+      "last_updated": {
+        "$date": "2024-01-06T19:03:54.361Z"
+      },
+      "notion_id": "928",
+      "shcn": "230",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c306947336d05"
+      },
+      "identifier": "s1ws",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s1ws",
+      "bay": "230",
+      "label": "bay 230",
+      "last_updated": {
+        "$date": "2023-12-24T21:10:23.721Z"
+      },
+      "notion_id": "282",
+      "shcn": "230",
+      "shelf": "23",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c306947354902"
+      },
+      "identifier": "vrwp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vrwp",
+      "bay": "232",
+      "label": "bay 232",
+      "last_updated": {
+        "$date": "2023-12-24T21:11:01.406Z"
+      },
+      "notion_id": "160",
+      "shcn": "232",
+      "shelf": "23",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735d626"
+      },
+      "identifier": "wv6t",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wv6t",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "231",
+      "label": "Solix bi-color LED studio light",
+      "last_updated": {
+        "$date": "2024-01-06T17:12:00.252Z"
+      },
+      "notion_id": "719",
+      "shcn": "231",
+      "shelf": "23",
+      "type": "item"
     }
   ]
 }

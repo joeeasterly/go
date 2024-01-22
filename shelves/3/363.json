@@ -18,25 +18,5 @@
     "shelf": "36",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b97497c3069472c8422"
-      },
-      "identifier": "b7pp",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/b7pp",
-      "bay": "363",
-      "label": "bay 363",
-      "last_updated": {
-        "$date": "2023-12-24T20:38:44.645Z"
-      },
-      "notion_id": "359",
-      "shcn": "363",
-      "shelf": "36",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

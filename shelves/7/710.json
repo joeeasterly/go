@@ -18,25 +18,5 @@
     "shelf": "71",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11ba2497c3069472e9f21"
-      },
-      "identifier": "feen",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/feen",
-      "bay": "710",
-      "label": "bay 710",
-      "last_updated": {
-        "$date": "2024-01-20T14:29:25.380Z"
-      },
-      "notion_id": "1063",
-      "shcn": "710",
-      "shelf": "71",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

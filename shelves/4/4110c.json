@@ -23,27 +23,6 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11ba8497c3069472fec93"
-      },
-      "identifier": "j1t7",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/j1t7",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 4110C",
-      "last_updated": {
-        "$date": "2023-12-24T16:56:45.513Z"
-      },
-      "notion_id": "679",
-      "shcn": "4110C",
-      "shelf": "41",
-      "slot": "4110C",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11ba9497c306947301a53"
       },
       "identifier": "jd87",

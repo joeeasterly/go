@@ -22,6 +22,52 @@
   "shelf_contents": [
     {
       "_id": {
+        "$oid": "64f11b7f497c3069472832e8"
+      },
+      "identifier": "2kcv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2kcv",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Project Source 15ft polarized 3-outlet indoor cord",
+      "last_updated": {
+        "$date": "2024-01-22T13:15:08.199Z"
+      },
+      "notion_id": "689",
+      "shcn": "1010",
+      "shelf": "10",
+      "type": "item",
+      "bay": "101",
+      "container": "1010"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b80497c30694728563f"
+      },
+      "identifier": "2v7k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2v7k",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-05-01 00:00:00",
+      "label": "Nabisco Premium Oyster Crackers 9oz",
+      "last_updated": {
+        "$date": "2024-01-22T13:16:07.829Z"
+      },
+      "notion_id": "1005",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1010",
+      "shelf": "10",
+      "type": "item",
+      "upc": "044000024772",
+      "bay": "101",
+      "container": "1010"
+    },
+    {
+      "_id": {
         "$oid": "64f11b83497c30694728edd0"
       },
       "identifier": "4244",
@@ -121,26 +167,6 @@
       "shelf": "10",
       "type": "item",
       "notion_id": "1078"
-    },
-    {
-      "_id": {
-        "$oid": "64f11b99497c3069472ce97d"
-      },
-      "identifier": "c11h",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/c11h",
-      "bay": "101",
-      "container": "1010",
-      "label": "transit basket",
-      "last_updated": {
-        "$date": "2023-10-22T17:08:12.702Z"
-      },
-      "notion_id": "530",
-      "shcn": "1010",
-      "shelf": "10",
-      "type": "storage"
     },
     {
       "_id": {

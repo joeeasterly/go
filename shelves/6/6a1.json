@@ -18,25 +18,5 @@
     "shelf": "6A",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bcf497c306947372286"
-      },
-      "identifier": "zf9t",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/zf9t",
-      "bay": "6A1",
-      "label": "bay 6A1",
-      "last_updated": {
-        "$date": "2024-01-03T10:54:46.131Z"
-      },
-      "notion_id": "869",
-      "shcn": "6A1",
-      "shelf": "6A",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

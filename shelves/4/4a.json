@@ -36,24 +36,6 @@
       "shelf": "4A",
       "type": "item",
       "notion_id": "1077"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bb5497c306947324e8f"
-      },
-      "identifier": "pta3",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/pta3",
-      "label": "Electrical Cabinet",
-      "last_updated": {
-        "$date": "2024-01-20T14:53:38.580Z"
-      },
-      "notion_id": "1068",
-      "shcn": "4A",
-      "shelf": "4A",
-      "type": "storage"
     }
   ]
 }

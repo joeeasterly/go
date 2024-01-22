@@ -18,25 +18,5 @@
     "shelf": "5D",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b85497c3069472939ab"
-      },
-      "identifier": "4n2y",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/4n2y",
-      "bay": "5D2",
-      "label": "culinary tools",
-      "last_updated": {
-        "$date": "2023-11-26T17:58:42.606Z"
-      },
-      "notion_id": "667",
-      "shcn": "5D2",
-      "shelf": "5D",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

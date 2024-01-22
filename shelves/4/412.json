@@ -21,21 +21,884 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11ba4497c3069472f0f8a"
+        "$oid": "64f11b84497c306947290c3c"
       },
-      "identifier": "gahx",
+      "identifier": "49qg",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/gahx",
+      "permalink": "https://joeeasterly.github.io/go/49qg",
       "bay": "412",
-      "label": "bay 412",
+      "container": "4120",
+      "label": "container 4120",
       "last_updated": {
-        "$date": "2023-12-24T16:59:51.028Z"
+        "$date": "2024-01-21T19:32:40.730Z"
       },
-      "notion_id": "684",
-      "shcn": "412",
+      "notion_id": "1097",
+      "shcn": "4120",
       "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c7128"
+      },
+      "identifier": "b2xv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/b2xv",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "412",
+      "container": "4123",
+      "label": "plastic key tags",
+      "last_updated": {
+        "$date": "2024-01-06T18:46:23.435Z"
+      },
+      "notion_id": "926",
+      "percentage": "100",
+      "quantity": "18",
+      "shcn": "41231",
+      "shelf": "41",
+      "slot": "41231",
+      "type": "consumable"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce970"
+      },
+      "identifier": "c114",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c114",
+      "bay": "412",
+      "container": "4120",
+      "label": "Glocusent Shoulder Reading Light",
+      "last_updated": {
+        "$date": "2023-12-28T16:13:12.102Z"
+      },
+      "notion_id": "690",
+      "shcn": "4120",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472eaf16"
+      },
+      "identifier": "fjea",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fjea",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "412",
+      "container": "4122",
+      "label": "usb-c microsd reader",
+      "last_updated": {
+        "$date": "2023-10-24T13:55:56.900Z"
+      },
+      "notion_id": "549",
+      "shcn": "4122A",
+      "shelf": "41",
+      "slot": "4122A"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec46"
+      },
+      "identifier": "g1qt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1qt",
+      "bay": "412",
+      "container": "4123",
+      "label": "Anti-tarnish strips for silver",
+      "last_updated": {
+        "$date": "2024-01-06T18:41:46.530Z"
+      },
+      "notion_id": "925",
+      "shcn": "41234",
+      "shelf": "41",
+      "slot": "41234",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f799d"
+      },
+      "identifier": "h52h",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h52h",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120F",
+      "last_updated": {
+        "$date": "2023-10-18T14:55:28.066Z"
+      },
+      "notion_id": "499",
+      "shcn": "4120F",
+      "shelf": "41",
+      "slot": "4120F",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f799e"
+      },
+      "identifier": "h52j",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h52j",
+      "bay": "412",
+      "container": "4123",
+      "label": "slot 41234",
+      "last_updated": {
+        "$date": "2023-10-17T18:24:59.213Z"
+      },
+      "notion_id": "479",
+      "shcn": "41234",
+      "shelf": "41",
+      "slot": "41234",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f79a4"
+      },
+      "identifier": "h52r",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h52r",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120G",
+      "last_updated": {
+        "$date": "2023-10-18T14:58:06.278Z"
+      },
+      "notion_id": "500",
+      "shcn": "4120G",
+      "shelf": "41",
+      "slot": "4120G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f79a5"
+      },
+      "identifier": "h52s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h52s",
+      "bay": "412",
+      "container": "4123",
+      "label": "slot 41235",
+      "last_updated": {
+        "$date": "2023-10-19T16:41:41.237Z"
+      },
+      "notion_id": "508",
+      "shcn": "41235",
+      "shelf": "41",
+      "slot": "41235",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f79ac"
+      },
+      "identifier": "h52z",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h52z",
+      "bay": "412",
+      "container": "4123",
+      "label": "slot 41232",
+      "last_updated": {
+        "$date": "2023-10-17T18:23:33.811Z"
+      },
+      "notion_id": "478",
+      "shcn": "41232",
+      "shelf": "41",
+      "slot": "41232",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472fe756"
+      },
+      "identifier": "hzga",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hzga",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "412",
+      "container": "4120",
+      "label": "usb-c charger cable for Glocusent reading light",
+      "last_updated": {
+        "$date": "2023-12-28T16:21:37.523Z"
+      },
+      "notion_id": "691",
+      "shcn": "4120",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba9497c306947301a85"
+      },
+      "identifier": "jd9s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jd9s",
+      "bay": "412",
+      "container": "4123",
+      "label": "9-slot shelving container",
+      "last_updated": {
+        "$date": "2024-01-22T13:12:42.575Z"
+      },
+      "notion_id": "448",
+      "shelf": "41",
+      "type": "storage",
+      "shcn": "4123"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c3069473085fb"
+      },
+      "identifier": "k85f",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/k85f",
+      "bay": "412",
+      "container": "4122",
+      "label": "41229",
+      "last_updated": {
+        "$date": "2023-10-16T17:54:57.152Z"
+      },
+      "notion_id": "459",
+      "shcn": "41229",
+      "shelf": "41",
+      "slot": "41229",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c3069473085fc"
+      },
+      "identifier": "k85g",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/k85g",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120A",
+      "last_updated": {
+        "$date": "2023-10-17T20:34:13.257Z"
+      },
+      "notion_id": "492",
+      "shcn": "4120A",
+      "shelf": "41",
+      "slot": "4120A",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c306947308602"
+      },
+      "identifier": "k85p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/k85p",
+      "bay": "412",
+      "container": "4122",
+      "label": "41228",
+      "last_updated": {
+        "$date": "2023-10-16T17:57:05.760Z"
+      },
+      "notion_id": "460",
+      "shcn": "41228",
+      "shelf": "41",
+      "slot": "41228",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c306947308603"
+      },
+      "identifier": "k85q",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/k85q",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 41206",
+      "last_updated": {
+        "$date": "2023-10-17T20:20:06.199Z"
+      },
+      "notion_id": "488",
+      "shcn": "41206",
+      "shelf": "41",
+      "slot": "41206",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c306947308609"
+      },
+      "identifier": "k85w",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/k85w",
+      "bay": "412",
+      "container": "4122",
+      "label": "slot 4122A",
+      "last_updated": {
+        "$date": "2023-10-16T18:01:03.532Z"
+      },
+      "notion_id": "461",
+      "shcn": "4122A",
+      "shelf": "41",
+      "slot": "4122A",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c30694730860a"
+      },
+      "identifier": "k85x",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/k85x",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 41204",
+      "last_updated": {
+        "$date": "2023-10-17T20:29:04.013Z"
+      },
+      "notion_id": "489",
+      "shcn": "41204",
+      "shelf": "41",
+      "slot": "41204",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c30694730861a"
+      },
+      "identifier": "k86e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/k86e",
+      "bay": "412",
+      "container": "4122",
+      "label": "4122b",
+      "last_updated": {
+        "$date": "2023-10-16T17:51:34.806Z"
+      },
+      "notion_id": "458",
+      "shcn": "4122b",
+      "shelf": "41",
+      "slot": "4122b",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c3069473275c9"
+      },
+      "identifier": "q43w",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q43w",
+      "bay": "412",
+      "container": "4122",
+      "label": "slot 41226",
+      "last_updated": {
+        "$date": "2023-10-16T16:12:19.657Z"
+      },
+      "notion_id": "453",
+      "shcn": "41226",
+      "shelf": "41",
+      "slot": "41226",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c3069473275ca"
+      },
+      "identifier": "q43x",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q43x",
+      "bay": "412",
+      "container": "4122",
+      "label": "slot 41222",
+      "last_updated": {
+        "$date": "2023-10-16T17:43:54.434Z"
+      },
+      "notion_id": "455",
+      "shcn": "41222",
+      "shelf": "41",
+      "slot": "41222",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c3069473275d0"
+      },
+      "identifier": "q444",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q444",
+      "bay": "412",
+      "container": "4122",
+      "label": "slot 41227",
+      "last_updated": {
+        "$date": "2023-10-16T17:47:55.675Z"
+      },
+      "notion_id": "457",
+      "shcn": "41227",
+      "shelf": "41",
+      "slot": "41227",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c3069473275d1"
+      },
+      "identifier": "q445",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q445",
+      "bay": "412",
+      "container": "4122",
+      "label": "slot 41223",
+      "last_updated": {
+        "$date": "2023-10-16T15:37:37.848Z"
+      },
+      "notion_id": "452",
+      "shelf": "41",
+      "slot": "41223",
+      "type": "storage",
+      "shcn": "41223"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c3069473275d7"
+      },
+      "identifier": "q44b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q44b",
+      "bay": "412",
+      "container": "4122",
+      "label": "slot 41221",
+      "last_updated": {
+        "$date": "2023-10-16T17:42:12.197Z"
+      },
+      "notion_id": "454",
+      "shcn": "41221",
+      "shelf": "41",
+      "slot": "41221",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c3069473275d8"
+      },
+      "identifier": "q44c",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/q44c",
+      "bay": "412",
+      "container": "4122",
+      "label": "slot 41224",
+      "last_updated": {
+        "$date": "2023-10-16T11:58:06.850Z"
+      },
+      "notion_id": "451",
+      "shelf": "41",
+      "slot": "41224",
+      "type": "storage",
+      "shcn": "41224"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c3069473275de"
+      },
+      "identifier": "q44j",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/q44j",
+      "bay": "412",
+      "container": "4122",
+      "label": "slot 41225",
+      "last_updated": {
+        "$date": "2023-10-16T17:46:04.672Z"
+      },
+      "notion_id": "456",
+      "shcn": "41225",
+      "shelf": "41",
+      "slot": "41225",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c3069473275df"
+      },
+      "identifier": "q44k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/q44k",
+      "bay": "412",
+      "container": "4122",
+      "label": "qr code ids",
+      "last_updated": {
+        "$date": "2023-10-16T11:33:32.931Z"
+      },
+      "notion_id": "450",
+      "shelf": "41",
+      "slot": "41220",
+      "type": "storage",
+      "shcn": "41220"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c306947336c07"
+      },
+      "identifier": "s1nu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s1nu",
+      "staged": "2023-10-23 14:22:43",
+      "label": "sandisk 32gb microsd card",
+      "last_updated": {
+        "$date": "2023-10-24T14:41:15.026Z"
+      },
+      "notion_id": "557",
+      "bay": "412",
+      "container": "4122",
+      "shcn": "4122A",
+      "shelf": "41",
+      "slot": "4122A"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbd497c30694733b18b"
+      },
+      "identifier": "sk1y",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sk1y",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "412",
+      "container": "4122",
+      "label": "female usb-c to male usb-a adapter",
+      "last_updated": {
+        "$date": "2023-10-24T13:52:20.256Z"
+      },
+      "notion_id": "548",
+      "shcn": "4122A",
+      "shelf": "41",
+      "slot": "4122A"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947340ff6"
+      },
+      "identifier": "tana",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/tana",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 41209",
+      "last_updated": {
+        "$date": "2023-10-17T20:31:31.266Z"
+      },
+      "notion_id": "491",
+      "shcn": "41209",
+      "shelf": "41",
+      "slot": "41209",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947340ffd"
+      },
+      "identifier": "tanh",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/tanh",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 41203",
+      "last_updated": {
+        "$date": "2023-10-17T19:29:05.828Z"
+      },
+      "notion_id": "483",
+      "shcn": "41203",
+      "shelf": "41",
+      "slot": "41203",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947341004"
+      },
+      "identifier": "tanr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/tanr",
+      "bay": "412",
+      "container": "4123",
+      "label": "slot 41238",
+      "last_updated": {
+        "$date": "2023-10-17T19:21:00.840Z"
+      },
+      "notion_id": "481",
+      "shcn": "41238",
+      "shelf": "41",
+      "slot": "41238",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c30694734101c"
+      },
+      "identifier": "tapg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/tapg",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120H",
+      "last_updated": {
+        "$date": "2023-10-18T19:17:11.111Z"
+      },
+      "notion_id": "505",
+      "shcn": "4120H",
+      "shelf": "41",
+      "slot": "4120H",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947341023"
+      },
+      "identifier": "tapq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/tapq",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120E",
+      "last_updated": {
+        "$date": "2023-10-17T20:43:24.393Z"
+      },
+      "notion_id": "496",
+      "shcn": "4120E",
+      "shelf": "41",
+      "slot": "4120E",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c30694734102a"
+      },
+      "identifier": "tapx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/tapx",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120C",
+      "last_updated": {
+        "$date": "2023-10-17T20:39:15.143Z"
+      },
+      "notion_id": "494",
+      "shcn": "4120C",
+      "shelf": "41",
+      "slot": "4120C",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734b70b"
+      },
+      "identifier": "umdy",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/umdy",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "412",
+      "container": "4122",
+      "label": "samsung female usb-a to male usb-c adapter",
+      "last_updated": {
+        "$date": "2023-10-24T13:49:31.875Z"
+      },
+      "notion_id": "547",
+      "shcn": "4122A",
+      "shelf": "41",
+      "slot": "4122A"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c30694734f3a8"
+      },
+      "identifier": "v3jv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/v3jv",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 41204",
+      "last_updated": {
+        "$date": "2023-10-17T19:27:14.206Z"
+      },
+      "notion_id": "482",
+      "shcn": "41204",
+      "shelf": "41",
+      "slot": "41204",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c30694734f3af"
+      },
+      "identifier": "v3k3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/v3k3",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 41208",
+      "last_updated": {
+        "$date": "2023-10-17T20:30:07.087Z"
+      },
+      "notion_id": "490",
+      "shcn": "41208",
+      "shelf": "41",
+      "slot": "41208",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c30694734f3b6"
+      },
+      "identifier": "v3ka",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/v3ka",
+      "bay": "412",
+      "container": "4120",
+      "last_updated": {
+        "$date": "2023-10-17T20:14:43.031Z"
+      },
+      "notion_id": "487",
+      "shcn": "41202",
+      "shelf": "41",
+      "slot": "41202",
+      "type": "storage",
+      "label": "slot 41202"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c30694734f3ce"
+      },
+      "identifier": "v3m2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/v3m2",
+      "bay": "412",
+      "container": "4120",
+      "label": "dremel 3000 attachments",
+      "last_updated": {
+        "$date": "2023-10-18T14:08:37.818Z"
+      },
+      "notion_id": "498",
+      "shcn": "41200",
+      "shelf": "41",
+      "slot": "41200",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c30694734f3d5"
+      },
+      "identifier": "v3m9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/v3m9",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120D",
+      "last_updated": {
+        "$date": "2023-10-17T20:40:59.587Z"
+      },
+      "notion_id": "495",
+      "shcn": "4120D",
+      "shelf": "41",
+      "slot": "4120D",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c30694734f3dc"
+      },
+      "identifier": "v3mg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/v3mg",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120B",
+      "last_updated": {
+        "$date": "2023-10-17T20:36:44.813Z"
+      },
+      "notion_id": "493",
+      "shcn": "4120B",
+      "shelf": "41",
+      "slot": "4120B",
       "type": "storage"
     },
     {
@@ -57,6 +920,48 @@
     },
     {
       "_id": {
+        "$oid": "64f11bc9497c30694735f10d"
+      },
+      "identifier": "x2x1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/x2x1",
+      "bay": "412",
+      "container": "4123",
+      "label": "slot 41233",
+      "last_updated": {
+        "$date": "2023-10-16T18:49:01.086Z"
+      },
+      "notion_id": "462",
+      "shcn": "41233",
+      "shelf": "41",
+      "slot": "41233",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694735f10e"
+      },
+      "identifier": "x2x2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": "true",
+      "permalink": "https://joeeasterly.github.io/go/x2x2",
+      "bay": "412",
+      "container": "4123",
+      "label": "slot 41231",
+      "last_updated": {
+        "$date": "2023-10-17T18:17:41.351Z"
+      },
+      "notion_id": "477",
+      "shcn": "41231",
+      "shelf": "41",
+      "slot": "41231",
+      "type": "storage"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc9497c30694735f10f"
       },
       "identifier": "x2x3",
@@ -72,6 +977,27 @@
       "label": "sonos roam",
       "notion_id": "497",
       "shcn": "412"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c306947361bb3"
+      },
+      "identifier": "xdk7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xdk7",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "412",
+      "container": "4122",
+      "label": "female usb-micro to male usb-c adapter",
+      "last_updated": {
+        "$date": "2023-10-24T13:58:37.240Z"
+      },
+      "notion_id": "550",
+      "shcn": "4122A",
+      "shelf": "41",
+      "slot": "4122A"
     }
   ]
 }

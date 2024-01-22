@@ -18,25 +18,5 @@
     "shelf": "65",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b9e497c3069472dde8e"
-      },
-      "identifier": "dxa2",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/dxa2",
-      "bay": "653",
-      "label": "bay 653",
-      "last_updated": {
-        "$date": "2024-01-03T10:44:31.322Z"
-      },
-      "notion_id": "847",
-      "shcn": "653",
-      "shelf": "65",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

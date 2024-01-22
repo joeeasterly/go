@@ -18,25 +18,5 @@
     "shelf": "21",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b98497c3069472cad62"
-      },
-      "identifier": "bhzp",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/bhzp",
-      "bay": "213",
-      "label": "bay 213",
-      "last_updated": {
-        "$date": "2023-12-24T21:00:46.389Z"
-      },
-      "notion_id": "156",
-      "shcn": "213",
-      "shelf": "21",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

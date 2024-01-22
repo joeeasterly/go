@@ -18,25 +18,5 @@
     "shelf": "5V",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bcb497c30694736562c"
-      },
-      "identifier": "xv6z",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/xv6z",
-      "bay": "5V6",
-      "label": "bay 5V6",
-      "last_updated": {
-        "$date": "2024-01-01T17:16:26.038Z"
-      },
-      "notion_id": "813",
-      "shcn": "5V6",
-      "shelf": "5V",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

@@ -18,25 +18,5 @@
     "shelf": "5D",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b8d497c3069472ad33d"
-      },
-      "identifier": "7ufh",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/7ufh",
-      "bay": "5D1",
-      "label": "dining utensils",
-      "last_updated": {
-        "$date": "2023-11-26T17:57:51.804Z"
-      },
-      "notion_id": "666",
-      "shcn": "5D1",
-      "shelf": "5D",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

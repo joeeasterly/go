@@ -20,19 +20,196 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bb4497c306947321006"
+        "$oid": "64f11b81497c306947287f03"
       },
-      "identifier": "pant",
+      "identifier": "36dq",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/pant",
-      "label": "black pantry shelf",
+      "permalink": "https://joeeasterly.github.io/go/36dq",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-12-31 00:00:00",
+      "label": "The Wild Mushroom Company Dried Gourmet Mix Mushrooms 12oz",
       "last_updated": {
-        "$date": "2024-01-01T16:09:36.038Z"
+        "$date": "2024-01-19T12:07:42.122Z"
       },
-      "notion_id": "749",
-      "shcn": "5H",
+      "notion_id": "969",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5H0",
+      "shelf": "5H",
+      "type": "consumable",
+      "upc": "759033116270",
+      "bay": "5H0"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472bbf69"
+      },
+      "identifier": "9pgw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9pgw",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-10-01 00:00:00",
+      "label": "Wegmans Sea Salt Refill 15.2 oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:17:06.843Z"
+      },
+      "notion_id": "977",
+      "percentage": "40",
+      "quantity": "1",
+      "shcn": "5H0",
+      "shelf": "5H",
+      "type": "consumable",
+      "upc": "077890154090",
+      "bay": "5H0"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bad497c30694730d07e"
+      },
+      "identifier": "ktsj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ktsj",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-27 00:00:00",
+      "label": "Wegmans Box Mac n Cheese Original 7.25oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:17:09.710Z"
+      },
+      "notion_id": "976",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5H0",
+      "shelf": "5H",
+      "type": "consumable",
+      "upc": "077890465325",
+      "bay": "5H0"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947324bfe"
+      },
+      "identifier": "psnj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/psnj",
+      "bay": "5H0",
+      "label": "bay 5H0",
+      "last_updated": {
+        "$date": "2024-01-01T16:11:06.204Z"
+      },
+      "notion_id": "750",
+      "shcn": "5H0",
+      "shelf": "5H",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c3069473296d6"
+      },
+      "identifier": "qcca",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qcca",
+      "bay": "5H2",
+      "expires": "2024-12-21 00:00:00",
+      "label": "Ghirardelli Triple Chocolate Brownie Mix",
+      "last_updated": {
+        "$date": "2024-01-17T18:57:57.822Z"
+      },
+      "notion_id": "948",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5H2",
+      "shelf": "5H",
+      "type": "consumable",
+      "upc": "041449305486"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c30694733551b"
+      },
+      "identifier": "ruxf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ruxf",
+      "bay": "5H2",
+      "label": "bay 5H2",
+      "last_updated": {
+        "$date": "2024-01-01T16:11:30.537Z"
+      },
+      "notion_id": "752",
+      "shcn": "5H2",
+      "shelf": "5H",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc6497c306947356390"
+      },
+      "identifier": "vyj4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vyj4",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-11-28 00:00:00",
+      "label": "Wegmans Parmesan Romano Pasta Sauce 24oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:17:03.977Z"
+      },
+      "notion_id": "985",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5H0",
+      "shelf": "5H",
+      "type": "consumable",
+      "upc": "077890515587",
+      "bay": "5H0"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c306947358951"
+      },
+      "identifier": "w8z5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/w8z5",
+      "bay": "5H3",
+      "label": "bay 5H3",
+      "last_updated": {
+        "$date": "2024-01-01T16:11:43.743Z"
+      },
+      "notion_id": "753",
+      "shcn": "5H3",
+      "shelf": "5H",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcc497c30694736a461"
+      },
+      "identifier": "yfrn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yfrn",
+      "bay": "5H1",
+      "label": "bay 5H1",
+      "last_updated": {
+        "$date": "2024-01-01T16:11:19.977Z"
+      },
+      "notion_id": "751",
+      "shcn": "5H1",
       "shelf": "5H",
       "type": "storage"
     }

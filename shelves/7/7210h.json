@@ -20,27 +20,5 @@
     "slot": "7210H",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b95497c3069472c4712"
-      },
-      "identifier": "are6",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/are6",
-      "bay": "721",
-      "container": "7210",
-      "label": "slot 7210H",
-      "last_updated": {
-        "$date": "2024-01-20T14:31:53.709Z"
-      },
-      "notion_id": "1058",
-      "shcn": "7210H",
-      "shelf": "72",
-      "slot": "7210H",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

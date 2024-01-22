@@ -20,19 +20,77 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bbb497c306947335a0d"
+        "$oid": "64f11b8e497c3069472af2df"
       },
-      "identifier": "rw61",
+      "identifier": "83ck",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/rw61",
-      "label": "Glassware",
+      "permalink": "https://joeeasterly.github.io/go/83ck",
+      "bay": "510",
+      "label": "cocktail glasses",
       "last_updated": {
-        "$date": "2023-11-20T18:08:58.872Z"
+        "$date": "2023-11-25T19:16:36.801Z"
       },
-      "notion_id": "600",
-      "shcn": "51",
+      "notion_id": "619",
+      "shcn": "510",
+      "shelf": "51",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472c0eef"
+      },
+      "identifier": "aad3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/aad3",
+      "bay": "512",
+      "label": "glassware and travel cups",
+      "last_updated": {
+        "$date": "2023-11-25T19:19:01.512Z"
+      },
+      "notion_id": "621",
+      "shcn": "512",
+      "shelf": "51",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba9497c306947300627"
+      },
+      "identifier": "j86u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/j86u",
+      "bay": "513",
+      "label": "dog dishes, straws",
+      "last_updated": {
+        "$date": "2023-11-25T19:20:08.617Z"
+      },
+      "notion_id": "622",
+      "shcn": "513",
+      "shelf": "51",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc6497c30694735590a"
+      },
+      "identifier": "vvwx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vvwx",
+      "bay": "511",
+      "label": "stemless wine glasses",
+      "last_updated": {
+        "$date": "2023-11-25T19:17:56.098Z"
+      },
+      "notion_id": "620",
+      "shcn": "511",
       "shelf": "51",
       "type": "storage"
     }

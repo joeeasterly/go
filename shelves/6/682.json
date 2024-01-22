@@ -18,25 +18,5 @@
     "shelf": "68",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b9d497c3069472db94c"
-      },
-      "identifier": "dmyz",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/dmyz",
-      "bay": "682",
-      "label": "bay 682",
-      "last_updated": {
-        "$date": "2024-01-03T10:32:47.694Z"
-      },
-      "notion_id": "832",
-      "shcn": "682",
-      "shelf": "68",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

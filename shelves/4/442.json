@@ -18,25 +18,5 @@
     "shelf": "44",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b9e497c3069472dfc64"
-      },
-      "identifier": "e5rr",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/e5rr",
-      "bay": "442",
-      "label": "keyboard drawer",
-      "last_updated": {
-        "$date": "2024-01-04T17:04:04.276Z"
-      },
-      "notion_id": "899",
-      "shcn": "442",
-      "shelf": "44",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

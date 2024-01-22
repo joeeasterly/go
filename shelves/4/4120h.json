@@ -20,27 +20,5 @@
     "slot": "4120H",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bbf497c30694734101c"
-      },
-      "identifier": "tapg",
-      "target": "#",
-      "class": "inventory",
-      "allocated": "true",
-      "permalink": "https://joeeasterly.github.io/go/tapg",
-      "bay": "412",
-      "container": "4120",
-      "label": "slot 4120H",
-      "last_updated": {
-        "$date": "2023-10-18T19:17:11.111Z"
-      },
-      "notion_id": "505",
-      "shcn": "4120H",
-      "shelf": "41",
-      "slot": "4120H",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

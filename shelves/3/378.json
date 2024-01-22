@@ -18,25 +18,5 @@
     "shelf": "37",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b8d497c3069472ad41b"
-      },
-      "identifier": "7upf",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/7upf",
-      "bay": "378",
-      "label": "bay 378",
-      "last_updated": {
-        "$date": "2024-01-04T15:26:10.643Z"
-      },
-      "notion_id": "327",
-      "shcn": "378",
-      "shelf": "37",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

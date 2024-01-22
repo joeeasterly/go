@@ -20,27 +20,5 @@
     "slot": "72103",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11ba9497c306947300667"
-      },
-      "identifier": "j88u",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/j88u",
-      "bay": "721",
-      "container": "7210",
-      "label": "slot 72103",
-      "last_updated": {
-        "$date": "2024-01-20T14:42:50.475Z"
-      },
-      "notion_id": "1044",
-      "shcn": "72103",
-      "shelf": "72",
-      "slot": "72103",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

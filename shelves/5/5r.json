@@ -20,19 +20,115 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b9b497c3069472d3f6d"
+        "$oid": "64f11b82497c30694728a636"
       },
-      "identifier": "cph1",
+      "identifier": "3g7a",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/cph1",
-      "label": "great room media console",
+      "permalink": "https://joeeasterly.github.io/go/3g7a",
+      "bay": "5R5",
+      "label": "bay 5R5",
       "last_updated": {
-        "$date": "2024-01-01T16:45:49.338Z"
+        "$date": "2024-01-01T16:50:18.438Z"
       },
-      "notion_id": "780",
-      "shcn": "5R",
+      "notion_id": "786",
+      "shcn": "5R5",
+      "shelf": "5R",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728a7f7"
+      },
+      "identifier": "3gnb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3gnb",
+      "bay": "5R2",
+      "label": "bay 5R2",
+      "last_updated": {
+        "$date": "2024-01-01T16:49:24.485Z"
+      },
+      "notion_id": "783",
+      "shcn": "5R2",
+      "shelf": "5R",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472bbfa9"
+      },
+      "identifier": "9pjw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9pjw",
+      "bay": "5R4",
+      "label": "bay 5R4",
+      "last_updated": {
+        "$date": "2024-01-01T16:49:57.965Z"
+      },
+      "notion_id": "785",
+      "shcn": "5R4",
+      "shelf": "5R",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472c0de6"
+      },
+      "identifier": "aa4t",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/aa4t",
+      "bay": "5R1",
+      "label": "bay 5R1",
+      "last_updated": {
+        "$date": "2024-01-01T16:48:58.250Z"
+      },
+      "notion_id": "782",
+      "shcn": "5R1",
+      "shelf": "5R",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472ea1f7"
+      },
+      "identifier": "ff5b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ff5b",
+      "bay": "5R0",
+      "label": "bay 5R0",
+      "last_updated": {
+        "$date": "2024-01-01T16:48:15.364Z"
+      },
+      "notion_id": "781",
+      "shcn": "5R0",
+      "shelf": "5R",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bae497c30694730d5d1"
+      },
+      "identifier": "kv45",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kv45",
+      "bay": "5R3",
+      "label": "bay 5R3",
+      "last_updated": {
+        "$date": "2024-01-01T16:49:45.272Z"
+      },
+      "notion_id": "784",
+      "shcn": "5R3",
       "shelf": "5R",
       "type": "storage"
     }

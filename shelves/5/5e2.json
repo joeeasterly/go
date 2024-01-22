@@ -18,25 +18,5 @@
     "shelf": "5E",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bbe497c30694733f889"
-      },
-      "identifier": "t4sw",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/t4sw",
-      "bay": "5E2",
-      "label": "butter and eggs",
-      "last_updated": {
-        "$date": "2023-12-31T10:30:38.915Z"
-      },
-      "notion_id": "696",
-      "shcn": "5E2",
-      "shelf": "5E",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

@@ -20,19 +20,309 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b9f497c3069472e206e"
+        "$oid": "64f11b84497c306947290c3c"
       },
-      "identifier": "ees2",
+      "identifier": "49qg",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/ees2",
-      "label": "Physical Computing Workbench",
+      "permalink": "https://joeeasterly.github.io/go/49qg",
+      "bay": "412",
+      "container": "4120",
+      "label": "container 4120",
       "last_updated": {
-        "$date": "2023-12-24T20:41:01.419Z"
+        "$date": "2024-01-21T19:32:40.730Z"
       },
-      "notion_id": "368",
-      "shcn": "41",
+      "notion_id": "1097",
+      "shcn": "4120",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a25a8"
+      },
+      "identifier": "6g2v",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6g2v",
+      "bay": "415",
+      "label": "bay 415",
+      "last_updated": {
+        "$date": "2023-12-24T20:56:59.288Z"
+      },
+      "notion_id": "434",
+      "shcn": "415",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472ab919"
+      },
+      "identifier": "7mxd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7mxd",
+      "bay": "414",
+      "label": "bay 414",
+      "last_updated": {
+        "$date": "2023-12-24T20:52:48.795Z"
+      },
+      "notion_id": "433",
+      "shcn": "414",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce970"
+      },
+      "identifier": "c114",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c114",
+      "bay": "412",
+      "container": "4120",
+      "label": "Glocusent Shoulder Reading Light",
+      "last_updated": {
+        "$date": "2023-12-28T16:13:12.102Z"
+      },
+      "notion_id": "690",
+      "shcn": "4120",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472ebd96"
+      },
+      "identifier": "fp2a",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fp2a",
+      "label": "dymo letratag manual labeler",
+      "last_updated": {
+        "$date": "2023-10-18T19:37:31.945Z"
+      },
+      "notion_id": "428",
+      "shelf": "41",
+      "bay": "414",
+      "shcn": "414"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba4497c3069472f0f8a"
+      },
+      "identifier": "gahx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gahx",
+      "bay": "412",
+      "label": "bay 412",
+      "last_updated": {
+        "$date": "2023-12-24T16:59:51.028Z"
+      },
+      "notion_id": "684",
+      "shcn": "412",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472fe756"
+      },
+      "identifier": "hzga",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hzga",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "412",
+      "container": "4120",
+      "label": "usb-c charger cable for Glocusent reading light",
+      "last_updated": {
+        "$date": "2023-12-28T16:21:37.523Z"
+      },
+      "notion_id": "691",
+      "shcn": "4120",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba9497c306947301a85"
+      },
+      "identifier": "jd9s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jd9s",
+      "bay": "412",
+      "container": "4123",
+      "label": "9-slot shelving container",
+      "last_updated": {
+        "$date": "2024-01-22T13:12:42.575Z"
+      },
+      "notion_id": "448",
+      "shelf": "41",
+      "type": "storage",
+      "shcn": "4123"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c306947326c2c"
+      },
+      "identifier": "q1pz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q1pz",
+      "bay": "413",
+      "label": "bay 413",
+      "last_updated": {
+        "$date": "2023-12-24T20:56:43.482Z"
+      },
+      "notion_id": "432",
+      "shcn": "413",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732eb3a"
+      },
+      "identifier": "r1fe",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r1fe",
+      "bay": "410",
+      "container": "4100",
+      "label": "container 4100",
+      "last_updated": {
+        "$date": "2023-10-19T19:10:48.729Z"
+      },
+      "notion_id": "510",
+      "shcn": "4100",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c306947337259"
+      },
+      "identifier": "s38d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s38d",
+      "bay": "410",
+      "container": "4102",
+      "label": "container 4102",
+      "last_updated": {
+        "$date": "2023-10-19T19:14:47.944Z"
+      },
+      "notion_id": "511",
+      "shcn": "4102",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c30694734f3c7"
+      },
+      "identifier": "v3ku",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/v3ku",
+      "bay": "410",
+      "container": "4101",
+      "label": "container 4101",
+      "last_updated": {
+        "$date": "2023-10-19T19:05:50.279Z"
+      },
+      "notion_id": "509",
+      "shcn": "4101",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c306947354c23"
+      },
+      "identifier": "vspq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vspq",
+      "label": "raspberry pi 400 usb-c power adapter",
+      "last_updated": {
+        "$date": "2023-10-18T19:50:27.064Z"
+      },
+      "notion_id": "506",
+      "shcn": "412",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694735f10f"
+      },
+      "identifier": "x2x3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x2x3",
+      "bay": "412",
+      "last_updated": {
+        "$date": "2023-10-18T12:25:25.064Z"
+      },
+      "shelf": "41",
+      "label": "sonos roam",
+      "notion_id": "497",
+      "shcn": "412"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c306947370b9e"
+      },
+      "identifier": "z9jj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/z9jj",
+      "bay": "410",
+      "label": "bay 410",
+      "last_updated": {
+        "$date": "2023-12-24T20:55:47.777Z"
+      },
+      "notion_id": "429",
+      "shcn": "410",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c306947372cdb"
+      },
+      "identifier": "zhvf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zhvf",
+      "bay": "411",
+      "label": "bay 411",
+      "last_updated": {
+        "$date": "2023-12-24T20:56:08.864Z"
+      },
+      "notion_id": "430",
+      "shcn": "411",
       "shelf": "41",
       "type": "storage"
     }

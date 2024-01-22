@@ -21,25 +21,6 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b8d497c3069472ab2b9"
-      },
-      "identifier": "7kbd",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/7kbd",
-      "bay": "582",
-      "label": "corn meal, sugar",
-      "last_updated": {
-        "$date": "2023-11-25T21:08:02.933Z"
-      },
-      "notion_id": "637",
-      "shcn": "582",
-      "shelf": "58",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11bb2497c30694731b642"
       },
       "identifier": "nm7p",

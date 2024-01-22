@@ -20,19 +20,77 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bc5497c306947354199"
+        "$oid": "64f11b7f497c306947281c0e"
       },
-      "identifier": "vq2d",
+      "identifier": "2dp2",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/vq2d",
-      "label": "rolling laundry cart",
+      "permalink": "https://joeeasterly.github.io/go/2dp2",
+      "bay": "6E1",
+      "label": "bay 6E1",
       "last_updated": {
-        "$date": "2024-01-03T10:58:49.259Z"
+        "$date": "2024-01-03T10:59:33.087Z"
       },
-      "notion_id": "880",
-      "shcn": "6E",
+      "notion_id": "882",
+      "shcn": "6E1",
+      "shelf": "6E",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8b497c3069472a644f"
+      },
+      "identifier": "6yr3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6yr3",
+      "bay": "6E0",
+      "label": "bay 6E0",
+      "last_updated": {
+        "$date": "2024-01-03T10:59:17.902Z"
+      },
+      "notion_id": "881",
+      "shcn": "6E0",
+      "shelf": "6E",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472af345"
+      },
+      "identifier": "83fs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/83fs",
+      "bay": "6E3",
+      "label": "bay 6E3",
+      "last_updated": {
+        "$date": "2024-01-03T11:00:44.431Z"
+      },
+      "notion_id": "884",
+      "shcn": "6E3",
+      "shelf": "6E",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734cbc7"
+      },
+      "identifier": "usku",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/usku",
+      "bay": "6E2",
+      "label": "bay 6E2",
+      "last_updated": {
+        "$date": "2024-01-03T11:00:07.712Z"
+      },
+      "notion_id": "883",
+      "shcn": "6E2",
       "shelf": "6E",
       "type": "storage"
     }

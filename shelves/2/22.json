@@ -20,21 +20,358 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11baf497c306947313082"
+        "$oid": "64f11b7f497c3069472816d8"
       },
-      "identifier": "mjsp",
+      "identifier": "2ccc",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/mjsp",
-      "label": "shelf 22",
+      "permalink": "https://joeeasterly.github.io/go/2ccc",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "222",
+      "label": "Box: Canon Rf 28mm F2.8 STM Lens",
       "last_updated": {
-        "$date": "2023-12-24T21:07:12.666Z"
+        "$date": "2023-12-31T16:48:16.572Z"
       },
-      "notion_id": "109",
-      "shcn": "22",
+      "notion_id": "702",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b86497c3069472965ea"
+      },
+      "identifier": "4z4x",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4z4x",
+      "bay": "223",
+      "label": "bay 223",
+      "last_updated": {
+        "$date": "2023-12-24T21:08:08.986Z"
+      },
+      "notion_id": "281",
+      "shcn": "223",
       "shelf": "22",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472ad4c8"
+      },
+      "identifier": "7uuv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7uuv",
+      "bay": "220",
+      "label": "bay 220",
+      "last_updated": {
+        "$date": "2023-12-24T21:07:53.625Z"
+      },
+      "notion_id": "278",
+      "shcn": "220",
+      "shelf": "22",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472bf63e"
+      },
+      "identifier": "a47j",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a47j",
+      "bay": "222",
+      "label": "bay 222",
+      "last_updated": {
+        "$date": "2023-12-24T21:08:31.548Z"
+      },
+      "notion_id": "280",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c80e9"
+      },
+      "identifier": "b6vw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/b6vw",
+      "bay": "221",
+      "label": "bay 221",
+      "last_updated": {
+        "$date": "2023-12-24T21:08:45.003Z"
+      },
+      "notion_id": "279",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c9492"
+      },
+      "identifier": "bbt6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bbt6",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "223",
+      "label": "Box: HYPERX Quadcast 5 USB Microphone",
+      "last_updated": {
+        "$date": "2024-01-04T12:37:50.785Z"
+      },
+      "notion_id": "718",
+      "shcn": "223",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cc522"
+      },
+      "identifier": "bqxp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bqxp",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: ICOM ID-52A VHF-UHF Transceiver",
+      "last_updated": {
+        "$date": "2024-01-04T12:34:20.284Z"
+      },
+      "notion_id": "712",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e6241"
+      },
+      "identifier": "ey7n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ey7n",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: Canon Lens Hood ET-74B",
+      "last_updated": {
+        "$date": "2024-01-04T12:34:08.795Z"
+      },
+      "notion_id": "705",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f6539"
+      },
+      "identifier": "gyyd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gyyd",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: Canon BR-E1 Wireless Remote Control",
+      "last_updated": {
+        "$date": "2024-01-04T12:35:59.698Z"
+      },
+      "notion_id": "701",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f7324"
+      },
+      "identifier": "h3er",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h3er",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "222",
+      "label": "Box: Apple Magic Mouse",
+      "last_updated": {
+        "$date": "2024-01-04T12:37:58.741Z"
+      },
+      "notion_id": "716",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f7ade"
+      },
+      "identifier": "h5cj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h5cj",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "222",
+      "label": "Box: ICOM IC-R8600 Communications Receiver",
+      "last_updated": {
+        "$date": "2023-12-31T16:47:16.025Z"
+      },
+      "notion_id": "713",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bab497c306947304c53"
+      },
+      "identifier": "jsr7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jsr7",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: Sony RMT-P1BT Remote Commander",
+      "last_updated": {
+        "$date": "2024-01-04T12:35:58.452Z"
+      },
+      "notion_id": "703",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c306947309741"
+      },
+      "identifier": "kcfn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kcfn",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "222",
+      "label": "Box: Sony FE PZ 16-35mm F4 G Lens",
+      "last_updated": {
+        "$date": "2023-12-31T16:48:08.603Z"
+      },
+      "notion_id": "707",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c306947327c5e"
+      },
+      "identifier": "q5rj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q5rj",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "222",
+      "label": "Box: Sony A7RV Camera",
+      "last_updated": {
+        "$date": "2023-12-31T16:48:30.431Z"
+      },
+      "notion_id": "708",
+      "shcn": "222",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c3069473342f7"
+      },
+      "identifier": "rqdb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rqdb",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "223",
+      "label": "Box: Canon RF 200-800mm F6.3-9 IS USM",
+      "last_updated": {
+        "$date": "2024-01-06T19:01:31.426Z"
+      },
+      "notion_id": "914",
+      "shcn": "223",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbc497c306947338e53"
+      },
+      "identifier": "sa87",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sa87",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: iPad mini 6th gen 256gb wifi space gray",
+      "last_updated": {
+        "$date": "2024-01-04T12:34:15.454Z"
+      },
+      "notion_id": "709",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbd497c30694733b0c7"
+      },
+      "identifier": "sjuu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sjuu",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "221",
+      "label": "Box: Sony FE 85mm F1.8 Lens",
+      "last_updated": {
+        "$date": "2024-01-04T12:34:11.477Z"
+      },
+      "notion_id": "704",
+      "shcn": "221",
+      "shelf": "22",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736e1f6"
+      },
+      "identifier": "yy5a",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yy5a",
+      "label": "Canon CX0-7706 Lens Hood EW-55",
+      "last_updated": {
+        "$date": "2024-01-04T12:35:50.354Z"
+      },
+      "notion_id": "700",
+      "shcn": "221",
+      "type": "item",
+      "bay": "221",
+      "shelf": "22"
     }
   ]
 }

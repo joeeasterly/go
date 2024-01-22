@@ -10,7 +10,7 @@
     "permalink": "https://joeeasterly.github.io/go/2fb7",
     "label": "Coffee Mugs",
     "last_updated": {
-      "$date": "2023-11-20T18:25:05.423Z"
+      "$date": "2024-01-22T13:14:37.376Z"
     },
     "notion_id": "604",
     "shcn": "55",
@@ -20,19 +20,77 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b7f497c3069472822b3"
+        "$oid": "64f11b7d497c30694727ce89"
       },
-      "identifier": "2fb7",
+      "identifier": "2t9w",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/2fb7",
-      "label": "Coffee Mugs",
+      "permalink": "https://joeeasterly.github.io/go/2t9w",
+      "bay": "552",
+      "label": "hot beverage glassware",
       "last_updated": {
-        "$date": "2023-11-20T18:25:05.423Z"
+        "$date": "2023-11-25T21:24:25.001Z"
       },
-      "notion_id": "604",
-      "shcn": "55",
+      "notion_id": "647",
+      "shcn": "552",
+      "shelf": "55",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728f930"
+      },
+      "identifier": "44y4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/44y4",
+      "bay": "550",
+      "label": "tea pots",
+      "last_updated": {
+        "$date": "2023-11-25T21:22:03.197Z"
+      },
+      "notion_id": "645",
+      "shcn": "550",
+      "shelf": "55",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9d497c3069472db7d8"
+      },
+      "identifier": "dmmc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dmmc",
+      "bay": "553",
+      "label": "coffee mugs",
+      "last_updated": {
+        "$date": "2023-11-25T21:25:42.514Z"
+      },
+      "notion_id": "648",
+      "shcn": "553",
+      "shelf": "55",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947325f64"
+      },
+      "identifier": "pxgr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pxgr",
+      "bay": "551",
+      "label": "covered round casserole dishes",
+      "last_updated": {
+        "$date": "2023-11-25T21:22:56.891Z"
+      },
+      "notion_id": "646",
+      "shcn": "551",
       "shelf": "55",
       "type": "storage"
     }

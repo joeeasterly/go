@@ -20,21 +20,318 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bb7497c30694732be45"
+        "$oid": "64f11b80497c3069472852e6"
       },
-      "identifier": "qp7s",
+      "identifier": "2uct",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/qp7s",
-      "label": "Entertainment Cube Storage",
+      "permalink": "https://joeeasterly.github.io/go/2uct",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "470",
+      "container": "4701",
+      "label": "Samsung M7 SmartMonitor Remote (Spare)",
       "last_updated": {
-        "$date": "2023-12-24T17:18:37.384Z"
+        "$date": "2023-11-03T14:22:31.320Z"
       },
-      "notion_id": "575",
-      "shcn": "47",
+      "notion_id": "591",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b81497c30694728965e"
+      },
+      "identifier": "3c8j",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3c8j",
+      "label": "XBOX S Wireless Controller",
+      "last_updated": {
+        "$date": "2023-11-03T14:48:38.762Z"
+      },
+      "notion_id": "595",
+      "shcn": "4701",
+      "type": "item",
+      "bay": "470",
+      "container": "4701",
+      "shelf": "47"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8c497c3069472a8e90"
+      },
+      "identifier": "7aa4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7aa4",
+      "bay": "478",
+      "label": "bay 478",
+      "last_updated": {
+        "$date": "2023-12-24T17:10:39.818Z"
+      },
+      "notion_id": "589",
+      "shcn": "478",
       "shelf": "47",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b91497c3069472b8c60"
+      },
+      "identifier": "99rm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/99rm",
+      "bay": "476",
+      "label": "bay 476",
+      "last_updated": {
+        "$date": "2023-12-24T17:11:37.751Z"
+      },
+      "notion_id": "586",
+      "shcn": "476",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472b9a10"
+      },
+      "identifier": "9d64",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9d64",
+      "bay": "477",
+      "label": "bay 477",
+      "last_updated": {
+        "$date": "2023-12-24T17:11:14.023Z"
+      },
+      "notion_id": "588",
+      "shcn": "477",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b93497c3069472bee9b"
+      },
+      "identifier": "a2af",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a2af",
+      "bay": "470",
+      "container": "4701",
+      "label": "Media Remotes",
+      "last_updated": {
+        "$date": "2023-11-19T18:09:36.821Z"
+      },
+      "notion_id": "597",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9b497c3069472d5b54"
+      },
+      "identifier": "cwg8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/cwg8",
+      "bay": "474",
+      "label": "bay 474",
+      "last_updated": {
+        "$date": "2023-12-24T17:12:05.808Z"
+      },
+      "notion_id": "584",
+      "shcn": "474",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472eb8ae"
+      },
+      "identifier": "fmu2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fmu2",
+      "bay": "471",
+      "label": "bay 471",
+      "last_updated": {
+        "$date": "2023-12-24T17:13:04.615Z"
+      },
+      "notion_id": "580",
+      "shcn": "471",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baf497c306947312493"
+      },
+      "identifier": "mft7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mft7",
+      "bay": "473",
+      "label": "bay 473",
+      "last_updated": {
+        "$date": "2023-12-24T17:12:25.483Z"
+      },
+      "notion_id": "583",
+      "shcn": "473",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c3069473248d5"
+      },
+      "identifier": "prv9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/prv9",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "470",
+      "container": "4701",
+      "label": "DENON RC-1244 AV Remote",
+      "last_updated": {
+        "$date": "2023-11-03T14:19:46.018Z"
+      },
+      "notion_id": "590",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c3069473274c2"
+      },
+      "identifier": "q3up",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q3up",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "470",
+      "container": "4701",
+      "label": "BENQ Projector Remote",
+      "last_updated": {
+        "$date": "2023-11-03T14:26:33.971Z"
+      },
+      "notion_id": "593",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbc497c3069473391d2"
+      },
+      "identifier": "sb46",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sb46",
+      "bay": "475",
+      "label": "bay 475",
+      "last_updated": {
+        "$date": "2023-12-24T17:11:52.757Z"
+      },
+      "notion_id": "585",
+      "shcn": "475",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734b0a5"
+      },
+      "identifier": "ujts",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ujts",
+      "bay": "472",
+      "label": "bay 472",
+      "last_updated": {
+        "$date": "2023-12-24T17:12:50.248Z"
+      },
+      "notion_id": "582",
+      "shcn": "472",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735a365"
+      },
+      "identifier": "wfgs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wfgs",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "470",
+      "container": "4701",
+      "label": "Elite Screens Projection Screen Remote model ZSP-RF-8 V2.0 Type A",
+      "last_updated": {
+        "$date": "2023-11-03T14:24:44.815Z"
+      },
+      "notion_id": "592",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735d9cd"
+      },
+      "identifier": "ww41",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ww41",
+      "bay": "470",
+      "label": "bay 470",
+      "last_updated": {
+        "$date": "2023-12-24T17:13:48.867Z"
+      },
+      "notion_id": "579",
+      "shcn": "470",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcc497c30694736af24"
+      },
+      "identifier": "yjer",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yjer",
+      "bay": "470",
+      "container": "4701",
+      "label": "Nintendo Switch Pro Controller HAC-013",
+      "last_updated": {
+        "$date": "2023-11-03T14:46:04.951Z"
+      },
+      "notion_id": "594",
+      "shcn": "4701",
+      "shelf": "47",
+      "type": "item"
     }
   ]
 }

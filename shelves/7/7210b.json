@@ -20,27 +20,5 @@
     "slot": "7210B",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b9f497c3069472e2cba"
-      },
-      "identifier": "ehue",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/ehue",
-      "bay": "721",
-      "container": "7210",
-      "label": "#8-32 brass washers",
-      "last_updated": {
-        "$date": "2024-01-20T14:35:50.242Z"
-      },
-      "notion_id": "1052",
-      "shcn": "7210B",
-      "shelf": "72",
-      "slot": "7210B",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

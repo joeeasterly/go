@@ -20,19 +20,58 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bbb497c306947337069"
+        "$oid": "64f11bae497c30694730f096"
       },
-      "identifier": "s2rw",
+      "identifier": "m2ta",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/s2rw",
-      "label": "north side night stand",
+      "permalink": "https://joeeasterly.github.io/go/m2ta",
+      "bay": "6C1",
+      "label": "bay 6C1",
       "last_updated": {
-        "$date": "2024-01-03T10:26:16.610Z"
+        "$date": "2024-01-03T10:56:44.303Z"
       },
-      "notion_id": "827",
-      "shcn": "6C",
+      "notion_id": "875",
+      "shcn": "6C1",
+      "shelf": "6C",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c30694733501e"
+      },
+      "identifier": "rtpj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rtpj",
+      "bay": "6C0",
+      "label": "bay 6C0",
+      "last_updated": {
+        "$date": "2024-01-03T10:56:26.482Z"
+      },
+      "notion_id": "874",
+      "shcn": "6C0",
+      "shelf": "6C",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c306947335172"
+      },
+      "identifier": "ru16",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ru16",
+      "bay": "6C2",
+      "label": "bay 6C2",
+      "last_updated": {
+        "$date": "2024-01-03T10:56:58.125Z"
+      },
+      "notion_id": "876",
+      "shcn": "6C2",
       "shelf": "6C",
       "type": "storage"
     }

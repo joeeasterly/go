@@ -263,25 +263,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11bc0497c30694734629f"
-      },
-      "identifier": "tyak",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/tyak",
-      "bay": "5G7",
-      "label": "bay 5G7",
-      "last_updated": {
-        "$date": "2024-01-01T16:07:11.235Z"
-      },
-      "notion_id": "747",
-      "shcn": "5G7",
-      "shelf": "5G",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11bc7497c30694735a343"
       },
       "identifier": "wffq",

@@ -21,22 +21,486 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bbb497c306947335cb8"
+        "$oid": "64f11b80497c3069472847f5"
       },
-      "identifier": "rwuc",
+      "identifier": "2rn9",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/rwuc",
+      "permalink": "https://joeeasterly.github.io/go/2rn9",
+      "staged": "2024-01-07 13:56:33",
       "bay": "183",
-      "label": "bay 183",
+      "container": "1830",
+      "label": "Pandora Moments Snake Chain Necklace",
       "last_updated": {
-        "$date": "2023-12-28T14:25:09.177Z"
+        "$date": "2024-01-17T15:01:54.597Z"
       },
-      "notion_id": "146",
-      "shcn": "183",
+      "notion_id": "66",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b89497c3069472a0cee"
+      },
+      "identifier": "69w2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/69w2",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Pandora Moments Snake Chain Bracelet 23cm",
+      "last_updated": {
+        "$date": "2024-01-17T15:01:46.616Z"
+      },
+      "notion_id": "52",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a2c9a"
+      },
+      "identifier": "6hte",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6hte",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Winter Blue Snowflake Murano Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:00:02.387Z"
+      },
+      "notion_id": "56",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8f497c3069472b34b6"
+      },
+      "identifier": "8kua",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8kua",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Matte Green Murano Glass Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:00:49.312Z"
+      },
+      "notion_id": "53",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b91497c3069472b8000"
+      },
+      "identifier": "96nm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/96nm",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Teal Pav\u00e9\u00a0Clip Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:00:45.052Z"
+      },
+      "notion_id": "65",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e5aa0"
+      },
+      "identifier": "ewam",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ewam",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Festive Gingerbread House Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:01:23.178Z"
+      },
+      "notion_id": "54",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472ea8f0"
+      },
+      "identifier": "fgw4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fgw4",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Pandora Jewelry",
+      "last_updated": {
+        "$date": "2024-01-17T14:58:24.522Z"
+      },
+      "notion_id": "946",
+      "shcn": "1830",
       "shelf": "18",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472efeb9"
+      },
+      "identifier": "g6bd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g6bd",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Pandora Moments Barrel Clasp Snake Chain Bracelet 20cm",
+      "last_updated": {
+        "$date": "2024-01-17T15:01:38.015Z"
+      },
+      "notion_id": "945",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472fad22"
+      },
+      "identifier": "hhxp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hhxp",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Pearl Bloom Flower Pink Dangle Charm",
+      "last_updated": {
+        "$date": "2024-01-17T14:59:15.611Z"
+      },
+      "notion_id": "96",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baa497c306947303460"
+      },
+      "identifier": "jkrm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jkrm",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Pandora Moments Barrel Clasp Snake Chain Bracelet 21cm",
+      "last_updated": {
+        "$date": "2024-01-17T15:01:50.311Z"
+      },
+      "notion_id": "944",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baa497c306947303d93"
+      },
+      "identifier": "jp27",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jp27",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Sterling Silver Snowman and Winter Hat Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:01:28.392Z"
+      },
+      "notion_id": "181",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baf497c306947312e2b"
+      },
+      "identifier": "mj6y",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mj6y",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Festive Snowflake Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:01:12.678Z"
+      },
+      "notion_id": "55",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baf497c306947312f81"
+      },
+      "identifier": "mjhn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mjhn",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Wheat Grains Safety Chain Clip Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:01:03.211Z"
+      },
+      "notion_id": "57",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c30694732740e"
+      },
+      "identifier": "q3p2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/q3p2",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Vintage Camera Charm",
+      "last_updated": {
+        "$date": "2024-01-17T14:59:53.374Z"
+      },
+      "notion_id": "69",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c30694732b490"
+      },
+      "identifier": "qkt4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qkt4",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Canada Red Maple Leaf Charm",
+      "last_updated": {
+        "$date": "2024-01-17T14:59:36.997Z"
+      },
+      "notion_id": "62",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbe497c30694733e8b5"
+      },
+      "identifier": "szu9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/szu9",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Pandora Pave Ring",
+      "last_updated": {
+        "$date": "2024-01-17T14:59:09.094Z"
+      },
+      "notion_id": "67",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c306947352eb2"
+      },
+      "identifier": "vjb6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vjb6",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Protective Hamsa Hand Dangle Charm",
+      "last_updated": {
+        "$date": "2024-01-17T14:59:27.474Z"
+      },
+      "notion_id": "68",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c306947352fa6"
+      },
+      "identifier": "vjjt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vjjt",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Pandora Teacup and Saucer Charm",
+      "last_updated": {
+        "$date": "2024-01-17T14:59:42.634Z"
+      },
+      "notion_id": "94",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c306947354296"
+      },
+      "identifier": "vqaa",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vqaa",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Pandora Alarm Clock Charm",
+      "last_updated": {
+        "$date": "2024-01-17T14:59:21.405Z"
+      },
+      "notion_id": "95",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735b243"
+      },
+      "identifier": "wk7q",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wk7q",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Pride Dangle Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:00:54.296Z"
+      },
+      "notion_id": "185",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcc497c306947369da5"
+      },
+      "identifier": "ye2s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ye2s",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Pink Travel Bag Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:01:07.717Z"
+      },
+      "notion_id": "59",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c306947371502"
+      },
+      "identifier": "zbwp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zbwp",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Birthday Cake Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:00:59.201Z"
+      },
+      "notion_id": "70",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bd0497c306947375ba5"
+      },
+      "identifier": "zwjs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zwjs",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "183",
+      "container": "1830",
+      "label": "Festive Mouse & Stocking Charm",
+      "last_updated": {
+        "$date": "2024-01-17T15:01:17.480Z"
+      },
+      "notion_id": "63",
+      "shcn": "1830",
+      "shelf": "18",
+      "type": "item"
     }
   ]
 }

@@ -18,25 +18,5 @@
     "shelf": "5F",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bb8497c30694732d4bf"
-      },
-      "identifier": "quuk",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/quuk",
-      "bay": "5F4",
-      "label": "bay 5F4",
-      "last_updated": {
-        "$date": "2024-01-01T15:39:41.700Z"
-      },
-      "notion_id": "725",
-      "shcn": "5F4",
-      "shelf": "5F",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

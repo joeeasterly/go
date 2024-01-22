@@ -17,24 +17,5 @@
     "shelf": "4E",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bb0497c306947315d52"
-      },
-      "identifier": "mwz6",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/mwz6",
-      "label": "Exercise Equipment",
-      "last_updated": {
-        "$date": "2024-01-20T14:56:26.405Z"
-      },
-      "notion_id": "1072",
-      "shcn": "4E",
-      "shelf": "4E",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

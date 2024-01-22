@@ -29,7 +29,7 @@
       "permalink": "https://joeeasterly.github.io/go/3hja",
       "label": "Canon RF 200-800mm F6.3-9 IS USM Lens",
       "last_updated": {
-        "$date": "2024-01-06T12:53:03.658Z"
+        "$date": "2024-01-22T13:17:27.300Z"
       },
       "notion_id": "917",
       "shcn": "60",
@@ -93,19 +93,20 @@
     },
     {
       "_id": {
-        "$oid": "64f11ba5497c3069472f3946"
+        "$oid": "64f11b9a497c3069472d2548"
       },
-      "identifier": "gmyt",
+      "identifier": "cfyv",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/gmyt",
-      "label": "south wall master bedroom",
+      "permalink": "https://joeeasterly.github.io/go/cfyv",
+      "bay": "600",
+      "label": "bay 600",
       "last_updated": {
-        "$date": "2024-01-03T10:12:41.439Z"
+        "$date": "2024-01-03T10:30:48.267Z"
       },
-      "notion_id": "815",
-      "shcn": "60",
+      "notion_id": "828",
+      "shcn": "600",
       "shelf": "60",
       "type": "storage"
     },
@@ -146,6 +147,25 @@
       "shcn": "60",
       "shelf": "60",
       "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc1497c306947348f4b"
+      },
+      "identifier": "uafy",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uafy",
+      "bay": "601",
+      "label": "bay 601",
+      "last_updated": {
+        "$date": "2024-01-03T10:30:57.678Z"
+      },
+      "notion_id": "829",
+      "shcn": "601",
+      "shelf": "60",
+      "type": "storage"
     },
     {
       "_id": {

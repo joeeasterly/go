@@ -217,25 +217,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11bb3497c30694731fbda"
-      },
-      "identifier": "p5me",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/p5me",
-      "bay": "5G1",
-      "label": "bay 5G1",
-      "last_updated": {
-        "$date": "2024-01-01T15:59:43.558Z"
-      },
-      "notion_id": "741",
-      "shcn": "5G1",
-      "shelf": "5G",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11bc4497c30694734f3ef"
       },
       "identifier": "v3n3",

@@ -18,25 +18,5 @@
     "shelf": "52",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b9b497c3069472d5bbc"
-      },
-      "identifier": "cwkg",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/cwkg",
-      "bay": "522",
-      "label": "instruction manuals",
-      "last_updated": {
-        "$date": "2023-11-25T19:24:07.629Z"
-      },
-      "notion_id": "625",
-      "shcn": "522",
-      "shelf": "52",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

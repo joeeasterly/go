@@ -20,21 +20,99 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bce497c30694736f32a"
+        "$oid": "64f11b81497c30694728a429"
       },
-      "identifier": "z3ex",
+      "identifier": "3fpw",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/z3ex",
-      "label": "stove utensils, pans",
+      "permalink": "https://joeeasterly.github.io/go/3fpw",
+      "bay": "5B1",
+      "label": "stove utensils",
       "last_updated": {
-        "$date": "2023-11-25T20:41:28.804Z"
+        "$date": "2023-11-26T17:50:54.482Z"
       },
-      "notion_id": "610",
-      "shcn": "5B",
+      "notion_id": "659",
+      "shcn": "5B1",
       "shelf": "5B",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472bbf5d"
+      },
+      "identifier": "9pgh",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9pgh",
+      "bay": "5B0",
+      "label": "work surface, amazon echo",
+      "last_updated": {
+        "$date": "2023-11-26T17:49:54.685Z"
+      },
+      "notion_id": "658",
+      "shcn": "5B0",
+      "shelf": "5B",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c61b8"
+      },
+      "identifier": "ay3c",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ay3c",
+      "bay": "5B2",
+      "label": "stainless steel pans",
+      "last_updated": {
+        "$date": "2023-11-26T17:51:38.108Z"
+      },
+      "notion_id": "660",
+      "shcn": "5B2",
+      "shelf": "5B",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472ee2cd"
+      },
+      "identifier": "fyc1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fyc1",
+      "bay": "5B3",
+      "label": "cast iron pans",
+      "last_updated": {
+        "$date": "2023-11-26T17:52:17.953Z"
+      },
+      "notion_id": "661",
+      "shcn": "5B3",
+      "shelf": "5B",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c3069473700ba"
+      },
+      "identifier": "z6ue",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/z6ue",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5B1",
+      "label": "Amazon Fire TV Remote",
+      "last_updated": {
+        "$date": "2024-01-19T20:30:07.392Z"
+      },
+      "notion_id": "1012",
+      "shcn": "5B1",
+      "shelf": "5B",
+      "type": "item"
     }
   ]
 }

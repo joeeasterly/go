@@ -20,19 +20,20 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b8f497c3069472b345c"
+        "$oid": "64f11bb1497c306947317c5d"
       },
-      "identifier": "8krg",
+      "identifier": "n5rh",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/8krg",
-      "label": "shelf 35",
+      "permalink": "https://joeeasterly.github.io/go/n5rh",
+      "bay": "350",
+      "label": "bay 350",
       "last_updated": {
-        "$date": "2023-12-24T20:44:54.472Z"
+        "$date": "2024-01-04T15:43:57.761Z"
       },
-      "notion_id": "261",
-      "shcn": "35",
+      "notion_id": "887",
+      "shcn": "350",
       "shelf": "35",
       "type": "storage"
     }

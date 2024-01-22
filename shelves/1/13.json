@@ -20,21 +20,144 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bae497c30694730d81a"
+        "$oid": "64f11b8a497c3069472a29e4"
       },
-      "identifier": "kvpe",
+      "identifier": "6h4r",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/kvpe",
-      "label": "shelf 13",
+      "permalink": "https://joeeasterly.github.io/go/6h4r",
+      "bay": "130",
+      "label": "bay 130",
       "last_updated": {
-        "$date": "2023-12-25T10:13:33.512Z"
+        "$date": "2023-12-25T10:13:49.076Z"
       },
-      "notion_id": "100",
-      "shcn": "13",
+      "notion_id": "264",
+      "shcn": "130",
       "shelf": "13",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b91497c3069472b8292"
+      },
+      "identifier": "97a6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/97a6",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "132",
+      "label": "miralax",
+      "last_updated": {
+        "$date": "2024-01-06T19:14:21.134Z"
+      },
+      "notion_id": "921",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "132",
+      "shelf": "13",
+      "type": "consumable",
+      "upc": "041100564542"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9e497c3069472df543"
+      },
+      "identifier": "e3yq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/e3yq",
+      "bay": "132",
+      "label": "bay 132",
+      "last_updated": {
+        "$date": "2023-12-25T10:16:42.719Z"
+      },
+      "notion_id": "128",
+      "shcn": "132",
+      "shelf": "13",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba4497c3069472f13f1"
+      },
+      "identifier": "gbn5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gbn5",
+      "bay": "134",
+      "label": "bay 134",
+      "last_updated": {
+        "$date": "2023-12-25T10:14:16.285Z"
+      },
+      "notion_id": "126",
+      "shcn": "134",
+      "shelf": "13",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb1497c306947318dbb"
+      },
+      "identifier": "na3f",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/na3f",
+      "bay": "131",
+      "label": "bay 131",
+      "last_updated": {
+        "$date": "2023-12-25T10:14:04.423Z"
+      },
+      "notion_id": "125",
+      "shcn": "131",
+      "shelf": "13",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734ae81"
+      },
+      "identifier": "uj9n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uj9n",
+      "bay": "133",
+      "label": "bay 133",
+      "last_updated": {
+        "$date": "2023-12-25T10:16:55.007Z"
+      },
+      "notion_id": "127",
+      "shcn": "133",
+      "shelf": "13",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc6497c306947357783"
+      },
+      "identifier": "w4hq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/w4hq",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "132",
+      "label": "miralax",
+      "last_updated": {
+        "$date": "2024-01-06T19:14:15.309Z"
+      },
+      "notion_id": "922",
+      "percentage": 75.0,
+      "quantity": "1",
+      "shcn": "132",
+      "shelf": "13",
+      "type": "consumable",
+      "upc": "041100564542"
     }
   ]
 }

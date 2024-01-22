@@ -20,21 +20,868 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11baa497c306947302b1f"
+        "$oid": "64f11b7e497c3069472802d3"
       },
-      "identifier": "jhek",
+      "identifier": "27c7",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/jhek",
-      "label": "spices, large pots",
+      "permalink": "https://joeeasterly.github.io/go/27c7",
+      "bay": "590",
+      "label": "kitchen appliances",
       "last_updated": {
-        "$date": "2023-11-25T20:39:36.898Z"
+        "$date": "2023-11-25T21:01:06.898Z"
       },
-      "notion_id": "608",
-      "shcn": "59",
+      "notion_id": "632",
+      "shcn": "590",
       "shelf": "59",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728c4cf"
+      },
+      "identifier": "3qv3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3qv3",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-01-31 00:00:00",
+      "label": "Everything Bagel Seasoning 4oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:36:35.663Z"
+      },
+      "notion_id": "1014",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728d728"
+      },
+      "identifier": "3vev",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3vev",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "591",
+      "expires": "2025-12-31 00:00:00",
+      "label": "Niblack Ground White Pepper 10oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:39:39.157Z"
+      },
+      "notion_id": "1016",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "075974165895"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728f59a"
+      },
+      "identifier": "442e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/442e",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-08-31 00:00:00",
+      "label": "Niblack Hot Curry Powder 2oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:09:59.201Z"
+      },
+      "notion_id": "1034",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "075974188214"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b85497c306947294921"
+      },
+      "identifier": "4rxn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4rxn",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "592",
+      "expires": "2025-05-04 00:00:00",
+      "label": "Fromm Small Breed Adult Gold 5lb",
+      "last_updated": {
+        "$date": "2024-01-08T16:44:16.174Z"
+      },
+      "notion_id": "938",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "072705105670"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b86497c306947295a8d"
+      },
+      "identifier": "4wa1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4wa1",
+      "bay": "591",
+      "label": "spice drawer",
+      "last_updated": {
+        "$date": "2023-11-25T21:01:57.359Z"
+      },
+      "notion_id": "633",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b86497c306947296135"
+      },
+      "identifier": "4xy9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4xy9",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2023-12-16 00:00:00",
+      "label": "McCormick Organic Whole Nutmeg 1.5oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:51:56.851Z"
+      },
+      "notion_id": "1022",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "05234316"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729b733"
+      },
+      "identifier": "5mf7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5mf7",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "592",
+      "label": "power cable for Ankarsrum Mixer",
+      "last_updated": {
+        "$date": "2023-12-28T17:32:43.659Z"
+      },
+      "notion_id": "693",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a1cb2"
+      },
+      "identifier": "6du6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6du6",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-01-31 00:00:00",
+      "label": "Olde Thompson Everything Bagel Seasoning 11.5 oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:25:14.330Z"
+      },
+      "notion_id": "1009",
+      "percentage": "30",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "021248165894"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b076c"
+      },
+      "identifier": "88gz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/88gz",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2020-08-07 00:00:00",
+      "label": "McCormick Roasted Ground Coriander 1.25oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:07:02.862Z"
+      },
+      "notion_id": "1032",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "052100013350"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b1008"
+      },
+      "identifier": "8anv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8anv",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Sichuan Pepper",
+      "last_updated": {
+        "$date": "2024-01-19T20:58:56.735Z"
+      },
+      "notion_id": "1026",
+      "percentage": "35",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b93497c3069472bdfe5"
+      },
+      "identifier": "9xms",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9xms",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "592",
+      "expires": "2025-05-04 00:00:00",
+      "label": "Fromm Small Breed Adult Gold 5lb",
+      "last_updated": {
+        "$date": "2024-01-08T16:46:36.604Z"
+      },
+      "notion_id": "939",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "072705105670"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b95497c3069472c48d3"
+      },
+      "identifier": "arv7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/arv7",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2026-12-31 00:00:00",
+      "label": "Coarse Kosher Salt 4oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:01:20.263Z"
+      },
+      "notion_id": "1028",
+      "percentage": "50",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c6d70"
+      },
+      "identifier": "b214",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/b214",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2925-04-30 00:00:00",
+      "label": "Niblack Air-Dried Chives 2.5 oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:31:34.412Z"
+      },
+      "notion_id": "1013",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "075974161552"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c8fe6"
+      },
+      "identifier": "bamt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bamt",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Oriental Mascot Five Spice Powder 4oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:48:06.642Z"
+      },
+      "notion_id": "1020",
+      "percentage": "99",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "023452062129"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cac0d"
+      },
+      "identifier": "bhp1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bhp1",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-03-31 00:00:00",
+      "label": "Kirkland Signature Crushed Red Pepper Flakes 10oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:41:34.882Z"
+      },
+      "notion_id": "1017",
+      "percentage": "50",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "096619995769"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9d497c3069472db328"
+      },
+      "identifier": "dkev",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dkev",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Niblack Garlic Pepper 2.5oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:10:49.976Z"
+      },
+      "notion_id": "1035",
+      "percentage": "10",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "075974185961"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e45ad"
+      },
+      "identifier": "er31",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/er31",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2020-04-10 00:00:00",
+      "label": "Spice Islands Organic Ground Tumeric 2.0 oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:57:58.740Z"
+      },
+      "notion_id": "1025",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "04018810"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f3438"
+      },
+      "identifier": "gkqc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gkqc",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "591",
+      "expires": "2023-11-30 00:00:00",
+      "label": "Niblack Freeze Dried Shallots 4oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:28:54.462Z"
+      },
+      "notion_id": "1011",
+      "percentage": "85",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "075974195595"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f3726"
+      },
+      "identifier": "gmet",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gmet",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2025-02-28 00:00:00",
+      "label": "Niblack Spanish Paprika 120 ASTA 2oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:05:23.044Z"
+      },
+      "notion_id": "1031",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "075974185527"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f50ff"
+      },
+      "identifier": "gtwk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gtwk",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "592",
+      "expires": "2024-12-25 00:00:00",
+      "label": "Fromm Small Breed Adult Gold 5lb",
+      "last_updated": {
+        "$date": "2024-01-08T16:55:39.009Z"
+      },
+      "notion_id": "942",
+      "percentage": "75",
+      "quantity": "1",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "072705105670"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f7a70"
+      },
+      "identifier": "h594",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h594",
+      "bay": "592",
+      "label": "Gracies kibble, large pots",
+      "last_updated": {
+        "$date": "2023-11-25T21:02:44.206Z"
+      },
+      "notion_id": "634",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472f9dc0"
+      },
+      "identifier": "he3m",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/he3m",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2025-01-31 00:00:00",
+      "label": "Kirkland Signature Dried Chopped Onion 11.7 oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:27:03.260Z"
+      },
+      "notion_id": "1010",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "096619263424"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472fe2b6"
+      },
+      "identifier": "hyba",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hyba",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "592",
+      "expires": "2025-05-04 00:00:00",
+      "label": "Fromm Small Breed Adult Gold 5lb",
+      "last_updated": {
+        "$date": "2024-01-08T16:47:26.526Z"
+      },
+      "notion_id": "940",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "072705105670"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c306947309102"
+      },
+      "identifier": "kawp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kawp",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-04-30 00:00:00",
+      "label": "Niblack Hulled Sesame Seed 20oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:45:11.963Z"
+      },
+      "notion_id": "1019",
+      "percentage": "60",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "075974240530"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb2497c30694731d5f9"
+      },
+      "identifier": "nv5d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/nv5d",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-03-31 00:00:00",
+      "label": "Red Pepper Flakes 4oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:08:27.762Z"
+      },
+      "notion_id": "1033",
+      "percentage": "75",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb4497c3069473222a1"
+      },
+      "identifier": "pfan",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pfan",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Madras Curry 4oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:02:28.278Z"
+      },
+      "notion_id": "1029",
+      "percentage": "35",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947324aa7"
+      },
+      "identifier": "psau",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/psau",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Kirkland Signature Black Pepper 6.3oz",
+      "last_updated": {
+        "$date": "2024-01-20T20:09:40.668Z"
+      },
+      "notion_id": "1021",
+      "percentage": "99",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "3133113"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c3069473299b7"
+      },
+      "identifier": "qd3b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qd3b",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2026-12-31 00:00:00",
+      "label": "Monosodium Glutamate MSG 4oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:54:48.277Z"
+      },
+      "notion_id": "1024",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc1497c306947348b38"
+      },
+      "identifier": "u9fc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/u9fc",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "592",
+      "label": "Ankarsrum Assistent Original Mixer",
+      "last_updated": {
+        "$date": "2023-12-28T17:32:13.200Z"
+      },
+      "notion_id": "692",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735afff"
+      },
+      "identifier": "wjnk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wjnk",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-06-25 00:00:00",
+      "label": "Wang Korea Gochugaru 7.05oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:44:04.171Z"
+      },
+      "notion_id": "1018",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "087703143227"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694735f3a2"
+      },
+      "identifier": "x3jp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x3jp",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-05-26 00:00:00",
+      "label": "McCormick Organic Hot Madras Curry Powder 1.37oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:03:58.368Z"
+      },
+      "notion_id": "1030",
+      "percentage": "30",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "052100035505"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c3069473625d6"
+      },
+      "identifier": "xg4a",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xg4a",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2025-01-31 00:00:00",
+      "label": "Niblack Whole Nutmeg 2oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:52:58.120Z"
+      },
+      "notion_id": "1023",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "075974185626"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c3069473638fa"
+      },
+      "identifier": "xmwe",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xmwe",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Black Peppercorns 4oz",
+      "last_updated": {
+        "$date": "2024-01-19T21:00:14.737Z"
+      },
+      "notion_id": "1027",
+      "percentage": "50",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736bd34"
+      },
+      "identifier": "yny8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yny8",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2025-02-28 00:00:00",
+      "label": "Niblack Herbes de Provence 3oz",
+      "last_updated": {
+        "$date": "2024-01-19T20:38:16.417Z"
+      },
+      "notion_id": "1015",
+      "percentage": "70",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "075974122102"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c30694736e8a2"
+      },
+      "identifier": "yztp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yztp",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "592",
+      "expires": "2025-05-04 00:00:00",
+      "label": "Fromm Small Breed Adult Gold 5lb",
+      "last_updated": {
+        "$date": "2024-01-08T16:48:04.781Z"
+      },
+      "notion_id": "941",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "592",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "072705105670"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bd0497c306947375d65"
+      },
+      "identifier": "zwzs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zwzs",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2019-11-30 00:00:00",
+      "label": "Niblack Whole Cumin",
+      "last_updated": {
+        "$date": "2024-01-19T20:23:20.269Z"
+      },
+      "notion_id": "1008",
+      "percentage": "90",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "075974166236"
     }
   ]
 }

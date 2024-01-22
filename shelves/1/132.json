@@ -44,25 +44,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11b9e497c3069472df543"
-      },
-      "identifier": "e3yq",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/e3yq",
-      "bay": "132",
-      "label": "bay 132",
-      "last_updated": {
-        "$date": "2023-12-25T10:16:42.719Z"
-      },
-      "notion_id": "128",
-      "shcn": "132",
-      "shelf": "13",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11bc6497c306947357783"
       },
       "identifier": "w4hq",

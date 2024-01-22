@@ -18,25 +18,5 @@
     "shelf": "26",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bba497c306947334465"
-      },
-      "identifier": "rqrs",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/rqrs",
-      "bay": "260",
-      "label": "bay 260",
-      "last_updated": {
-        "$date": "2023-12-28T14:21:28.596Z"
-      },
-      "notion_id": "296",
-      "shcn": "260",
-      "shelf": "26",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

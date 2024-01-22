@@ -20,19 +20,134 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bc2497c30694734bdb0"
+        "$oid": "64f11b9c497c3069472d8c31"
       },
-      "identifier": "up34",
+      "identifier": "d9q5",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/up34",
-      "label": "great room bookshelf",
+      "permalink": "https://joeeasterly.github.io/go/d9q5",
+      "bay": "5S4",
+      "label": "weather station display",
       "last_updated": {
-        "$date": "2024-01-01T16:52:06.371Z"
+        "$date": "2024-01-01T16:54:51.444Z"
       },
-      "notion_id": "787",
-      "shcn": "5S",
+      "notion_id": "792",
+      "shcn": "5S4",
+      "shelf": "5S",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472ede35"
+      },
+      "identifier": "fx79",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fx79",
+      "bay": "5S0",
+      "label": "clock",
+      "last_updated": {
+        "$date": "2024-01-01T16:52:38.964Z"
+      },
+      "notion_id": "788",
+      "shcn": "5S0",
+      "shelf": "5S",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bab497c30694730535a"
+      },
+      "identifier": "juge",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/juge",
+      "bay": "5S3",
+      "label": "cookbooks",
+      "last_updated": {
+        "$date": "2024-01-01T16:54:15.192Z"
+      },
+      "notion_id": "791",
+      "shcn": "5S3",
+      "shelf": "5S",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734afe7"
+      },
+      "identifier": "ujmu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ujmu",
+      "bay": "5S5",
+      "label": "bay 5S5",
+      "last_updated": {
+        "$date": "2024-01-01T16:55:31.180Z"
+      },
+      "notion_id": "793",
+      "shcn": "5S5",
+      "shelf": "5S",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734d34c"
+      },
+      "identifier": "uufz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uufz",
+      "bay": "5S2",
+      "label": "cookbooks",
+      "last_updated": {
+        "$date": "2024-01-01T16:53:44.681Z"
+      },
+      "notion_id": "790",
+      "shcn": "5S2",
+      "shelf": "5S",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694735f903"
+      },
+      "identifier": "x4wq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x4wq",
+      "bay": "5S1",
+      "label": "home reference books",
+      "last_updated": {
+        "$date": "2024-01-01T16:53:22.555Z"
+      },
+      "notion_id": "789",
+      "shcn": "5S1",
+      "shelf": "5S",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c30694736f1a2"
+      },
+      "identifier": "z32p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/z32p",
+      "bay": "5S6",
+      "label": "main floor printer",
+      "last_updated": {
+        "$date": "2024-01-01T16:55:57.403Z"
+      },
+      "notion_id": "794",
+      "shcn": "5S6",
       "shelf": "5S",
       "type": "storage"
     }

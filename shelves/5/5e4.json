@@ -21,20 +21,21 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11ba9497c306947300e7d"
+        "$oid": "64f11bc3497c30694734d2ff"
       },
-      "identifier": "ja9h",
+      "identifier": "uudk",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/ja9h",
+      "permalink": "https://joeeasterly.github.io/go/uudk",
       "bay": "5E4",
-      "label": "kimchi",
+      "container": "5E40",
+      "label": "cheese drawer",
       "last_updated": {
-        "$date": "2023-12-31T10:32:00.405Z"
+        "$date": "2024-01-01T15:45:17.808Z"
       },
-      "notion_id": "698",
-      "shcn": "5E4",
+      "notion_id": "727",
+      "shcn": "5E40",
       "shelf": "5E",
       "type": "storage"
     }

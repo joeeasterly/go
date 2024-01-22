@@ -20,27 +20,5 @@
     "slot": "4120D",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bc4497c30694734f3d5"
-      },
-      "identifier": "v3m9",
-      "target": "#",
-      "class": "inventory",
-      "allocated": "true",
-      "permalink": "https://joeeasterly.github.io/go/v3m9",
-      "bay": "412",
-      "container": "4120",
-      "label": "slot 4120D",
-      "last_updated": {
-        "$date": "2023-10-17T20:40:59.587Z"
-      },
-      "notion_id": "495",
-      "shcn": "4120D",
-      "shelf": "41",
-      "slot": "4120D",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

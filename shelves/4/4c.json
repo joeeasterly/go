@@ -17,24 +17,5 @@
     "shelf": "4C",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b8c497c3069472aa2de"
-      },
-      "identifier": "7fcj",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/7fcj",
-      "label": "Plumbing Cabinet",
-      "last_updated": {
-        "$date": "2024-01-20T14:55:08.174Z"
-      },
-      "notion_id": "1070",
-      "shcn": "4C",
-      "shelf": "4C",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

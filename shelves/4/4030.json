@@ -102,26 +102,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11b99497c3069472ce97a"
-      },
-      "identifier": "c11e",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/c11e",
-      "bay": "403",
-      "container": "4030",
-      "label": "usb cables",
-      "last_updated": {
-        "$date": "2023-10-22T16:12:14.371Z"
-      },
-      "notion_id": "525",
-      "shcn": "4030",
-      "shelf": "40",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11b9c497c3069472d7894"
       },
       "identifier": "d4t8",

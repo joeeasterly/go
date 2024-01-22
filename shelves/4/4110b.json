@@ -60,27 +60,6 @@
       "container": "4110",
       "shcn": "4110B",
       "slot": "4110B"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bc3497c30694734e0e9"
-      },
-      "identifier": "uxvw",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/uxvw",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 4110B",
-      "last_updated": {
-        "$date": "2023-12-24T16:56:18.375Z"
-      },
-      "notion_id": "678",
-      "shcn": "4110B",
-      "shelf": "41",
-      "slot": "4110B",
-      "type": "storage"
     }
   ]
 }

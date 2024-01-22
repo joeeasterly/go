@@ -18,25 +18,5 @@
     "shelf": "51",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11ba9497c306947300627"
-      },
-      "identifier": "j86u",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/j86u",
-      "bay": "513",
-      "label": "dog dishes, straws",
-      "last_updated": {
-        "$date": "2023-11-25T19:20:08.617Z"
-      },
-      "notion_id": "622",
-      "shcn": "513",
-      "shelf": "51",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

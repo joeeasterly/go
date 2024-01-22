@@ -20,19 +20,58 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11ba0497c3069472e63a6"
+        "$oid": "64f11b9d497c3069472db94c"
       },
-      "identifier": "eyjt",
+      "identifier": "dmyz",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/eyjt",
-      "label": "east wall master bedroom",
+      "permalink": "https://joeeasterly.github.io/go/dmyz",
+      "bay": "682",
+      "label": "bay 682",
       "last_updated": {
-        "$date": "2024-01-03T10:24:10.639Z"
+        "$date": "2024-01-03T10:32:47.694Z"
       },
-      "notion_id": "823",
-      "shcn": "68",
+      "notion_id": "832",
+      "shcn": "682",
+      "shelf": "68",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c3069473335ba"
+      },
+      "identifier": "rm3e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rm3e",
+      "bay": "680",
+      "label": "bay 680",
+      "last_updated": {
+        "$date": "2024-01-03T10:32:03.006Z"
+      },
+      "notion_id": "830",
+      "shcn": "680",
+      "shelf": "68",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694736131b"
+      },
+      "identifier": "xbef",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xbef",
+      "bay": "681",
+      "label": "bay 681",
+      "last_updated": {
+        "$date": "2024-01-03T10:32:30.146Z"
+      },
+      "notion_id": "831",
+      "shcn": "681",
       "shelf": "68",
       "type": "storage"
     }

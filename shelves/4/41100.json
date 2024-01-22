@@ -39,27 +39,6 @@
       "shcn": "41100",
       "shelf": "41",
       "slot": "41100"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bcc497c30694736ad2a"
-      },
-      "identifier": "yhxx",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/yhxx",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 41100",
-      "last_updated": {
-        "$date": "2023-12-24T16:53:20.479Z"
-      },
-      "notion_id": "674",
-      "shcn": "41100",
-      "shelf": "41",
-      "slot": "41100",
-      "type": "storage"
     }
   ]
 }

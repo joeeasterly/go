@@ -20,19 +20,96 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bb5497c306947324b16"
+        "$oid": "64f11b8e497c3069472af1e1"
       },
-      "identifier": "psea",
+      "identifier": "834n",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/psea",
-      "label": "shelf 32",
+      "permalink": "https://joeeasterly.github.io/go/834n",
+      "bay": "323",
+      "label": "bay 323",
       "last_updated": {
-        "$date": "2023-12-24T17:08:28.021Z"
+        "$date": "2023-12-28T14:16:18.087Z"
       },
-      "notion_id": "258",
-      "shcn": "32",
+      "notion_id": "314",
+      "shcn": "323",
+      "shelf": "32",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c8b97"
+      },
+      "identifier": "b9jb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/b9jb",
+      "bay": "321",
+      "label": "bay 321",
+      "last_updated": {
+        "$date": "2023-12-28T14:15:52.589Z"
+      },
+      "notion_id": "312",
+      "shcn": "321",
+      "shelf": "32",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694735ef98"
+      },
+      "identifier": "x2jc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x2jc",
+      "bay": "324",
+      "label": "bay 324",
+      "last_updated": {
+        "$date": "2024-01-04T15:36:36.465Z"
+      },
+      "notion_id": "315",
+      "shcn": "324",
+      "shelf": "32",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c3069473605a5"
+      },
+      "identifier": "x82s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x82s",
+      "bay": "320",
+      "label": "bay 320",
+      "last_updated": {
+        "$date": "2023-12-28T14:15:43.475Z"
+      },
+      "notion_id": "311",
+      "shcn": "320",
+      "shelf": "32",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c3069473734de"
+      },
+      "identifier": "zkvj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zkvj",
+      "bay": "322",
+      "label": "bay 322",
+      "last_updated": {
+        "$date": "2023-12-28T14:16:01.116Z"
+      },
+      "notion_id": "313",
+      "shcn": "322",
       "shelf": "32",
       "type": "storage"
     }

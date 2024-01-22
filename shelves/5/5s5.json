@@ -18,25 +18,5 @@
     "shelf": "5S",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bc2497c30694734afe7"
-      },
-      "identifier": "ujmu",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/ujmu",
-      "bay": "5S5",
-      "label": "bay 5S5",
-      "last_updated": {
-        "$date": "2024-01-01T16:55:31.180Z"
-      },
-      "notion_id": "793",
-      "shcn": "5S5",
-      "shelf": "5S",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

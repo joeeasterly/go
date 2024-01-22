@@ -18,25 +18,5 @@
     "shelf": "5R",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b94497c3069472c0de6"
-      },
-      "identifier": "aa4t",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/aa4t",
-      "bay": "5R1",
-      "label": "bay 5R1",
-      "last_updated": {
-        "$date": "2024-01-01T16:48:58.250Z"
-      },
-      "notion_id": "782",
-      "shcn": "5R1",
-      "shelf": "5R",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

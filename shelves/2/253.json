@@ -18,25 +18,5 @@
     "shelf": "25",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b84497c306947292720"
-      },
-      "identifier": "4gem",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/4gem",
-      "bay": "253",
-      "label": "bay 253",
-      "last_updated": {
-        "$date": "2023-12-28T14:23:27.174Z"
-      },
-      "notion_id": "171",
-      "shcn": "253",
-      "shelf": "25",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

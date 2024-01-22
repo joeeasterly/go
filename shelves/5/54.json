@@ -20,19 +20,39 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b90497c3069472b5ffd"
+        "$oid": "64f11b8d497c3069472ac62b"
       },
-      "identifier": "8xnh",
+      "identifier": "7r6y",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/8xnh",
-      "label": "Beverage Supplies",
+      "permalink": "https://joeeasterly.github.io/go/7r6y",
+      "bay": "541",
+      "label": "coffee beans, to-go containers, beverage accessories",
       "last_updated": {
-        "$date": "2023-11-20T18:23:35.222Z"
+        "$date": "2023-11-25T19:30:01.201Z"
       },
-      "notion_id": "603",
-      "shcn": "54",
+      "notion_id": "630",
+      "shcn": "541",
+      "shelf": "54",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcc497c306947367e1b"
+      },
+      "identifier": "y66f",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/y66f",
+      "bay": "540",
+      "label": "coffee-making accessories",
+      "last_updated": {
+        "$date": "2023-11-25T19:29:08.100Z"
+      },
+      "notion_id": "629",
+      "shcn": "540",
       "shelf": "54",
       "type": "storage"
     }

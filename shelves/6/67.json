@@ -20,19 +20,96 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b89497c30694729ee3f"
+        "$oid": "64f11b91497c3069472b95b6"
       },
-      "identifier": "627k",
+      "identifier": "9c3a",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/627k",
-      "label": "hall closet master bedroom",
+      "permalink": "https://joeeasterly.github.io/go/9c3a",
+      "bay": "674",
+      "label": "master hall closet floor",
       "last_updated": {
-        "$date": "2024-01-03T10:23:13.631Z"
+        "$date": "2024-01-03T10:51:35.698Z"
       },
-      "notion_id": "822",
-      "shcn": "67",
+      "notion_id": "864",
+      "shcn": "674",
+      "shelf": "67",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c306947307ebe"
+      },
+      "identifier": "k6bj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/k6bj",
+      "bay": "673",
+      "label": "lower hanging rack",
+      "last_updated": {
+        "$date": "2024-01-03T10:51:13.375Z"
+      },
+      "notion_id": "863",
+      "shcn": "673",
+      "shelf": "67",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c3069473349e5"
+      },
+      "identifier": "rs4s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rs4s",
+      "bay": "671",
+      "label": "upper hanging rack",
+      "last_updated": {
+        "$date": "2024-01-03T10:50:08.014Z"
+      },
+      "notion_id": "861",
+      "shcn": "671",
+      "shelf": "67",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c306947334a4d"
+      },
+      "identifier": "rs81",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rs81",
+      "bay": "672",
+      "label": "bay 672",
+      "last_updated": {
+        "$date": "2024-01-03T10:50:49.873Z"
+      },
+      "notion_id": "862",
+      "shcn": "672",
+      "shelf": "67",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734ebfc"
+      },
+      "identifier": "v1ng",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/v1ng",
+      "bay": "670",
+      "label": "bay 670",
+      "last_updated": {
+        "$date": "2024-01-03T10:49:48.582Z"
+      },
+      "notion_id": "860",
+      "shcn": "670",
       "shelf": "67",
       "type": "storage"
     }

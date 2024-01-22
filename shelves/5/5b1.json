@@ -21,25 +21,6 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b81497c30694728a429"
-      },
-      "identifier": "3fpw",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/3fpw",
-      "bay": "5B1",
-      "label": "stove utensils",
-      "last_updated": {
-        "$date": "2023-11-26T17:50:54.482Z"
-      },
-      "notion_id": "659",
-      "shcn": "5B1",
-      "shelf": "5B",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11bce497c3069473700ba"
       },
       "identifier": "z6ue",

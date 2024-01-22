@@ -20,19 +20,96 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b90497c3069472b6a29"
+        "$oid": "64f11b80497c3069472840ac"
       },
-      "identifier": "916w",
+      "identifier": "2ptz",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/916w",
-      "label": "east wall master closet",
+      "permalink": "https://joeeasterly.github.io/go/2ptz",
+      "bay": "631",
+      "label": "bay 631",
       "last_updated": {
-        "$date": "2024-01-03T10:19:32.230Z"
+        "$date": "2024-01-03T10:36:00.925Z"
       },
-      "notion_id": "818",
-      "shcn": "63",
+      "notion_id": "836",
+      "shcn": "631",
+      "shelf": "63",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c4b75"
+      },
+      "identifier": "ash9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ash9",
+      "bay": "633",
+      "label": "bay 633",
+      "last_updated": {
+        "$date": "2024-01-03T10:36:19.431Z"
+      },
+      "notion_id": "838",
+      "shcn": "633",
+      "shelf": "63",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e3a3d"
+      },
+      "identifier": "en7h",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/en7h",
+      "bay": "630",
+      "label": "bay 630",
+      "last_updated": {
+        "$date": "2024-01-03T10:35:49.094Z"
+      },
+      "notion_id": "835",
+      "shcn": "630",
+      "shelf": "63",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb0497c30694731611f"
+      },
+      "identifier": "mxxk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mxxk",
+      "bay": "632",
+      "label": "bay 632",
+      "last_updated": {
+        "$date": "2024-01-03T10:36:09.982Z"
+      },
+      "notion_id": "837",
+      "shcn": "632",
+      "shelf": "63",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947325321"
+      },
+      "identifier": "puen",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/puen",
+      "bay": "634",
+      "label": "bay 634",
+      "last_updated": {
+        "$date": "2024-01-03T10:36:32.802Z"
+      },
+      "notion_id": "839",
+      "shcn": "634",
       "shelf": "63",
       "type": "storage"
     }

@@ -18,25 +18,5 @@
     "shelf": "37",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b96497c3069472c6221"
-      },
-      "identifier": "ay6n",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/ay6n",
-      "bay": "377",
-      "label": "bay 377",
-      "last_updated": {
-        "$date": "2024-01-04T15:26:29.364Z"
-      },
-      "notion_id": "326",
-      "shcn": "377",
-      "shelf": "37",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

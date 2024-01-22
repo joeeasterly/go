@@ -17,24 +17,5 @@
     "shelf": "43",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b99497c3069472ce7ce"
-      },
-      "identifier": "bzm2",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/bzm2",
-      "label": "shelf 43",
-      "last_updated": {
-        "$date": "2023-12-24T20:42:01.422Z"
-      },
-      "notion_id": "370",
-      "shcn": "43",
-      "shelf": "43",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

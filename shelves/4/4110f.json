@@ -23,27 +23,6 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b9e497c3069472de268"
-      },
-      "identifier": "dy8v",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/dy8v",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 4110F",
-      "last_updated": {
-        "$date": "2023-12-24T16:58:44.516Z"
-      },
-      "notion_id": "682",
-      "shcn": "4110F",
-      "shelf": "41",
-      "slot": "4110F",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11ba3497c3069472eec32"
       },
       "identifier": "g1q6",

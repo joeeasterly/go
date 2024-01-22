@@ -1,0 +1,64 @@
+._id {
+    display: none;
+}
+
+.notion-logo {
+    display: none;
+}
+
+.card {
+    margin-top: 25vh;
+    margin-bottom: 25vh;
+    margin-left: 25vw;
+    margin-right: 25vw;
+}
+
+body {
+    background-color: #111;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #ccc;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+}
+
+.code {
+    font-family: 'Roboto Mono', monospace;
+}
+.shelving-record {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.shelf-content-item {
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid #eee;
+}
+
+.field {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.label {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.field-value {
+    display: inline-block;
+}
+._id {
+    display:none;
+}

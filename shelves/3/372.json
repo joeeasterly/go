@@ -18,25 +18,5 @@
     "shelf": "37",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b9d497c3069472ddc78"
-      },
-      "identifier": "dwsc",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/dwsc",
-      "bay": "372",
-      "label": "bay 372",
-      "last_updated": {
-        "$date": "2024-01-04T15:27:21.698Z"
-      },
-      "notion_id": "321",
-      "shcn": "372",
-      "shelf": "37",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

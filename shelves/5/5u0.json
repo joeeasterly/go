@@ -18,25 +18,5 @@
     "shelf": "5U",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b95497c3069472c4b13"
-      },
-      "identifier": "ase7",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/ase7",
-      "bay": "5U0",
-      "label": "bay 5U0",
-      "last_updated": {
-        "$date": "2024-01-01T17:07:05.094Z"
-      },
-      "notion_id": "800",
-      "shcn": "5U0",
-      "shelf": "5U",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

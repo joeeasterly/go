@@ -21,20 +21,99 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11ba6497c3069472f86e0"
+        "$oid": "64f11b84497c306947290860"
       },
-      "identifier": "h8cm",
+      "identifier": "48rm",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/h8cm",
+      "permalink": "https://joeeasterly.github.io/go/48rm",
+      "staged": "2023-10-23 14:22:43",
       "bay": "402",
-      "label": "bay 402",
+      "container": "4020",
+      "label": "lifx wifi light strip set",
       "last_updated": {
-        "$date": "2023-12-25T09:59:51.871Z"
+        "$date": "2023-10-23T15:01:29.614Z"
       },
-      "notion_id": "443",
-      "shcn": "402",
+      "notion_id": "539",
+      "shcn": "4020",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c8329"
+      },
+      "identifier": "b7ew",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/b7ew",
+      "staged": "2023-10-23 14:22:43",
+      "bay": "402",
+      "container": "4020",
+      "label": "nanoleaf power unit model DSL-42WA-42 420100 s/n S20480H3477",
+      "last_updated": {
+        "$date": "2023-10-23T14:59:07.068Z"
+      },
+      "notion_id": "538",
+      "shcn": "4020",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce96f"
+      },
+      "identifier": "c113",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c113",
+      "bay": "402",
+      "container": "4020",
+      "label": "brother ptouch cube",
+      "last_updated": {
+        "$date": "2023-10-22T16:10:07.573Z"
+      },
+      "notion_id": "524",
+      "shcn": "4020",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce97b"
+      },
+      "identifier": "c11f",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c11f",
+      "bay": "402",
+      "container": "4020",
+      "label": "nintendo switch power adapter",
+      "last_updated": {
+        "$date": "2023-10-22T17:02:17.201Z"
+      },
+      "notion_id": "528",
+      "shcn": "4020",
+      "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c3069473732a7"
+      },
+      "identifier": "zkau",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zkau",
+      "bay": "402",
+      "container": "4020",
+      "label": "assorted electronics",
+      "last_updated": {
+        "$date": "2023-10-22T15:33:18.193Z"
+      },
+      "notion_id": "523",
+      "shcn": "4020",
       "shelf": "40",
       "type": "storage"
     }

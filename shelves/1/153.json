@@ -18,25 +18,5 @@
     "shelf": "15",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bb2497c30694731c0ba"
-      },
-      "identifier": "npue",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/npue",
-      "bay": "153",
-      "label": "bay 153",
-      "last_updated": {
-        "$date": "2023-12-28T14:28:33.372Z"
-      },
-      "notion_id": "135",
-      "shcn": "153",
-      "shelf": "15",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

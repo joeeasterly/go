@@ -18,25 +18,5 @@
     "shelf": "28",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bbb497c3069473373db"
-      },
-      "identifier": "s3mf",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/s3mf",
-      "bay": "283",
-      "label": "bay 283",
-      "last_updated": {
-        "$date": "2023-12-28T14:19:54.787Z"
-      },
-      "notion_id": "295",
-      "shcn": "283",
-      "shelf": "28",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

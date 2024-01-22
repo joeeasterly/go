@@ -20,27 +20,5 @@
     "slot": "7210E",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bc9497c3069473607ff"
-      },
-      "identifier": "x8nk",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/x8nk",
-      "bay": "721",
-      "container": "7210",
-      "label": "#4-32 brass nuts",
-      "last_updated": {
-        "$date": "2024-01-20T14:33:27.668Z"
-      },
-      "notion_id": "1055",
-      "shcn": "7210E",
-      "shelf": "72",
-      "slot": "7210E",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

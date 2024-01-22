@@ -20,27 +20,5 @@
     "slot": "41221",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bb6497c3069473275d7"
-      },
-      "identifier": "q44b",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/q44b",
-      "bay": "412",
-      "container": "4122",
-      "label": "slot 41221",
-      "last_updated": {
-        "$date": "2023-10-16T17:42:12.197Z"
-      },
-      "notion_id": "454",
-      "shcn": "41221",
-      "shelf": "41",
-      "slot": "41221",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

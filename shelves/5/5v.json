@@ -20,19 +20,153 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b98497c3069472cd33b"
+        "$oid": "64f11b99497c3069472cecf4"
       },
-      "identifier": "buff",
+      "identifier": "c1w8",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/buff",
-      "label": "dining room buffet",
+      "permalink": "https://joeeasterly.github.io/go/c1w8",
+      "bay": "5V3",
+      "label": "bay 5V3",
       "last_updated": {
-        "$date": "2024-01-01T17:13:24.135Z"
+        "$date": "2024-01-01T17:15:16.548Z"
       },
-      "notion_id": "806",
-      "shcn": "5V",
+      "notion_id": "810",
+      "shcn": "5V3",
+      "shelf": "5V",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472d9b10"
+      },
+      "identifier": "dde4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dde4",
+      "bay": "5V5",
+      "label": "bay 5V5",
+      "last_updated": {
+        "$date": "2024-01-01T17:15:58.002Z"
+      },
+      "notion_id": "812",
+      "shcn": "5V5",
+      "shelf": "5V",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9e497c3069472de6b2"
+      },
+      "identifier": "dzb6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dzb6",
+      "bay": "5V0",
+      "label": "bay 5V0",
+      "last_updated": {
+        "$date": "2024-01-01T17:13:56.259Z"
+      },
+      "notion_id": "807",
+      "shcn": "5V0",
+      "shelf": "5V",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472ebaa0"
+      },
+      "identifier": "fnam",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fnam",
+      "bay": "5V2",
+      "label": "bay 5v2",
+      "last_updated": {
+        "$date": "2024-01-01T17:14:53.965Z"
+      },
+      "notion_id": "809",
+      "shcn": "5V2",
+      "shelf": "5V",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732dd71"
+      },
+      "identifier": "qx15",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qx15",
+      "bay": "5V7",
+      "label": "bay 5V7",
+      "last_updated": {
+        "$date": "2024-01-01T17:16:50.809Z"
+      },
+      "notion_id": "814",
+      "shcn": "5V7",
+      "shelf": "5V",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc6497c30694735686d"
+      },
+      "identifier": "vzs1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vzs1",
+      "bay": "5V4",
+      "label": "bay 5V4",
+      "last_updated": {
+        "$date": "2024-01-01T17:15:33.367Z"
+      },
+      "notion_id": "811",
+      "shcn": "5V4",
+      "shelf": "5V",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcb497c30694736562c"
+      },
+      "identifier": "xv6z",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xv6z",
+      "bay": "5V6",
+      "label": "bay 5V6",
+      "last_updated": {
+        "$date": "2024-01-01T17:16:26.038Z"
+      },
+      "notion_id": "813",
+      "shcn": "5V6",
+      "shelf": "5V",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736b7a1"
+      },
+      "identifier": "ymjn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ymjn",
+      "bay": "5V1",
+      "label": "bay 5V1",
+      "last_updated": {
+        "$date": "2024-01-01T17:14:08.068Z"
+      },
+      "notion_id": "808",
+      "shcn": "5V1",
       "shelf": "5V",
       "type": "storage"
     }

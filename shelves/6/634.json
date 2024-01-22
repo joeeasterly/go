@@ -18,25 +18,5 @@
     "shelf": "63",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bb5497c306947325321"
-      },
-      "identifier": "puen",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/puen",
-      "bay": "634",
-      "label": "bay 634",
-      "last_updated": {
-        "$date": "2024-01-03T10:36:32.802Z"
-      },
-      "notion_id": "839",
-      "shcn": "634",
-      "shelf": "63",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

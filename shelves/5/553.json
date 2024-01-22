@@ -18,25 +18,5 @@
     "shelf": "55",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b9d497c3069472db7d8"
-      },
-      "identifier": "dmmc",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/dmmc",
-      "bay": "553",
-      "label": "coffee mugs",
-      "last_updated": {
-        "$date": "2023-11-25T21:25:42.514Z"
-      },
-      "notion_id": "648",
-      "shcn": "553",
-      "shelf": "55",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

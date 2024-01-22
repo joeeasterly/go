@@ -18,25 +18,5 @@
     "shelf": "5D",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b93497c3069472bf08a"
-      },
-      "identifier": "a2sx",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/a2sx",
-      "bay": "5D3",
-      "label": "dishrags, plastic wrap",
-      "last_updated": {
-        "$date": "2023-11-26T17:59:43.573Z"
-      },
-      "notion_id": "668",
-      "shcn": "5D3",
-      "shelf": "5D",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

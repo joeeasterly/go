@@ -20,19 +20,96 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b9d497c3069472dbcaf"
+        "$oid": "64f11b83497c30694728f65e"
       },
-      "identifier": "dnu3",
+      "identifier": "448j",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/dnu3",
-      "label": "laundry room closet",
+      "permalink": "https://joeeasterly.github.io/go/448j",
+      "bay": "5Q3",
+      "label": "back of laundry room closet door",
       "last_updated": {
-        "$date": "2024-01-01T16:36:26.756Z"
+        "$date": "2024-01-01T16:38:17.039Z"
       },
-      "notion_id": "774",
-      "shcn": "5Q",
+      "notion_id": "778",
+      "shcn": "5Q3",
+      "shelf": "5Q",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b89497c3069472a0af2"
+      },
+      "identifier": "69d6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/69d6",
+      "bay": "5Q1",
+      "label": "bay 5Q1",
+      "last_updated": {
+        "$date": "2024-01-01T16:37:08.939Z"
+      },
+      "notion_id": "776",
+      "shcn": "5Q1",
+      "shelf": "5Q",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472ac161"
+      },
+      "identifier": "7pzn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7pzn",
+      "bay": "5Q2",
+      "label": "bay 5Q2",
+      "last_updated": {
+        "$date": "2024-01-01T16:38:02.858Z"
+      },
+      "notion_id": "777",
+      "shcn": "5Q2",
+      "shelf": "5Q",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbe497c30694733e72d"
+      },
+      "identifier": "szf1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/szf1",
+      "bay": "5Q0",
+      "label": "bay 5Q0",
+      "last_updated": {
+        "$date": "2024-01-01T16:36:52.563Z"
+      },
+      "notion_id": "775",
+      "shcn": "5Q0",
+      "shelf": "5Q",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcb497c30694736470e"
+      },
+      "identifier": "xre2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xre2",
+      "bay": "5Q4",
+      "label": "back of laundry room door",
+      "last_updated": {
+        "$date": "2024-01-01T16:38:42.905Z"
+      },
+      "notion_id": "779",
+      "shcn": "5Q4",
       "shelf": "5Q",
       "type": "storage"
     }

@@ -20,19 +20,77 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bad497c30694730c145"
+        "$oid": "64f11b84497c306947292720"
       },
-      "identifier": "kpys",
+      "identifier": "4gem",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/kpys",
-      "label": "shelf 25",
+      "permalink": "https://joeeasterly.github.io/go/4gem",
+      "bay": "253",
+      "label": "bay 253",
       "last_updated": {
-        "$date": "2023-12-28T14:23:00.549Z"
+        "$date": "2023-12-28T14:23:27.174Z"
       },
-      "notion_id": "111",
-      "shcn": "25",
+      "notion_id": "171",
+      "shcn": "253",
+      "shelf": "25",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729c465"
+      },
+      "identifier": "5qrs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5qrs",
+      "bay": "251",
+      "label": "bay 251",
+      "last_updated": {
+        "$date": "2023-12-28T14:23:51.142Z"
+      },
+      "notion_id": "169",
+      "shcn": "251",
+      "shelf": "25",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e4075"
+      },
+      "identifier": "eps9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/eps9",
+      "bay": "252",
+      "label": "bay 252",
+      "last_updated": {
+        "$date": "2023-12-28T14:23:43.155Z"
+      },
+      "notion_id": "170",
+      "shcn": "252",
+      "shelf": "25",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb3497c306947320509"
+      },
+      "identifier": "p7ww",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/p7ww",
+      "bay": "250",
+      "label": "bay 250",
+      "last_updated": {
+        "$date": "2023-12-28T14:23:11.621Z"
+      },
+      "notion_id": "168",
+      "shcn": "250",
       "shelf": "25",
       "type": "storage"
     }

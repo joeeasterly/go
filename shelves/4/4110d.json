@@ -80,27 +80,6 @@
       "container": "4110",
       "shcn": "4110D",
       "slot": "4110D"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bc8497c30694735d5d0"
-      },
-      "identifier": "wv44",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/wv44",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 4110D",
-      "last_updated": {
-        "$date": "2023-12-24T16:57:25.414Z"
-      },
-      "notion_id": "680",
-      "shcn": "4110D",
-      "shelf": "41",
-      "slot": "4110D",
-      "type": "storage"
     }
   ]
 }

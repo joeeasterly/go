@@ -17,24 +17,5 @@
     "shelf": "42",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11ba5497c3069472f2ce4"
-      },
-      "identifier": "ghvr",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/ghvr",
-      "label": "shelf 42",
-      "last_updated": {
-        "$date": "2023-12-24T20:39:34.065Z"
-      },
-      "notion_id": "366",
-      "shcn": "42",
-      "shelf": "42",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

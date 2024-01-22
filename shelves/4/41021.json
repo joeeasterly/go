@@ -60,27 +60,6 @@
       "shcn": "41021",
       "shelf": "41",
       "slot": "41021"
-    },
-    {
-      "_id": {
-        "$oid": "64f11ba7497c3069472fba81"
-      },
-      "identifier": "hn9n",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/hn9n",
-      "bay": "410",
-      "container": "4102",
-      "label": "slot 41021",
-      "last_updated": {
-        "$date": "2023-12-24T16:52:09.204Z"
-      },
-      "notion_id": "673",
-      "shcn": "41021",
-      "shelf": "41",
-      "slot": "41021",
-      "type": "storage"
     }
   ]
 }

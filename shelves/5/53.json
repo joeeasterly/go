@@ -20,19 +20,39 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b9e497c3069472e016a"
+        "$oid": "64f11b92497c3069472b9b2c"
       },
-      "identifier": "e6zx",
+      "identifier": "9dez",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/e6zx",
-      "label": "Cutting Boards and Drying Racks",
+      "permalink": "https://joeeasterly.github.io/go/9dez",
+      "bay": "530",
+      "label": "unused, hard to reach",
       "last_updated": {
-        "$date": "2023-11-20T18:17:39.229Z"
+        "$date": "2023-11-25T19:26:11.546Z"
       },
-      "notion_id": "602",
-      "shcn": "53",
+      "notion_id": "627",
+      "shcn": "530",
+      "shelf": "53",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcb497c306947365277"
+      },
+      "identifier": "xu9b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xu9b",
+      "bay": "531",
+      "label": "cutting boards, sheet pans",
+      "last_updated": {
+        "$date": "2023-11-25T19:26:51.971Z"
+      },
+      "notion_id": "628",
+      "shcn": "531",
       "shelf": "53",
       "type": "storage"
     }

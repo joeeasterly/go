@@ -20,21 +20,1660 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bc3497c30694734ebf5"
+        "$oid": "64f11b7e497c30694727f90e"
       },
-      "identifier": "v1n9",
+      "identifier": "24x2",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/v1n9",
-      "label": "wall-mount pantry shelf",
+      "permalink": "https://joeeasterly.github.io/go/24x2",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-12-05 00:00:00",
+      "instance_of": "8kz4",
+      "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
       "last_updated": {
-        "$date": "2024-01-01T15:57:37.990Z"
+        "$date": "2024-01-19T12:09:02.278Z"
       },
-      "notion_id": "739",
-      "shcn": "5G",
+      "notion_id": "963",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "048000732675",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b80497c306947286b3a"
+      },
+      "identifier": "31fe",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/31fe",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T22:00:59.558Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b81497c306947289b7f"
+      },
+      "identifier": "3dhk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3dhk",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-29 00:00:00",
+      "instance_of": "cyby",
+      "label": "Wegmans Albacore Tuna 5oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:56.536Z"
+      },
+      "notion_id": "974",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "077890436936",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b81497c306947289c17"
+      },
+      "identifier": "3dpb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3dpb",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G0",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Milly Vietnamese Cinnamon 12oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:33:07.119Z"
+      },
+      "notion_id": "1001",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728d0ff"
+      },
+      "identifier": "3twk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3twk",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-12-05 00:00:00",
+      "instance_of": "8kz4",
+      "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:58.985Z"
+      },
+      "notion_id": "963",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "048000732675",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b84497c306947291c92"
+      },
+      "identifier": "4dt6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4dt6",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-09-07 00:00:00",
+      "label": "Naan-Tastic Screamin Vindaloo 24oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:43.526Z"
+      },
+      "notion_id": "972",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "787269022492",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b85497c306947295330"
+      },
+      "identifier": "4uf4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4uf4",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T22:00:53.883Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b86497c3069472969ff"
+      },
+      "identifier": "515k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/515k",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-06-03 00:00:00",
+      "label": "Wegmans Creamy Peanut Butter 18oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:59:56.942Z"
+      },
+      "notion_id": "950",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890324509",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b86497c306947297466"
+      },
+      "identifier": "53rt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/53rt",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-05-30 00:00:00",
+      "label": "Wegmans Smooth Pizza Sauce",
+      "last_updated": {
+        "$date": "2024-01-18T21:41:46.245Z"
+      },
+      "notion_id": "962",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890493137",
+      "bay": "5G2"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b86497c306947297869"
+      },
+      "identifier": "54rw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/54rw",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T22:00:56.850Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b87497c3069472984ac"
+      },
+      "identifier": "57tz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/57tz",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-10-01 00:00:00",
+      "label": "Campbells Tomato Soup 10.75oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:42.966Z"
+      },
+      "notion_id": "960",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "051000000118",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b89497c3069472a11d9"
+      },
+      "identifier": "6b4d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6b4d",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-05-07 00:00:00",
+      "label": "JELL-O Sugar Free Raspberry 0.6oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:15:35.707Z"
+      },
+      "notion_id": "968",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "043000201466",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a3d4f"
+      },
+      "identifier": "6nz3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6nz3",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T21:38:51.414Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a3dca"
+      },
+      "identifier": "6p3x",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6p3x",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-01-01 00:00:00",
+      "label": "Wegmans Organic Vegetarian Refried Pinto Beans 15oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:38.454Z"
+      },
+      "notion_id": "959",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890447642",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472aec32"
+      },
+      "identifier": "81q6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/81q6",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-01-25 00:00:00",
+      "label": "Solestado Muffuletta Olive Salad 33.9 oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:15:09.042Z"
+      },
+      "notion_id": "978",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "687250802488",
+      "bay": "5G6"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b08ad"
+      },
+      "identifier": "88u1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/88u1",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-10-04 00:00:00",
+      "label": "Franks RedHot Original Sauce 25oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:15:06.209Z"
+      },
+      "notion_id": "980",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "041500967806",
+      "bay": "5G6"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8f497c3069472b3550"
+      },
+      "identifier": "8kz4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8kz4",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-12-05 00:00:00",
+      "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:55.533Z"
+      },
+      "notion_id": "963",
+      "percentage": "100",
+      "quantity": 5.0,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "048000732675",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8f497c3069472b3ea3"
+      },
+      "identifier": "8paq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8paq",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G0",
+      "expires": "2025-05-01 00:00:00",
+      "label": "Wegmans Confectioners 10-X Powdered Sugar 32oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:34:48.103Z"
+      },
+      "notion_id": "995",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890479377"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472ba153"
+      },
+      "identifier": "9ez7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9ez7",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G0",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Somen Noodles 60oz",
+      "last_updated": {
+        "$date": "2024-01-19T19:07:31.368Z"
+      },
+      "notion_id": "1006",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472c003c"
+      },
+      "identifier": "a6qg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a6qg",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-02-16 00:00:00",
+      "label": "Paesana Non Pareil Capers 32 oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:15:02.280Z"
+      },
+      "notion_id": "973",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "076050220507",
+      "bay": "5G6"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c5390"
+      },
+      "identifier": "auj4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/auj4",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T21:38:03.534Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c5a16"
+      },
+      "identifier": "aw6a",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/aw6a",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-30 00:00:00",
+      "label": "Wegmans Organic Vegetarian Refried Black Beans 15oz",
+      "last_updated": {
+        "$date": "2024-01-18T22:00:13.537Z"
+      },
+      "notion_id": "958",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890447635",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cb536"
+      },
+      "identifier": "bkya",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bkya",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T21:37:58.852Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cc681"
+      },
+      "identifier": "br9n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/br9n",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G7",
+      "expires": "2025-08-22 00:00:00",
+      "label": "Campbells Broccoli Cheese Soup",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:40.695Z"
+      },
+      "notion_id": "934",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "051000013477"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9a497c3069472d1f79"
+      },
+      "identifier": "cehd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/cehd",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T21:36:36.753Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9a497c3069472d2a3d"
+      },
+      "identifier": "ch7h",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ch7h",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-08-10 00:00:00",
+      "label": "Premier Protein 30g Chocolate Shake 11 fl oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:36:19.155Z"
+      },
+      "notion_id": "952",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "643843715344",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9b497c3069472d62cb"
+      },
+      "identifier": "cyby",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/cyby",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-29 00:00:00",
+      "label": "Wegmans Albacore Tuna 5oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:49.843Z"
+      },
+      "notion_id": "974",
+      "percentage": "100",
+      "quantity": 4.0,
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890436936",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472d829c"
+      },
+      "identifier": "d7ag",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/d7ag",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-15 00:00:00",
+      "label": "amazon fresh peanut butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:41:54.978Z"
+      },
+      "notion_id": "949",
+      "percentage": "70",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "842379152535",
+      "bay": "5G2"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472d9d0d"
+      },
+      "identifier": "ddx1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ddx1",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G3",
+      "expires": "2024-10-18 00:00:00",
+      "label": "CJ Haechandle Gochujang",
+      "last_updated": {
+        "$date": "2024-01-18T21:57:41.666Z"
+      },
+      "notion_id": "933",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G3",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "807176710760"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9d497c3069472db5a8"
+      },
+      "identifier": "dm2v",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dm2v",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-05-31 00:00:00",
+      "instance_of": "enrm",
+      "label": "Kirkland Organic Chicken Stock 32oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:30.858Z"
+      },
+      "notion_id": "988",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "096619782581",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e175c"
+      },
+      "identifier": "ecgg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ecgg",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-10-04 00:00:00",
+      "label": "Franks RedHot Original Sauce 25oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:15:07.640Z"
+      },
+      "notion_id": "986",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "041500967806",
+      "bay": "5G6"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e26f7"
+      },
+      "identifier": "egdb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/egdb",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T22:01:02.307Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e2efe"
+      },
+      "identifier": "ejdj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ejdj",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-05-26 00:00:00",
+      "label": "Raos Homemade Marinara 28oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:10:37.379Z"
+      },
+      "notion_id": "982",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "747479000413",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e3c60"
+      },
+      "identifier": "enrm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/enrm",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-05-31 00:00:00",
+      "label": "Kirkland Organic Chicken Stock 32oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:34.401Z"
+      },
+      "notion_id": "988",
+      "percentage": "100",
+      "quantity": 2.0,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "096619782581",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba1497c3069472e73d4"
+      },
+      "identifier": "f3m8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/f3m8",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-08-01 00:00:00",
+      "label": "Royal Sugar Free Cherry Gelatin 0.32 oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:15:39.066Z"
+      },
+      "notion_id": "967",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "072392005796",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba1497c3069472e8f3e"
+      },
+      "identifier": "fafj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fafj",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-12-05 00:00:00",
+      "instance_of": "8kz4",
+      "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:09:00.624Z"
+      },
+      "notion_id": "963",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "048000732675",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472efe0d"
+      },
+      "identifier": "g661",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g661",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-04-10 00:00:00",
+      "label": "Barqs Root Beer 7.5oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:47.166Z"
+      },
+      "notion_id": "987",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "049000067194",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f2fc3"
+      },
+      "identifier": "gjkq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gjkq",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-08-10 00:00:00",
+      "label": "Premier Protein 30g Chocolate Shake 11 fl oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:36:10.119Z"
+      },
+      "notion_id": "953",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "643843715344",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f612c"
+      },
+      "identifier": "gxxz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gxxz",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2028-07-19 00:00:00",
+      "label": "Goya Pinto Beans 15.5oz",
+      "last_updated": {
+        "$date": "2024-01-18T22:00:10.645Z"
+      },
+      "notion_id": "957",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "041331124379",
+      "bay": "5G5"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f6f06"
+      },
+      "identifier": "h2dt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h2dt",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-31 00:00:00",
+      "label": "South Bay Rice Paper",
+      "last_updated": {
+        "$date": "2024-01-19T16:34:42.373Z"
+      },
+      "notion_id": "991",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "023452894041",
+      "bay": "5G0"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472f9fee"
+      },
+      "identifier": "hen2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hen2",
+      "bay": "5G0",
+      "label": "bay 5G0",
+      "last_updated": {
+        "$date": "2024-01-01T15:59:23.055Z"
+      },
+      "notion_id": "740",
+      "shcn": "5G0",
       "shelf": "5G",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472fae87"
+      },
+      "identifier": "hj9u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hj9u",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-05-31 00:00:00",
+      "label": "Niblack Chick Peas 5lb",
+      "last_updated": {
+        "$date": "2024-01-19T16:33:20.775Z"
+      },
+      "notion_id": "992",
+      "percentage": "60",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "075974110529",
+      "bay": "5G0"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472fdeb1"
+      },
+      "identifier": "hxb5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hxb5",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-10-21 00:00:00",
+      "label": "Mighty Taco Hot Sauce 12oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:15:04.535Z"
+      },
+      "notion_id": "981",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "792080650014",
+      "bay": "5G6"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472ff49b"
+      },
+      "identifier": "j3tf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/j3tf",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G0",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Red Rose Rice Paper 12oz",
+      "last_updated": {
+        "$date": "2024-01-19T18:34:57.362Z"
+      },
+      "notion_id": "1002",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "627404030145"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bae497c30694730de08"
+      },
+      "identifier": "kx5v",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kx5v",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T21:38:55.274Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb3497c30694731fbda"
+      },
+      "identifier": "p5me",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/p5me",
+      "bay": "5G1",
+      "label": "bay 5G1",
+      "last_updated": {
+        "$date": "2024-01-01T15:59:43.558Z"
+      },
+      "notion_id": "741",
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb4497c3069473221a7"
+      },
+      "identifier": "pf2u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pf2u",
+      "bay": "5G6",
+      "label": "bay 5G6",
+      "last_updated": {
+        "$date": "2024-01-01T16:06:06.979Z"
+      },
+      "notion_id": "746",
+      "shcn": "5G6",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb4497c30694732249b"
+      },
+      "identifier": "pftf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pftf",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T21:37:34.707Z"
+      },
+      "notion_id": "956",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c3069473254f5"
+      },
+      "identifier": "puw9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/puw9",
+      "bay": "5G3",
+      "label": "bay 5G3",
+      "last_updated": {
+        "$date": "2024-01-01T16:01:44.953Z"
+      },
+      "notion_id": "743",
+      "shcn": "5G3",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732e830"
+      },
+      "identifier": "qzq4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qzq4",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5G2",
+      "expires": "2024-07-29 00:00:00",
+      "label": "Kirkland Signature Aged Balsamic Vinegar 33.8 oz",
+      "last_updated": {
+        "$date": "2024-01-19T19:13:15.381Z"
+      },
+      "notion_id": "1007",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "096619461769"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732ed32"
+      },
+      "identifier": "r1y6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r1y6",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-29 00:00:00",
+      "instance_of": "cyby",
+      "label": "Wegmans Albacore Tuna 5oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:53.710Z"
+      },
+      "notion_id": "974",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "077890436936",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb9497c30694732ff48"
+      },
+      "identifier": "r6fv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r6fv",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G3",
+      "expires": "2024-10-18 00:00:00",
+      "label": "CJ Haechandle Gochujang",
+      "last_updated": {
+        "$date": "2024-01-18T21:57:46.025Z"
+      },
+      "notion_id": "935",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G3",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "807176710760"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb9497c306947331208"
+      },
+      "identifier": "rb5v",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rb5v",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T21:36:41.019Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c3069473359e1"
+      },
+      "identifier": "rw4n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rw4n",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-06-03 00:00:00",
+      "label": "Wegmans Creamy Peanut Butter 18oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:42:02.150Z"
+      },
+      "notion_id": "951",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890324509",
+      "bay": "5G2"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c30694734111c"
+      },
+      "identifier": "taxg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/taxg",
+      "bay": "5G4",
+      "label": "bay 5G4",
+      "last_updated": {
+        "$date": "2024-01-01T16:05:02.228Z"
+      },
+      "notion_id": "744",
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c3069473429d7"
+      },
+      "identifier": "th4b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/th4b",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-07-07 00:00:00",
+      "label": "JELL-O Sugar Free Orange 0.3 oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:15:44.309Z"
+      },
+      "notion_id": "966",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "043000201435",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947342a72"
+      },
+      "identifier": "th96",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/th96",
+      "bay": "5G8",
+      "label": "bay 5G8",
+      "last_updated": {
+        "$date": "2024-01-01T16:07:42.167Z"
+      },
+      "notion_id": "748",
+      "shcn": "5G8",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947343ac1"
+      },
+      "identifier": "tnbn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tnbn",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G5",
+      "expires": {
+        "$date": "2025-02-21T00:00:00Z"
+      },
+      "label": "amazon fresh peanut butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:59:53.669Z"
+      },
+      "notion_id": "930",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "842379152535"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c30694734629f"
+      },
+      "identifier": "tyak",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tyak",
+      "bay": "5G7",
+      "label": "bay 5G7",
+      "last_updated": {
+        "$date": "2024-01-01T16:07:11.235Z"
+      },
+      "notion_id": "747",
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c3069473466e6"
+      },
+      "identifier": "tzct",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tzct",
+      "bay": "5G2",
+      "label": "bay 5G2",
+      "last_updated": {
+        "$date": "2024-01-01T16:01:07.899Z"
+      },
+      "notion_id": "742",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c30694734f3ef"
+      },
+      "identifier": "v3n3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/v3n3",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-12-05 00:00:00",
+      "instance_of": "8kz4",
+      "label": "Genova Yellowfin Tuna in Olive Oil 7oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:08:57.133Z"
+      },
+      "notion_id": "963",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G1",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "048000732675",
+      "bay": "5G1"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c306947350d1b"
+      },
+      "identifier": "v9xf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/v9xf",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-11 00:00:00",
+      "label": "Jayone Gochujang 500g",
+      "last_updated": {
+        "$date": "2024-01-18T21:57:37.447Z"
+      },
+      "notion_id": "965",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G3",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "678108151179",
+      "bay": "5G3"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735920d"
+      },
+      "identifier": "wb61",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wb61",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-09-07 00:00:00",
+      "label": "Wegmans Hearty Chicken Noodle 18.6 oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:43:16.270Z"
+      },
+      "notion_id": "964",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890145067",
+      "bay": "5G2"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735967b"
+      },
+      "identifier": "wc9f",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wc9f",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G2",
+      "expires": "2025-02-21 00:00:00",
+      "label": "Amazon Fresh Peanut Butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-18T21:42:05.870Z"
+      },
+      "notion_id": "932",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "item",
+      "upc": "842379152535"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735a343"
+      },
+      "identifier": "wffq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wffq",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-29 00:00:00",
+      "instance_of": "cyby",
+      "label": "Wegmans Albacore Tuna 5oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:12:51.826Z"
+      },
+      "notion_id": "974",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G7",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "077890436936",
+      "bay": "5G7"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735dbe4"
+      },
+      "identifier": "wwmr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wwmr",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-03-18 00:00:00",
+      "label": "Wegmans Smooth Pizza Sauce",
+      "last_updated": {
+        "$date": "2024-01-18T21:41:31.014Z"
+      },
+      "notion_id": "961",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G2",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "077890493137",
+      "bay": "5G2"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694735ed55"
+      },
+      "identifier": "x1z9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x1z9",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T21:37:39.294Z"
+      },
+      "notion_id": "955",
+      "percentage": "100",
+      "quantity": 14.0,
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "643843716655",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c306947364183"
+      },
+      "identifier": "xq1q",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xq1q",
+      "bay": "5G5",
+      "label": "bay 5G5",
+      "last_updated": {
+        "$date": "2024-01-01T16:05:29.657Z"
+      },
+      "notion_id": "745",
+      "shcn": "5G5",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736daae"
+      },
+      "identifier": "ywb2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ywb2",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T21:37:51.015Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G4"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c3069473736f0"
+      },
+      "identifier": "zmd4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zmd4",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-08 00:00:00",
+      "instance_of": "x1z9",
+      "label": "Premier Protein 30g Cafe Latte Shake",
+      "last_updated": {
+        "$date": "2024-01-18T21:36:32.443Z"
+      },
+      "notion_id": "955",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5G4",
+      "shelf": "5G",
+      "type": "consumable_instance",
+      "upc": "643843716655",
+      "bay": "5G4"
     }
   ]
 }

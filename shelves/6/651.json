@@ -18,25 +18,5 @@
     "shelf": "65",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b85497c306947294b41"
-      },
-      "identifier": "4sfn",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/4sfn",
-      "bay": "651",
-      "label": "south side surface",
-      "last_updated": {
-        "$date": "2024-01-03T10:43:54.701Z"
-      },
-      "notion_id": "845",
-      "shcn": "651",
-      "shelf": "65",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

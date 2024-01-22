@@ -18,25 +18,5 @@
     "shelf": "68",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bba497c3069473335ba"
-      },
-      "identifier": "rm3e",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/rm3e",
-      "bay": "680",
-      "label": "bay 680",
-      "last_updated": {
-        "$date": "2024-01-03T10:32:03.006Z"
-      },
-      "notion_id": "830",
-      "shcn": "680",
-      "shelf": "68",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

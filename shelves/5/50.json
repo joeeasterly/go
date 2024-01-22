@@ -20,6 +20,25 @@
   "shelf_contents": [
     {
       "_id": {
+        "$oid": "64f11b7e497c3069472808c5"
+      },
+      "identifier": "28us",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/28us",
+      "bay": "502",
+      "label": "assorted snacks and candy",
+      "last_updated": {
+        "$date": "2023-11-25T18:35:59.294Z"
+      },
+      "notion_id": "616",
+      "shcn": "502",
+      "shelf": "50",
+      "type": "storage"
+    },
+    {
+      "_id": {
         "$oid": "64f11b8c497c3069472a8f16"
       },
       "identifier": "7aea",
@@ -38,19 +57,58 @@
     },
     {
       "_id": {
-        "$oid": "64f11b92497c3069472bb439"
+        "$oid": "64f11ba5497c3069472f3a27"
       },
-      "identifier": "9kqd",
+      "identifier": "gn6u",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/9kqd",
-      "label": "Medicine and Snacks",
+      "permalink": "https://joeeasterly.github.io/go/gn6u",
+      "bay": "500",
+      "label": "chips and snacks",
       "last_updated": {
-        "$date": "2023-11-20T18:08:09.047Z"
+        "$date": "2023-11-25T18:34:02.531Z"
       },
-      "notion_id": "599",
-      "shcn": "50",
+      "notion_id": "614",
+      "shcn": "500",
+      "shelf": "50",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734a44f"
+      },
+      "identifier": "ufr3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ufr3",
+      "bay": "503",
+      "label": "medication and vitamins",
+      "last_updated": {
+        "$date": "2023-11-25T18:37:01.419Z"
+      },
+      "notion_id": "617",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735dd23"
+      },
+      "identifier": "wwxq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wwxq",
+      "bay": "501",
+      "label": "cookies, biscuits, crackers",
+      "last_updated": {
+        "$date": "2023-11-25T18:35:19.436Z"
+      },
+      "notion_id": "615",
+      "shcn": "501",
       "shelf": "50",
       "type": "storage"
     }

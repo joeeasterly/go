@@ -20,19 +20,77 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b87497c30694729abd8"
+        "$oid": "64f11b7c497c306947279b19"
       },
-      "identifier": "5hmc",
+      "identifier": "2ded",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/5hmc",
-      "label": "Office Supplies",
+      "permalink": "https://joeeasterly.github.io/go/2ded",
+      "bay": "521",
+      "label": "unprocessed mail and paperwork",
       "last_updated": {
-        "$date": "2023-11-20T18:15:11.970Z"
+        "$date": "2023-11-25T19:23:00.582Z"
       },
-      "notion_id": "601",
-      "shcn": "52",
+      "notion_id": "624",
+      "shcn": "521",
+      "shelf": "52",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472ac2ed"
+      },
+      "identifier": "7qd1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7qd1",
+      "bay": "523",
+      "label": "kitchen junk drawer",
+      "last_updated": {
+        "$date": "2023-11-25T19:24:38.759Z"
+      },
+      "notion_id": "626",
+      "shcn": "523",
+      "shelf": "52",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9b497c3069472d5bbc"
+      },
+      "identifier": "cwkg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/cwkg",
+      "bay": "522",
+      "label": "instruction manuals",
+      "last_updated": {
+        "$date": "2023-11-25T19:24:07.629Z"
+      },
+      "notion_id": "625",
+      "shcn": "522",
+      "shelf": "52",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732d83a"
+      },
+      "identifier": "qvqe",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qvqe",
+      "bay": "520",
+      "label": "kitchen desk surface",
+      "last_updated": {
+        "$date": "2023-11-25T19:22:04.758Z"
+      },
+      "notion_id": "623",
+      "shcn": "520",
       "shelf": "52",
       "type": "storage"
     }

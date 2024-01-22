@@ -18,25 +18,5 @@
     "shelf": "5M",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bba497c306947332bae"
-      },
-      "identifier": "rhk2",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/rhk2",
-      "bay": "5M2",
-      "label": "bay 5M2",
-      "last_updated": {
-        "$date": "2024-01-01T16:26:54.760Z"
-      },
-      "notion_id": "763",
-      "shcn": "5M2",
-      "shelf": "5M",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

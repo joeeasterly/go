@@ -20,27 +20,5 @@
     "slot": "41007",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b99497c3069472ce976"
-      },
-      "identifier": "c11a",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/c11a",
-      "bay": "410",
-      "container": "4100",
-      "label": "slot 41007",
-      "last_updated": {
-        "$date": "2023-10-19T20:02:22.227Z"
-      },
-      "notion_id": "519",
-      "shcn": "41007",
-      "shelf": "41",
-      "slot": "41007",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

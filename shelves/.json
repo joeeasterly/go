@@ -23,24 +23,1765 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11ba9497c306947301a85"
+        "$oid": "64f11b7f497c3069472815cc"
       },
-      "identifier": "jd9s",
+      "identifier": "2c3z",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/jd9s",
-      "bay": "412",
-      "container": "4123",
-      "label": "9-slot shelving container",
+      "permalink": "https://joeeasterly.github.io/go/2c3z",
+      "label": "shelf 37",
       "last_updated": {
-        "$date": "2023-10-13T19:06:46.746Z"
+        "$date": "2023-12-24T17:33:57.004Z"
       },
-      "notion_id": "448",
+      "notion_id": "340",
+      "shcn": "37",
+      "shelf": "37",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b7f497c306947281b77"
+      },
+      "identifier": "2dhb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2dhb",
+      "label": "secretary desk",
+      "last_updated": {
+        "$date": "2024-01-03T10:25:14.957Z"
+      },
+      "notion_id": "825",
+      "shcn": "6A",
+      "shelf": "6A",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b7f497c3069472822b3"
+      },
+      "identifier": "2fb7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2fb7",
+      "label": "Coffee Mugs",
+      "last_updated": {
+        "$date": "2023-11-20T18:25:05.423Z"
+      },
+      "notion_id": "604",
+      "shcn": "55",
+      "shelf": "55",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b7f497c3069472832e8"
+      },
+      "identifier": "2kcv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2kcv",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Project Source 15ft polarized 3-outlet indoor cord",
+      "last_updated": {
+        "$date": "2023-12-26T15:45:15.058Z"
+      },
+      "notion_id": "689",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b80497c30694728402a"
+      },
+      "identifier": "2ppx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2ppx",
+      "label": "white pegboard",
+      "last_updated": {
+        "$date": "2024-01-03T10:24:31.036Z"
+      },
+      "notion_id": "824",
+      "shcn": "69",
+      "shelf": "69",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b80497c30694728563f"
+      },
+      "identifier": "2v7k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2v7k",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-05-01 00:00:00",
+      "label": "Nabisco Premium Oyster Crackers 9oz",
+      "last_updated": {
+        "$date": "2024-01-19T19:00:31.067Z"
+      },
+      "notion_id": "1005",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "044000024772"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b80497c306947286853"
+      },
+      "identifier": "2zr7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2zr7",
+      "label": "shelf 14",
+      "last_updated": {
+        "$date": "2023-12-25T10:18:37.613Z"
+      },
+      "notion_id": "101",
+      "shcn": "14",
+      "shelf": "14",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b81497c306947287ef5"
+      },
+      "identifier": "36d9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/36d9",
+      "label": "powder closet wall mount shelf",
+      "last_updated": {
+        "$date": "2024-01-01T17:01:11.770Z"
+      },
+      "notion_id": "795",
+      "shcn": "5T",
+      "shelf": "5T",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728ab96"
+      },
+      "identifier": "3hja",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3hja",
+      "label": "Canon RF 200-800mm F6.3-9 IS USM Lens",
+      "last_updated": {
+        "$date": "2024-01-06T12:53:03.658Z"
+      },
+      "notion_id": "917",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728b3a9"
+      },
+      "identifier": "3kjw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3kjw",
+      "label": "shelf 29",
+      "last_updated": {
+        "$date": "2023-12-24T17:07:09.050Z"
+      },
+      "notion_id": "255",
+      "shcn": "29",
+      "shelf": "29",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728b4b8"
+      },
+      "identifier": "3kuc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3kuc",
+      "label": "Canon EOS R3 camera body",
+      "last_updated": {
+        "$date": "2024-01-06T12:54:58.931Z"
+      },
+      "notion_id": "919",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728e7b7"
+      },
+      "identifier": "3zkb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3zkb",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-09-11 00:00:00",
+      "label": "Pillsbury Funfetti Cake Mix 15.25oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:55:31.427Z"
+      },
+      "notion_id": "994",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "013300606063"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728f9a6"
+      },
+      "identifier": "452t",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/452t",
+      "label": "dishware",
+      "last_updated": {
+        "$date": "2023-11-25T20:40:19.026Z"
+      },
+      "notion_id": "609",
+      "shcn": "5A",
+      "shelf": "5A",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b85497c3069472932cc"
+      },
+      "identifier": "4kbz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4kbz",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Double Golden Fish Brand 1mm Rice Noodles 16oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:12:17.054Z"
+      },
+      "notion_id": "996",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "030891053724"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b86497c306947295982"
+      },
+      "identifier": "4w1p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4w1p",
+      "label": "test",
+      "last_updated": {
+        "$date": "2023-10-18T15:34:04.199Z"
+      },
+      "notion_id": null,
+      "shcn": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b87497c306947297fde"
+      },
+      "identifier": "56mj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/56mj",
+      "label": "shelf 15",
+      "last_updated": {
+        "$date": "2023-12-28T14:29:47.095Z"
+      },
+      "notion_id": "102",
+      "shcn": "15",
+      "shelf": "15",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b87497c306947299b90"
+      },
+      "identifier": "5dj4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5dj4",
+      "label": "utility sink",
+      "last_updated": {
+        "$date": "2024-01-01T16:24:19.323Z"
+      },
+      "notion_id": "758",
+      "shcn": "5K",
+      "shelf": "5K",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b87497c30694729abd8"
+      },
+      "identifier": "5hmc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5hmc",
+      "label": "Office Supplies",
+      "last_updated": {
+        "$date": "2023-11-20T18:15:11.970Z"
+      },
+      "notion_id": "601",
+      "shcn": "52",
+      "shelf": "52",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729d477"
+      },
+      "identifier": "5usb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5usb",
+      "label": "shelf 36",
+      "last_updated": {
+        "$date": "2023-12-24T17:34:12.977Z"
+      },
+      "notion_id": "339",
+      "shcn": "36",
+      "shelf": "36",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729e2cf"
+      },
+      "identifier": "5yc3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5yc3",
+      "label": "Canon Lens 50mm F1.2L",
+      "last_updated": {
+        "$date": "2024-01-06T12:53:52.120Z"
+      },
+      "notion_id": "918",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b89497c30694729ee3f"
+      },
+      "identifier": "627k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/627k",
+      "label": "hall closet master bedroom",
+      "last_updated": {
+        "$date": "2024-01-03T10:23:13.631Z"
+      },
+      "notion_id": "822",
+      "shcn": "67",
+      "shelf": "67",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8b497c3069472a6136"
+      },
+      "identifier": "6xya",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6xya",
+      "label": "Rolling Workbench",
+      "last_updated": {
+        "$date": "2023-12-24T20:42:23.945Z"
+      },
+      "notion_id": "371",
+      "shcn": "40",
+      "shelf": "40",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8c497c3069472a8099"
+      },
+      "identifier": "76td",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/76td",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-08-10 00:00:00",
+      "label": "Cheerios 8.9oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:16:49.538Z"
+      },
+      "notion_id": "998",
+      "percentage": "90",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "016000275263"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8c497c3069472a8f16"
+      },
+      "identifier": "7aea",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7aea",
+      "staged": "2023-10-23 14:22:43",
+      "label": "4ft usb-a to usb-c cable",
+      "last_updated": {
+        "$date": "2024-01-03T16:40:27.897Z"
+      },
+      "notion_id": "556",
+      "shcn": "50",
+      "shelf": "50"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8c497c3069472aa2de"
+      },
+      "identifier": "7fcj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7fcj",
+      "label": "Plumbing Cabinet",
+      "last_updated": {
+        "$date": "2024-01-20T14:55:08.174Z"
+      },
+      "notion_id": "1070",
+      "shcn": "4C",
+      "shelf": "4C",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8c497c3069472aa3fa"
+      },
+      "identifier": "7fne",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7fne",
+      "label": "Water Heater Closet",
+      "last_updated": {
+        "$date": "2024-01-20T14:54:23.121Z"
+      },
+      "notion_id": "1069",
+      "shcn": "4B",
+      "shelf": "4B",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8c497c3069472aa8f2"
+      },
+      "identifier": "7gw6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7gw6",
+      "label": "shelf 48",
+      "last_updated": {
+        "$date": "2023-12-24T17:15:48.834Z"
+      },
+      "notion_id": "576",
+      "shcn": "48",
+      "shelf": "48",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472ab712"
+      },
+      "identifier": "7me6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7me6",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-04-30 00:00:00",
+      "label": "Betty Crocker Chocolate Frosting 16oz",
+      "last_updated": {
+        "$date": "2024-01-19T15:53:29.376Z"
+      },
+      "notion_id": "993",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "016000458406"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472ac10a"
+      },
+      "identifier": "7pwx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7pwx",
+      "label": "shelf 34",
+      "last_updated": {
+        "$date": "2023-12-24T20:44:24.571Z"
+      },
+      "notion_id": "260",
+      "shcn": "34",
+      "shelf": "34",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472afac7"
+      },
+      "identifier": "85bu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/85bu",
+      "label": "shelf 49",
+      "last_updated": {
+        "$date": "2023-12-24T17:15:33.473Z"
+      },
+      "notion_id": "577",
+      "shcn": "49",
+      "shelf": "49",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b0a10"
+      },
+      "identifier": "8964",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8964",
+      "staged": "2023-10-23 14:22:43",
+      "label": "FlexRadio Box)",
+      "last_updated": {
+        "$date": "2023-11-20T17:54:02.036Z"
+      },
+      "notion_id": "598",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b1538"
+      },
+      "identifier": "8byc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8byc",
+      "label": "shelf 24",
+      "last_updated": {
+        "$date": "2023-12-24T21:11:50.799Z"
+      },
+      "notion_id": "110",
+      "shcn": "24",
+      "shelf": "24",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8f497c3069472b345c"
+      },
+      "identifier": "8krg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8krg",
+      "label": "shelf 35",
+      "last_updated": {
+        "$date": "2023-12-24T20:44:54.472Z"
+      },
+      "notion_id": "261",
+      "shcn": "35",
+      "shelf": "35",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b90497c3069472b5ffd"
+      },
+      "identifier": "8xnh",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8xnh",
+      "label": "Beverage Supplies",
+      "last_updated": {
+        "$date": "2023-11-20T18:23:35.222Z"
+      },
+      "notion_id": "603",
+      "shcn": "54",
+      "shelf": "54",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b90497c3069472b6a29"
+      },
+      "identifier": "916w",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/916w",
+      "label": "east wall master closet",
+      "last_updated": {
+        "$date": "2024-01-03T10:19:32.230Z"
+      },
+      "notion_id": "818",
+      "shcn": "63",
+      "shelf": "63",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472babc1"
+      },
+      "identifier": "9hkn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9hkn",
+      "label": "rolling garment rack",
+      "last_updated": {
+        "$date": "2024-01-03T10:57:09.696Z"
+      },
+      "notion_id": "877",
+      "shcn": "6D",
+      "shelf": "6D",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472bb439"
+      },
+      "identifier": "9kqd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9kqd",
+      "label": "Medicine and Snacks",
+      "last_updated": {
+        "$date": "2023-11-20T18:08:09.047Z"
+      },
+      "notion_id": "599",
+      "shcn": "50",
+      "shelf": "50",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b93497c3069472be580"
+      },
+      "identifier": "9z1m",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9z1m",
+      "label": "shelf 16",
+      "last_updated": {
+        "$date": "2023-12-28T14:26:45.506Z"
+      },
+      "notion_id": "103",
+      "shcn": "16",
+      "shelf": "16",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b93497c3069472bf1cf"
+      },
+      "identifier": "a343",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a343",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-12-29 00:00:00",
+      "label": "Naan-Tastic Screamin Vindaloo 24oz",
+      "last_updated": {
+        "$date": "2024-01-19T10:41:04.132Z"
+      },
+      "notion_id": "971",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "787269022492"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472c0b0b"
+      },
+      "identifier": "a9dy",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a9dy",
+      "label": "Cookware",
+      "last_updated": {
+        "$date": "2023-11-20T18:26:01.710Z"
+      },
+      "notion_id": "605",
+      "shcn": "56",
+      "shelf": "56",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c6036"
+      },
+      "identifier": "axqa",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/axqa",
+      "label": "shelf 33",
+      "last_updated": {
+        "$date": "2023-12-24T20:44:06.967Z"
+      },
+      "notion_id": "259",
+      "shcn": "33",
+      "shelf": "33",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c9a90"
+      },
+      "identifier": "bda4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bda4",
+      "label": "shelf 12",
+      "last_updated": {
+        "$date": "2023-12-25T10:13:19.815Z"
+      },
+      "notion_id": "99",
+      "shcn": "12",
+      "shelf": "12",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472ca9e3"
+      },
+      "identifier": "bh4q",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bh4q",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Case for Canon cameras",
+      "last_updated": {
+        "$date": "2024-01-06T12:49:29.371Z"
+      },
+      "notion_id": "916",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472caabb"
+      },
+      "identifier": "bhbf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bhbf",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2022-12-07 00:00:00",
+      "label": "Assi Roasted Sesame Seeds 16oz",
+      "last_updated": {
+        "$date": "2024-01-19T11:06:40.521Z"
+      },
+      "notion_id": "983",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "081652053903"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cc8f4"
+      },
+      "identifier": "brw8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/brw8",
+      "label": "south side night stand",
+      "last_updated": {
+        "$date": "2024-01-03T10:25:36.629Z"
+      },
+      "notion_id": "826",
+      "shcn": "6B",
+      "shelf": "6B",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cd33b"
+      },
+      "identifier": "buff",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/buff",
+      "label": "dining room buffet",
+      "last_updated": {
+        "$date": "2024-01-01T17:13:24.135Z"
+      },
+      "notion_id": "806",
+      "shcn": "5V",
+      "shelf": "5V",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472cdbd7"
+      },
+      "identifier": "bwmb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bwmb",
+      "label": "shelf 20",
+      "last_updated": {
+        "$date": "2023-12-28T14:30:46.486Z"
+      },
+      "notion_id": "107",
+      "shcn": "20",
+      "shelf": "20",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472cdc08"
+      },
+      "identifier": "bwnv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bwnv",
+      "label": "shelf 21",
+      "last_updated": {
+        "$date": "2023-12-24T21:01:34.741Z"
+      },
+      "notion_id": "108",
+      "shcn": "21",
+      "shelf": "21",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce7ce"
+      },
+      "identifier": "bzm2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bzm2",
+      "label": "shelf 43",
+      "last_updated": {
+        "$date": "2023-12-24T20:42:01.422Z"
+      },
+      "notion_id": "370",
+      "shcn": "43",
+      "shelf": "43",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce96d"
+      },
+      "identifier": "c111",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c111",
+      "label": "scansnap ix-1600",
+      "last_updated": {
+        "$date": "2023-10-20T18:26:44.009Z"
+      },
+      "notion_id": "521",
+      "shcn": "10",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce96e"
+      },
+      "identifier": "c112",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c112",
+      "label": "scansnap ix1600 power adapter",
+      "last_updated": {
+        "$date": "2023-10-20T18:27:13.494Z"
+      },
+      "notion_id": "522",
+      "shcn": "10",
+      "shelf": "10"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9a497c3069472d1d7c"
+      },
+      "identifier": "ce1g",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ce1g",
+      "label": "Virtual special-use shelf",
+      "last_updated": {
+        "$date": "2023-12-24T16:46:07.118Z"
+      },
+      "notion_id": "671",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9b497c3069472d3f6d"
+      },
+      "identifier": "cph1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/cph1",
+      "label": "great room media console",
+      "last_updated": {
+        "$date": "2024-01-01T16:45:49.338Z"
+      },
+      "notion_id": "780",
+      "shcn": "5R",
+      "shelf": "5R",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9b497c3069472d5703"
+      },
+      "identifier": "cvdq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/cvdq",
+      "label": "BR Closet White Shelf West",
+      "last_updated": {
+        "$date": "2024-01-20T14:29:56.511Z"
+      },
+      "notion_id": "1062",
+      "shcn": "71",
+      "shelf": "71",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472d7e9f"
+      },
+      "identifier": "d6ak",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/d6ak",
+      "label": "test record",
+      "last_updated": {
+        "$date": "2023-10-18T15:42:19.257Z"
+      },
+      "notion_id": "504",
+      "shcn": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9d497c3069472dbcaf"
+      },
+      "identifier": "dnu3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dnu3",
+      "label": "laundry room closet",
+      "last_updated": {
+        "$date": "2024-01-01T16:36:26.756Z"
+      },
+      "notion_id": "774",
+      "shcn": "5Q",
+      "shelf": "5Q",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9e497c3069472e016a"
+      },
+      "identifier": "e6zx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/e6zx",
+      "label": "Cutting Boards and Drying Racks",
+      "last_updated": {
+        "$date": "2023-11-20T18:17:39.229Z"
+      },
+      "notion_id": "602",
+      "shcn": "53",
+      "shelf": "53",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e206e"
+      },
+      "identifier": "ees2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ees2",
+      "label": "Physical Computing Workbench",
+      "last_updated": {
+        "$date": "2023-12-24T20:41:01.419Z"
+      },
+      "notion_id": "368",
+      "shcn": "41",
       "shelf": "41",
-      "type": "storage",
-      "shcn": "",
-      "slot": ""
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e29c2"
+      },
+      "identifier": "eh3p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/eh3p",
+      "label": "shelf 44",
+      "last_updated": {
+        "$date": "2023-12-24T20:41:46.087Z"
+      },
+      "notion_id": "369",
+      "shcn": "44",
+      "shelf": "44",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e63a6"
+      },
+      "identifier": "eyjt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/eyjt",
+      "label": "east wall master bedroom",
+      "last_updated": {
+        "$date": "2024-01-03T10:24:10.639Z"
+      },
+      "notion_id": "823",
+      "shcn": "68",
+      "shelf": "68",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba1497c3069472e8a1e"
+      },
+      "identifier": "f96j",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/f96j",
+      "label": "shelf 45",
+      "last_updated": {
+        "$date": "2023-12-24T20:40:20.086Z"
+      },
+      "notion_id": "367",
+      "shcn": "45",
+      "shelf": "45",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba1497c3069472e9881"
+      },
+      "identifier": "fcsn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fcsn",
+      "label": "flatware, utensils, rags",
+      "last_updated": {
+        "$date": "2023-11-25T20:43:51.608Z"
+      },
+      "notion_id": "612",
+      "shcn": "5D",
+      "shelf": "5D",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472eb83c"
+      },
+      "identifier": "fmqg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fmqg",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-11-07 00:00:00",
+      "label": "Lays Ruffles Ridges 28oz",
+      "last_updated": {
+        "$date": "2024-01-19T12:06:56.340Z"
+      },
+      "notion_id": "989",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "028400077910"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472ec6fc"
+      },
+      "identifier": "frdg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/frdg",
+      "label": "Refrigerator",
+      "last_updated": {
+        "$date": "2023-12-08T14:46:50.408Z"
+      },
+      "notion_id": "670",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472ec72c"
+      },
+      "identifier": "frez",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/frez",
+      "label": "Freezer",
+      "last_updated": {
+        "$date": "2024-01-01T15:36:47.938Z"
+      },
+      "notion_id": "720",
+      "shcn": "5F",
+      "shelf": "5F",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472edb49"
+      },
+      "identifier": "fwfw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fwfw",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-05-01 00:00:00",
+      "label": "Wegmans Peanut Oil 32oz",
+      "last_updated": {
+        "$date": "2024-01-19T10:38:51.544Z"
+      },
+      "notion_id": "970",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "077890311677"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec30"
+      },
+      "identifier": "g1q4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1q4",
+      "label": "HYS-TC-MB90 NMO Mount",
+      "last_updated": {
+        "$date": "2023-11-26T17:34:54.309Z"
+      },
+      "notion_id": "653",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f2ce4"
+      },
+      "identifier": "ghvr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ghvr",
+      "label": "shelf 42",
+      "last_updated": {
+        "$date": "2023-12-24T20:39:34.065Z"
+      },
+      "notion_id": "366",
+      "shcn": "42",
+      "shelf": "42",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f3946"
+      },
+      "identifier": "gmyt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gmyt",
+      "label": "south wall master bedroom",
+      "last_updated": {
+        "$date": "2024-01-03T10:12:41.439Z"
+      },
+      "notion_id": "815",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f6536"
+      },
+      "identifier": "gyya",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gyya",
+      "label": "BR Closet White Shelf East",
+      "last_updated": {
+        "$date": "2024-01-20T14:25:06.088Z"
+      },
+      "notion_id": "1067",
+      "shcn": "72",
+      "shelf": "72",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f8b67"
+      },
+      "identifier": "h9gu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h9gu",
+      "label": "master bathroom closet",
+      "last_updated": {
+        "$date": "2024-01-03T10:21:57.640Z"
+      },
+      "notion_id": "821",
+      "shcn": "66",
+      "shelf": "66",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472ff32d"
+      },
+      "identifier": "j3f1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/j3f1",
+      "label": "cooking ingredients, bowls",
+      "last_updated": {
+        "$date": "2023-11-25T20:38:08.662Z"
+      },
+      "notion_id": "607",
+      "shcn": "58",
+      "shelf": "58",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baa497c306947302a80"
+      },
+      "identifier": "jh9m",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jh9m",
+      "staged": "2024-01-19 11:39:27",
+      "label": "TP-Link 24-Port Gigabit Easy Smart Switch",
+      "last_updated": {
+        "$date": "2024-01-20T15:03:06.363Z"
+      },
+      "shcn": "4A",
+      "shelf": "4A",
+      "type": "item",
+      "notion_id": "1077"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baa497c306947302b1f"
+      },
+      "identifier": "jhek",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jhek",
+      "label": "spices, large pots",
+      "last_updated": {
+        "$date": "2023-11-25T20:39:36.898Z"
+      },
+      "notion_id": "608",
+      "shcn": "59",
+      "shelf": "59",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baa497c306947303a40"
+      },
+      "identifier": "jn7m",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jn7m",
+      "label": "powder closet free shelf",
+      "last_updated": {
+        "$date": "2024-01-01T17:05:23.202Z"
+      },
+      "notion_id": "799",
+      "shcn": "5U",
+      "shelf": "5U",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c306947309f6f"
+      },
+      "identifier": "keh3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/keh3",
+      "label": "shelf 26",
+      "last_updated": {
+        "$date": "2023-12-24T17:05:12.698Z"
+      },
+      "notion_id": "252",
+      "shcn": "26",
+      "shelf": "26",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bad497c30694730c145"
+      },
+      "identifier": "kpys",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kpys",
+      "label": "shelf 25",
+      "last_updated": {
+        "$date": "2023-12-28T14:23:00.549Z"
+      },
+      "notion_id": "111",
+      "shcn": "25",
+      "shelf": "25",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bae497c30694730d81a"
+      },
+      "identifier": "kvpe",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kvpe",
+      "label": "shelf 13",
+      "last_updated": {
+        "$date": "2023-12-25T10:13:33.512Z"
+      },
+      "notion_id": "100",
+      "shcn": "13",
+      "shelf": "13",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bae497c30694730f491"
+      },
+      "identifier": "m3t5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/m3t5",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Apple 3ft usb-c to usb-c cable",
+      "last_updated": {
+        "$date": "2023-12-31T11:09:26.527Z"
+      },
+      "notion_id": "711",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baf497c306947312bc1"
+      },
+      "identifier": "mhkn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mhkn",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-01-03 00:00:00",
+      "label": "Wegmans Organic Stir-Fry Sauce 14oz",
+      "last_updated": {
+        "$date": "2024-01-19T11:00:16.510Z"
+      },
+      "notion_id": "979",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "077890376461"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baf497c306947313082"
+      },
+      "identifier": "mjsp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mjsp",
+      "label": "shelf 22",
+      "last_updated": {
+        "$date": "2023-12-24T21:07:12.666Z"
+      },
+      "notion_id": "109",
+      "shcn": "22",
+      "shelf": "22",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb0497c30694731557b"
+      },
+      "identifier": "mv1f",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mv1f",
+      "label": "master bathroom sink",
+      "last_updated": {
+        "$date": "2024-01-03T10:21:14.229Z"
+      },
+      "notion_id": "820",
+      "shcn": "65",
+      "shelf": "65",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb0497c306947315c2c"
+      },
+      "identifier": "mwpz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mwpz",
+      "label": "housecleaning supplies",
+      "last_updated": {
+        "$date": "2024-01-01T16:27:17.697Z"
+      },
+      "notion_id": "764",
+      "shcn": "5N",
+      "shelf": "5N",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb0497c306947315d52"
+      },
+      "identifier": "mwz6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mwz6",
+      "label": "Exercise Equipment",
+      "last_updated": {
+        "$date": "2024-01-20T14:56:26.405Z"
+      },
+      "notion_id": "1072",
+      "shcn": "4E",
+      "shelf": "4E",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb0497c3069473174bc"
+      },
+      "identifier": "n3ug",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/n3ug",
+      "label": "shelf 23",
+      "last_updated": {
+        "$date": "2023-12-24T21:09:58.611Z"
+      },
+      "notion_id": "112",
+      "shcn": "23",
+      "shelf": "23",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb3497c30694731e443"
+      },
+      "identifier": "nyqq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/nyqq",
+      "label": "shelf 17",
+      "last_updated": {
+        "$date": "2023-12-25T10:21:12.884Z"
+      },
+      "notion_id": "104",
+      "shcn": "17",
+      "shelf": "17",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb4497c306947321006"
+      },
+      "identifier": "pant",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pant",
+      "label": "black pantry shelf",
+      "last_updated": {
+        "$date": "2024-01-01T16:09:36.038Z"
+      },
+      "notion_id": "749",
+      "shcn": "5H",
+      "shelf": "5H",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947324b16"
+      },
+      "identifier": "psea",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/psea",
+      "label": "shelf 32",
+      "last_updated": {
+        "$date": "2023-12-24T17:08:28.021Z"
+      },
+      "notion_id": "258",
+      "shcn": "32",
+      "shelf": "32",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947324e8f"
+      },
+      "identifier": "pta3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pta3",
+      "label": "Electrical Cabinet",
+      "last_updated": {
+        "$date": "2024-01-20T14:53:38.580Z"
+      },
+      "notion_id": "1068",
+      "shcn": "4A",
+      "shelf": "4A",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947325c91"
+      },
+      "identifier": "pwt5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pwt5",
+      "label": "shelf 18",
+      "last_updated": {
+        "$date": "2023-12-28T14:24:02.713Z"
+      },
+      "notion_id": "105",
+      "shcn": "18",
+      "shelf": "18",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c30694732be45"
+      },
+      "identifier": "qp7s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qp7s",
+      "label": "Entertainment Cube Storage",
+      "last_updated": {
+        "$date": "2023-12-24T17:18:37.384Z"
+      },
+      "notion_id": "575",
+      "shcn": "47",
+      "shelf": "47",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c30694732bfe0"
+      },
+      "identifier": "qpmm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qpmm",
+      "label": "Media Console",
+      "last_updated": {
+        "$date": "2023-12-24T17:19:25.308Z"
+      },
+      "notion_id": "574",
+      "shcn": "46",
+      "shelf": "46",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c30694732bff5"
+      },
+      "identifier": "qpn9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qpn9",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Apple 3ft usb-a to lightning cable",
+      "last_updated": {
+        "$date": "2023-12-31T16:51:15.402Z"
+      },
+      "notion_id": "715",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732ce20"
+      },
+      "identifier": "qt6m",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qt6m",
+      "label": "south wall master closet",
+      "last_updated": {
+        "$date": "2024-01-03T10:20:01.006Z"
+      },
+      "notion_id": "819",
+      "shcn": "64",
+      "shelf": "64",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732d805"
+      },
+      "identifier": "qvns",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qvns",
+      "label": "Exercise Media Shelf",
+      "last_updated": {
+        "$date": "2024-01-20T14:55:46.295Z"
+      },
+      "notion_id": "1071",
+      "shcn": "4D",
+      "shelf": "4D",
+      "type": "storage"
     },
     {
       "_id": {
@@ -62,6 +1803,661 @@
       "type": "storage",
       "shcn": "",
       "slot": ""
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732f53f"
+      },
+      "identifier": "r3yk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r3yk",
+      "label": "shelf 31",
+      "last_updated": {
+        "$date": "2023-12-24T17:08:07.748Z"
+      },
+      "notion_id": "257",
+      "shcn": "31",
+      "shelf": "31",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c30694733255b"
+      },
+      "identifier": "rfzf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rfzf",
+      "label": "brown pegboard",
+      "last_updated": {
+        "$date": "2024-01-03T10:17:09.702Z"
+      },
+      "notion_id": "816",
+      "shcn": "61",
+      "shelf": "61",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c306947334234"
+      },
+      "identifier": "rq78",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rq78",
+      "label": "shelf 30",
+      "last_updated": {
+        "$date": "2023-12-24T17:07:50.673Z"
+      },
+      "notion_id": "256",
+      "shcn": "30",
+      "shelf": "30",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c306947335a0d"
+      },
+      "identifier": "rw61",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rw61",
+      "label": "Glassware",
+      "last_updated": {
+        "$date": "2023-11-20T18:08:58.872Z"
+      },
+      "notion_id": "600",
+      "shcn": "51",
+      "shelf": "51",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c306947336b0a"
+      },
+      "identifier": "s1dx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s1dx",
+      "label": "shelf 11",
+      "last_updated": {
+        "$date": "2023-12-25T10:12:39.413Z"
+      },
+      "notion_id": "98",
+      "shcn": "11",
+      "shelf": "11",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c306947337069"
+      },
+      "identifier": "s2rw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s2rw",
+      "label": "north side night stand",
+      "last_updated": {
+        "$date": "2024-01-03T10:26:16.610Z"
+      },
+      "notion_id": "827",
+      "shcn": "6C",
+      "shelf": "6C",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbc497c30694733a8ea"
+      },
+      "identifier": "sgvx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sgvx",
+      "label": "shelf 27",
+      "last_updated": {
+        "$date": "2023-12-24T17:05:53.687Z"
+      },
+      "notion_id": "253",
+      "shcn": "27",
+      "shelf": "27",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbe497c30694733f8c6"
+      },
+      "identifier": "t4ut",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/t4ut",
+      "label": "Bonus Room Closet",
+      "last_updated": {
+        "$date": "2024-01-20T14:31:12.290Z"
+      },
+      "notion_id": "1059",
+      "shcn": "70",
+      "shelf": "70",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c30694734416a"
+      },
+      "identifier": "tpzx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tpzx",
+      "label": "shelf 28",
+      "last_updated": {
+        "$date": "2023-12-24T17:06:44.838Z"
+      },
+      "notion_id": "254",
+      "shcn": "28",
+      "shelf": "28",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c306947345d2c"
+      },
+      "identifier": "twxz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/twxz",
+      "label": "sink, kitchen cleaning",
+      "last_updated": {
+        "$date": "2023-11-25T20:42:14.956Z"
+      },
+      "notion_id": "611",
+      "shcn": "5C",
+      "shelf": "5C",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc1497c30694734941b"
+      },
+      "identifier": "ubpf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ubpf",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-06-21 00:00:00",
+      "label": "Multi Grain Cheerios 9oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:17:33.833Z"
+      },
+      "notion_id": "999",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "016000275157"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734bdb0"
+      },
+      "identifier": "up34",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/up34",
+      "label": "great room bookshelf",
+      "last_updated": {
+        "$date": "2024-01-01T16:52:06.371Z"
+      },
+      "notion_id": "787",
+      "shcn": "5S",
+      "shelf": "5S",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734bff1"
+      },
+      "identifier": "upn5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/upn5",
+      "label": "shelf 38",
+      "last_updated": {
+        "$date": "2023-12-24T17:33:28.543Z"
+      },
+      "notion_id": "341",
+      "shcn": "38",
+      "shelf": "38",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734db70"
+      },
+      "identifier": "uwh4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uwh4",
+      "label": "north wall master closet",
+      "last_updated": {
+        "$date": "2024-01-03T10:18:38.162Z"
+      },
+      "notion_id": "817",
+      "shcn": "62",
+      "shelf": "62",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734ebf5"
+      },
+      "identifier": "v1n9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/v1n9",
+      "label": "wall-mount pantry shelf",
+      "last_updated": {
+        "$date": "2024-01-01T15:57:37.990Z"
+      },
+      "notion_id": "739",
+      "shcn": "5G",
+      "shelf": "5G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c306947353b71"
+      },
+      "identifier": "vnh5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vnh5",
+      "label": "shelf 19",
+      "last_updated": {
+        "$date": "2023-12-28T14:30:57.962Z"
+      },
+      "notion_id": "106",
+      "shcn": "19",
+      "shelf": "19",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c306947354199"
+      },
+      "identifier": "vq2d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vq2d",
+      "label": "rolling laundry cart",
+      "last_updated": {
+        "$date": "2024-01-03T10:58:49.259Z"
+      },
+      "notion_id": "880",
+      "shcn": "6E",
+      "shelf": "6E",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735805b"
+      },
+      "identifier": "w6rf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/w6rf",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Apple 20W USB-C Power Adapter",
+      "last_updated": {
+        "$date": "2023-12-31T11:07:21.652Z"
+      },
+      "notion_id": "710",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c306947358ac6"
+      },
+      "identifier": "w9bt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/w9bt",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-04-14 00:00:00",
+      "label": "Banh Trang Viet Nam Vietnamese Rice Paper",
+      "last_updated": {
+        "$date": "2024-01-19T15:33:11.240Z"
+      },
+      "notion_id": "990",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "8936007820049"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c306947358f81"
+      },
+      "identifier": "wahn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wahn",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Loris Natural Foods Steelhead Oats 21oz bag",
+      "last_updated": {
+        "$date": "2024-01-19T18:53:54.482Z"
+      },
+      "notion_id": "1003",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735cf9b"
+      },
+      "identifier": "wtjf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wtjf",
+      "label": "shelf 39",
+      "last_updated": {
+        "$date": "2023-12-24T17:33:12.392Z"
+      },
+      "notion_id": "342",
+      "shcn": "39",
+      "shelf": "39",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694735e7bf"
+      },
+      "identifier": "wzkk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wzkk",
+      "label": "laundry supplies",
+      "last_updated": {
+        "$date": "2024-01-01T16:25:54.604Z"
+      },
+      "notion_id": "760",
+      "shcn": "5M",
+      "shelf": "5M",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c3069473603fc"
+      },
+      "identifier": "x7ng",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x7ng",
+      "label": "white laundry room shelf",
+      "last_updated": {
+        "$date": "2024-01-01T16:28:39.849Z"
+      },
+      "notion_id": "768",
+      "shcn": "5P",
+      "shelf": "5P",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c306947360dbf"
+      },
+      "identifier": "xa3k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xa3k",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Box - Canon 95mm screw-in uv filter",
+      "last_updated": {
+        "$date": "2024-01-06T19:00:36.617Z"
+      },
+      "notion_id": "915",
+      "shcn": "60",
+      "shelf": "60",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcb497c3069473658c6"
+      },
+      "identifier": "xvut",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xvut",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-05-23 00:00:00",
+      "label": "Wegmans Box Mac n Cheese Original 7.25oz",
+      "last_updated": {
+        "$date": "2024-01-19T10:53:50.980Z"
+      },
+      "notion_id": "975",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "077890465325"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcb497c306947367384"
+      },
+      "identifier": "y3hr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/y3hr",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-11-22 00:00:00",
+      "label": "Hellmanns Real Mayonnaise 20oz",
+      "last_updated": {
+        "$date": "2024-01-19T11:07:57.861Z"
+      },
+      "notion_id": "984",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "048001354500"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcc497c30694736a115"
+      },
+      "identifier": "yex9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yex9",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-03-07 00:00:00",
+      "label": "Emerald Cove Toasted Sushi Nori 10 sheets",
+      "last_updated": {
+        "$date": "2024-01-19T16:13:44.945Z"
+      },
+      "notion_id": "997",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "023547300518"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736c6e6"
+      },
+      "identifier": "yrct",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yrct",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-06-13 00:00:00",
+      "label": "Wegmans Vegetable Oil 32oz",
+      "last_updated": {
+        "$date": "2024-01-19T18:59:02.187Z"
+      },
+      "notion_id": "1004",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "077890455456"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736cb48"
+      },
+      "identifier": "ysfv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ysfv",
+      "label": "KCups, Rice",
+      "last_updated": {
+        "$date": "2023-11-20T18:27:06.864Z"
+      },
+      "notion_id": "606",
+      "shcn": "57",
+      "shelf": "57",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736e61a"
+      },
+      "identifier": "yz6e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yz6e",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-07-24 00:00:00",
+      "label": "Frosted Flakes 13.5oz",
+      "last_updated": {
+        "$date": "2024-01-19T16:18:47.291Z"
+      },
+      "notion_id": "1000",
+      "percentage": "65",
+      "quantity": "1",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "consumable",
+      "upc": "038000199042"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c30694736f32a"
+      },
+      "identifier": "z3ex",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/z3ex",
+      "label": "stove utensils, pans",
+      "last_updated": {
+        "$date": "2023-11-25T20:41:28.804Z"
+      },
+      "notion_id": "610",
+      "shcn": "5B",
+      "shelf": "5B",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c30694736fdc2"
+      },
+      "identifier": "z63p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/z63p",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Project Source 6ft Indoor Cord Polarized 3-outlet",
+      "last_updated": {
+        "$date": "2023-12-26T15:22:27.265Z"
+      },
+      "notion_id": "687",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c306947371026"
+      },
+      "identifier": "zapt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zapt",
+      "staged": "2023-10-23 14:22:43",
+      "label": "Project Source 15ft polarized 3-outlet indoor cord",
+      "last_updated": {
+        "$date": "2023-12-26T15:39:28.146Z"
+      },
+      "notion_id": "688",
+      "shcn": "10",
+      "shelf": "10",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c3069473730ff"
+      },
+      "identifier": "zjwk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zjwk",
+      "label": "utility cabinet",
+      "last_updated": {
+        "$date": "2024-01-01T16:19:49.719Z"
+      },
+      "notion_id": "754",
+      "shcn": "5J",
+      "shelf": "5J",
+      "type": "storage"
     }
   ]
 }

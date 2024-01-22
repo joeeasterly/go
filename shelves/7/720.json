@@ -18,25 +18,5 @@
     "shelf": "72",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bad497c30694730c10d"
-      },
-      "identifier": "kpx1",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/kpx1",
-      "bay": "720",
-      "label": "bay 720",
-      "last_updated": {
-        "$date": "2024-01-20T14:58:01.067Z"
-      },
-      "notion_id": "1073",
-      "shcn": "720",
-      "shelf": "72",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

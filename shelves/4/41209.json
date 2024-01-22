@@ -20,27 +20,5 @@
     "slot": "41209",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bbf497c306947340ff6"
-      },
-      "identifier": "tana",
-      "target": "#",
-      "class": "inventory",
-      "allocated": "true",
-      "permalink": "https://joeeasterly.github.io/go/tana",
-      "bay": "412",
-      "container": "4120",
-      "label": "slot 41209",
-      "last_updated": {
-        "$date": "2023-10-17T20:31:31.266Z"
-      },
-      "notion_id": "491",
-      "shcn": "41209",
-      "shelf": "41",
-      "slot": "41209",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

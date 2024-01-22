@@ -20,27 +20,5 @@
     "slot": "7210G",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11ba0497c3069472e3c02"
-      },
-      "identifier": "ennp",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/ennp",
-      "bay": "721",
-      "container": "7210",
-      "label": "#10-32 brass nuts",
-      "last_updated": {
-        "$date": "2024-01-20T14:32:28.833Z"
-      },
-      "notion_id": "1057",
-      "shcn": "7210G",
-      "shelf": "72",
-      "slot": "7210G",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

@@ -18,25 +18,5 @@
     "shelf": "5U",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bc4497c30694734f744"
-      },
-      "identifier": "v4fr",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/v4fr",
-      "bay": "5U4",
-      "label": "bay 5U4",
-      "last_updated": {
-        "$date": "2024-01-01T17:07:59.336Z"
-      },
-      "notion_id": "804",
-      "shcn": "5U4",
-      "shelf": "5U",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

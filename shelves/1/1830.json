@@ -149,27 +149,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11ba2497c3069472ea8f0"
-      },
-      "identifier": "fgw4",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/fgw4",
-      "staged": "2024-01-07 13:56:33",
-      "bay": "183",
-      "container": "1830",
-      "label": "Pandora Jewelry",
-      "last_updated": {
-        "$date": "2024-01-17T14:58:24.522Z"
-      },
-      "notion_id": "946",
-      "shcn": "1830",
-      "shelf": "18",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11ba3497c3069472efeb9"
       },
       "identifier": "g6bd",

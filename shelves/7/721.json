@@ -21,21 +21,401 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bcc497c30694736ad27"
+        "$oid": "64f11b81497c3069472871e5"
       },
-      "identifier": "yhxu",
+      "identifier": "334s",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/yhxu",
+      "permalink": "https://joeeasterly.github.io/go/334s",
       "bay": "721",
-      "label": "bay 721",
+      "container": "7210",
+      "label": "slot 72106",
       "last_updated": {
-        "$date": "2024-01-20T14:58:26.411Z"
+        "$date": "2024-01-20T14:41:11.394Z"
       },
-      "notion_id": "1074",
-      "shcn": "721",
+      "notion_id": "1047",
+      "shcn": "72106",
       "shelf": "72",
+      "slot": "72106",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b87497c30694729a0a3"
+      },
+      "identifier": "5etq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5etq",
+      "bay": "721",
+      "container": "7210",
+      "label": "#4 brass washers",
+      "last_updated": {
+        "$date": "2024-01-20T14:33:02.579Z"
+      },
+      "notion_id": "1056",
+      "shcn": "7210F",
+      "shelf": "72",
+      "slot": "7210F",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8b497c3069472a6b4b"
+      },
+      "identifier": "71fy",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/71fy",
+      "bay": "721",
+      "container": "7210",
+      "label": "slot 7210d",
+      "last_updated": {
+        "$date": "2024-01-20T14:34:16.673Z"
+      },
+      "notion_id": "1054",
+      "shcn": "7210D",
+      "shelf": "72",
+      "slot": "7210D",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b95497c3069472c4712"
+      },
+      "identifier": "are6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/are6",
+      "bay": "721",
+      "container": "7210",
+      "label": "slot 7210H",
+      "last_updated": {
+        "$date": "2024-01-20T14:31:53.709Z"
+      },
+      "notion_id": "1058",
+      "shcn": "7210H",
+      "shelf": "72",
+      "slot": "7210H",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9b497c3069472d43cc"
+      },
+      "identifier": "cqkz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/cqkz",
+      "bay": "721",
+      "container": "7210",
+      "label": "slot 72102",
+      "last_updated": {
+        "$date": "2024-01-20T14:43:22.674Z"
+      },
+      "notion_id": "1043",
+      "shcn": "72102",
+      "shelf": "72",
+      "slot": "72102",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472d8ccc"
+      },
+      "identifier": "d9uz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/d9uz",
+      "bay": "721",
+      "container": "7210",
+      "label": "#6-32 brass nuts",
+      "last_updated": {
+        "$date": "2024-01-20T14:42:23.450Z"
+      },
+      "notion_id": "1045",
+      "shcn": "72104",
+      "shelf": "72",
+      "slot": "72104",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9e497c3069472ddf23"
+      },
+      "identifier": "dxeq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dxeq",
+      "bay": "721",
+      "container": "7210",
+      "label": "slot 72109",
+      "last_updated": {
+        "$date": "2024-01-20T14:36:38.987Z"
+      },
+      "notion_id": "1050",
+      "shcn": "72109",
+      "shelf": "72",
+      "slot": "72109",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e2cba"
+      },
+      "identifier": "ehue",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ehue",
+      "bay": "721",
+      "container": "7210",
+      "label": "#8-32 brass washers",
+      "last_updated": {
+        "$date": "2024-01-20T14:35:50.242Z"
+      },
+      "notion_id": "1052",
+      "shcn": "7210B",
+      "shelf": "72",
+      "slot": "7210B",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e3c02"
+      },
+      "identifier": "ennp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ennp",
+      "bay": "721",
+      "container": "7210",
+      "label": "#10-32 brass nuts",
+      "last_updated": {
+        "$date": "2024-01-20T14:32:28.833Z"
+      },
+      "notion_id": "1057",
+      "shcn": "7210G",
+      "shelf": "72",
+      "slot": "7210G",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f893c"
+      },
+      "identifier": "h8yg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h8yg",
+      "bay": "721",
+      "container": "7210",
+      "label": "slot 72100",
+      "last_updated": {
+        "$date": "2024-01-20T14:44:25.756Z"
+      },
+      "notion_id": "1041",
+      "shcn": "72100",
+      "shelf": "72",
+      "slot": "72100",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba9497c306947300667"
+      },
+      "identifier": "j88u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/j88u",
+      "bay": "721",
+      "container": "7210",
+      "label": "slot 72103",
+      "last_updated": {
+        "$date": "2024-01-20T14:42:50.475Z"
+      },
+      "notion_id": "1044",
+      "shcn": "72103",
+      "shelf": "72",
+      "slot": "72103",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb3497c30694731e79e"
+      },
+      "identifier": "nzjj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/nzjj",
+      "bay": "721",
+      "container": "7210",
+      "label": "#6-32 1/2in brass bolts",
+      "last_updated": {
+        "$date": "2024-01-20T14:43:49.459Z"
+      },
+      "notion_id": "1042",
+      "shcn": "72101",
+      "shelf": "72",
+      "slot": "72101",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb9497c306947331760"
+      },
+      "identifier": "rcgm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rcgm",
+      "bay": "721",
+      "container": "7210",
+      "label": "slot 7210C",
+      "last_updated": {
+        "$date": "2024-01-20T14:35:02.098Z"
+      },
+      "notion_id": "1053",
+      "shcn": "7210C",
+      "shelf": "72",
+      "slot": "7210C",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c306947332f0f"
+      },
+      "identifier": "rje3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rje3",
+      "bay": "721",
+      "container": "7210",
+      "label": "#8-32 brass nuts",
+      "last_updated": {
+        "$date": "2024-01-20T14:36:12.377Z"
+      },
+      "notion_id": "1051",
+      "shcn": "7210A",
+      "shelf": "72",
+      "slot": "7210A",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbb497c306947337999"
+      },
+      "identifier": "s52d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s52d",
+      "bay": "721",
+      "container": "7210",
+      "label": "#8-32 1/2in brass bolts",
+      "last_updated": {
+        "$date": "2024-01-20T14:37:33.958Z"
+      },
+      "notion_id": "1048",
+      "shcn": "72107",
+      "shelf": "72",
+      "slot": "72107",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c306947346d57"
+      },
+      "identifier": "u1zb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/u1zb",
+      "bay": "721",
+      "container": "7210",
+      "label": "#6 brass washers",
+      "last_updated": {
+        "$date": "2024-01-20T14:41:45.961Z"
+      },
+      "notion_id": "1046",
+      "shcn": "72105",
+      "shelf": "72",
+      "slot": "72105",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c306947359ec7"
+      },
+      "identifier": "webu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/webu",
+      "bay": "721",
+      "container": "7210",
+      "label": "#8-32 3/4in brass bolts",
+      "last_updated": {
+        "$date": "2024-01-20T14:37:02.100Z"
+      },
+      "notion_id": "1049",
+      "shcn": "72108",
+      "shelf": "72",
+      "slot": "72108",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694735f7e0"
+      },
+      "identifier": "x4mm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x4mm",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "721",
+      "container": "7210",
+      "label": "Brass 32-thread nuts, bolts, and washers",
+      "last_updated": {
+        "$date": "2024-01-20T14:44:44.790Z"
+      },
+      "notion_id": "1040",
+      "shcn": "7210",
+      "shelf": "72",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c3069473607ff"
+      },
+      "identifier": "x8nk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x8nk",
+      "bay": "721",
+      "container": "7210",
+      "label": "#4-32 brass nuts",
+      "last_updated": {
+        "$date": "2024-01-20T14:33:27.668Z"
+      },
+      "notion_id": "1055",
+      "shcn": "7210E",
+      "shelf": "72",
+      "slot": "7210E",
       "type": "storage"
     }
   ]

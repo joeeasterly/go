@@ -20,27 +20,5 @@
     "slot": "41235",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11ba6497c3069472f79a5"
-      },
-      "identifier": "h52s",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/h52s",
-      "bay": "412",
-      "container": "4123",
-      "label": "slot 41235",
-      "last_updated": {
-        "$date": "2023-10-19T16:41:41.237Z"
-      },
-      "notion_id": "508",
-      "shcn": "41235",
-      "shelf": "41",
-      "slot": "41235",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

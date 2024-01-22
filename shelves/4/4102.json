@@ -22,22 +22,63 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bbb497c306947337259"
+        "$oid": "64f11b99497c3069472ce978"
       },
-      "identifier": "s38d",
+      "identifier": "c11c",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/s38d",
+      "permalink": "https://joeeasterly.github.io/go/c11c",
       "bay": "410",
       "container": "4102",
-      "label": "container 4102",
+      "label": "Amazon Smart Switch",
       "last_updated": {
-        "$date": "2023-10-19T19:14:47.944Z"
+        "$date": "2023-10-20T20:07:10.716Z"
       },
-      "notion_id": "511",
-      "shcn": "4102",
+      "notion_id": "76",
+      "shcn": "41021",
       "shelf": "41",
+      "slot": "41021"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce97f"
+      },
+      "identifier": "c11k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c11k",
+      "bay": "410",
+      "container": "4102",
+      "label": "Amazon Smart Plug",
+      "last_updated": {
+        "$date": "2023-10-20T20:17:27.939Z"
+      },
+      "notion_id": "77",
+      "shcn": "41021",
+      "shelf": "41",
+      "slot": "41021"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472fba81"
+      },
+      "identifier": "hn9n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hn9n",
+      "bay": "410",
+      "container": "4102",
+      "label": "slot 41021",
+      "last_updated": {
+        "$date": "2023-12-24T16:52:09.204Z"
+      },
+      "notion_id": "673",
+      "shcn": "41021",
+      "shelf": "41",
+      "slot": "41021",
       "type": "storage"
     }
   ]

@@ -18,25 +18,5 @@
     "shelf": "45",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bcb497c306947365384"
-      },
-      "identifier": "xuhr",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/xuhr",
-      "bay": "450",
-      "label": "bay 450",
-      "last_updated": {
-        "$date": "2024-01-04T17:07:44.960Z"
-      },
-      "notion_id": "901",
-      "shcn": "450",
-      "shelf": "45",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

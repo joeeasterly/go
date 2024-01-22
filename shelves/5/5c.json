@@ -20,19 +20,58 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bc0497c306947345d2c"
+        "$oid": "64f11ba1497c3069472e90c7"
       },
-      "identifier": "twxz",
+      "identifier": "fauu",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/twxz",
-      "label": "sink, kitchen cleaning",
+      "permalink": "https://joeeasterly.github.io/go/fauu",
+      "bay": "5C0",
+      "label": "sink, kitchen counter, drying rack",
       "last_updated": {
-        "$date": "2023-11-25T20:42:14.956Z"
+        "$date": "2023-11-26T17:53:07.398Z"
       },
-      "notion_id": "611",
-      "shcn": "5C",
+      "notion_id": "662",
+      "shcn": "5C0",
+      "shelf": "5C",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baf497c30694731069d"
+      },
+      "identifier": "m8ah",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/m8ah",
+      "bay": "5C1",
+      "label": "scouring pads, dish scrapers",
+      "last_updated": {
+        "$date": "2023-11-26T17:53:45.115Z"
+      },
+      "notion_id": "663",
+      "shcn": "5C1",
+      "shelf": "5C",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c30694737272c"
+      },
+      "identifier": "zgez",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zgez",
+      "bay": "5C2",
+      "label": "dish detergent, kitchen cleaning",
+      "last_updated": {
+        "$date": "2023-11-26T17:54:59.941Z"
+      },
+      "notion_id": "664",
+      "shcn": "5C2",
       "shelf": "5C",
       "type": "storage"
     }

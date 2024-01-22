@@ -20,19 +20,77 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11bc3497c30694734bff1"
+        "$oid": "64f11b93497c3069472befd7"
       },
-      "identifier": "upn5",
+      "identifier": "a2mb",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/upn5",
-      "label": "shelf 38",
+      "permalink": "https://joeeasterly.github.io/go/a2mb",
+      "bay": "380",
+      "label": "Rack One",
       "last_updated": {
-        "$date": "2023-12-24T17:33:28.543Z"
+        "$date": "2024-01-21T15:55:48.429Z"
       },
-      "notion_id": "341",
-      "shcn": "38",
+      "notion_id": "1094",
+      "shcn": "380",
+      "shelf": "38",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c6423"
+      },
+      "identifier": "aypq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/aypq",
+      "bay": "381",
+      "label": "Rack Two",
+      "last_updated": {
+        "$date": "2024-01-21T15:56:39.466Z"
+      },
+      "notion_id": "1095",
+      "shcn": "381",
+      "shelf": "38",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec3d"
+      },
+      "identifier": "g1qh",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1qh",
+      "bay": "380",
+      "label": "Hospital clothes, May 2020",
+      "last_updated": {
+        "$date": "2024-01-06T19:21:49.671Z"
+      },
+      "notion_id": "929",
+      "shcn": "380",
+      "shelf": "38",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f66e4"
+      },
+      "identifier": "gzcr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gzcr",
+      "bay": "382",
+      "label": "Rolling Garment Rack Base",
+      "last_updated": {
+        "$date": "2024-01-21T15:57:06.705Z"
+      },
+      "notion_id": "1096",
+      "shcn": "382",
       "shelf": "38",
       "type": "storage"
     }

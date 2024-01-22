@@ -18,25 +18,5 @@
     "shelf": "5A",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11b97497c3069472c8a4a"
-      },
-      "identifier": "b97x",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/b97x",
-      "bay": "5A1",
-      "label": "fasta pasta",
-      "last_updated": {
-        "$date": "2023-11-26T17:46:25.181Z"
-      },
-      "notion_id": "655",
-      "shcn": "5A1",
-      "shelf": "5A",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

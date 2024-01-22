@@ -20,27 +20,5 @@
     "slot": "41203",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bbf497c306947340ffd"
-      },
-      "identifier": "tanh",
-      "target": "#",
-      "class": "inventory",
-      "allocated": "true",
-      "permalink": "https://joeeasterly.github.io/go/tanh",
-      "bay": "412",
-      "container": "4120",
-      "label": "slot 41203",
-      "last_updated": {
-        "$date": "2023-10-17T19:29:05.828Z"
-      },
-      "notion_id": "483",
-      "shcn": "41203",
-      "shelf": "41",
-      "slot": "41203",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

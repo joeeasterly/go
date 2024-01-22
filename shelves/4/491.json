@@ -21,20 +21,21 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b89497c30694729ef90"
+        "$oid": "64f11b89497c30694729fb66"
       },
-      "identifier": "62j4",
+      "identifier": "65gt",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/62j4",
+      "permalink": "https://joeeasterly.github.io/go/65gt",
       "bay": "491",
-      "label": "bay 491",
+      "container": "4910",
+      "label": "dishes",
       "last_updated": {
-        "$date": "2024-01-04T16:54:44.556Z"
+        "$date": "2024-01-04T16:55:28.774Z"
       },
-      "notion_id": "894",
-      "shcn": "491",
+      "notion_id": "896",
+      "shcn": "4910",
       "shelf": "49",
       "type": "storage"
     }

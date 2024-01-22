@@ -2,43 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-
-        .shelving-record {
-            margin-bottom: 20px;
-            border: 1px solid #ccc;
-            padding: 10px;
-        }
-
-        .shelf-content-item {
-            margin-top: 10px;
-            padding: 5px;
-            border: 1px solid #eee;
-        }
-
-        .field {
-            display: block;
-            margin-bottom: 5px;
-        }
-
-        .label {
-            font-weight: bold;
-            margin-right: 5px;
-        }
-
-        .field-value {
-            display: inline-block;
-        }
-        ._id {
-            display:none;
-        }
-    </style>
+    <title>Go: Data Retrieval Service</title>
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto+Slab:wght@300;400&family=Roboto:wght@100;400&family=Source+Code+Pro&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/main.css">
     <title>Shelving Record</title>
 </head>
 <body>
@@ -70,13 +41,24 @@
     }
 
     function renderShelvingRecord(record) {
-        const shelvingRecordDiv = document.createElement('div');
-        shelvingRecordDiv.className = 'shelving-record';
+    const shelvingRecordDiv = document.createElement('div');
+    shelvingRecordDiv.className = 'shelving-record';
 
-        // Render shelving record details
-        const shelvingRecordDetails = document.createElement('div');
-        shelvingRecordDetails.innerHTML = `<strong>Shelving Record:</strong>`;
-        Object.keys(record.shelving_record).forEach(fieldName => {
+    // Define the order of fields for each type
+    const fieldOrder = {
+        inventory: ['label', 'last_updated', 'field3'],
+        storage: ['label', 'last_updated', 'field3'],
+        consumable: ['label', 'last_updated', 'expires'],
+        consumable_instance: ['label', 'last_updated', 'expires', 'field1'],
+    };
+
+    // Render shelving record details
+    const shelvingRecordDetails = document.createElement('div');
+    shelvingRecordDetails.innerHTML = `<strong>Shelving Record:</strong>`;
+    const type = record.shelving_record.type || ''; // Assuming type is present in shelving_record
+    const orderedFields = fieldOrder[type] || Object.keys(record.shelving_record);
+    orderedFields.forEach(fieldName => {
+        if (record.shelving_record.hasOwnProperty(fieldName)) {
             const fieldSpan = document.createElement('span');
             fieldSpan.className = `field ${fieldName}`;
             const fieldValue = fieldName === 'last_updated'
@@ -84,17 +66,20 @@
                 : record.shelving_record[fieldName];
             fieldSpan.innerHTML = `<span class="label ${fieldName}">${fieldName}:</span><span class="field-value ${fieldName}">${fieldValue}</span>`;
             shelvingRecordDetails.appendChild(fieldSpan);
-        });
-        shelvingRecordDiv.appendChild(shelvingRecordDetails);
+        }
+    });
+    shelvingRecordDiv.appendChild(shelvingRecordDetails);
 
-        // Render shelf contents
-        const shelfContentsDiv = document.createElement('div');
-        shelfContentsDiv.innerHTML = `<strong>Shelf Contents:</strong>`;
-        record.shelf_contents.forEach((item, index) => {
-            const itemDiv = document.createElement('div');
-            itemDiv.className = 'shelf-content-item';
-            itemDiv.innerHTML = `<strong>Item ${index + 1}:</strong>`;
-            Object.keys(item).forEach(fieldName => {
+    // Render shelf contents
+    const shelfContentsDiv = document.createElement('div');
+    shelfContentsDiv.innerHTML = `<strong>Shelf Contents:</strong>`;
+    record.shelf_contents.forEach((item, index) => {
+        const itemDiv = document.createElement('div');
+        itemDiv.className = `shelf-content-item ${item.type || ''}`; // Add the type as a class
+        const itemType = item.type || ''; // Assuming type is present in shelf_contents
+        const orderedItemFields = fieldOrder[itemType] || Object.keys(item);
+        orderedItemFields.forEach(fieldName => {
+            if (item.hasOwnProperty(fieldName)) {
                 const fieldSpan = document.createElement('span');
                 fieldSpan.className = `field ${fieldName}`;
                 const fieldValue = fieldName === 'last_updated'
@@ -102,13 +87,15 @@
                     : item[fieldName];
                 fieldSpan.innerHTML = `<span class="label ${fieldName}">${fieldName}:</span><span class="field-value ${fieldName}">${fieldValue}</span>`;
                 itemDiv.appendChild(fieldSpan);
-            });
-            shelfContentsDiv.appendChild(itemDiv);
+            }
         });
-        shelvingRecordDiv.appendChild(shelfContentsDiv);
+        shelfContentsDiv.appendChild(itemDiv);
+    });
+    shelvingRecordDiv.appendChild(shelfContentsDiv);
 
-        document.body.appendChild(shelvingRecordDiv);
-    }
+    document.body.appendChild(shelvingRecordDiv);
+}
+
 </script>
 
 </body>

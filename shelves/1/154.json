@@ -18,25 +18,5 @@
     "shelf": "15",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bb4497c306947321b37"
-      },
-      "identifier": "pdfb",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/pdfb",
-      "bay": "154",
-      "label": "bay 154",
-      "last_updated": {
-        "$date": "2023-12-28T14:28:24.462Z"
-      },
-      "notion_id": "136",
-      "shcn": "154",
-      "shelf": "15",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }

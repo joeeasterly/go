@@ -20,27 +20,5 @@
     "type": "storage",
     "label": "slot 41202"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bc4497c30694734f3b6"
-      },
-      "identifier": "v3ka",
-      "target": "#",
-      "class": "inventory",
-      "allocated": "true",
-      "permalink": "https://joeeasterly.github.io/go/v3ka",
-      "bay": "412",
-      "container": "4120",
-      "last_updated": {
-        "$date": "2023-10-17T20:14:43.031Z"
-      },
-      "notion_id": "487",
-      "shcn": "41202",
-      "shelf": "41",
-      "slot": "41202",
-      "type": "storage",
-      "label": "slot 41202"
-    }
-  ]
+  "shelf_contents": []
 }

@@ -93,25 +93,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11b86497c306947295a8d"
-      },
-      "identifier": "4wa1",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/4wa1",
-      "bay": "591",
-      "label": "spice drawer",
-      "last_updated": {
-        "$date": "2023-11-25T21:01:57.359Z"
-      },
-      "notion_id": "633",
-      "shcn": "591",
-      "shelf": "59",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11b86497c306947296135"
       },
       "identifier": "4xy9",

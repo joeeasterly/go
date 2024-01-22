@@ -20,27 +20,5 @@
     "slot": "4120E",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11bbf497c306947341023"
-      },
-      "identifier": "tapq",
-      "target": "#",
-      "class": "inventory",
-      "allocated": "true",
-      "permalink": "https://joeeasterly.github.io/go/tapq",
-      "bay": "412",
-      "container": "4120",
-      "label": "slot 4120E",
-      "last_updated": {
-        "$date": "2023-10-17T20:43:24.393Z"
-      },
-      "notion_id": "496",
-      "shcn": "4120E",
-      "shelf": "41",
-      "slot": "4120E",
-      "type": "storage"
-    }
-  ]
+  "shelf_contents": []
 }
