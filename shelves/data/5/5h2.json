@@ -21,6 +21,30 @@
   "shelf_contents": [
     {
       "_id": {
+        "$oid": "64f11b84497c306947292330"
+      },
+      "identifier": "4ff4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4ff4",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5H2",
+      "expires": "2025-11-11 00:00:00",
+      "label": "Wegmans Angel Hair Pasta 16oz",
+      "last_updated": {
+        "$date": "2024-01-22T15:33:38.594Z"
+      },
+      "notion_id": "1098",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5H2",
+      "shelf": "5H",
+      "type": "consumable",
+      "upc": "077890499405"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb7497c3069473296d6"
       },
       "identifier": "qcca",

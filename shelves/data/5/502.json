@@ -1,0 +1,47 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b7e497c3069472808c5"
+    },
+    "identifier": "28us",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/28us",
+    "bay": "502",
+    "label": "assorted snacks and candy",
+    "last_updated": {
+      "$date": "2023-11-25T18:35:59.294Z"
+    },
+    "notion_id": "616",
+    "shcn": "502",
+    "shelf": "50",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f2ebc"
+      },
+      "identifier": "gjbg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gjbg",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "502",
+      "expires": "2024-03-05 00:00:00",
+      "label": "Little Debbie Nutty Buddy 12oz",
+      "last_updated": {
+        "$date": "2024-01-22T15:39:46.203Z"
+      },
+      "notion_id": "1102",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "502",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "024300041204"
+    }
+  ]
+}
