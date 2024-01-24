@@ -1716,8 +1716,20 @@
         "identifier": "xk7q",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xk7q"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xk7q",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E1",
+        "expires": "2024-03-08 00:00:00",
+        "label": "Kirkland Signature Heavy Whipped Cream 15oz",
+        "last_updated": "2024-01-23 22:09:08.143000",
+        "notion_id": "1107",
+        "percentage": "75",
+        "quantity": "1",
+        "shcn": "5E1",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "196633953117"
     },
     {
         "_id": "64f11bca497c306947363244",
