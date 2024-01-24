@@ -8013,8 +8013,20 @@
         "identifier": "hmza",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/hmza"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/hmza",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "503",
+        "expires": "2024-02-05 00:00:00",
+        "label": "Wegmans Wavy Potato Chips 11oz",
+        "last_updated": "2024-01-24 10:59:34.942000",
+        "notion_id": "1137",
+        "percentage": "40",
+        "quantity": "1",
+        "shcn": "503",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "077890327234"
     },
     {
         "_id": "64f11ba7497c3069472fb957",
