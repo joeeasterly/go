@@ -7036,8 +7036,20 @@
         "identifier": "kmvg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kmvg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/kmvg",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "5EA",
+        "expires": "2024-06-03 00:00:00",
+        "label": "Wegmans Creamy Peanut Butter 18oz",
+        "last_updated": "2024-01-23 22:14:13.586000",
+        "notion_id": "1123",
+        "percentage": "65",
+        "quantity": "1",
+        "shcn": "5EA",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890324509"
     },
     {
         "_id": "64f11bad497c30694730b8dd",
