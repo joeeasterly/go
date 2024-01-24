@@ -6772,9 +6772,20 @@
         "identifier": "bkuf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/bkuf",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "503",
+        "expires": "2023-12-02 00:00:00",
+        "label": "Wegmans Organic White Quinoa 32oz",
+        "last_updated": "2024-01-24 10:46:51.261000",
+        "notion_id": "1131",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "503",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "077890516164"
     },
     {
         "_id": "64f11b98497c3069472cb4bc",
