@@ -1996,8 +1996,20 @@
         "identifier": "758t",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/758t"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/758t",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E2",
+        "expires": "2024-02-16 00:00:00",
+        "label": "Wegmans Greek Nonfat Yogurt Black Cherry 150g",
+        "last_updated": "2024-01-24 16:03:59.810000",
+        "notion_id": "1149",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E2",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890271391"
     },
     {
         "_id": "64f11b8b497c3069472a7a67",
