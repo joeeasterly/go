@@ -1076,9 +1076,20 @@
         "identifier": "6n57",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/6n57",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E9",
+        "expires": "2023-09-14 00:00:00",
+        "label": "Wegmans Tartar Sauce 8oz",
+        "last_updated": "2024-01-23 22:11:48.949000",
+        "notion_id": "1111",
+        "percentage": "75",
+        "quantity": "1",
+        "shcn": "5E9",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890677490"
     },
     {
         "_id": "64f11b8a497c3069472a39f4",
