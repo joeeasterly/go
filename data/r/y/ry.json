@@ -6413,8 +6413,20 @@
         "identifier": "ryt2",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ryt2"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ryt2",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E2",
+        "expires": "2024-04-06 00:00:00",
+        "label": "Nestle Toll House Chocolate Chip Lovers Dough 16oz",
+        "last_updated": "2024-01-24 16:00:50.590000",
+        "notion_id": "1147",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E2",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "050000009268"
     },
     {
         "_id": "64f11bbb497c30694733648f",
