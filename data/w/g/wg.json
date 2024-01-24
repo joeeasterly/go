@@ -7900,8 +7900,20 @@
         "identifier": "wgyv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wgyv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wgyv",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E1",
+        "expires": "2024-02-24 00:00:00",
+        "label": "Wegmans Orange Juice 32oz",
+        "last_updated": "2024-01-24 16:37:01.557000",
+        "notion_id": "1165",
+        "percentage": "65",
+        "quantity": "1",
+        "shcn": "5E1",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890818244"
     },
     {
         "_id": "64f11bc7497c30694735a949",
