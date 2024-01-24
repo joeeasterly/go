@@ -1602,7 +1602,7 @@
         "bay": "403",
         "container": "4030",
         "label": "3ft usb-a to usb-micro cable",
-        "last_updated": "2023-10-25T09:35:55.138000",
+        "last_updated": "2023-10-25 09:35:55.138000",
         "notion_id": "554",
         "shcn": "4030",
         "shelf": "40"
@@ -6876,8 +6876,20 @@
         "identifier": "dguu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dguu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/dguu",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E9",
+        "expires": "2023-12-10 00:00:00",
+        "label": "Haio Yuza Tea with Honey 1kg",
+        "last_updated": "2024-01-23 22:11:32.499000",
+        "notion_id": "1116",
+        "percentage": "80",
+        "quantity": "1",
+        "shcn": "5E9",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "846034003002"
     },
     {
         "_id": "64f11b9c497c3069472da8c8",
