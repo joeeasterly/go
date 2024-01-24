@@ -428,8 +428,20 @@
         "identifier": "wh2p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wh2p"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wh2p",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5EA",
+        "expires": "2022-10-15 00:00:00",
+        "label": "Lotte Mirin 500ml",
+        "last_updated": "2024-01-23 22:14:22.617000",
+        "notion_id": "1115",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5EA",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "8801056023690"
     },
     {
         "_id": "64f11bc7497c30694735a9a3",
