@@ -3684,8 +3684,20 @@
         "identifier": "pkfd",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pkfd"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/pkfd",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "5E2",
+        "expires": "2024-02-24 00:00:00",
+        "label": "Wegmans Sour Cream 8oz",
+        "last_updated": "2024-01-24 16:13:02.910000",
+        "notion_id": "1155",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E2",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890714898"
     },
     {
         "_id": "64f11bb4497c30694732333a",
