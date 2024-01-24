@@ -2988,8 +2988,20 @@
         "identifier": "2ycp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2ycp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2ycp",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5EA",
+        "expires": "2024-05-19 00:00:00",
+        "label": "Wegmans Pancake Syrup 24oz",
+        "last_updated": "2024-01-23 22:13:38.092000",
+        "notion_id": "1113",
+        "percentage": "50",
+        "quantity": "1",
+        "shcn": "5EA",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890513897"
     },
     {
         "_id": "64f11b80497c3069472862e3",
