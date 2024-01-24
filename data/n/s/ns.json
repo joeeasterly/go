@@ -3340,8 +3340,20 @@
         "identifier": "nse2",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nse2"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nse2",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E9",
+        "expires": "2026-02-15 00:00:00",
+        "label": "Red Boat Fish Sauce 17oz",
+        "last_updated": "2024-01-23 22:11:15.271000",
+        "notion_id": "1114",
+        "percentage": "95",
+        "quantity": "1",
+        "shcn": "5E9",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "736211362315"
     },
     {
         "_id": "64f11bb2497c30694731cb0f",
