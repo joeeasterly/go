@@ -39,6 +39,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11b80497c3069472862e2"
+      },
+      "identifier": "2ycp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2ycp",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5EA",
+      "expires": "2024-05-19 00:00:00",
+      "label": "Wegmans Pancake Syrup 24oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:13:38.092Z"
+      },
+      "notion_id": "1113",
+      "percentage": "50",
+      "quantity": "1",
+      "shcn": "5EA",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890513897"
+    },
+    {
+      "_id": {
         "$oid": "64f11b81497c3069472887a7"
       },
       "identifier": "38ju",
@@ -77,6 +101,79 @@
     },
     {
       "_id": {
+        "$oid": "64f11b8a497c3069472a243f"
+      },
+      "identifier": "6fqk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6fqk",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5EA",
+      "expires": "2023-04-12 00:00:00",
+      "label": "Wegmans Steak House Peppercorn Marinade 16oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:13:45.262Z"
+      },
+      "notion_id": "1118",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5EA",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890432150"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a39f3"
+      },
+      "identifier": "6n57",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6n57",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2023-09-14 00:00:00",
+      "label": "Wegmans Tartar Sauce 8oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:48.949Z"
+      },
+      "notion_id": "1111",
+      "percentage": "75",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890677490"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8b497c3069472a5c83"
+      },
+      "identifier": "6wsq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6wsq",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E2",
+      "expires": "2024-05-13 00:00:00",
+      "instance_of": "ub9b",
+      "label": "Kirkland Signature Unsalted Butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:01:44.769Z"
+      },
+      "notion_id": "1124",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5E2",
+      "shelf": "5E",
+      "type": "consumable_instance",
+      "upc": "096619384969"
+    },
+    {
+      "_id": {
         "$oid": "64f11b8d497c3069472acb64"
       },
       "identifier": "7sgr",
@@ -96,6 +193,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11b99497c3069472ce5a1"
+      },
+      "identifier": "bz2n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bz2n",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2024-04-30 00:00:00",
+      "label": "Heinz Tomato Ketchup 20oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:20.721Z"
+      },
+      "notion_id": "1110",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "01364008"
+    },
+    {
+      "_id": {
         "$oid": "64f11b9c497c3069472d8d04"
       },
       "identifier": "d9wr",
@@ -112,6 +233,30 @@
       "shcn": "5EB",
       "shelf": "5E",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472da8c7"
+      },
+      "identifier": "dguu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dguu",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2023-12-10 00:00:00",
+      "label": "Haio Yuza Tea with Honey 1kg",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:32.499Z"
+      },
+      "notion_id": "1116",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "846034003002"
     },
     {
       "_id": {
@@ -153,6 +298,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba7497c3069472faeed"
+      },
+      "identifier": "hjd1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hjd1",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5E7",
+      "expires": "2023-12-23 00:00:00",
+      "label": "Kirkland Signature Unsalted Butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:03:26.243Z"
+      },
+      "notion_id": "1125",
+      "percentage": "50",
+      "quantity": "1",
+      "shcn": "5E7",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "096619384969"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba9497c306947300e7d"
       },
       "identifier": "ja9h",
@@ -172,6 +341,78 @@
     },
     {
       "_id": {
+        "$oid": "64f11bad497c30694730b8dc"
+      },
+      "identifier": "kmvg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kmvg",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5EA",
+      "expires": "2024-06-03 00:00:00",
+      "label": "Wegmans Creamy Peanut Butter 18oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:14:13.586Z"
+      },
+      "notion_id": "1123",
+      "percentage": "65",
+      "quantity": "1",
+      "shcn": "5EA",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890324509"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb1497c306947319b44"
+      },
+      "identifier": "ndfr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ndfr",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E8",
+      "expires": "2025-04-19 00:00:00",
+      "label": "Wegmans Marinated Sun-Dried Tomatoes",
+      "last_updated": {
+        "$date": "2024-01-23T21:03:55.914Z"
+      },
+      "notion_id": "1105",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E8",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890122570"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb2497c30694731cb0e"
+      },
+      "identifier": "nse2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/nse2",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2026-02-15 00:00:00",
+      "label": "Red Boat Fish Sauce 17oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:15.271Z"
+      },
+      "notion_id": "1114",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "736211362315"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb9497c306947331aa1"
       },
       "identifier": "rdan",
@@ -188,6 +429,79 @@
       "shcn": "5E3",
       "shelf": "5E",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c30694733421b"
+      },
+      "identifier": "rq6f",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rq6f",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5EA",
+      "expires": "2024-03-06 00:00:00",
+      "label": "Olive Garden Italian Dressing 16oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:13:56.980Z"
+      },
+      "notion_id": "1117",
+      "percentage": "15",
+      "quantity": "1",
+      "shcn": "5EA",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "070200838123"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbc497c306947339362"
+      },
+      "identifier": "sbgp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sbgp",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E2",
+      "expires": "2024-05-13 00:00:00",
+      "instance_of": "ub9b",
+      "label": "Kirkland Signature Unsalted Butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:02:00.092Z"
+      },
+      "notion_id": "1124",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5E2",
+      "shelf": "5E",
+      "type": "consumable_instance",
+      "upc": "096619384969"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbc497c30694733986c"
+      },
+      "identifier": "scrz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/scrz",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E8",
+      "expires": "2023-08-31 00:00:00",
+      "label": "McIlhenny Tabasco 2oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:10:21.298Z"
+      },
+      "notion_id": "1121",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5E8",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "011210000018"
     },
     {
       "_id": {
@@ -229,6 +543,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11bc0497c30694734555c"
+      },
+      "identifier": "tuzg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tuzg",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-06-18 00:00:00",
+      "label": "Hellmanns Mayonnaise 30oz",
+      "last_updated": {
+        "$date": "2024-01-23T21:04:18.866Z"
+      },
+      "notion_id": "1104",
+      "percentage": "85",
+      "quantity": "1",
+      "shcn": "5E8",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "048001213487",
+      "bay": "5E8"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc1497c306947348d34"
       },
       "identifier": "u9y8",
@@ -245,6 +583,78 @@
       "shcn": "5E5",
       "shelf": "5E",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc1497c306947348f94"
+      },
+      "identifier": "uaj8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uaj8",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5EA",
+      "expires": "2023-11-25 00:00:00",
+      "label": "Whole Foods 365 Classic Ranch Dressing 21.8oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:14:04.374Z"
+      },
+      "notion_id": "1112",
+      "percentage": "25",
+      "quantity": "1",
+      "shcn": "5EA",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "099482516819"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc1497c306947349277"
+      },
+      "identifier": "ub9b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ub9b",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5E2",
+      "expires": "2024-05-13 00:00:00",
+      "label": "Kirkland Signature Unsalted Butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:01:55.679Z"
+      },
+      "notion_id": "1124",
+      "percentage": "100",
+      "quantity": 4.0,
+      "shcn": "5E2",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "096619384969"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734ac67"
+      },
+      "identifier": "uhru",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uhru",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2023-11-13 00:00:00",
+      "label": "Pillsbury Cinnamon Rolls 12.4oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:26.577Z"
+      },
+      "notion_id": "1120",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "01850107"
     },
     {
       "_id": {
@@ -268,6 +678,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11bc3497c30694734dbed"
+      },
+      "identifier": "uwn1",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uwn1",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5EA",
+      "expires": "2022-08-25 00:00:00",
+      "label": "Wegmans Creamy Ranch Dressing 16oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:13:51.373Z"
+      },
+      "notion_id": "1122",
+      "percentage": "60",
+      "quantity": "1",
+      "shcn": "5EA",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890382042"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc5497c306947352bce"
       },
       "identifier": "vhm2",
@@ -284,6 +718,199 @@
       "shcn": "5E9",
       "shelf": "5E",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc6497c306947356390"
+      },
+      "identifier": "vyj4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vyj4",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2025-11-28 00:00:00",
+      "label": "Wegmans Parmesan Romano Pasta Sauce 24oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:10:15.979Z"
+      },
+      "notion_id": "985",
+      "percentage": "30",
+      "quantity": "1",
+      "shcn": "5E8",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890515587",
+      "bay": "5E8"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc6497c306947356906"
+      },
+      "identifier": "vzwt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vzwt",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5EA",
+      "expires": "2024-05-04 00:00:00",
+      "label": "Lee Kum Kee Soy Sauce 64oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:08:30.986Z"
+      },
+      "notion_id": "1119",
+      "percentage": "40",
+      "quantity": "1",
+      "shcn": "5EA",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "078895123975"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735a9a2"
+      },
+      "identifier": "wh2p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wh2p",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5EA",
+      "expires": "2022-10-15 00:00:00",
+      "label": "Lotte Mirin 500ml",
+      "last_updated": {
+        "$date": "2024-01-23T22:14:22.617Z"
+      },
+      "notion_id": "1115",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5EA",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "8801056023690"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694736106c"
+      },
+      "identifier": "xarz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xarz",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5E2",
+      "expires": "2024-05-13 00:00:00",
+      "instance_of": "ub9b",
+      "label": "Kirkland Signature Unsalted Butter 16oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:01:50.305Z"
+      },
+      "notion_id": "1124",
+      "percentage": 100,
+      "quantity": 1,
+      "shcn": "5E2",
+      "shelf": "5E",
+      "type": "consumable_instance",
+      "upc": "096619384969"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c306947363243"
+      },
+      "identifier": "xk7q",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xk7q",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E1",
+      "expires": "2024-03-08 00:00:00",
+      "label": "Kirkland Signature Heavy Whipped Cream 15oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:09:08.143Z"
+      },
+      "notion_id": "1107",
+      "percentage": "75",
+      "quantity": "1",
+      "shcn": "5E1",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "196633953117"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcc497c30694736a954"
+      },
+      "identifier": "ygz8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ygz8",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5ED",
+      "expires": "2024-01-29 00:00:00",
+      "label": "Daisy Light Sour Cream 14oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:14:42.207Z"
+      },
+      "notion_id": "1108",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5ED",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "073420116149"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bd0497c306947375ed1"
+      },
+      "identifier": "zxc5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zxc5",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2024-05-22 00:00:00",
+      "label": "Wegmans Yellow Mustard 8oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:42.201Z"
+      },
+      "notion_id": "1109",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890486382"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bd0497c30694737693c"
+      },
+      "identifier": "zzyg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zzyg",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E8",
+      "expires": "2024-10-22 00:00:00",
+      "label": "LGM Spicy Chili Crisp 7.41oz",
+      "last_updated": {
+        "$date": "2024-01-23T21:08:36.052Z"
+      },
+      "notion_id": "1106",
+      "percentage": "90",
+      "quantity": "1",
+      "shcn": "5E8",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "889417000045"
     }
   ]
 }

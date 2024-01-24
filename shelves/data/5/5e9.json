@@ -18,5 +18,150 @@
     "shelf": "5E",
     "type": "storage"
   },
-  "shelf_contents": []
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a39f3"
+      },
+      "identifier": "6n57",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6n57",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2023-09-14 00:00:00",
+      "label": "Wegmans Tartar Sauce 8oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:48.949Z"
+      },
+      "notion_id": "1111",
+      "percentage": "75",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890677490"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce5a1"
+      },
+      "identifier": "bz2n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bz2n",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2024-04-30 00:00:00",
+      "label": "Heinz Tomato Ketchup 20oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:20.721Z"
+      },
+      "notion_id": "1110",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "01364008"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472da8c7"
+      },
+      "identifier": "dguu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dguu",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2023-12-10 00:00:00",
+      "label": "Haio Yuza Tea with Honey 1kg",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:32.499Z"
+      },
+      "notion_id": "1116",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "846034003002"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb2497c30694731cb0e"
+      },
+      "identifier": "nse2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/nse2",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2026-02-15 00:00:00",
+      "label": "Red Boat Fish Sauce 17oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:15.271Z"
+      },
+      "notion_id": "1114",
+      "percentage": "95",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "736211362315"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734ac67"
+      },
+      "identifier": "uhru",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uhru",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2023-11-13 00:00:00",
+      "label": "Pillsbury Cinnamon Rolls 12.4oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:26.577Z"
+      },
+      "notion_id": "1120",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "01850107"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bd0497c306947375ed1"
+      },
+      "identifier": "zxc5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zxc5",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E9",
+      "expires": "2024-05-22 00:00:00",
+      "label": "Wegmans Yellow Mustard 8oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:11:42.201Z"
+      },
+      "notion_id": "1109",
+      "percentage": "80",
+      "quantity": "1",
+      "shcn": "5E9",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890486382"
+    }
+  ]
 }

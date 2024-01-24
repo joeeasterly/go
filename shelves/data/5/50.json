@@ -135,6 +135,30 @@
       "shcn": "501",
       "shelf": "50",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c306947361b5b"
+      },
+      "identifier": "xdgf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xdgf",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2025-09-01 00:00:00",
+      "label": "Bausch and Lomb Sensitive Eyes Saline Solution 12oz",
+      "last_updated": {
+        "$date": "2024-01-23T22:06:11.834Z"
+      },
+      "notion_id": "1126",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "310119002384"
     }
   ]
 }

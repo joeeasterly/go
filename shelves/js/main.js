@@ -29,11 +29,11 @@ shelvingRecordDiv.className = 'shelving-record';
 
 // Define the order of fields for each type
 const fieldOrder = {
-    inventory: ['label', 'last_updated', 'field3'],
-    item: ['label', 'last_updated', 'field3'],
-    storage: ['label', 'last_updated', 'field3'],
-    consumable: ['label', 'last_updated', 'expires'],
-    consumable_instance: ['label', 'last_updated', 'expires', 'field1'],
+    inventory: ['label', 'last_updated', 'identifier'],
+    item: ['label', 'last_updated', 'type', 'identifier'],
+    storage: ['label', 'last_updated', 'field3', 'identifier'],
+    consumable: ['label', 'last_updated', 'expires', 'identifier'],
+    consumable_instance: ['label', 'last_updated', 'expires', 'identifier'],
 };
 
 // Render shelving record details

@@ -301,29 +301,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11b98497c3069472caabb"
-      },
-      "identifier": "bhbf",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/bhbf",
-      "staged": "2024-01-07 13:56:33",
-      "expires": "2022-12-07 00:00:00",
-      "label": "Assi Roasted Sesame Seeds 16oz",
-      "last_updated": {
-        "$date": "2024-01-19T11:06:40.521Z"
-      },
-      "notion_id": "983",
-      "percentage": "95",
-      "quantity": "1",
-      "shcn": "10",
-      "shelf": "10",
-      "type": "consumable",
-      "upc": "081652053903"
-    },
-    {
-      "_id": {
         "$oid": "64f11b98497c3069472ccb31"
       },
       "identifier": "bsf5",
@@ -772,29 +749,6 @@
       "shcn": "1010",
       "shelf": "10",
       "type": "item"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bcb497c3069473658c6"
-      },
-      "identifier": "xvut",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/xvut",
-      "staged": "2024-01-07 13:56:33",
-      "expires": "2023-05-23 00:00:00",
-      "label": "Wegmans Box Mac n Cheese Original 7.25oz",
-      "last_updated": {
-        "$date": "2024-01-19T10:53:50.980Z"
-      },
-      "notion_id": "975",
-      "percentage": "100",
-      "quantity": "1",
-      "shcn": "10",
-      "shelf": "10",
-      "type": "consumable",
-      "upc": "077890465325"
     },
     {
       "_id": {
