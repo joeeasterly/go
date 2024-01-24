@@ -18,5 +18,126 @@
     "shelf": "5E",
     "type": "storage"
   },
-  "shelf_contents": []
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba1497c3069472e85e8"
+      },
+      "identifier": "f84v",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/f84v",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E3",
+      "expires": "2024-04-11 00:00:00",
+      "label": "Wegmans Shredded Mexican Blend Cheese 32oz",
+      "last_updated": {
+        "$date": "2024-01-24T16:58:03.480Z"
+      },
+      "notion_id": "1171",
+      "percentage": "50",
+      "quantity": "1",
+      "shcn": "5E3",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890530726"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c306947308e26"
+      },
+      "identifier": "ka6t",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ka6t",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E3",
+      "expires": "2024-02-05 00:00:00",
+      "label": "Wegmans Grade AA Extra Large Eggs 18ct",
+      "last_updated": {
+        "$date": "2024-01-24T16:54:12.676Z"
+      },
+      "notion_id": "1169",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E3",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890339770"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb1497c30694731824d"
+      },
+      "identifier": "n781",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/n781",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E3",
+      "expires": "2024-05-24 00:00:00",
+      "label": "Wegmans Part-Skim Mozzarella Sticks 24oz",
+      "last_updated": {
+        "$date": "2024-01-24T16:59:18.843Z"
+      },
+      "notion_id": "1172",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E3",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890523933"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c306947358c55"
+      },
+      "identifier": "w9r9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/w9r9",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E3",
+      "expires": "2024-04-28 00:00:00",
+      "label": "Whole Foods 365 Shredded Mozzarella 32oz",
+      "last_updated": {
+        "$date": "2024-01-24T16:57:00.234Z"
+      },
+      "notion_id": "1170",
+      "percentage": "35",
+      "quantity": "1",
+      "shcn": "5E3",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "099482508845"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c306947372569"
+      },
+      "identifier": "zfzw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zfzw",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E3",
+      "expires": "2024-02-26 00:00:00",
+      "label": "Wegmans Grade AA Eggs 12ct",
+      "last_updated": {
+        "$date": "2024-01-24T16:53:11.044Z"
+      },
+      "notion_id": "1168",
+      "percentage": "75",
+      "quantity": "1",
+      "shcn": "5E3",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890801338"
+    }
+  ]
 }

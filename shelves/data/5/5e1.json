@@ -21,6 +21,174 @@
   "shelf_contents": [
     {
       "_id": {
+        "$oid": "64f11b83497c30694728f572"
+      },
+      "identifier": "4416",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4416",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E1",
+      "expires": "2024-09-28 00:00:00",
+      "label": "Solestado Muffuletta Olive Salad 33.9 oz",
+      "last_updated": {
+        "$date": "2024-01-24T15:58:56.324Z"
+      },
+      "notion_id": "1146",
+      "percentage": "60",
+      "quantity": "1",
+      "shcn": "5E1",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "687250802488"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472ab233"
+      },
+      "identifier": "7k77",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7k77",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E1",
+      "expires": "2024-03-09 00:00:00",
+      "label": "Wegmans Ultra-Pasteurized Half and Half 1qt",
+      "last_updated": {
+        "$date": "2024-01-24T16:32:27.005Z"
+      },
+      "notion_id": "1162",
+      "percentage": "85",
+      "quantity": "1",
+      "shcn": "5E1",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890486726"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472cf725"
+      },
+      "identifier": "c4es",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c4es",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E1",
+      "expires": "2024-10-07 00:00:00",
+      "label": "Wegmans Pepperoncini 32oz",
+      "last_updated": {
+        "$date": "2024-01-24T16:29:05.186Z"
+      },
+      "notion_id": "1160",
+      "percentage": "60",
+      "quantity": "1",
+      "shcn": "5E1",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890117880"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9d497c3069472dcca9"
+      },
+      "identifier": "dstw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dstw",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E1",
+      "expires": "2024-02-27 00:00:00",
+      "label": "Wegmans Unsweetened Almond Milk 64oz",
+      "last_updated": {
+        "$date": "2024-01-24T16:34:14.185Z"
+      },
+      "notion_id": "1163",
+      "percentage": "90",
+      "quantity": "1",
+      "shcn": "5E1",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890534649"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb3497c306947320835"
+      },
+      "identifier": "p8q9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/p8q9",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E1",
+      "expires": "2024-03-08 00:00:00",
+      "label": "Kirkland Signature Heavy Whipped Cream 15oz",
+      "last_updated": {
+        "$date": "2024-01-24T16:31:00.386Z"
+      },
+      "notion_id": "1161",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E1",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "196633953117"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734a89f"
+      },
+      "identifier": "ugtk",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ugtk",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5E1",
+      "expires": "2024-02-06 00:00:00",
+      "label": "Wegmans 1 Percent Milk 1qt",
+      "last_updated": {
+        "$date": "2024-01-24T16:35:40.530Z"
+      },
+      "notion_id": "1164",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E1",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890368923"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735a948"
+      },
+      "identifier": "wgyv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wgyv",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E1",
+      "expires": "2024-02-24 00:00:00",
+      "label": "Wegmans Orange Juice 32oz",
+      "last_updated": {
+        "$date": "2024-01-24T16:37:01.557Z"
+      },
+      "notion_id": "1165",
+      "percentage": "65",
+      "quantity": "1",
+      "shcn": "5E1",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890818244"
+    },
+    {
+      "_id": {
         "$oid": "64f11bca497c306947363243"
       },
       "identifier": "xk7q",
