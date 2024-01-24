@@ -5967,9 +5967,20 @@
         "identifier": "w9r9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/w9r9",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E3",
+        "expires": "2024-04-28 00:00:00",
+        "label": "Whole Foods 365 Shredded Mozzarella 32oz",
+        "last_updated": "2024-01-24 16:57:00.234000",
+        "notion_id": "1170",
+        "percentage": "35",
+        "quantity": "1",
+        "shcn": "5E3",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "099482508845"
     },
     {
         "_id": "64f11bc7497c306947358c56",
