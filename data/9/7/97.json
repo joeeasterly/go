@@ -1980,8 +1980,20 @@
         "identifier": "978r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/978r"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/978r",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "503",
+        "expires": "2024-04-15 00:00:00",
+        "label": "Wegmans Kettle Cooked Potato Chips 8.5oz",
+        "last_updated": "2024-01-24 10:48:31.177000",
+        "notion_id": "1132",
+        "percentage": "60",
+        "quantity": "1",
+        "shcn": "503",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "077890280768"
     },
     {
         "_id": "64f11b91497c3069472b8265",
@@ -4216,7 +4228,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/97he"
+        "permalink": "https://joeeasterly.github.io/go/97he",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b91497c3069472b837b",
