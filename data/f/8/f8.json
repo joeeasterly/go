@@ -988,8 +988,20 @@
         "identifier": "f84v",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/f84v"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/f84v",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E3",
+        "expires": "2024-04-11 00:00:00",
+        "label": "Wegmans Shredded Mexican Blend Cheese 32oz",
+        "last_updated": "2024-01-24 16:58:03.480000",
+        "notion_id": "1171",
+        "percentage": "50",
+        "quantity": "1",
+        "shcn": "5E3",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890530726"
     },
     {
         "_id": "64f11ba1497c3069472e85e9",
