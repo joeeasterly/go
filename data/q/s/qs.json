@@ -484,8 +484,20 @@
         "identifier": "qs2w",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qs2w"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qs2w",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "591",
+        "expires": "2026-06-07 00:00:00",
+        "label": "McCormick Garlic Powder 3.12oz",
+        "last_updated": "2024-01-23 17:14:59.177000",
+        "notion_id": "1103",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "591",
+        "shelf": "59",
+        "type": "consumable",
+        "upc": "052100006260"
     },
     {
         "_id": "64f11bb8497c30694732c9aa",
@@ -5549,7 +5561,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qspp"
+        "permalink": "https://joeeasterly.github.io/go/qspp",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bb8497c30694732cc23",
