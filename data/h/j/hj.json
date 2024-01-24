@@ -3088,9 +3088,20 @@
         "identifier": "hjd1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/hjd1",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07 13:56:33",
+        "bay": "5E7",
+        "expires": "2023-12-23 00:00:00",
+        "label": "Kirkland Signature Unsalted Butter 16oz",
+        "last_updated": "2024-01-23 22:03:26.243000",
+        "notion_id": "1125",
+        "percentage": "50",
+        "quantity": "1",
+        "shcn": "5E7",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "096619384969"
     },
     {
         "_id": "64f11ba7497c3069472faeee",
