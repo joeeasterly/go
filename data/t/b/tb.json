@@ -1268,8 +1268,20 @@
         "identifier": "tb5y",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tb5y"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tb5y",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "503",
+        "expires": "2024-06-05 00:00:00",
+        "label": "Triscuit Original 8.5oz",
+        "last_updated": "2024-01-24 11:03:45.213000",
+        "notion_id": "1139",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "503",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "044000050986"
     },
     {
         "_id": "64f11bbf497c30694734120c",
