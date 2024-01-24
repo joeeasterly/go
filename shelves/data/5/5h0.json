@@ -117,6 +117,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11bb7497c30694732b627"
+      },
+      "identifier": "qm6u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qm6u",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5H0",
+      "expires": "2025-12-31 00:00:00",
+      "label": "Amys Chunky Tomato Bisque 14.5oz",
+      "last_updated": {
+        "$date": "2024-01-24T10:39:53.891Z"
+      },
+      "notion_id": "1128",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5H0",
+      "shelf": "5H",
+      "type": "consumable",
+      "upc": "042272005369"
+    },
+    {
+      "_id": {
         "$oid": "64f11bbd497c30694733b693"
       },
       "identifier": "sma7",

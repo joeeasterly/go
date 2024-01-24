@@ -42,6 +42,30 @@
       "shelf": "50",
       "type": "consumable",
       "upc": "024300041204"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c306947372193"
+      },
+      "identifier": "zf27",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zf27",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "502",
+      "expires": "2024-02-04 00:00:00",
+      "label": "Wegmans Organic Granola Vanilla Almond 12oz",
+      "last_updated": {
+        "$date": "2024-01-24T10:37:44.811Z"
+      },
+      "notion_id": "1127",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "502",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "077890352274"
     }
   ]
 }

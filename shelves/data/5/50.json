@@ -57,6 +57,126 @@
     },
     {
       "_id": {
+        "$oid": "64f11b90497c3069472b5a98"
+      },
+      "identifier": "8wac",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8wac",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-04-09 00:00:00",
+      "label": "Doritos Nacho Cheese 9.25oz",
+      "last_updated": {
+        "$date": "2024-01-24T11:02:06.020Z"
+      },
+      "notion_id": "1138",
+      "percentage": "45",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "028400516464"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b91497c3069472b8264"
+      },
+      "identifier": "978r",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/978r",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-04-15 00:00:00",
+      "label": "Wegmans Kettle Cooked Potato Chips 8.5oz",
+      "last_updated": {
+        "$date": "2024-01-24T10:48:31.177Z"
+      },
+      "notion_id": "1132",
+      "percentage": "60",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "077890280768"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cb4bb"
+      },
+      "identifier": "bkuf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bkuf",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2023-12-02 00:00:00",
+      "label": "Wegmans Organic White Quinoa 32oz",
+      "last_updated": {
+        "$date": "2024-01-24T10:46:51.261Z"
+      },
+      "notion_id": "1131",
+      "percentage": "90",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "077890516164"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e4bd8"
+      },
+      "identifier": "esmc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/esmc",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Walker Shortbread Cookies 70g",
+      "last_updated": {
+        "$date": "2024-01-24T11:09:12.827Z"
+      },
+      "notion_id": "1142",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba4497c3069472f2192"
+      },
+      "identifier": "gf26",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gf26",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-11-03 00:00:00",
+      "label": "Whole Foods 365 Freeze-Dried Strawberry Slices 1.2oz",
+      "last_updated": {
+        "$date": "2024-01-24T10:51:15.406Z"
+      },
+      "notion_id": "1134",
+      "percentage": "90",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "099482453121"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba5497c3069472f2ebc"
       },
       "identifier": "gjbg",
@@ -100,6 +220,150 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba7497c3069472fb956"
+      },
+      "identifier": "hmza",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hmza",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-02-05 00:00:00",
+      "label": "Wegmans Wavy Potato Chips 11oz",
+      "last_updated": {
+        "$date": "2024-01-24T10:59:34.942Z"
+      },
+      "notion_id": "1137",
+      "percentage": "40",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "077890327234"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb4497c306947321a39"
+      },
+      "identifier": "pd7d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pd7d",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Pinhead Oats 827g cwt 756g",
+      "last_updated": {
+        "$date": "2024-01-24T11:06:47.736Z"
+      },
+      "notion_id": "1140",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb4497c3069473225cd"
+      },
+      "identifier": "pg41",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pg41",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2025-11-22 00:00:00",
+      "label": "Ricola Swiss Cherry Drops 34ct",
+      "last_updated": {
+        "$date": "2024-01-24T10:44:25.266Z"
+      },
+      "notion_id": "1130",
+      "percentage": "50",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "036602030596"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb6497c306947328d73"
+      },
+      "identifier": "qa17",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qa17",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-04-22 00:00:00",
+      "label": "Kelloggs Toasteds Buttercrisp 8oz",
+      "last_updated": {
+        "$date": "2024-01-24T10:41:49.879Z"
+      },
+      "notion_id": "1129",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "030100322924"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbc497c306947339229"
+      },
+      "identifier": "sb6w",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sb6w",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-06-20 00:00:00",
+      "label": "Kellogs Toasted Artisan Collection 12oz",
+      "last_updated": {
+        "$date": "2024-01-24T10:54:10.735Z"
+      },
+      "notion_id": "1135",
+      "percentage": "33",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "030100263517"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c30694734120b"
+      },
+      "identifier": "tb5y",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tb5y",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-06-05 00:00:00",
+      "label": "Triscuit Original 8.5oz",
+      "last_updated": {
+        "$date": "2024-01-24T11:03:45.213Z"
+      },
+      "notion_id": "1139",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "044000050986"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc2497c30694734a44f"
       },
       "identifier": "ufr3",
@@ -116,6 +380,78 @@
       "shcn": "503",
       "shelf": "50",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c3069473529c8"
+      },
+      "identifier": "vh3v",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vh3v",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-12-31 00:00:00",
+      "label": "Rolled Oats 713g cwt 756g",
+      "last_updated": {
+        "$date": "2024-01-24T11:08:03.089Z"
+      },
+      "notion_id": "1141",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "none"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c306947359de3"
+      },
+      "identifier": "we4q",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/we4q",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2024-04-29 00:00:00",
+      "label": "Wegmans Peanut Butter Filled Pretzel Nuggets 24oz",
+      "last_updated": {
+        "$date": "2024-01-24T10:56:24.363Z"
+      },
+      "notion_id": "1136",
+      "percentage": "30",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "077890468661"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc7497c30694735a1f7"
+      },
+      "identifier": "wf5b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wf5b",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "503",
+      "expires": "2023-07-21 00:00:00",
+      "label": "Mush Garden Shiitake Mushroom Chips 90g",
+      "last_updated": {
+        "$date": "2024-01-24T10:49:43.597Z"
+      },
+      "notion_id": "1133",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "503",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "690277768200"
     },
     {
       "_id": {
@@ -159,6 +495,30 @@
       "shelf": "50",
       "type": "consumable",
       "upc": "310119002384"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c306947372193"
+      },
+      "identifier": "zf27",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zf27",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "502",
+      "expires": "2024-02-04 00:00:00",
+      "label": "Wegmans Organic Granola Vanilla Almond 12oz",
+      "last_updated": {
+        "$date": "2024-01-24T10:37:44.811Z"
+      },
+      "notion_id": "1127",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "502",
+      "shelf": "50",
+      "type": "consumable",
+      "upc": "077890352274"
     }
   ]
 }
