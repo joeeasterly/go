@@ -52,8 +52,20 @@
         "identifier": "qa17",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qa17"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qa17",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "503",
+        "expires": "2024-04-22 00:00:00",
+        "label": "Kelloggs Toasteds Buttercrisp 8oz",
+        "last_updated": "2024-01-24 10:41:49.879000",
+        "notion_id": "1129",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "503",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "030100322924"
     },
     {
         "_id": "64f11bb6497c306947328d74",
