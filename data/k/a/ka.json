@@ -1484,9 +1484,20 @@
         "identifier": "ka6t",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ka6t",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E3",
+        "expires": "2024-02-05 00:00:00",
+        "label": "Wegmans Grade AA Extra Large Eggs 18ct",
+        "last_updated": "2024-01-24 16:54:12.676000",
+        "notion_id": "1169",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E3",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890339770"
     },
     {
         "_id": "64f11bac497c306947308e27",
