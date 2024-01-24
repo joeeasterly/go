@@ -948,9 +948,20 @@
         "identifier": "we4q",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/we4q",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "503",
+        "expires": "2024-04-29 00:00:00",
+        "label": "Wegmans Peanut Butter Filled Pretzel Nuggets 24oz",
+        "last_updated": "2024-01-24 10:56:24.363000",
+        "notion_id": "1136",
+        "percentage": "30",
+        "quantity": "1",
+        "shcn": "503",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "077890468661"
     },
     {
         "_id": "64f11bc7497c306947359de4",
