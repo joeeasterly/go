@@ -6100,8 +6100,20 @@
         "identifier": "uhru",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/uhru"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/uhru",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E9",
+        "expires": "2023-11-13 00:00:00",
+        "label": "Pillsbury Cinnamon Rolls 12.4oz",
+        "last_updated": "2024-01-23 22:11:26.577000",
+        "notion_id": "1120",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E9",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "01850107"
     },
     {
         "_id": "64f11bc2497c30694734ac68",
