@@ -1125,7 +1125,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ds5d"
+        "permalink": "https://joeeasterly.github.io/go/ds5d",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b9d497c3069472dc9fa",
@@ -6628,8 +6629,20 @@
         "identifier": "dstw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dstw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/dstw",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E1",
+        "expires": "2024-02-27 00:00:00",
+        "label": "Wegmans Unsweetened Almond Milk 64oz",
+        "last_updated": "2024-01-24 16:34:14.185000",
+        "notion_id": "1163",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "5E1",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890534649"
     },
     {
         "_id": "64f11b9d497c3069472dccaa",
