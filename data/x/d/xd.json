@@ -194,7 +194,7 @@
         "bay": "403",
         "container": "4030",
         "label": "cricut 8ft usb-a to usb-b cable",
-        "last_updated": "2023-10-25T09:34:32.804000",
+        "last_updated": "2023-10-25 09:34:32.804000",
         "notion_id": "560",
         "shcn": "4030",
         "shelf": "40"
@@ -3964,8 +3964,20 @@
         "identifier": "xdgf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xdgf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xdgf",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "503",
+        "expires": "2025-09-01 00:00:00",
+        "label": "Bausch and Lomb Sensitive Eyes Saline Solution 12oz",
+        "last_updated": "2024-01-23 22:06:11.834000",
+        "notion_id": "1126",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "503",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "310119002384"
     },
     {
         "_id": "64f11bca497c306947361b5c",
@@ -4674,7 +4686,7 @@
         "bay": "412",
         "container": "4122",
         "label": "female usb-micro to male usb-c adapter",
-        "last_updated": "2023-10-24T13:58:37.240000",
+        "last_updated": "2023-10-24 13:58:37.240000",
         "notion_id": "550",
         "shcn": "4122A",
         "shelf": "41",
@@ -5326,7 +5338,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xdnr"
+        "permalink": "https://joeeasterly.github.io/go/xdnr",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bca497c306947361c05",
