@@ -4284,8 +4284,20 @@
         "identifier": "mbhr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mbhr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mbhr",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E7",
+        "expires": "2024-04-27 00:00:00",
+        "label": "Whole Foods 365 Salted Butter 16oz",
+        "last_updated": "2024-01-24 16:46:47.027000",
+        "notion_id": "1166",
+        "percentage": "35",
+        "quantity": "1",
+        "shcn": "5E7",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "099482504779"
     },
     {
         "_id": "64f11baf497c306947311385",
