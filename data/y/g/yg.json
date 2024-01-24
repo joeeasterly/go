@@ -4549,7 +4549,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ygjs"
+        "permalink": "https://joeeasterly.github.io/go/ygjs",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bcc497c30694736a7a6",
@@ -7996,8 +7997,20 @@
         "identifier": "ygz8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ygz8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ygz8",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5ED",
+        "expires": "2024-01-29 00:00:00",
+        "label": "Daisy Light Sour Cream 14oz",
+        "last_updated": "2024-01-23 22:14:42.207000",
+        "notion_id": "1108",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5ED",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "073420116149"
     },
     {
         "_id": "64f11bcc497c30694736a955",
