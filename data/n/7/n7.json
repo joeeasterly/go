@@ -1796,8 +1796,20 @@
         "identifier": "n781",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/n781"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/n781",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E3",
+        "expires": "2024-05-24 00:00:00",
+        "label": "Wegmans Part-Skim Mozzarella Sticks 24oz",
+        "last_updated": "2024-01-24 16:59:18.843000",
+        "notion_id": "1172",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E3",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890523933"
     },
     {
         "_id": "64f11bb1497c30694731824e",
