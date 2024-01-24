@@ -5275,8 +5275,20 @@
         "identifier": "6hnk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6hnk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6hnk",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E7",
+        "expires": "2024-05-01 00:00:00",
+        "label": "Whole Foods 365 Unsalted Butter 16oz",
+        "last_updated": "2024-01-24 16:46:41.361000",
+        "notion_id": "1167",
+        "percentage": "50",
+        "quantity": "1",
+        "shcn": "5E7",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "099482504762"
     },
     {
         "_id": "64f11b8a497c3069472a2c00",
