@@ -772,8 +772,20 @@
         "identifier": "pg41",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pg41"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/pg41",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "503",
+        "expires": "2025-11-22 00:00:00",
+        "label": "Ricola Swiss Cherry Drops 34ct",
+        "last_updated": "2024-01-24 10:44:25.266000",
+        "notion_id": "1130",
+        "percentage": "50",
+        "quantity": "1",
+        "shcn": "503",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "036602030596"
     },
     {
         "_id": "64f11bb4497c3069473225ce",
