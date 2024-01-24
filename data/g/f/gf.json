@@ -300,8 +300,20 @@
         "identifier": "gf26",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gf26"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gf26",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "503",
+        "expires": "2024-11-03 00:00:00",
+        "label": "Whole Foods 365 Freeze-Dried Strawberry Slices 1.2oz",
+        "last_updated": "2024-01-24 10:51:15.406000",
+        "notion_id": "1134",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "503",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "099482453121"
     },
     {
         "_id": "64f11ba4497c3069472f2193",
