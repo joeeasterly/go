@@ -2941,7 +2941,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vzcg"
+        "permalink": "https://joeeasterly.github.io/go/vzcg",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc6497c3069473566dd",
@@ -6152,7 +6153,7 @@
         "permalink": "https://joeeasterly.github.io/go/vzs1",
         "bay": "5V4",
         "label": "bay 5V4",
-        "last_updated": "2024-01-01T17:15:33.367000",
+        "last_updated": "2024-01-01 17:15:33.367000",
         "notion_id": "811",
         "shcn": "5V4",
         "shelf": "5V",
@@ -7379,8 +7380,20 @@
         "identifier": "vzwt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vzwt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vzwt",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5EA",
+        "expires": "2024-05-04 00:00:00",
+        "label": "Lee Kum Kee Soy Sauce 64oz",
+        "last_updated": "2024-01-23 22:08:30.986000",
+        "notion_id": "1119",
+        "percentage": "40",
+        "quantity": "1",
+        "shcn": "5EA",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "078895123975"
     },
     {
         "_id": "64f11bc6497c306947356907",
