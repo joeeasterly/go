@@ -900,8 +900,20 @@
         "identifier": "dv4h",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dv4h"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/dv4h",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E2",
+        "expires": "2024-02-10 00:00:00",
+        "label": "Chobani Nonfat Plain Greek Yogurt 150g",
+        "last_updated": "2024-01-24 16:06:22.078000",
+        "notion_id": "1150",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E2",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "818290013811"
     },
     {
         "_id": "64f11b9d497c3069472dd5de",
