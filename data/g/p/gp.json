@@ -707,8 +707,20 @@
         "identifier": "gp3r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gp3r"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gp3r",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E2",
+        "expires": "2024-09-27 00:00:00",
+        "label": "Better Than Bouillon Chicken Base 21oz",
+        "last_updated": "2024-01-24 16:19:15.333000",
+        "notion_id": "1156",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E2",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "098308243236"
     },
     {
         "_id": "64f11ba5497c3069472f3dc5",
