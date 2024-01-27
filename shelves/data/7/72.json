@@ -39,6 +39,25 @@
     },
     {
       "_id": {
+        "$oid": "64f11bb9497c306947331178"
+      },
+      "identifier": "rb1c",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rb1c",
+      "staged": "2024-01-19 11:39:27",
+      "label": "Google Nest Wifi Router 1YFT",
+      "last_updated": {
+        "$date": "2024-01-24T20:04:21.887Z"
+      },
+      "notion_id": "1173",
+      "shcn": "72",
+      "shelf": "72",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bbe497c30694733fc06"
       },
       "identifier": "t5nt",

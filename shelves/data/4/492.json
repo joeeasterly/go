@@ -45,6 +45,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11b80497c3069472860ac"
+      },
+      "identifier": "2xtz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2xtz",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "492",
+      "expires": "2023-07-15 00:00:00",
+      "label": "Wegmans Sparkling Water Raspberry 12pk",
+      "last_updated": {
+        "$date": "2024-01-26T20:50:19.649Z"
+      },
+      "notion_id": "1178",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "492",
+      "shelf": "49",
+      "type": "consumable",
+      "upc": "077890515860"
+    },
+    {
+      "_id": {
         "$oid": "64f11b81497c306947288da8"
       },
       "identifier": "3a2v",
@@ -91,6 +115,30 @@
       "shelf": "49",
       "type": "consumable_instance",
       "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b81497c306947289f00"
+      },
+      "identifier": "3edm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3edm",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "492",
+      "expires": "2023-04-14 00:00:00",
+      "label": "Wegmans Sparkling Water Watermelon 12pk",
+      "last_updated": {
+        "$date": "2024-01-26T20:46:40.717Z"
+      },
+      "notion_id": "1176",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "492",
+      "shelf": "49",
+      "type": "consumable",
+      "upc": "077890450505"
     },
     {
       "_id": {
@@ -193,6 +241,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11b9c497c3069472d74de"
+      },
+      "identifier": "d3vj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/d3vj",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "492",
+      "expires": "2024-01-17 00:00:00",
+      "label": "Wegmans Sparkling Water Lime Mint 12pk",
+      "last_updated": {
+        "$date": "2024-01-26T20:53:48.986Z"
+      },
+      "notion_id": "1179",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "492",
+      "shelf": "49",
+      "type": "consumable",
+      "upc": "077890317792"
+    },
+    {
+      "_id": {
         "$oid": "64f11b9c497c3069472da3dd"
       },
       "identifier": "dfmh",
@@ -263,6 +335,54 @@
       "shelf": "49",
       "type": "consumable",
       "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c3069473293d8"
+      },
+      "identifier": "qbmc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qbmc",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "492",
+      "expires": "2023-03-16 00:00:00",
+      "label": "Wegmans Sparkling Water Coconut Lime 12pk",
+      "last_updated": {
+        "$date": "2024-01-26T20:48:31.104Z"
+      },
+      "notion_id": "1177",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "492",
+      "shelf": "49",
+      "type": "consumable",
+      "upc": "077890414736"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c306947345bf0"
+      },
+      "identifier": "twn4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/twn4",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "492",
+      "expires": "2024-09-21 00:00:00",
+      "label": "Wegmans Sparkling Water Mixed Berry 12pk",
+      "last_updated": {
+        "$date": "2024-01-26T21:12:31.872Z"
+      },
+      "notion_id": "1191",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "492",
+      "shelf": "49",
+      "type": "consumable",
+      "upc": "077890351956"
     },
     {
       "_id": {
