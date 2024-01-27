@@ -684,8 +684,20 @@
         "identifier": "hq3p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/hq3p"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/hq3p",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "3A0",
+        "expires": "2024-09-16 00:00:00",
+        "label": "Wegmans Sparkling Water Dragon Fruit 12pk",
+        "last_updated": "2024-01-26 21:27:22.085000",
+        "notion_id": "1186",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "3A0",
+        "shelf": "3A",
+        "type": "consumable",
+        "upc": "077890494141"
     },
     {
         "_id": "64f11ba8497c3069472fc1c3",
@@ -6125,7 +6137,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/hqrx"
+        "permalink": "https://joeeasterly.github.io/go/hqrx",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11ba8497c3069472fc46b",
