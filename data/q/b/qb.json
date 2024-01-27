@@ -4956,8 +4956,20 @@
         "identifier": "qbmc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qbmc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/qbmc",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "492",
+        "expires": "2023-03-16 00:00:00",
+        "label": "Wegmans Sparkling Water Coconut Lime 12pk",
+        "last_updated": "2024-01-26 20:48:31.104000",
+        "notion_id": "1177",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "492",
+        "shelf": "49",
+        "type": "consumable",
+        "upc": "077890414736"
     },
     {
         "_id": "64f11bb7497c3069473293d9",
@@ -5328,7 +5340,7 @@
         "permalink": "https://joeeasterly.github.io/go/qbnt",
         "bay": "484",
         "label": "bay 484",
-        "last_updated": "2024-01-04T16:52:40.953000",
+        "last_updated": "2024-01-04 16:52:40.953000",
         "notion_id": "892",
         "shcn": "484",
         "shelf": "48",
@@ -6372,7 +6384,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qbsv"
+        "permalink": "https://joeeasterly.github.io/go/qbsv",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bb7497c306947329489",
