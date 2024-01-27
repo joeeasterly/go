@@ -5413,7 +5413,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7gp5"
+        "permalink": "https://joeeasterly.github.io/go/7gp5",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b8c497c3069472aa812",
@@ -7215,8 +7216,8 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/7gw6",
-        "label": "shelf 48",
-        "last_updated": "2023-12-24T17:15:48.834000",
+        "label": "Food Shelf",
+        "last_updated": "2024-01-26 20:17:20.712000",
         "notion_id": "576",
         "shcn": "48",
         "shelf": "48",
