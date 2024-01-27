@@ -300,8 +300,15 @@
         "identifier": "am26",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/am26"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/am26",
+        "staged": "2024-01-07 13:56:33",
+        "label": "Cosco Hand Truck",
+        "last_updated": "2024-01-26 21:18:47.926000",
+        "notion_id": "1192",
+        "shcn": "3A",
+        "shelf": "3A",
+        "type": "storage"
     },
     {
         "_id": "64f11b95497c3069472c3593",
@@ -6983,7 +6990,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/amv9",
         "label": "1 1/4in #8 plaster screws",
-        "last_updated": "2023-10-18T14:35:01.518000",
+        "last_updated": "2023-10-18 14:35:01.518000",
         "notion_id": "398",
         "shelf": "41",
         "bay": "411",
