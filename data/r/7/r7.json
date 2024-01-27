@@ -460,8 +460,19 @@
         "identifier": "r72t",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/r72t"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/r72t",
+        "staged": "2024-01-19 11:39:27",
+        "expires": "2024-12-14 00:00:00",
+        "label": "Wegmans Spring Water 128oz",
+        "last_updated": "2024-01-27 15:21:11.238000",
+        "notion_id": "1204",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "1A",
+        "shelf": "1A",
+        "type": "consumable",
+        "upc": "077890414576"
     },
     {
         "_id": "64f11bb9497c3069473301a7",
