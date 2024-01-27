@@ -1845,7 +1845,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3587"
+        "permalink": "https://joeeasterly.github.io/go/3587",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b81497c306947287a54",
@@ -2828,8 +2829,20 @@
         "identifier": "35c2",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/35c2"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/35c2",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "3A0",
+        "expires": "2024-09-09 00:00:00",
+        "label": "Wegmans Sparkling Water Passion Fruit 12pk",
+        "last_updated": "2024-01-26 21:27:49.510000",
+        "notion_id": "1183",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "3A0",
+        "shelf": "3A",
+        "type": "consumable",
+        "upc": "077890466438"
     },
     {
         "_id": "64f11b81497c306947287acf",
