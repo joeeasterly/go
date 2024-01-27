@@ -3228,8 +3228,20 @@
         "identifier": "3edm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3edm"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3edm",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "492",
+        "expires": "2023-04-14 00:00:00",
+        "label": "Wegmans Sparkling Water Watermelon 12pk",
+        "last_updated": "2024-01-26 20:46:40.717000",
+        "notion_id": "1176",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "492",
+        "shelf": "49",
+        "type": "consumable",
+        "upc": "077890450505"
     },
     {
         "_id": "64f11b81497c306947289f01",
