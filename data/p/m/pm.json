@@ -6045,8 +6045,18 @@
         "identifier": "pmrm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pmrm"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/pmrm",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4120",
+        "label": "slot 4120K",
+        "last_updated": "2024-01-28 14:31:49.288000",
+        "notion_id": "1216",
+        "shcn": "4120K",
+        "shelf": "41",
+        "slot": "4120K",
+        "type": "storage"
     },
     {
         "_id": "64f11bb4497c306947323861",
