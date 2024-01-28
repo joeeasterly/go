@@ -180,9 +180,18 @@
         "identifier": "mw1q",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/mw1q",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4122",
+        "label": "slot 4122N",
+        "last_updated": "2024-01-28 16:33:49.034000",
+        "notion_id": "1252",
+        "shcn": "4122N",
+        "shelf": "41",
+        "slot": "4122N",
+        "type": "storage"
     },
     {
         "_id": "64f11bb0497c306947315984",
