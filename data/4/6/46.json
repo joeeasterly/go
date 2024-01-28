@@ -652,8 +652,18 @@
         "identifier": "463j",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/463j"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/463j",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4123",
+        "label": "slot 41231",
+        "last_updated": "2024-01-28 16:03:53.830000",
+        "notion_id": "1239",
+        "shcn": "41231",
+        "shelf": "41",
+        "slot": "41231",
+        "type": "storage"
     },
     {
         "_id": "64f11b83497c30694728fdbf",
