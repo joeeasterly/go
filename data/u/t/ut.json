@@ -6732,9 +6732,18 @@
         "identifier": "utua",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/utua",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4120",
+        "label": "slot 4120V",
+        "last_updated": "2024-01-28 15:14:06.513000",
+        "notion_id": "1222",
+        "shcn": "4120V",
+        "shelf": "41",
+        "slot": "4120V",
+        "type": "storage"
     },
     {
         "_id": "64f11bc3497c30694734d0b7",
