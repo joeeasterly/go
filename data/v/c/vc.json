@@ -709,7 +709,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vc3s"
+        "permalink": "https://joeeasterly.github.io/go/vc3s",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bc4497c3069473515c6",
@@ -5148,8 +5149,18 @@
         "identifier": "vcn4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vcn4"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vcn4",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4120",
+        "label": "slot 4120N",
+        "last_updated": "2024-01-28 15:05:13.708000",
+        "notion_id": "1218",
+        "shcn": "4120N",
+        "shelf": "41",
+        "slot": "4120N",
+        "type": "storage"
     },
     {
         "_id": "64f11bc4497c3069473517f1",
