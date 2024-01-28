@@ -1596,8 +1596,18 @@
         "identifier": "7978",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7978"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7978",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4122",
+        "label": "slot 4122D",
+        "last_updated": "2024-01-28 16:25:22.213000",
+        "notion_id": "1245",
+        "shcn": "4122D",
+        "shelf": "41",
+        "slot": "4122D",
+        "type": "storage"
     },
     {
         "_id": "64f11b8c497c3069472a8a35",
