@@ -1779,9 +1779,17 @@
         "identifier": "ww7x",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ww7x",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "101",
+        "container": "1010",
+        "label": "DeWalt Shop Vac Attachments",
+        "last_updated": "2024-01-27 21:14:28.250000",
+        "notion_id": "1213",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bc8497c30694735da4b",
