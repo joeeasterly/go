@@ -340,8 +340,18 @@
         "identifier": "vt2b",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vt2b"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vt2b",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4120",
+        "label": "slot 4120J",
+        "last_updated": "2024-01-28 14:21:54.014000",
+        "notion_id": "1215",
+        "shcn": "4120J",
+        "shelf": "41",
+        "slot": "4120J",
+        "type": "storage"
     },
     {
         "_id": "64f11bc5497c306947354d98",
