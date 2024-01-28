@@ -2300,8 +2300,18 @@
         "identifier": "529z",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/529z"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/529z",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4122",
+        "label": "slot 4122K",
+        "last_updated": "2024-01-28 16:31:54.303000",
+        "notion_id": "1250",
+        "shcn": "4122K",
+        "shelf": "41",
+        "slot": "4122K",
+        "type": "storage"
     },
     {
         "_id": "64f11b86497c306947296e8d",
