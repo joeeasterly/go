@@ -1671,7 +1671,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/j77h",
         "label": "zinc 3/4in 8 self-drilling phillips screws",
-        "last_updated": "2023-10-18T20:22:43.341000",
+        "last_updated": "2023-10-18 20:22:43.341000",
         "notion_id": "393",
         "shelf": "41",
         "bay": "411",
@@ -3461,7 +3461,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/j7eg"
+        "permalink": "https://joeeasterly.github.io/go/j7eg",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11ba9497c30694730031d",
@@ -4431,13 +4432,13 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/j7j9",
         "label": "red dog training clicker",
-        "last_updated": "2023-10-18T14:58:45.690000",
+        "last_updated": "2024-01-28 15:36:00.869000",
         "notion_id": "384",
         "shelf": "41",
-        "bay": "411",
-        "container": "4110",
-        "shcn": "4110G",
-        "slot": "4110G"
+        "bay": "412",
+        "container": "4120",
+        "shcn": "4120G",
+        "slot": "4120G"
     },
     {
         "_id": "64f11ba9497c306947300396",
