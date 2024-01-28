@@ -924,8 +924,18 @@
         "identifier": "cn4m",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/cn4m"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/cn4m",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4121",
+        "label": "slot 41215",
+        "last_updated": "2024-01-28 15:27:35.276000",
+        "notion_id": "1230",
+        "shcn": "41215",
+        "shelf": "41",
+        "slot": "41215",
+        "type": "storage"
     },
     {
         "_id": "64f11b9a497c3069472d39e1",
@@ -3181,7 +3191,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/cnde"
+        "permalink": "https://joeeasterly.github.io/go/cnde",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b9a497c3069472d3afb",
