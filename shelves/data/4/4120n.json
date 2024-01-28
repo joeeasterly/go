@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc4497c3069473517f0"
+    },
+    "identifier": "vcn4",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/vcn4",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "412",
+    "container": "4120",
+    "label": "slot 4120N",
+    "last_updated": {
+      "$date": "2024-01-28T15:05:13.708Z"
+    },
+    "notion_id": "1218",
+    "shcn": "4120N",
+    "shelf": "41",
+    "slot": "4120N",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

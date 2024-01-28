@@ -1,20 +1,21 @@
 {
   "shelving_record": {
     "_id": {
-      "$oid": "64f11bc9497c30694735f10e"
+      "$oid": "64f11b83497c30694728fdbe"
     },
-    "identifier": "x2x2",
+    "identifier": "463j",
     "target": "#",
     "class": "inventory",
-    "allocated": "true",
-    "permalink": "https://joeeasterly.github.io/go/x2x2",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/463j",
+    "staged": "2024-01-19 11:39:27",
     "bay": "412",
     "container": "4123",
     "label": "slot 41231",
     "last_updated": {
-      "$date": "2023-10-17T18:17:41.351Z"
+      "$date": "2024-01-28T16:03:53.830Z"
     },
-    "notion_id": "477",
+    "notion_id": "1239",
     "shcn": "41231",
     "shelf": "41",
     "slot": "41231",

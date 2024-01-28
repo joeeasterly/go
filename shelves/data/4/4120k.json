@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb4497c306947323860"
+    },
+    "identifier": "pmrm",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/pmrm",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "412",
+    "container": "4120",
+    "label": "slot 4120K",
+    "last_updated": {
+      "$date": "2024-01-28T14:31:49.288Z"
+    },
+    "notion_id": "1216",
+    "shcn": "4120K",
+    "shelf": "41",
+    "slot": "4120K",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

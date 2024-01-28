@@ -5,19 +5,18 @@
     },
     "identifier": "h52z",
     "target": "#",
-    "class": "inventory",
     "allocated": true,
-    "permalink": "https://joeeasterly.github.io/go/h52z",
-    "bay": "412",
     "container": "4123",
-    "label": "slot 41232",
     "last_updated": {
-      "$date": "2023-10-17T18:23:33.811Z"
+      "$date": "2024-01-28T16:05:19.034Z"
     },
-    "notion_id": "478",
+    "slot": "41232",
+    "bay": "412",
+    "class": "inventory",
+    "label": "slot 41232",
+    "notion_id": "1240",
     "shcn": "41232",
     "shelf": "41",
-    "slot": "41232",
     "type": "storage"
   },
   "shelf_contents": []

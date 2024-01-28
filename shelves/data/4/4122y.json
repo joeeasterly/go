@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba7497c3069472fa8c0"
+    },
+    "identifier": "hgum",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/hgum",
+    "staged": "2024-01-07 13:56:33",
+    "bay": "412",
+    "container": "4122",
+    "label": "slot 4122Y",
+    "last_updated": {
+      "$date": "2024-01-28T15:48:58.448Z"
+    },
+    "notion_id": "1234",
+    "shcn": "4122Y",
+    "shelf": "41",
+    "slot": "4122Y",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc3497c30694734d0b6"
+    },
+    "identifier": "utua",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/utua",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "412",
+    "container": "4120",
+    "label": "slot 4120V",
+    "last_updated": {
+      "$date": "2024-01-28T15:14:06.513Z"
+    },
+    "notion_id": "1222",
+    "shcn": "4120V",
+    "shelf": "41",
+    "slot": "4120V",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

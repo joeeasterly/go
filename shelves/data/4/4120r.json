@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b80497c306947286786"
+    },
+    "identifier": "2zht",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/2zht",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "412",
+    "container": "4120",
+    "label": "slot 4120R",
+    "last_updated": {
+      "$date": "2024-01-28T15:10:35.394Z"
+    },
+    "notion_id": "1220",
+    "shcn": "4120R",
+    "shelf": "41",
+    "slot": "4120R",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

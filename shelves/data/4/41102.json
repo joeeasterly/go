@@ -1,20 +1,20 @@
 {
   "shelving_record": {
     "_id": {
-      "$oid": "64f11b82497c30694728b878"
+      "$oid": "64f11b99497c3069472ce972"
     },
-    "identifier": "3msc",
+    "identifier": "c116",
     "target": "#",
     "class": "inventory",
     "allocated": true,
-    "permalink": "https://joeeasterly.github.io/go/3msc",
+    "permalink": "https://joeeasterly.github.io/go/c116",
     "bay": "411",
     "container": "4110",
     "label": "slot 41102",
     "last_updated": {
-      "$date": "2023-12-24T16:53:53.680Z"
+      "$date": "2024-01-28T13:25:29.517Z"
     },
-    "notion_id": "675",
+    "notion_id": "513",
     "shcn": "41102",
     "shelf": "41",
     "slot": "41102",

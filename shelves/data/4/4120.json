@@ -22,6 +22,70 @@
   "shelf_contents": [
     {
       "_id": {
+        "$oid": "64f11b80497c306947286786"
+      },
+      "identifier": "2zht",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2zht",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120R",
+      "last_updated": {
+        "$date": "2024-01-28T15:10:35.394Z"
+      },
+      "notion_id": "1220",
+      "shcn": "4120R",
+      "shelf": "41",
+      "slot": "4120R",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b83497c30694728f024"
+      },
+      "identifier": "42pr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/42pr",
+      "label": "gray dog training clicker",
+      "last_updated": {
+        "$date": "2024-01-28T15:35:49.301Z"
+      },
+      "notion_id": "501",
+      "shelf": "41",
+      "bay": "412",
+      "container": "4120",
+      "shcn": "4120G",
+      "slot": "4120G"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472ac6fd"
+      },
+      "identifier": "7rdh",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7rdh",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120P",
+      "last_updated": {
+        "$date": "2024-01-28T15:09:07.407Z"
+      },
+      "notion_id": "1219",
+      "shcn": "4120P",
+      "shelf": "41",
+      "slot": "4120P",
+      "type": "storage"
+    },
+    {
+      "_id": {
         "$oid": "64f11b99497c3069472ce970"
       },
       "identifier": "c114",
@@ -39,6 +103,91 @@
       "shcn": "4120",
       "shelf": "41",
       "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9e497c3069472de349"
+      },
+      "identifier": "dyfw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dyfw",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120T",
+      "last_updated": {
+        "$date": "2024-01-28T15:12:45.258Z"
+      },
+      "notion_id": "1221",
+      "shcn": "4120T",
+      "shelf": "41",
+      "slot": "4120T",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec60"
+      },
+      "identifier": "g1rm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1rm",
+      "bay": "412",
+      "container": "4120",
+      "label": "dremel 3000 attachments",
+      "last_updated": {
+        "$date": "2024-01-28T13:50:55.747Z"
+      },
+      "shcn": "41200",
+      "shelf": "41",
+      "slot": "41200"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f5623"
+      },
+      "identifier": "gv6q",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gv6q",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120M",
+      "last_updated": {
+        "$date": "2024-01-28T14:33:36.131Z"
+      },
+      "notion_id": "1217",
+      "shcn": "4120M",
+      "shelf": "41",
+      "slot": "4120M",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f5faa"
+      },
+      "identifier": "gxjx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gxjx",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120W",
+      "last_updated": {
+        "$date": "2024-01-28T15:15:39.382Z"
+      },
+      "notion_id": "1223",
+      "shcn": "4120W",
+      "shelf": "41",
+      "slot": "4120W",
+      "type": "storage"
     },
     {
       "_id": {
@@ -105,6 +254,26 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba9497c306947300395"
+      },
+      "identifier": "j7j9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/j7j9",
+      "label": "red dog training clicker",
+      "last_updated": {
+        "$date": "2024-01-28T15:36:00.869Z"
+      },
+      "notion_id": "384",
+      "shelf": "41",
+      "bay": "412",
+      "container": "4120",
+      "shcn": "4120G",
+      "slot": "4120G"
+    },
+    {
+      "_id": {
         "$oid": "64f11bac497c3069473085fc"
       },
       "identifier": "k85g",
@@ -156,14 +325,102 @@
       "permalink": "https://joeeasterly.github.io/go/k85x",
       "bay": "412",
       "container": "4120",
-      "label": "slot 41204",
+      "label": "slot 41207",
       "last_updated": {
-        "$date": "2023-10-17T20:29:04.013Z"
+        "$date": "2024-01-28T14:18:35.136Z"
       },
       "notion_id": "489",
-      "shcn": "41204",
+      "shcn": "41207",
       "shelf": "41",
-      "slot": "41204",
+      "slot": "41207",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baf497c3069473132b6"
+      },
+      "identifier": "mkba",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mkba",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 41201",
+      "last_updated": {
+        "$date": "2024-01-28T14:16:10.766Z"
+      },
+      "notion_id": "1214",
+      "shcn": "41201",
+      "shelf": "41",
+      "slot": "41201",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb1497c306947317828"
+      },
+      "identifier": "n4pv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/n4pv",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120X",
+      "last_updated": {
+        "$date": "2024-01-28T15:16:58.622Z"
+      },
+      "notion_id": "1224",
+      "shcn": "4120X",
+      "shelf": "41",
+      "slot": "4120X",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb2497c30694731bcd1"
+      },
+      "identifier": "nnv5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/nnv5",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120Y",
+      "last_updated": {
+        "$date": "2024-01-28T15:18:20.192Z"
+      },
+      "notion_id": "1225",
+      "shcn": "4120Y",
+      "shelf": "41",
+      "slot": "4120Y",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb4497c306947323860"
+      },
+      "identifier": "pmrm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pmrm",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120K",
+      "last_updated": {
+        "$date": "2024-01-28T14:31:49.288Z"
+      },
+      "notion_id": "1216",
+      "shcn": "4120K",
+      "shelf": "41",
+      "slot": "4120K",
       "type": "storage"
     },
     {
@@ -273,6 +530,48 @@
     },
     {
       "_id": {
+        "$oid": "64f11bc3497c30694734c3cc"
+      },
+      "identifier": "uqkz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uqkz",
+      "label": "lime green dog training clicker",
+      "last_updated": {
+        "$date": "2024-01-28T15:36:11.725Z"
+      },
+      "notion_id": "383",
+      "shelf": "41",
+      "bay": "412",
+      "container": "4120",
+      "shcn": "4120G",
+      "slot": "4120G"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734d0b6"
+      },
+      "identifier": "utua",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/utua",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120V",
+      "last_updated": {
+        "$date": "2024-01-28T15:14:06.513Z"
+      },
+      "notion_id": "1222",
+      "shcn": "4120V",
+      "shelf": "41",
+      "slot": "4120V",
+      "type": "storage"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc4497c30694734f3a8"
       },
       "identifier": "v3jv",
@@ -341,13 +640,13 @@
       "identifier": "v3m2",
       "target": "#",
       "class": "inventory",
-      "allocated": "true",
+      "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/v3m2",
       "bay": "412",
       "container": "4120",
-      "label": "dremel 3000 attachments",
+      "label": "slot 41200",
       "last_updated": {
-        "$date": "2023-10-18T14:08:37.818Z"
+        "$date": "2024-01-28T13:50:29.606Z"
       },
       "notion_id": "498",
       "shcn": "41200",
@@ -395,6 +694,70 @@
       "shcn": "4120B",
       "shelf": "41",
       "slot": "4120B",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc4497c3069473517f0"
+      },
+      "identifier": "vcn4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vcn4",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120N",
+      "last_updated": {
+        "$date": "2024-01-28T15:05:13.708Z"
+      },
+      "notion_id": "1218",
+      "shcn": "4120N",
+      "shelf": "41",
+      "slot": "4120N",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c306947354d97"
+      },
+      "identifier": "vt2b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vt2b",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4120",
+      "label": "slot 4120J",
+      "last_updated": {
+        "$date": "2024-01-28T14:21:54.014Z"
+      },
+      "notion_id": "1215",
+      "shcn": "4120J",
+      "shelf": "41",
+      "slot": "4120J",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c30694735f111"
+      },
+      "identifier": "x2x5",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x2x5",
+      "last_updated": {
+        "$date": "2024-01-28T14:10:31.597Z"
+      },
+      "bay": "412",
+      "class": "inventory",
+      "container": "4120",
+      "label": "slot 41205",
+      "notion_id": "449",
+      "shcn": "41205",
+      "shelf": "41",
+      "slot": "41205",
       "type": "storage"
     }
   ]

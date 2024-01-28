@@ -1,44 +1,24 @@
 {
   "shelving_record": {
     "_id": {
-      "$oid": "64f11bcc497c30694736ad2a"
+      "$oid": "64f11b99497c3069472ce980"
     },
-    "identifier": "yhxx",
+    "identifier": "c11m",
     "target": "#",
     "class": "inventory",
     "allocated": true,
-    "permalink": "https://joeeasterly.github.io/go/yhxx",
+    "permalink": "https://joeeasterly.github.io/go/c11m",
     "bay": "411",
     "container": "4110",
     "label": "slot 41100",
     "last_updated": {
-      "$date": "2023-12-24T16:53:20.479Z"
+      "$date": "2024-01-28T13:24:14.660Z"
     },
-    "notion_id": "674",
+    "notion_id": "514",
     "shcn": "41100",
     "shelf": "41",
     "slot": "41100",
     "type": "storage"
   },
-  "shelf_contents": [
-    {
-      "_id": {
-        "$oid": "64f11ba3497c3069472eec60"
-      },
-      "identifier": "g1rm",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/g1rm",
-      "bay": "411",
-      "container": "4110",
-      "label": "dremel 3000 attachments",
-      "last_updated": {
-        "$date": "2023-10-18T14:10:24.229Z"
-      },
-      "shcn": "41100",
-      "shelf": "41",
-      "slot": "41100"
-    }
-  ]
+  "shelf_contents": []
 }

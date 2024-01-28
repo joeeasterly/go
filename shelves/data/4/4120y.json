@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb2497c30694731bcd1"
+    },
+    "identifier": "nnv5",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/nnv5",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "412",
+    "container": "4120",
+    "label": "slot 4120Y",
+    "last_updated": {
+      "$date": "2024-01-28T15:18:20.192Z"
+    },
+    "notion_id": "1225",
+    "shcn": "4120Y",
+    "shelf": "41",
+    "slot": "4120Y",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

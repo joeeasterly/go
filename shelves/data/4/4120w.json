@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba6497c3069472f5faa"
+    },
+    "identifier": "gxjx",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/gxjx",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "412",
+    "container": "4120",
+    "label": "slot 4120W",
+    "last_updated": {
+      "$date": "2024-01-28T15:15:39.382Z"
+    },
+    "notion_id": "1223",
+    "shcn": "4120W",
+    "shelf": "41",
+    "slot": "4120W",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

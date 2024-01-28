@@ -21,27 +21,6 @@
   "shelf_contents": [
     {
       "_id": {
-        "$oid": "64f11b82497c30694728b878"
-      },
-      "identifier": "3msc",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/3msc",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 41102",
-      "last_updated": {
-        "$date": "2023-12-24T16:53:53.680Z"
-      },
-      "notion_id": "675",
-      "shcn": "41102",
-      "shelf": "41",
-      "slot": "41102",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11b83497c30694728e171"
       },
       "identifier": "3y15",
@@ -51,34 +30,13 @@
       "permalink": "https://joeeasterly.github.io/go/3y15",
       "label": "zinc 1/4in x 10 machine screws",
       "last_updated": {
-        "$date": "2023-10-18T14:25:01.359Z"
+        "$date": "2024-01-28T16:46:24.601Z"
       },
       "notion_id": "405",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110A",
-      "slot": "4110A"
-    },
-    {
-      "_id": {
-        "$oid": "64f11b83497c30694728f024"
-      },
-      "identifier": "42pr",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/42pr",
-      "label": "gray dog training clicker",
-      "last_updated": {
-        "$date": "2023-10-18T19:17:38.560Z"
-      },
-      "notion_id": "501",
-      "shelf": "41",
-      "bay": "411",
-      "container": "4110",
-      "shcn": "4110G",
-      "slot": "4110G"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -91,35 +49,13 @@
       "permalink": "https://joeeasterly.github.io/go/4mxu",
       "label": "plastic bone folder",
       "last_updated": {
-        "$date": "2023-10-18T14:32:35.669Z"
+        "$date": "2024-01-28T16:52:20.748Z"
       },
       "notion_id": "410",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110B",
-      "slot": "4110B"
-    },
-    {
-      "_id": {
-        "$oid": "64f11b8b497c3069472a7628"
-      },
-      "identifier": "746v",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/746v",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 4110E",
-      "last_updated": {
-        "$date": "2023-12-24T16:58:00.264Z"
-      },
-      "notion_id": "681",
-      "shcn": "4110E",
-      "shelf": "41",
-      "slot": "4110E",
-      "type": "storage"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -132,14 +68,13 @@
       "permalink": "https://joeeasterly.github.io/go/amv9",
       "label": "1 1/4in #8 plaster screws",
       "last_updated": {
-        "$date": "2023-10-18T14:35:01.518Z"
+        "$date": "2024-01-28T16:56:10.031Z"
       },
       "notion_id": "398",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110D",
-      "slot": "4110D"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -163,6 +98,195 @@
     },
     {
       "_id": {
+        "$oid": "64f11b99497c3069472ce971"
+      },
+      "identifier": "c115",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c115",
+      "bay": "411",
+      "container": "4110",
+      "label": "slot 41101",
+      "last_updated": {
+        "$date": "2024-01-28T13:24:57.771Z"
+      },
+      "notion_id": "512",
+      "shcn": "41101",
+      "shelf": "41",
+      "slot": "41101",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce972"
+      },
+      "identifier": "c116",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c116",
+      "bay": "411",
+      "container": "4110",
+      "label": "slot 41102",
+      "last_updated": {
+        "$date": "2024-01-28T13:25:29.517Z"
+      },
+      "notion_id": "513",
+      "shcn": "41102",
+      "shelf": "41",
+      "slot": "41102",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce973"
+      },
+      "identifier": "c117",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c117",
+      "bay": "411",
+      "container": "4111",
+      "label": "slot 41110",
+      "last_updated": {
+        "$date": "2024-01-28T13:18:40.727Z"
+      },
+      "notion_id": "515",
+      "shcn": "41110",
+      "shelf": "41",
+      "slot": "41110",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce974"
+      },
+      "identifier": "c118",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c118",
+      "bay": "411",
+      "container": "4111",
+      "label": "slot 41112",
+      "last_updated": {
+        "$date": "2024-01-28T13:19:49.743Z"
+      },
+      "notion_id": "517",
+      "shcn": "41112",
+      "shelf": "41",
+      "slot": "41112",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce975"
+      },
+      "identifier": "c119",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c119",
+      "bay": "411",
+      "container": "4112",
+      "label": "slot 41120",
+      "last_updated": {
+        "$date": "2024-01-28T13:15:48.680Z"
+      },
+      "notion_id": "520",
+      "shcn": "41120",
+      "shelf": "41",
+      "slot": "41120",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce976"
+      },
+      "identifier": "c11a",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c11a",
+      "bay": "411",
+      "container": "4112",
+      "label": "slot 41121",
+      "last_updated": {
+        "$date": "2024-01-28T13:16:17.508Z"
+      },
+      "notion_id": "519",
+      "shcn": "41121",
+      "shelf": "41",
+      "slot": "41121",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce977"
+      },
+      "identifier": "c11b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c11b",
+      "bay": "411",
+      "container": "4111",
+      "label": "slot 41111",
+      "last_updated": {
+        "$date": "2024-01-28T13:19:12.057Z"
+      },
+      "notion_id": "516",
+      "shcn": "41111",
+      "shelf": "41",
+      "slot": "41111",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce97e"
+      },
+      "identifier": "c11j",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c11j",
+      "bay": "411",
+      "container": "4112",
+      "label": "slot 41122",
+      "last_updated": {
+        "$date": "2024-01-28T13:16:47.577Z"
+      },
+      "notion_id": "518",
+      "shcn": "41122",
+      "shelf": "41",
+      "slot": "41122",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b99497c3069472ce980"
+      },
+      "identifier": "c11m",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/c11m",
+      "bay": "411",
+      "container": "4110",
+      "label": "slot 41100",
+      "last_updated": {
+        "$date": "2024-01-28T13:24:14.660Z"
+      },
+      "notion_id": "514",
+      "shcn": "41100",
+      "shelf": "41",
+      "slot": "41100",
+      "type": "storage"
+    },
+    {
+      "_id": {
         "$oid": "64f11b9c497c3069472d7b97"
       },
       "identifier": "d5jb",
@@ -172,35 +296,13 @@
       "permalink": "https://joeeasterly.github.io/go/d5jb",
       "label": "1in #6 drywall screws",
       "last_updated": {
-        "$date": "2023-10-18T14:34:47.592Z"
+        "$date": "2024-01-28T16:56:27.841Z"
       },
       "notion_id": "397",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110D",
-      "slot": "4110D"
-    },
-    {
-      "_id": {
-        "$oid": "64f11b9e497c3069472de268"
-      },
-      "identifier": "dy8v",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/dy8v",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 4110F",
-      "last_updated": {
-        "$date": "2023-12-24T16:58:44.516Z"
-      },
-      "notion_id": "682",
-      "shcn": "4110F",
-      "shelf": "41",
-      "slot": "4110F",
-      "type": "storage"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -213,14 +315,13 @@
       "permalink": "https://joeeasterly.github.io/go/frne",
       "label": "1in #6 drywall anchors",
       "last_updated": {
-        "$date": "2023-10-18T14:35:53.128Z"
+        "$date": "2024-01-28T17:00:22.131Z"
       },
       "notion_id": "403",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110E",
-      "slot": "4110E"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -232,14 +333,12 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/g1q6",
       "bay": "411",
-      "container": "4110",
       "label": "3/4in x1/4 machine bolts",
       "last_updated": {
-        "$date": "2023-10-18T14:43:22.245Z"
+        "$date": "2024-01-28T17:03:47.988Z"
       },
-      "shcn": "4110F",
-      "shelf": "41",
-      "slot": "4110F"
+      "shcn": "411",
+      "shelf": "41"
     },
     {
       "_id": {
@@ -262,25 +361,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11ba3497c3069472eec60"
-      },
-      "identifier": "g1rm",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/g1rm",
-      "bay": "411",
-      "container": "4110",
-      "label": "dremel 3000 attachments",
-      "last_updated": {
-        "$date": "2023-10-18T14:10:24.229Z"
-      },
-      "shcn": "41100",
-      "shelf": "41",
-      "slot": "41100"
-    },
-    {
-      "_id": {
         "$oid": "64f11ba6497c3069472f7d08"
       },
       "identifier": "h5wv",
@@ -290,14 +370,13 @@
       "permalink": "https://joeeasterly.github.io/go/h5wv",
       "label": "3/4in x1/4 hex machine screws",
       "last_updated": {
-        "$date": "2023-10-18T14:32:24.856Z"
+        "$date": "2024-01-28T16:52:43.699Z"
       },
       "notion_id": "414",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110B",
-      "slot": "4110B"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -310,35 +389,13 @@
       "permalink": "https://joeeasterly.github.io/go/h8zg",
       "label": "1/2in #6 phillips screws",
       "last_updated": {
-        "$date": "2023-10-18T14:24:45.278Z"
+        "$date": "2024-01-28T16:46:57.778Z"
       },
       "notion_id": "406",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110A",
-      "slot": "4110A"
-    },
-    {
-      "_id": {
-        "$oid": "64f11ba8497c3069472fec93"
-      },
-      "identifier": "j1t7",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/j1t7",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 4110C",
-      "last_updated": {
-        "$date": "2023-12-24T16:56:45.513Z"
-      },
-      "notion_id": "679",
-      "shcn": "4110C",
-      "shelf": "41",
-      "slot": "4110C",
-      "type": "storage"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -351,34 +408,13 @@
       "permalink": "https://joeeasterly.github.io/go/j77h",
       "label": "zinc 3/4in 8 self-drilling phillips screws",
       "last_updated": {
-        "$date": "2023-10-18T20:22:43.341Z"
+        "$date": "2024-01-28T16:44:16.599Z"
       },
       "notion_id": "393",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "41109",
-      "slot": "41109"
-    },
-    {
-      "_id": {
-        "$oid": "64f11ba9497c306947300395"
-      },
-      "identifier": "j7j9",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/j7j9",
-      "label": "red dog training clicker",
-      "last_updated": {
-        "$date": "2023-10-18T14:58:45.690Z"
-      },
-      "notion_id": "384",
-      "shelf": "41",
-      "bay": "411",
-      "container": "4110",
-      "shcn": "4110G",
-      "slot": "4110G"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -391,14 +427,13 @@
       "permalink": "https://joeeasterly.github.io/go/jd87",
       "label": "micro-usb y adapter",
       "last_updated": {
-        "$date": "2023-10-18T14:33:36.230Z"
+        "$date": "2024-01-28T16:54:30.900Z"
       },
       "notion_id": "417",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "slot": "4110C",
-      "shcn": "4110C"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -411,14 +446,13 @@
       "permalink": "https://joeeasterly.github.io/go/jygn",
       "label": "1 1/4in #8 plaster anchors",
       "last_updated": {
-        "$date": "2023-10-18T14:34:40.017Z"
+        "$date": "2024-01-28T16:57:06.136Z"
       },
       "notion_id": "402",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110D",
-      "slot": "4110D"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -430,14 +464,12 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/k85d",
       "bay": "411",
-      "container": "4110",
       "label": "3/4in x 1/4 machine bolts",
       "last_updated": {
-        "$date": "2023-10-18T14:44:12.421Z"
+        "$date": "2024-01-28T17:03:57.014Z"
       },
-      "shcn": "4110F",
-      "shelf": "41",
-      "slot": "4110F"
+      "shcn": "411",
+      "shelf": "41"
     },
     {
       "_id": {
@@ -449,36 +481,14 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/mmnh",
       "bay": "411",
-      "container": "4110",
       "label": "3/4in #6 phillips screws",
       "last_updated": {
-        "$date": "2023-10-18T14:25:12.297Z"
+        "$date": "2024-01-28T16:47:36.895Z"
       },
-      "notion_id": null,
+      "notion_id": "1257",
       "shelf": "41",
-      "slot": "4110A",
-      "shcn": "4110A"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bb0497c30694731494e"
-      },
-      "identifier": "mrz2",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/mrz2",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 4110A",
-      "last_updated": {
-        "$date": "2023-12-24T16:55:12.294Z"
-      },
-      "notion_id": "677",
-      "shcn": "4110A",
-      "shelf": "41",
-      "slot": "4110A",
-      "type": "storage"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -491,32 +501,13 @@
       "permalink": "https://joeeasterly.github.io/go/nu7j",
       "label": "1 3/8in dowel pins",
       "last_updated": {
-        "$date": "2023-10-18T14:36:02.561Z"
+        "$date": "2024-01-28T17:00:43.631Z"
       },
       "notion_id": "419",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110E",
-      "slot": "4110E"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bb2497c30694731d393"
-      },
-      "identifier": "nuj7",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/nuj7",
-      "bay": "411",
-      "container": "4110",
-      "last_updated": {
-        "$date": "2023-10-18T14:02:04.388Z"
-      },
-      "shcn": "4110E",
-      "shelf": "41",
-      "slot": "4110E"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -529,96 +520,72 @@
       "permalink": "https://joeeasterly.github.io/go/phdv",
       "label": "3/4in #6 flat screws",
       "last_updated": {
-        "$date": "2023-10-18T14:31:01.904Z"
+        "$date": "2024-01-28T16:50:16.028Z"
       },
       "notion_id": "408",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110A",
-      "slot": "4110A"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
-        "$oid": "64f11bb8497c30694732c749"
+        "$oid": "64f11bb8497c30694732eb3a"
       },
-      "identifier": "qrfw",
+      "identifier": "r1fe",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/qrfw",
+      "permalink": "https://joeeasterly.github.io/go/r1fe",
       "bay": "411",
       "container": "4110",
-      "label": "slot 4110G",
+      "label": "container 4110",
       "last_updated": {
-        "$date": "2023-12-24T16:59:08.020Z"
+        "$date": "2024-01-28T13:23:24.771Z"
       },
-      "notion_id": "683",
-      "shcn": "4110G",
+      "notion_id": "510",
+      "shcn": "4110",
       "shelf": "41",
-      "slot": "4110G",
       "type": "storage"
     },
     {
       "_id": {
-        "$oid": "64f11bb8497c30694732cef0"
+        "$oid": "64f11bbb497c306947337259"
       },
-      "identifier": "qtd4",
+      "identifier": "s38d",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/qtd4",
+      "permalink": "https://joeeasterly.github.io/go/s38d",
       "bay": "411",
-      "container": "4110",
-      "label": "slot 41109",
+      "container": "4112",
+      "label": "container 4112",
       "last_updated": {
-        "$date": "2023-12-24T16:54:31.161Z"
+        "$date": "2024-01-28T13:14:18.565Z"
       },
-      "notion_id": "676",
-      "shcn": "41109",
+      "notion_id": "511",
+      "shcn": "4112",
       "shelf": "41",
-      "slot": "41109",
       "type": "storage"
     },
     {
       "_id": {
-        "$oid": "64f11bc3497c30694734c3cc"
+        "$oid": "64f11bc4497c30694734f3c7"
       },
-      "identifier": "uqkz",
+      "identifier": "v3ku",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/uqkz",
-      "label": "lime green dog training clicker",
-      "last_updated": {
-        "$date": "2023-10-18T14:58:36.477Z"
-      },
-      "notion_id": "383",
-      "shelf": "41",
+      "permalink": "https://joeeasterly.github.io/go/v3ku",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110G",
-      "slot": "4110G"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bc3497c30694734e0e9"
-      },
-      "identifier": "uxvw",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/uxvw",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 4110B",
+      "container": "4111",
+      "label": "container 4111",
       "last_updated": {
-        "$date": "2023-12-24T16:56:18.375Z"
+        "$date": "2024-01-28T13:17:48.509Z"
       },
-      "notion_id": "678",
-      "shcn": "4110B",
+      "notion_id": "509",
+      "shcn": "4111",
       "shelf": "41",
-      "slot": "4110B",
       "type": "storage"
     },
     {
@@ -632,35 +599,13 @@
       "permalink": "https://joeeasterly.github.io/go/ver1",
       "label": "1in #10 flat screw",
       "last_updated": {
-        "$date": "2023-10-18T14:31:19.932Z"
+        "$date": "2024-01-28T16:47:57.987Z"
       },
       "notion_id": "407",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110A",
-      "slot": "4110A"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bc8497c30694735d5d0"
-      },
-      "identifier": "wv44",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/wv44",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 4110D",
-      "last_updated": {
-        "$date": "2023-12-24T16:57:25.414Z"
-      },
-      "notion_id": "680",
-      "shcn": "4110D",
-      "shelf": "41",
-      "slot": "4110D",
-      "type": "storage"
+      "shcn": "411",
+      "type": "item"
     },
     {
       "_id": {
@@ -673,35 +618,13 @@
       "permalink": "https://joeeasterly.github.io/go/ydqf",
       "label": "female usb-c to usb-c and usb-micro y adapter",
       "last_updated": {
-        "$date": "2023-10-18T14:33:25.058Z"
+        "$date": "2024-01-28T16:54:47.899Z"
       },
       "notion_id": "418",
       "shelf": "41",
       "bay": "411",
-      "container": "4110",
-      "shcn": "4110C",
-      "slot": "4110C"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bcc497c30694736ad2a"
-      },
-      "identifier": "yhxx",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/yhxx",
-      "bay": "411",
-      "container": "4110",
-      "label": "slot 41100",
-      "last_updated": {
-        "$date": "2023-12-24T16:53:20.479Z"
-      },
-      "notion_id": "674",
-      "shcn": "41100",
-      "shelf": "41",
-      "slot": "41100",
-      "type": "storage"
+      "shcn": "411",
+      "type": "item"
     }
   ]
 }

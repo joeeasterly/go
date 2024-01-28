@@ -1,0 +1,574 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b7f497c306947282236"
+    },
+    "identifier": "2f7a",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/2f7a",
+    "label": "Cold Storage Floor",
+    "last_updated": {
+      "$date": "2024-01-27T14:53:04.913Z"
+    },
+    "notion_id": "1194",
+    "shcn": "1A",
+    "shelf": "1A",
+    "type": "storage"
+  },
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b80497c30694728567a"
+      },
+      "identifier": "2v9e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2v9e",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:07:11.671Z"
+      },
+      "notion_id": "1198",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b81497c306947288a37"
+      },
+      "identifier": "397b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/397b",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:29:16.349Z"
+      },
+      "notion_id": "1211",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728afe5"
+      },
+      "identifier": "3jms",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3jms",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-12-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:08:12.326Z"
+      },
+      "notion_id": "1199",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b87497c306947299a75"
+      },
+      "identifier": "5d99",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5d99",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-11-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:16:37.869Z"
+      },
+      "notion_id": "1201",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729bdd0"
+      },
+      "identifier": "5p44",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5p44",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-11-21 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:01:38.410Z"
+      },
+      "notion_id": "1195",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729db8f"
+      },
+      "identifier": "5wj3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5wj3",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-09-16 00:00:00",
+      "label": "Wegmans Sparkling Water Dragon Fruit 12pk",
+      "last_updated": {
+        "$date": "2024-01-27T14:53:51.745Z"
+      },
+      "notion_id": "1180",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890494141"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a3244"
+      },
+      "identifier": "6k7r",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6k7r",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-09-20 00:00:00",
+      "label": "Wegmans Sparkling Water Raspberry 12pk",
+      "last_updated": {
+        "$date": "2024-01-27T14:54:21.823Z"
+      },
+      "notion_id": "1190",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890515860"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8c497c3069472a8e88"
+      },
+      "identifier": "7a9v",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7a9v",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:28:00.550Z"
+      },
+      "notion_id": "1210",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472c13ec"
+      },
+      "identifier": "abmz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/abmz",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-14 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:09:53.456Z"
+      },
+      "notion_id": "1200",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b96497c3069472c76d2"
+      },
+      "identifier": "b4c6",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/b4c6",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-07-29 00:00:00",
+      "label": "Wegmans Sparkling Water Lime Mint 12pk",
+      "last_updated": {
+        "$date": "2024-01-27T14:54:11.377Z"
+      },
+      "notion_id": "1182",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890317792"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9c497c3069472da2f0"
+      },
+      "identifier": "dfd4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dfd4",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-21 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:04:33.316Z"
+      },
+      "notion_id": "1196",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9e497c3069472ddfd3"
+      },
+      "identifier": "dxm7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dxm7",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-12-14 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:19:49.787Z"
+      },
+      "notion_id": "1203",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f36ef"
+      },
+      "identifier": "gmd3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gmd3",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:25:43.361Z"
+      },
+      "notion_id": "1208",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba8497c3069472fc1c2"
+      },
+      "identifier": "hq3p",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hq3p",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-09-16 00:00:00",
+      "label": "Wegmans Sparkling Water Dragon Fruit 12pk",
+      "last_updated": {
+        "$date": "2024-01-27T14:53:57.489Z"
+      },
+      "notion_id": "1186",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890494141"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bab497c306947304fdd"
+      },
+      "identifier": "jtmh",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jtmh",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2023-11-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:24:11.466Z"
+      },
+      "notion_id": "1207",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb3497c30694731e19e"
+      },
+      "identifier": "ny2j",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ny2j",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-12-14 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:22:04.992Z"
+      },
+      "notion_id": "1205",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c30694732a84e"
+      },
+      "identifier": "qgr2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qgr2",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-12-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:06:08.951Z"
+      },
+      "notion_id": "1197",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb9497c3069473301a6"
+      },
+      "identifier": "r72t",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r72t",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-12-14 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:21:11.238Z"
+      },
+      "notion_id": "1204",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbc497c3069473389a1"
+      },
+      "identifier": "s92n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s92n",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2023-11-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:23:14.813Z"
+      },
+      "notion_id": "1206",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbd497c30694733dadb"
+      },
+      "identifier": "swcf",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/swcf",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-12-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:26:39.471Z"
+      },
+      "notion_id": "1209",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbe497c30694733ff18"
+      },
+      "identifier": "t6ec",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/t6ec",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-09-09 00:00:00",
+      "label": "Wegmans Sparkling Water Coconut Lime 12pk",
+      "last_updated": {
+        "$date": "2024-01-27T14:54:16.084Z"
+      },
+      "notion_id": "1188",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414736"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c306947345bf0"
+      },
+      "identifier": "twn4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/twn4",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-09-21 00:00:00",
+      "label": "Wegmans Sparkling Water Mixed Berry 12pk",
+      "last_updated": {
+        "$date": "2024-01-27T14:54:27.209Z"
+      },
+      "notion_id": "1191",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890351956"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734d0d9"
+      },
+      "identifier": "utvd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/utvd",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2023-11-11 00:00:00",
+      "label": "Wegmans Spring Water 128oz",
+      "last_updated": {
+        "$date": "2024-01-27T15:18:01.718Z"
+      },
+      "notion_id": "1202",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890414576"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735b884"
+      },
+      "identifier": "wmsr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wmsr",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-09-09 00:00:00",
+      "label": "Wegmans Sparkling Water Passion Fruit 12pk",
+      "last_updated": {
+        "$date": "2024-01-27T14:54:02.408Z"
+      },
+      "notion_id": "1187",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "1A",
+      "shelf": "1A",
+      "type": "consumable",
+      "upc": "077890466438"
+    }
+  ]
+}

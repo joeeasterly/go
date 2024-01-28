@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b9d497c3069472dc930"
+    },
+    "identifier": "dry4",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/dry4",
+    "staged": "2024-01-07 13:56:33",
+    "bay": "412",
+    "container": "4121",
+    "label": "slot 41210",
+    "last_updated": {
+      "$date": "2024-01-28T15:19:44.699Z"
+    },
+    "notion_id": "1226",
+    "shcn": "41210",
+    "shelf": "41",
+    "slot": "41210",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

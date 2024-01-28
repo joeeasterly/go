@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc5497c306947354d97"
+    },
+    "identifier": "vt2b",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/vt2b",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "412",
+    "container": "4120",
+    "label": "slot 4120J",
+    "last_updated": {
+      "$date": "2024-01-28T14:21:54.014Z"
+    },
+    "notion_id": "1215",
+    "shcn": "4120J",
+    "shelf": "41",
+    "slot": "4120J",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

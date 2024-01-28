@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b9a497c3069472d30a5"
+    },
+    "identifier": "cjts",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/cjts",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "412",
+    "container": "4121",
+    "label": "slot 41213",
+    "last_updated": {
+      "$date": "2024-01-28T15:25:24.666Z"
+    },
+    "notion_id": "1228",
+    "shcn": "41213",
+    "shelf": "41",
+    "slot": "41213",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

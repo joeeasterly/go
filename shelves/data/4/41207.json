@@ -1,0 +1,24 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bac497c30694730860a"
+    },
+    "identifier": "k85x",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/k85x",
+    "bay": "412",
+    "container": "4120",
+    "label": "slot 41207",
+    "last_updated": {
+      "$date": "2024-01-28T14:18:35.136Z"
+    },
+    "notion_id": "489",
+    "shcn": "41207",
+    "shelf": "41",
+    "slot": "41207",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

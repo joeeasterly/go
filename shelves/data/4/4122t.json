@@ -1,0 +1,25 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b95497c3069472c2660"
+    },
+    "identifier": "ag8m",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/ag8m",
+    "staged": "2024-01-07 13:56:33",
+    "bay": "412",
+    "container": "4122",
+    "label": "slot 4122T",
+    "last_updated": {
+      "$date": "2024-01-28T15:50:26.585Z"
+    },
+    "notion_id": "1235",
+    "shcn": "4122T",
+    "shelf": "41",
+    "slot": "4122T",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}
