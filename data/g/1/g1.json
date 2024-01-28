@@ -6020,10 +6020,11 @@
         "bay": "101",
         "container": "1010",
         "label": "nail hygiene toolkit",
-        "last_updated": "2023-10-22 17:20:19.253000",
+        "last_updated": "2024-01-22 17:07:06.117000",
         "notion_id": "531",
         "shcn": "1010",
-        "shelf": "10"
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba3497c3069472eec52",
@@ -6106,10 +6107,11 @@
         "bay": "101",
         "container": "1010",
         "label": "coach zippered wallet with chain",
-        "last_updated": "2023-10-22 17:15:10.548000",
+        "last_updated": "2024-01-22 17:07:43.053000",
         "notion_id": "529",
         "shcn": "1010",
-        "shelf": "10"
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba3497c3069472eec5b",
@@ -6165,13 +6167,13 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/g1rm",
-        "bay": "411",
-        "container": "4110",
+        "bay": "412",
+        "container": "4120",
         "label": "dremel 3000 attachments",
-        "last_updated": "2023-10-18 14:10:24.229000",
-        "shcn": "41100",
+        "last_updated": "2024-01-28 13:50:55.747000",
+        "shcn": "41200",
         "shelf": "41",
-        "slot": "41100"
+        "slot": "41200"
     },
     {
         "_id": "64f11ba3497c3069472eec61",
