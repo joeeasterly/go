@@ -3028,9 +3028,18 @@
         "identifier": "wrcu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/wrcu",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4122",
+        "label": "slot 4122X",
+        "last_updated": "2024-01-28 15:53:01.353000",
+        "notion_id": "1237",
+        "shcn": "4122X",
+        "shelf": "41",
+        "slot": "4122X",
+        "type": "storage"
     },
     {
         "_id": "64f11bc8497c30694735c6e8",
