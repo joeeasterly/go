@@ -2708,8 +2708,18 @@
         "identifier": "adbk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/adbk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/adbk",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4122",
+        "label": "slot 4122Q",
+        "last_updated": "2024-01-28 16:35:53.750000",
+        "notion_id": "1254",
+        "shcn": "4122Q",
+        "shelf": "41",
+        "slot": "4122Q",
+        "type": "storage"
     },
     {
         "_id": "64f11b94497c3069472c1ac0",
