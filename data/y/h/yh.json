@@ -7677,18 +7677,10 @@
         "_id": "64f11bcc497c30694736ad2a",
         "identifier": "yhxx",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/yhxx",
-        "bay": "411",
+        "allocated": false,
         "container": "4110",
-        "label": "slot 41100",
-        "last_updated": "2023-12-24 16:53:20.479000",
-        "notion_id": "674",
-        "shcn": "41100",
-        "shelf": "41",
-        "slot": "41100",
-        "type": "storage"
+        "last_updated": "2024-01-28 13:30:54.178000",
+        "slot": "41100"
     },
     {
         "_id": "64f11bcc497c30694736ad2b",
