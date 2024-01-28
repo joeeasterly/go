@@ -6724,8 +6724,18 @@
         "identifier": "64u9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/64u9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/64u9",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "412",
+        "container": "4121",
+        "label": "slot 41217",
+        "last_updated": "2024-01-28 15:29:37.617000",
+        "notion_id": "1232",
+        "shcn": "41217",
+        "shelf": "41",
+        "slot": "41217",
+        "type": "storage"
     },
     {
         "_id": "64f11b89497c30694729f8b6",
