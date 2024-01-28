@@ -2636,8 +2636,18 @@
         "identifier": "mkba",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mkba"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mkba",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4120",
+        "label": "slot 41201",
+        "last_updated": "2024-01-28 14:16:10.766000",
+        "notion_id": "1214",
+        "shcn": "41201",
+        "shelf": "41",
+        "slot": "41201",
+        "type": "storage"
     },
     {
         "_id": "64f11baf497c3069473132b7",
