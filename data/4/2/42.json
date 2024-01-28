@@ -802,10 +802,11 @@
         "bay": "101",
         "container": "1010",
         "label": "BENQ treVolo mini-stereo audio cable",
-        "last_updated": "2023-10-28T17:10:58.387000",
+        "last_updated": "2024-01-22 17:05:22.563000",
         "notion_id": "569",
         "shcn": "1010",
-        "shelf": "10"
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b83497c30694728edd1",
@@ -5575,13 +5576,13 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/42pr",
         "label": "gray dog training clicker",
-        "last_updated": "2023-10-18T19:17:38.560000",
+        "last_updated": "2024-01-28 15:35:49.301000",
         "notion_id": "501",
         "shelf": "41",
-        "bay": "411",
-        "container": "4110",
-        "shcn": "4110G",
-        "slot": "4110G"
+        "bay": "412",
+        "container": "4120",
+        "shcn": "4120G",
+        "slot": "4120G"
     },
     {
         "_id": "64f11b83497c30694728f025",
