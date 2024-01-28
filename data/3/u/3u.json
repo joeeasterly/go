@@ -2245,7 +2245,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3u9s"
+        "permalink": "https://joeeasterly.github.io/go/3u9s",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b82497c30694728d286",
@@ -3052,8 +3053,18 @@
         "identifier": "3ucx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3ucx"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3ucx",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4122",
+        "label": "slot 4122H",
+        "last_updated": "2024-01-28 16:29:32.637000",
+        "notion_id": "1248",
+        "shcn": "4122H",
+        "shelf": "41",
+        "slot": "4122H",
+        "type": "storage"
     },
     {
         "_id": "64f11b82497c30694728d2eb",
@@ -4508,8 +4519,15 @@
         "identifier": "3ujm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3ujm"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3ujm",
+        "bay": "3A0",
+        "label": "cosco hand cart surface",
+        "last_updated": "2024-01-26 21:30:57.803000",
+        "notion_id": "1193",
+        "shcn": "3A0",
+        "shelf": "3A",
+        "type": "storage"
     },
     {
         "_id": "64f11b82497c30694728d3a1",
