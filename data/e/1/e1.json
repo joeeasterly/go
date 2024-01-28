@@ -292,8 +292,18 @@
         "identifier": "e125",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/e125"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/e125",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "412",
+        "container": "4122",
+        "label": "slot 4122E",
+        "last_updated": "2024-01-28 16:26:48.952000",
+        "notion_id": "1246",
+        "shcn": "4122E",
+        "shelf": "41",
+        "slot": "4122E",
+        "type": "storage"
     },
     {
         "_id": "64f11b9e497c3069472de992",
@@ -3149,7 +3159,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/e1da"
+        "permalink": "https://joeeasterly.github.io/go/e1da",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b9e497c3069472deaf7",
