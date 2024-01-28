@@ -5653,9 +5653,18 @@
         "identifier": "n4q1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/n4q1",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4122",
+        "label": "slot 4122W",
+        "last_updated": "2024-01-28 16:37:47.464000",
+        "notion_id": "1256",
+        "shcn": "4122W",
+        "shelf": "41",
+        "slot": "4122W",
+        "type": "storage"
     },
     {
         "_id": "64f11bb1497c30694731782e",
