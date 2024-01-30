@@ -524,8 +524,15 @@
         "identifier": "ba32",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ba32"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ba32",
+        "bay": "310",
+        "label": "Plano Tool Chest",
+        "last_updated": "2024-01-30 18:50:37.666000",
+        "notion_id": "1273",
+        "shcn": "310",
+        "shelf": "31",
+        "type": "item"
     },
     {
         "_id": "64f11b97497c3069472c8daf",
