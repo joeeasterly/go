@@ -5524,8 +5524,16 @@
         "identifier": "3xpk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3xpk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3xpk",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "110",
+        "label": "Kornerstone Kitchens CRT Mark IV 313 JE Wiley Brown",
+        "last_updated": "2024-01-29 17:42:49.687000",
+        "notion_id": "1267",
+        "shcn": "110",
+        "shelf": "11",
+        "type": "item"
     },
     {
         "_id": "64f11b83497c30694728e020",
@@ -6706,7 +6714,7 @@
         "bay": "401",
         "container": "4010",
         "label": "Coach Weekly Pill Box In Signature Canvas",
-        "last_updated": "2023-10-26T17:47:03.092000",
+        "last_updated": "2023-10-26 17:47:03.092000",
         "notion_id": "92",
         "shcn": "4010",
         "shelf": "40"
