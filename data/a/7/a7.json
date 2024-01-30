@@ -5060,8 +5060,17 @@
         "identifier": "a7ms",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/a7ms"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/a7ms",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "411",
+        "container": "4114",
+        "label": "container 4114",
+        "last_updated": "2024-01-28 17:14:16",
+        "notion_id": "1260",
+        "shcn": "4114",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11b94497c3069472c03e6",
