@@ -2909,8 +2909,17 @@
         "identifier": "j5cc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/j5cc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/j5cc",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "411",
+        "container": "411D",
+        "label": "Gallon Zip-Loc Bags",
+        "last_updated": "2024-01-29 17:50:04.169000",
+        "notion_id": "1268",
+        "shcn": "411D",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11ba9497c3069472ffad9",
