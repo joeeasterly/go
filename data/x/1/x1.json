@@ -3316,9 +3316,16 @@
         "identifier": "x1dy",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/x1dy",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "210",
+        "label": "Box - Roland KC-220 Keyboard Amplifier",
+        "last_updated": "2024-01-30 15:51:03.571000",
+        "notion_id": "1272",
+        "shcn": "210",
+        "shelf": "21",
+        "type": "item"
     },
     {
         "_id": "64f11bc9497c30694735eb0c",
