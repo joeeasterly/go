@@ -5516,8 +5516,17 @@
         "identifier": "8rpj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8rpj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8rpj",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "411",
+        "container": "411B",
+        "label": "Sandwich Zip-Loc Bags",
+        "last_updated": "2024-01-29 17:51:09.356000",
+        "notion_id": "1270",
+        "shcn": "411B",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11b90497c3069472b481f",
@@ -7869,7 +7878,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8ryr"
+        "permalink": "https://joeeasterly.github.io/go/8ryr",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b90497c3069472b4945",
