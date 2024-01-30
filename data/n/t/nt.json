@@ -4548,8 +4548,14 @@
         "identifier": "ntjs",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ntjs"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ntjs",
+        "bay": "412",
+        "container": "4120",
+        "last_updated": "2024-01-30 12:11:26.353000",
+        "shcn": "4120H",
+        "shelf": "41",
+        "slot": "4120H"
     },
     {
         "_id": "64f11bb2497c30694731cfa6",
