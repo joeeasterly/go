@@ -116,8 +116,17 @@
         "identifier": "pb1f",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pb1f"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/pb1f",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "411",
+        "container": "411C",
+        "label": "Quart Zip-Loc Bags",
+        "last_updated": "2024-01-29 17:51:41.258000",
+        "notion_id": "1271",
+        "shcn": "411C",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11bb4497c30694732117c",
