@@ -3484,8 +3484,18 @@
         "identifier": "sxem",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/sxem"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/sxem",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "412",
+        "container": "4122",
+        "label": "7/8in x 1/4in nuts",
+        "last_updated": "2024-01-29 17:33:01.115000",
+        "notion_id": "1265",
+        "shcn": "41225",
+        "shelf": "41",
+        "slot": "41225",
+        "type": "item"
     },
     {
         "_id": "64f11bbe497c30694733df21",
