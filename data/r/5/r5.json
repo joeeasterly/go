@@ -6012,8 +6012,17 @@
         "identifier": "r5rg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/r5rg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/r5rg",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4031",
+        "label": "Roku 3820X Streaming Stick 4K",
+        "last_updated": "2024-01-31 19:52:12.024000",
+        "notion_id": "1278",
+        "shcn": "4031",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb9497c30694732fc5d",
