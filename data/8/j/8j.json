@@ -456,7 +456,7 @@
         "permalink": "https://joeeasterly.github.io/go/8j2s",
         "bay": "164",
         "label": "bay 164",
-        "last_updated": "2023-12-28T14:28:03.265000",
+        "last_updated": "2023-12-28 14:28:03.265000",
         "notion_id": "269",
         "shcn": "164",
         "shelf": "16",
@@ -6547,8 +6547,17 @@
         "identifier": "8jtj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8jtj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8jtj",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "10in USB-C to right-angle USB-C cable",
+        "last_updated": "2024-01-31 19:50:36.403000",
+        "notion_id": "1286",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b8f497c3069472b309f",
