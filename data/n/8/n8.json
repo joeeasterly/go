@@ -6604,8 +6604,17 @@
         "identifier": "n8tt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/n8tt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/n8tt",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "10in USB-C to right-angle USB-C cable",
+        "last_updated": "2024-01-31 19:50:52.260000",
+        "notion_id": "1285",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb1497c3069473188a7",
