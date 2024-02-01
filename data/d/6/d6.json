@@ -2455,7 +2455,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/d6ak",
         "label": "test record",
-        "last_updated": "2023-10-18T15:42:19.257000",
+        "last_updated": "2023-10-18 15:42:19.257000",
         "notion_id": "504",
         "shcn": "10",
         "type": "item"
@@ -4489,8 +4489,15 @@
         "identifier": "d6jh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/d6jh"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/d6jh",
+        "bay": "402",
+        "label": "Top Paw Nail Trimmers",
+        "last_updated": "2024-02-01 14:13:58.433000",
+        "notion_id": "1295",
+        "shcn": "402",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b9c497c3069472d7f9e",
@@ -7661,7 +7668,7 @@
         "permalink": "https://joeeasterly.github.io/go/d6xw",
         "bay": "5J1",
         "label": "bay 5J1",
-        "last_updated": "2024-01-01T16:20:47.380000",
+        "last_updated": "2024-01-01 16:20:47.380000",
         "notion_id": "756",
         "shcn": "5J1",
         "shelf": "5J",
