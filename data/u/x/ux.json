@@ -5491,9 +5491,17 @@
         "identifier": "uxpe",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/uxpe",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "102",
+        "container": "1020",
+        "label": "Apple 45W Magsafe v1 power adapter",
+        "last_updated": "2024-01-31 19:40:53.363000",
+        "notion_id": "1284",
+        "shcn": "1020",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bc3497c30694734e01b",
