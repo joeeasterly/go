@@ -7080,7 +7080,7 @@
         "permalink": "https://joeeasterly.github.io/go/x6vn",
         "bay": "115",
         "label": "bay 115",
-        "last_updated": "2023-12-24T17:29:40.580000",
+        "last_updated": "2023-12-24 17:29:40.580000",
         "notion_id": "348",
         "shcn": "115",
         "shelf": "11",
@@ -7659,8 +7659,17 @@
         "identifier": "x6xw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x6xw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/x6xw",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4031",
+        "label": "Roku WR002 Long-Range Wireless Receiver",
+        "last_updated": "2024-01-31 19:52:00.969000",
+        "notion_id": "1277",
+        "shcn": "4031",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bc9497c30694736012a",
