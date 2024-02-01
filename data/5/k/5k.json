@@ -6628,8 +6628,16 @@
         "identifier": "5ktw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5ktw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/5ktw",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "412",
+        "label": "Hyundai Kona spare key",
+        "last_updated": "2024-01-31 19:49:49.175000",
+        "notion_id": "1287",
+        "shcn": "412",
+        "shelf": "41",
+        "type": "item"
     },
     {
         "_id": "64f11b88497c30694729b4aa",
