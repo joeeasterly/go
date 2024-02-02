@@ -5652,8 +5652,15 @@
         "identifier": "gtq3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gtq3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gtq3",
+        "bay": "3B3",
+        "label": "bay 3B3",
+        "last_updated": "2024-02-02 16:40:45.113000",
+        "notion_id": "1303",
+        "shcn": "3B3",
+        "shelf": "3B",
+        "type": "storage"
     },
     {
         "_id": "64f11ba5497c3069472f5030",
@@ -7316,7 +7323,7 @@
         "identifier": "gtwk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/gtwk",
         "staged": "2024-01-07 13:56:33",
         "bay": "592",
