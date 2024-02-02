@@ -1724,8 +1724,20 @@
         "identifier": "vd7r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vd7r"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vd7r",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "173",
+        "expires": "2029-12-31 00:00:00",
+        "label": "Windex 1gal",
+        "last_updated": "2024-02-02 16:09:50.230000",
+        "notion_id": "1296",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "173",
+        "shelf": "17",
+        "type": "consumable",
+        "upc": "019800003050"
     },
     {
         "_id": "64f11bc5497c306947351a45",
