@@ -15,7 +15,7 @@
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/2212",
         "label": null,
-        "last_updated": "2023-09-07T15:17:03.220000",
+        "last_updated": "2023-09-07 15:17:03.220000",
         "notion_id": "",
         "shelf": ""
     },
@@ -1089,7 +1089,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2258"
+        "permalink": "https://joeeasterly.github.io/go/2258",
+        "staged": "2024-01-30 20:10:32"
     },
     {
         "_id": "64f11b7e497c30694727edf5",
@@ -6488,8 +6489,16 @@
         "identifier": "22tb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/22tb"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/22tb",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "6A1",
+        "label": "Withings BPM Connect WPM05",
+        "last_updated": "2024-02-02 16:15:19.843000",
+        "notion_id": "1298",
+        "shcn": "6A1",
+        "shelf": "6A",
+        "type": "item"
     },
     {
         "_id": "64f11b7e497c30694727f098",
