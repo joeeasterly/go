@@ -200,7 +200,7 @@
         "permalink": "https://joeeasterly.github.io/go/yx1s",
         "bay": "376",
         "label": "bay 376",
-        "last_updated": "2024-01-04T15:31:04.410000",
+        "last_updated": "2024-01-04 15:31:04.410000",
         "notion_id": "325",
         "shcn": "376",
         "shelf": "37",
@@ -1755,8 +1755,14 @@
         "identifier": "yx7u",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yx7u"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yx7u",
+        "label": "Gray 3-Cube Organizer",
+        "last_updated": "2024-02-02 16:39:34.524000",
+        "notion_id": "1299",
+        "shcn": "3B",
+        "shelf": "3B",
+        "type": "storage"
     },
     {
         "_id": "64f11bcd497c30694736de48",
@@ -3876,7 +3882,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yxg4"
+        "permalink": "https://joeeasterly.github.io/go/yxg4",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bcd497c30694736df51",
