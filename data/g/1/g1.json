@@ -4924,8 +4924,15 @@
         "identifier": "g1m8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/g1m8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/g1m8",
+        "bay": "3C1",
+        "label": "bay 3C1",
+        "last_updated": "2024-02-02 17:17:01.468000",
+        "notion_id": "1309",
+        "shcn": "3C1",
+        "shelf": "3C",
+        "type": "storage"
     },
     {
         "_id": "64f11ba3497c3069472eebd5",
@@ -5753,13 +5760,13 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/g1qc",
-        "bay": "410",
-        "container": null,
+        "bay": "440",
         "label": "velcro cord straps",
-        "last_updated": "2023-10-16 11:27:49.873000",
-        "notion_id": null,
-        "shelf": "41",
-        "slot": null
+        "last_updated": "2024-02-03 21:09:31.876000",
+        "notion_id": "1313",
+        "shelf": "44",
+        "shcn": "440",
+        "type": "item"
     },
     {
         "_id": "64f11ba3497c3069472eec39",
