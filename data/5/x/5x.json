@@ -4092,8 +4092,15 @@
         "identifier": "5xgz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5xgz"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/5xgz",
+        "bay": "3C3",
+        "label": "bay 3C3",
+        "last_updated": "2024-02-02 17:17:19.312000",
+        "notion_id": "1311",
+        "shcn": "3C3",
+        "shelf": "3C",
+        "type": "storage"
     },
     {
         "_id": "64f11b88497c30694729df6d",
