@@ -3997,8 +3997,14 @@
         "identifier": "yegk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yegk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yegk",
+        "label": "White 3-Cube Organizer",
+        "last_updated": "2024-02-02 17:16:27.359000",
+        "notion_id": "1307",
+        "shcn": "3C",
+        "shelf": "3C",
+        "type": "storage"
     },
     {
         "_id": "64f11bcc497c306947369f60",
