@@ -1,15 +1,14 @@
 import pymongo
-from pprint import pprint
 from datetime import datetime
 from library.connect_mungo import connect_mungo
 from library.input_shcn import input_shcn
 from library.parse_qrcode_input import parse_qrcode_input
+from library.parse_notion_input import parse_notion_input
 from library.allocate_identifier import allocate_identifier
 from library.get_record_by_identifier import get_record_by_identifier
 from library.print_inventory import print_inventory
 from library.allocate_notion_id import allocate_notion_id
 from library.link_notion_inventory import link_notion_inventory
-from library.get_notion_record import get_notion_record
 
 
 def add_storage():
@@ -30,15 +29,11 @@ def add_storage():
         else:
             print(f"Using Identifier {selected_record['identifier'].upper()}")
         mungo_id = selected_record['identifier']
-        notion_id = input("Enter Notion ID: ")
-        mungo_label = selected_record.get('label')
-        
+        notion_id = parse_notion_input()
 
         if notion_id == "":
             notion_id = allocate_notion_id()
             print(f"Allocating Notion Inventory ID {notion_id}")
-
-        notion_record = get_notion_record(notion_id)
        
         update_fields = {
             "$set": {
@@ -81,6 +76,6 @@ def add_storage():
         confirmation_record = collection.find_one(confirmation_query)
         print_inventory(confirmation_record)
 
-# Run the update_record function if this script is run directly
+# Do add_storage() if this script is run directly
 if __name__ == "__main__":
     add_storage()

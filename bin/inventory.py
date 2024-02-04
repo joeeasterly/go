@@ -57,6 +57,8 @@ def main():
             reshelve_record()
         elif choice == '7':
             os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/update_github.py")  # Execute the update_github.py script
+        elif choice == '71':
+            os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/export_shelves.py")  # Execute the update_github.py script
         elif choice == '8':
             update_consumable()
         elif choice == '81':

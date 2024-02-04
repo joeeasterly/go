@@ -2,7 +2,9 @@
 import os
 import json
 import re
-from bson import json_util  # Import json_util for ObjectId serialization
+from datetime import datetime
+from bson import json_util
+import subprocess  # Import subprocess
 from library.connect_mungo import connect_mungo
 from library.input_shcn import input_shcn
 from library.get_storage_record import get_storage_record
@@ -10,7 +12,10 @@ from library.get_storage_record import get_storage_record
 collection = connect_mungo()
 
 # Specify the directory to save the JSON files
-output_directory = "/home/joeeasterly/Documents/GitHub/go/shelves"
+output_directory = "/home/joeeasterly/Documents/GitHub/go/shelves/data"
+
+# Specify the path to the Git repository
+repo_path = "/home/joeeasterly/Documents/GitHub/go/shelves"
 
 # Search mungo for records where input_shcn.shcn matches the beginning of the shcn field in the collection.
 shelf_list = collection.distinct("shcn")
@@ -20,6 +25,8 @@ file_counter = 0
 
 # Total number of files
 total_files = len(shelf_list)
+# Set the commit message for the shelves
+commit_message = f"shelves update {datetime.now()}"
 
 for shelving_record in shelf_list:
     metadata = get_storage_record(shelving_record)
@@ -53,4 +60,7 @@ for shelving_record in shelf_list:
             file_counter += 1
             print(f"File {file_counter}/{total_files}: {os.path.join(subfolder, filename)}")
 
-# The resulting JSON files will be saved in the specified directory (/home/joeeasterly/Documents/GitHub/go/shelves).
+# Use subprocess to stage, commit, and push changes
+subprocess.run(["git", "add", "."], cwd=repo_path)
+subprocess.run(["git", "commit", "-m", commit_message], cwd=repo_path)
+print("Shelves updated. Run git push to push changes to GitHub.")
