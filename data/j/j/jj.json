@@ -6205,7 +6205,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jjs8"
+        "permalink": "https://joeeasterly.github.io/go/jjs8",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11baa497c306947303075",
@@ -6764,8 +6765,17 @@
         "identifier": "jjue",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/jjue"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/jjue",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "413",
+        "container": "4130",
+        "label": "Perma Proto Half Size x1 #1609",
+        "last_updated": "2024-02-04 20:24:55.693000",
+        "notion_id": "231",
+        "shcn": "4130",
+        "shelf": "41",
+        "type": "item"
     },
     {
         "_id": "64f11baa497c3069473030bb",
