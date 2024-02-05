@@ -1592,7 +1592,7 @@
         "permalink": "https://joeeasterly.github.io/go/6777",
         "bay": "293",
         "label": "bay 293",
-        "last_updated": "2023-12-28T14:19:05.534000",
+        "last_updated": "2023-12-28 14:19:05.534000",
         "notion_id": "304",
         "shcn": "293",
         "shelf": "29",
@@ -3075,8 +3075,17 @@
         "identifier": "67cz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/67cz"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/67cz",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "413",
+        "container": "4130",
+        "label": "9V Holder No67",
+        "last_updated": "2024-02-04 20:32:20.694000",
+        "notion_id": "1321",
+        "shcn": "4130",
+        "shelf": "41",
+        "type": "item"
     },
     {
         "_id": "64f11b89497c3069472a02ed",
