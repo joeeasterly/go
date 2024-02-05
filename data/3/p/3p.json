@@ -2500,8 +2500,17 @@
         "identifier": "3pas",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3pas"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3pas",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "413",
+        "container": "4130",
+        "label": "Adafruit Proto Shield for Arduino Kit vR3",
+        "last_updated": "2024-02-04 20:29:48.017000",
+        "notion_id": "1320",
+        "shcn": "4130",
+        "shelf": "41",
+        "type": "item"
     },
     {
         "_id": "64f11b82497c30694728bea6",
@@ -2618,7 +2627,7 @@
         "bay": "403",
         "container": "4030",
         "label": "4ft usb-a to usb-micro cable",
-        "last_updated": "2023-10-25T09:36:27.288000",
+        "last_updated": "2023-10-25 09:36:27.288000",
         "notion_id": "552",
         "shcn": "4030",
         "shelf": "40"
@@ -4493,7 +4502,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3pjh"
+        "permalink": "https://joeeasterly.github.io/go/3pjh",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b82497c30694728bf9e",
