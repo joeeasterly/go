@@ -4771,20 +4771,8 @@
         "_id": "64f11baf497c306947312bc1",
         "identifier": "mhkn",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/mhkn",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2023-01-03 00:00:00",
-        "label": "Wegmans Organic Stir-Fry Sauce 14oz",
-        "last_updated": "2024-01-19 11:00:16.510000",
-        "notion_id": "979",
-        "percentage": "100",
-        "quantity": "1",
-        "shcn": "10",
-        "shelf": "10",
-        "type": "consumable",
-        "upc": "077890376461"
+        "allocated": false,
+        "last_updated": "2024-02-05 12:49:40.049000"
     },
     {
         "_id": "64f11baf497c306947312bc2",
