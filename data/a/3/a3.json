@@ -787,20 +787,8 @@
         "_id": "64f11b93497c3069472bf1cf",
         "identifier": "a343",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/a343",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2023-12-29 00:00:00",
-        "label": "Naan-Tastic Screamin Vindaloo 24oz",
-        "last_updated": "2024-01-19 10:41:04.132000",
-        "notion_id": "971",
-        "percentage": "100",
-        "quantity": "1",
-        "shcn": "10",
-        "shelf": "10",
-        "type": "consumable",
-        "upc": "787269022492"
+        "allocated": false,
+        "last_updated": "2024-02-05 12:48:34.426000"
     },
     {
         "_id": "64f11b93497c3069472bf1d0",
