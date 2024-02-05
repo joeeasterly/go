@@ -152,7 +152,7 @@
         "permalink": "https://joeeasterly.github.io/go/ev1k",
         "bay": "5A0",
         "label": "assorted",
-        "last_updated": "2023-11-26T17:45:09.216000",
+        "last_updated": "2023-11-26 17:45:09.216000",
         "notion_id": "654",
         "shcn": "5A0",
         "shelf": "5A",
@@ -6179,8 +6179,17 @@
         "identifier": "evs4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/evs4"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/evs4",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "413",
+        "container": "4130",
+        "label": "PN532 NFC/RFID controller breakout board - v1.6",
+        "last_updated": "2024-02-04 20:42:54.430000",
+        "notion_id": "234",
+        "shcn": "4130",
+        "shelf": "41",
+        "type": "item"
     },
     {
         "_id": "64f11ba0497c3069472e5871",
