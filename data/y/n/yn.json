@@ -196,9 +196,17 @@
         "identifier": "yn1s",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/yn1s",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "413",
+        "container": "4130",
+        "label": "Electronics Components",
+        "last_updated": "2024-02-04 20:39:52.589000",
+        "notion_id": "1322",
+        "shcn": "4130",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11bcd497c30694736b986",
