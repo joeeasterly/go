@@ -4283,20 +4283,8 @@
         "_id": "64f11bcb497c306947367384",
         "identifier": "y3hr",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/y3hr",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2023-11-22 00:00:00",
-        "label": "Hellmanns Real Mayonnaise 20oz",
-        "last_updated": "2024-01-19 11:07:57.861000",
-        "notion_id": "984",
-        "percentage": "100",
-        "quantity": "1",
-        "shcn": "10",
-        "shelf": "10",
-        "type": "consumable",
-        "upc": "048001354500"
+        "allocated": false,
+        "last_updated": "2024-02-05 12:49:15.729000"
     },
     {
         "_id": "64f11bcb497c306947367385",
