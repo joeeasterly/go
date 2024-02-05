@@ -1013,7 +1013,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/n34y"
+        "permalink": "https://joeeasterly.github.io/go/n34y",
+        "staged": "2024-01-30 20:10:32"
     },
     {
         "_id": "64f11bb0497c3069473171ec",
@@ -2116,8 +2117,20 @@
         "identifier": "n399",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/n399"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/n399",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "654",
+        "expires": "2026-05-31 00:00:00",
+        "label": "Chloraseptic Spray 6oz",
+        "last_updated": "2024-02-05 14:16:27.202000",
+        "notion_id": "1324",
+        "percentage": "99",
+        "quantity": "1",
+        "shcn": "654",
+        "shelf": "65",
+        "type": "consumable",
+        "upc": "378112011048"
     },
     {
         "_id": "64f11bb0497c306947317276",
@@ -6783,7 +6796,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/n3ug",
         "label": "shelf 23",
-        "last_updated": "2023-12-24T21:09:58.611000",
+        "last_updated": "2023-12-24 21:09:58.611000",
         "notion_id": "112",
         "shcn": "23",
         "shelf": "23",
@@ -7358,7 +7371,7 @@
         "permalink": "https://joeeasterly.github.io/go/n3wq",
         "bay": "5F2",
         "label": "bay 5F2",
-        "last_updated": "2024-01-01T15:39:05.154000",
+        "last_updated": "2024-01-01 15:39:05.154000",
         "notion_id": "723",
         "shcn": "5F2",
         "shelf": "5F",
