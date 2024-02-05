@@ -257,29 +257,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11b93497c3069472bf1cf"
-      },
-      "identifier": "a343",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/a343",
-      "staged": "2024-01-07 13:56:33",
-      "expires": "2023-12-29 00:00:00",
-      "label": "Naan-Tastic Screamin Vindaloo 24oz",
-      "last_updated": {
-        "$date": "2024-01-19T10:41:04.132Z"
-      },
-      "notion_id": "971",
-      "percentage": "100",
-      "quantity": "1",
-      "shcn": "10",
-      "shelf": "10",
-      "type": "consumable",
-      "upc": "787269022492"
-    },
-    {
-      "_id": {
         "$oid": "64f11b94497c3069472bf711"
       },
       "identifier": "a4e5",
@@ -411,29 +388,6 @@
       "notion_id": "504",
       "shcn": "10",
       "type": "item"
-    },
-    {
-      "_id": {
-        "$oid": "64f11ba2497c3069472eb83c"
-      },
-      "identifier": "fmqg",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/fmqg",
-      "staged": "2024-01-07 13:56:33",
-      "expires": "2023-11-07 00:00:00",
-      "label": "Lays Ruffles Ridges 28oz",
-      "last_updated": {
-        "$date": "2024-01-19T12:06:56.340Z"
-      },
-      "notion_id": "989",
-      "percentage": "100",
-      "quantity": "1",
-      "shcn": "10",
-      "shelf": "10",
-      "type": "consumable",
-      "upc": "028400077910"
     },
     {
       "_id": {
@@ -598,29 +552,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11baf497c306947312bc1"
-      },
-      "identifier": "mhkn",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/mhkn",
-      "staged": "2024-01-07 13:56:33",
-      "expires": "2023-01-03 00:00:00",
-      "label": "Wegmans Organic Stir-Fry Sauce 14oz",
-      "last_updated": {
-        "$date": "2024-01-19T11:00:16.510Z"
-      },
-      "notion_id": "979",
-      "percentage": "100",
-      "quantity": "1",
-      "shcn": "10",
-      "shelf": "10",
-      "type": "consumable",
-      "upc": "077890376461"
-    },
-    {
-      "_id": {
         "$oid": "64f11bb1497c30694731aa73"
       },
       "identifier": "nh97",
@@ -686,29 +617,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11bc7497c306947358ac6"
-      },
-      "identifier": "w9bt",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/w9bt",
-      "staged": "2024-01-07 13:56:33",
-      "expires": "2023-04-14 00:00:00",
-      "label": "Banh Trang Viet Nam Vietnamese Rice Paper",
-      "last_updated": {
-        "$date": "2024-01-19T15:33:11.240Z"
-      },
-      "notion_id": "990",
-      "percentage": "100",
-      "quantity": "1",
-      "shcn": "10",
-      "shelf": "10",
-      "type": "consumable",
-      "upc": "8936007820049"
-    },
-    {
-      "_id": {
         "$oid": "64f11bc7497c306947358f81"
       },
       "identifier": "wahn",
@@ -770,29 +678,6 @@
       "shcn": "1010",
       "shelf": "10",
       "type": "item"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bcb497c306947367384"
-      },
-      "identifier": "y3hr",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/y3hr",
-      "staged": "2024-01-07 13:56:33",
-      "expires": "2023-11-22 00:00:00",
-      "label": "Hellmanns Real Mayonnaise 20oz",
-      "last_updated": {
-        "$date": "2024-01-19T11:07:57.861Z"
-      },
-      "notion_id": "984",
-      "percentage": "100",
-      "quantity": "1",
-      "shcn": "10",
-      "shelf": "10",
-      "type": "consumable",
-      "upc": "048001354500"
     },
     {
       "_id": {
