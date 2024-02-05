@@ -5412,9 +5412,16 @@
         "identifier": "7gp5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/7gp5",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "654",
+        "label": "Pedicure kit",
+        "last_updated": "2024-02-05 14:17:28.856000",
+        "notion_id": "1325",
+        "shcn": "654",
+        "shelf": "65",
+        "type": "item"
     },
     {
         "_id": "64f11b8c497c3069472aa812",
