@@ -356,8 +356,17 @@
         "identifier": "nj2d",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nj2d"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nj2d",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "402",
+        "container": "4020",
+        "label": "DeWalt DCB1104 12v/20v 4A Charger",
+        "last_updated": "2024-02-05 21:11:55.323000",
+        "notion_id": "1331",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb1497c30694731ad9a",
@@ -6599,7 +6608,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/njts",
         "label": "JBL Reflect Mini Bluetooth Earbuds",
-        "last_updated": "2023-10-08T21:33:05.013000",
+        "last_updated": "2023-10-08 21:33:05.013000",
         "notion_id": "423",
         "shelf": "4021"
     },
