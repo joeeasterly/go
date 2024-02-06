@@ -119,7 +119,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/mv1f",
         "label": "master bathroom sink",
-        "last_updated": "2024-01-03T10:21:14.229000",
+        "last_updated": "2024-01-03 10:21:14.229000",
         "notion_id": "820",
         "shcn": "65",
         "shelf": "65",
@@ -6842,8 +6842,17 @@
         "identifier": "mvuq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/mvuq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/mvuq",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "402",
+        "container": "4020",
+        "label": "Microsoft Bluetooth Mouse",
+        "last_updated": "2024-02-05 21:13:09.795000",
+        "notion_id": "1337",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb0497c3069473158c4",
