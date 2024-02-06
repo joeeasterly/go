@@ -5516,8 +5516,17 @@
         "identifier": "49pj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/49pj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/49pj",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "402",
+        "container": "4020",
+        "label": "5ft black grounded power cable",
+        "last_updated": "2024-02-05 21:04:20.422000",
+        "notion_id": "1347",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b84497c306947290c1f",
@@ -5756,8 +5765,16 @@
         "identifier": "49qg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/49qg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/49qg",
+        "bay": "412",
+        "container": "4120",
+        "label": "container 4120",
+        "last_updated": "2024-01-21 19:32:40.730000",
+        "notion_id": "1097",
+        "shcn": "4120",
+        "shelf": "41",
+        "type": "storage"
     },
     {
         "_id": "64f11b84497c306947290c3d",
