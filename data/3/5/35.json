@@ -1844,9 +1844,17 @@
         "identifier": "3587",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/3587",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "402",
+        "container": "4020",
+        "label": "Power adapter for AromaSpeaker-WoodGrain Diffuser",
+        "last_updated": "2024-02-05 21:12:13.969000",
+        "notion_id": "1329",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b81497c306947287a54",
