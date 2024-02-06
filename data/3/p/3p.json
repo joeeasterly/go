@@ -4501,9 +4501,17 @@
         "identifier": "3pjh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/3pjh",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "403",
+        "container": "4031",
+        "label": "female mini-stereo to male stereo adapter",
+        "last_updated": "2024-02-05 21:08:33.409000",
+        "notion_id": "1344",
+        "shcn": "4031",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b82497c30694728bf9e",
