@@ -8140,8 +8140,17 @@
         "identifier": "tezt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tezt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tezt",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "102",
+        "container": "1020",
+        "label": "Edimax N150 Wi-Fi 4 Nano USB Adapter",
+        "last_updated": "2024-02-05 20:54:35.847000",
+        "notion_id": "1346",
+        "shcn": "1020",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bbf497c306947342167",
