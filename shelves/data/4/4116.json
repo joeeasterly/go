@@ -1,0 +1,24 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb1497c30694731982a"
+    },
+    "identifier": "ncpx",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/ncpx",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "411",
+    "container": "4116",
+    "label": "container 4116",
+    "last_updated": {
+      "$date": "2024-01-28T17:18:14.646Z"
+    },
+    "notion_id": "1262",
+    "shcn": "4116",
+    "shelf": "41",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

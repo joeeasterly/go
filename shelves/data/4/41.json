@@ -20,6 +20,46 @@
   "shelf_contents": [
     {
       "_id": {
+        "$oid": "64f11b7e497c30694727e973"
+      },
+      "identifier": "2117",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2117",
+      "label": "Pi T Cobbler",
+      "last_updated": {
+        "$date": "2024-02-04T20:22:47.374Z"
+      },
+      "notion_id": "220",
+      "shelf": "41",
+      "bay": "413",
+      "container": "4130",
+      "shcn": "4130"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728bea5"
+      },
+      "identifier": "3pas",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3pas",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "413",
+      "container": "4130",
+      "label": "Adafruit Proto Shield for Arduino Kit vR3",
+      "last_updated": {
+        "$date": "2024-02-04T20:29:48.017Z"
+      },
+      "notion_id": "1320",
+      "shcn": "4130",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b83497c30694728e171"
       },
       "identifier": "3y15",
@@ -78,6 +118,68 @@
     },
     {
       "_id": {
+        "$oid": "64f11b85497c306947294046"
+      },
+      "identifier": "4pqt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4pqt",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "413",
+      "container": "4130",
+      "label": "FTDI Cable 3.3V #70C",
+      "last_updated": {
+        "$date": "2024-02-04T20:40:48.487Z"
+      },
+      "notion_id": "1323",
+      "shcn": "4130",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729b4a9"
+      },
+      "identifier": "5ktw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5ktw",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "412",
+      "label": "Hyundai Kona spare key",
+      "last_updated": {
+        "$date": "2024-01-31T19:49:49.175Z"
+      },
+      "notion_id": "1287",
+      "shcn": "412",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b89497c3069472a02ec"
+      },
+      "identifier": "67cz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/67cz",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "413",
+      "container": "4130",
+      "label": "9V Holder No67",
+      "last_updated": {
+        "$date": "2024-02-04T20:32:20.694Z"
+      },
+      "notion_id": "1321",
+      "shcn": "4130",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b8a497c3069472a25a8"
       },
       "identifier": "6g2v",
@@ -111,6 +213,69 @@
       },
       "notion_id": "433",
       "shcn": "414",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b90497c3069472b481e"
+      },
+      "identifier": "8rpj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8rpj",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "411",
+      "container": "411B",
+      "label": "Sandwich Zip-Loc Bags",
+      "last_updated": {
+        "$date": "2024-01-29T17:51:09.356Z"
+      },
+      "notion_id": "1270",
+      "shcn": "411B",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472c03e5"
+      },
+      "identifier": "a7ms",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/a7ms",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "4114",
+      "label": "container 4114",
+      "last_updated": {
+        "$date": "2024-01-28T17:14:16Z"
+      },
+      "notion_id": "1260",
+      "shcn": "4114",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b94497c3069472c0f0f"
+      },
+      "identifier": "aae3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/aae3",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "411",
+      "container": "4115",
+      "label": "container 4115",
+      "last_updated": {
+        "$date": "2024-01-28T17:16:47.114Z"
+      },
+      "notion_id": "1261",
+      "shcn": "4115",
       "shelf": "41",
       "type": "storage"
     },
@@ -171,6 +336,69 @@
       "bay": "411",
       "shcn": "411",
       "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e5870"
+      },
+      "identifier": "evs4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/evs4",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "413",
+      "container": "4130",
+      "label": "PN532 NFC/RFID controller breakout board - v1.6",
+      "last_updated": {
+        "$date": "2024-02-04T20:42:54.430Z"
+      },
+      "notion_id": "234",
+      "shcn": "4130",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e6456"
+      },
+      "identifier": "eyra",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/eyra",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "413",
+      "container": "4130",
+      "label": "60in USB-A to USB-B Micro cable",
+      "last_updated": {
+        "$date": "2024-02-04T20:20:32.002Z"
+      },
+      "notion_id": "1319",
+      "shcn": "4130",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba2497c3069472eb0f8"
+      },
+      "identifier": "fjwc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fjwc",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "411A",
+      "label": "Snack Zip-Loc Bags",
+      "last_updated": {
+        "$date": "2024-01-29T17:50:41.432Z"
+      },
+      "notion_id": "1269",
+      "shcn": "411A",
+      "shelf": "41",
+      "type": "storage"
     },
     {
       "_id": {
@@ -325,6 +553,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba9497c3069472ffad8"
+      },
+      "identifier": "j5cc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/j5cc",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "411D",
+      "label": "Gallon Zip-Loc Bags",
+      "last_updated": {
+        "$date": "2024-01-29T17:50:04.169Z"
+      },
+      "notion_id": "1268",
+      "shcn": "411D",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba9497c30694730023d"
       },
       "identifier": "j77h",
@@ -383,6 +632,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11baa497c3069473030ba"
+      },
+      "identifier": "jjue",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jjue",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "413",
+      "container": "4130",
+      "label": "Perma Proto Half Size x1 #1609",
+      "last_updated": {
+        "$date": "2024-02-04T20:24:55.693Z"
+      },
+      "notion_id": "231",
+      "shcn": "4130",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bab497c306947306361"
       },
       "identifier": "jygn",
@@ -438,6 +708,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bb1497c30694731982a"
+      },
+      "identifier": "ncpx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ncpx",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "4116",
+      "label": "container 4116",
+      "last_updated": {
+        "$date": "2024-01-28T17:18:14.646Z"
+      },
+      "notion_id": "1262",
+      "shcn": "4116",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb2497c30694731d23e"
       },
       "identifier": "nu7j",
@@ -457,6 +748,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bb4497c30694732117b"
+      },
+      "identifier": "pb1f",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/pb1f",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "411C",
+      "label": "Quart Zip-Loc Bags",
+      "last_updated": {
+        "$date": "2024-01-29T17:51:41.258Z"
+      },
+      "notion_id": "1271",
+      "shcn": "411C",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb4497c306947322b08"
       },
       "identifier": "phdv",
@@ -473,6 +785,27 @@
       "bay": "411",
       "shcn": "411",
       "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb5497c306947325000"
+      },
+      "identifier": "ptnm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ptnm",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "4113",
+      "label": "container 4113",
+      "last_updated": {
+        "$date": "2024-01-28T17:12:57.713Z"
+      },
+      "notion_id": "1259",
+      "shcn": "4113",
+      "shelf": "41",
+      "type": "storage"
     },
     {
       "_id": {
@@ -591,6 +924,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bc6497c306947356be8"
+      },
+      "identifier": "w1mv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/w1mv",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "4117",
+      "label": "container 4117",
+      "last_updated": {
+        "$date": "2024-01-28T17:24:00.355Z"
+      },
+      "notion_id": "1263",
+      "shcn": "4117",
+      "shelf": "41",
+      "type": "storage"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc9497c30694735f10f"
       },
       "identifier": "x2x3",
@@ -625,6 +979,27 @@
       "bay": "411",
       "shcn": "411",
       "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736b985"
+      },
+      "identifier": "yn1s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yn1s",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "413",
+      "container": "4130",
+      "label": "Electronics Components",
+      "last_updated": {
+        "$date": "2024-02-04T20:39:52.589Z"
+      },
+      "notion_id": "1322",
+      "shcn": "4130",
+      "shelf": "41",
+      "type": "storage"
     },
     {
       "_id": {

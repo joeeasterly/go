@@ -1,0 +1,24 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bc6497c306947356be8"
+    },
+    "identifier": "w1mv",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/w1mv",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "411",
+    "container": "4117",
+    "label": "container 4117",
+    "last_updated": {
+      "$date": "2024-01-28T17:24:00.355Z"
+    },
+    "notion_id": "1263",
+    "shcn": "4117",
+    "shelf": "41",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

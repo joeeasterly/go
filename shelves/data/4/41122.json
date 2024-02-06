@@ -20,5 +20,27 @@
     "slot": "41122",
     "type": "storage"
   },
-  "shelf_contents": []
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11bae497c30694730f745"
+      },
+      "identifier": "m4fs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/m4fs",
+      "label": "workstation echo show remote",
+      "last_updated": {
+        "$date": "2024-01-30T18:57:17.013Z"
+      },
+      "notion_id": "412",
+      "shelf": "41",
+      "bay": "411",
+      "container": "4112",
+      "shcn": "41122",
+      "slot": "41122",
+      "type": "item"
+    }
+  ]
 }

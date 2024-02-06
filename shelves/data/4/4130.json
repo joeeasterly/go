@@ -1,20 +1,22 @@
 {
   "shelving_record": {
     "_id": {
-      "$oid": "64f11bb6497c306947326c2c"
+      "$oid": "64f11bcd497c30694736b985"
     },
-    "identifier": "q1pz",
+    "identifier": "yn1s",
     "target": "#",
     "class": "inventory",
     "allocated": true,
-    "permalink": "https://joeeasterly.github.io/go/q1pz",
+    "permalink": "https://joeeasterly.github.io/go/yn1s",
+    "staged": "2024-01-19 11:39:27",
     "bay": "413",
-    "label": "bay 413",
+    "container": "4130",
+    "label": "Electronics Components",
     "last_updated": {
-      "$date": "2023-12-24T20:56:43.482Z"
+      "$date": "2024-02-04T20:39:52.589Z"
     },
-    "notion_id": "432",
-    "shcn": "413",
+    "notion_id": "1322",
+    "shcn": "4130",
     "shelf": "41",
     "type": "storage"
   },
@@ -163,27 +165,6 @@
       "shcn": "4130",
       "shelf": "41",
       "type": "item"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bcd497c30694736b985"
-      },
-      "identifier": "yn1s",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/yn1s",
-      "staged": "2024-01-19 11:39:27",
-      "bay": "413",
-      "container": "4130",
-      "label": "Electronics Components",
-      "last_updated": {
-        "$date": "2024-02-04T20:39:52.589Z"
-      },
-      "notion_id": "1322",
-      "shcn": "4130",
-      "shelf": "41",
-      "type": "storage"
     }
   ]
 }

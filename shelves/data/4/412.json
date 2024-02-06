@@ -149,6 +149,26 @@
     },
     {
       "_id": {
+        "$oid": "64f11b88497c30694729b4a9"
+      },
+      "identifier": "5ktw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5ktw",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "412",
+      "label": "Hyundai Kona spare key",
+      "last_updated": {
+        "$date": "2024-01-31T19:49:49.175Z"
+      },
+      "notion_id": "1287",
+      "shcn": "412",
+      "shelf": "41",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b89497c30694729f8b5"
       },
       "identifier": "64u9",
@@ -544,6 +564,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba3497c3069472eec31"
+      },
+      "identifier": "g1q5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1q5",
+      "bay": "412",
+      "container": "4122",
+      "label": "3in x 1/4in eye loop bolts",
+      "last_updated": {
+        "$date": "2024-01-29T17:30:29.656Z"
+      },
+      "notion_id": "1264",
+      "shcn": "41225",
+      "shelf": "41",
+      "slot": "41225",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba3497c3069472eec46"
       },
       "identifier": "g1qt",
@@ -561,6 +602,27 @@
       "shcn": "41234",
       "shelf": "41",
       "slot": "41234",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec49"
+      },
+      "identifier": "g1qw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1qw",
+      "bay": "412",
+      "container": "4122",
+      "label": "3cm philips m4 machine bolts",
+      "last_updated": {
+        "$date": "2024-01-29T17:36:19.397Z"
+      },
+      "notion_id": "1266",
+      "shcn": "41224",
+      "shelf": "41",
+      "slot": "41224",
       "type": "item"
     },
     {
@@ -1137,6 +1199,24 @@
     },
     {
       "_id": {
+        "$oid": "64f11bb2497c30694731cfa5"
+      },
+      "identifier": "ntjs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ntjs",
+      "bay": "412",
+      "container": "4120",
+      "last_updated": {
+        "$date": "2024-01-30T12:11:26.353Z"
+      },
+      "shcn": "4120H",
+      "shelf": "41",
+      "slot": "4120H"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb4497c306947322147"
       },
       "identifier": "peyu",
@@ -1410,6 +1490,28 @@
       "shcn": "4122A",
       "shelf": "41",
       "slot": "4122A"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbe497c30694733df20"
+      },
+      "identifier": "sxem",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sxem",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4122",
+      "label": "7/8in x 1/4in nuts",
+      "last_updated": {
+        "$date": "2024-01-29T17:33:01.115Z"
+      },
+      "notion_id": "1265",
+      "shcn": "41225",
+      "shelf": "41",
+      "slot": "41225",
+      "type": "item"
     },
     {
       "_id": {

@@ -18,5 +18,25 @@
     "shelf": "44",
     "type": "storage"
   },
-  "shelf_contents": []
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec38"
+      },
+      "identifier": "g1qc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1qc",
+      "bay": "440",
+      "label": "velcro cord straps",
+      "last_updated": {
+        "$date": "2024-02-03T21:09:31.876Z"
+      },
+      "notion_id": "1313",
+      "shelf": "44",
+      "shcn": "440",
+      "type": "item"
+    }
+  ]
 }

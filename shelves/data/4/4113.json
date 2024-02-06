@@ -1,0 +1,24 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11bb5497c306947325000"
+    },
+    "identifier": "ptnm",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/ptnm",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "411",
+    "container": "4113",
+    "label": "container 4113",
+    "last_updated": {
+      "$date": "2024-01-28T17:12:57.713Z"
+    },
+    "notion_id": "1259",
+    "shcn": "4113",
+    "shelf": "41",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

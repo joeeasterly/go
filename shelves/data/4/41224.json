@@ -20,5 +20,27 @@
     "type": "storage",
     "shcn": "41224"
   },
-  "shelf_contents": []
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec49"
+      },
+      "identifier": "g1qw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1qw",
+      "bay": "412",
+      "container": "4122",
+      "label": "3cm philips m4 machine bolts",
+      "last_updated": {
+        "$date": "2024-01-29T17:36:19.397Z"
+      },
+      "notion_id": "1266",
+      "shcn": "41224",
+      "shelf": "41",
+      "slot": "41224",
+      "type": "item"
+    }
+  ]
 }

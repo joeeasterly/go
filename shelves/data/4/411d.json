@@ -1,0 +1,24 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba9497c3069472ffad8"
+    },
+    "identifier": "j5cc",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/j5cc",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "411",
+    "container": "411D",
+    "label": "Gallon Zip-Loc Bags",
+    "last_updated": {
+      "$date": "2024-01-29T17:50:04.169Z"
+    },
+    "notion_id": "1268",
+    "shcn": "411D",
+    "shelf": "41",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

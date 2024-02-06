@@ -1,0 +1,22 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11b8d497c3069472acb12"
+    },
+    "identifier": "7se6",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/7se6",
+    "bay": "3B0",
+    "label": "bay 3B0",
+    "last_updated": {
+      "$date": "2024-02-02T16:40:03.373Z"
+    },
+    "notion_id": "1300",
+    "shcn": "3B0",
+    "shelf": "3B",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

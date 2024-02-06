@@ -1312,6 +1312,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11bbb497c306947336ac7"
+      },
+      "identifier": "s1bu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s1bu",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5G0",
+      "expires": "2024-09-14 00:00:00",
+      "label": "Rhee Bros Seasoned Seaweed 10pk",
+      "last_updated": {
+        "$date": "2024-02-01T12:54:05.669Z"
+      },
+      "notion_id": "1294",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "8809041752075"
+    },
+    {
+      "_id": {
         "$oid": "64f11bbf497c30694734111c"
       },
       "identifier": "taxg",
@@ -1624,6 +1648,30 @@
       "shcn": "5G5",
       "shelf": "5G",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736d212"
+      },
+      "identifier": "yu66",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yu66",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5G0",
+      "expires": "2025-12-01 00:00:00",
+      "label": "Surasang Sushi Nori 20ct",
+      "last_updated": {
+        "$date": "2024-02-01T12:52:04.043Z"
+      },
+      "notion_id": "1293",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5G0",
+      "shelf": "5G",
+      "type": "consumable",
+      "upc": "087703182080"
     },
     {
       "_id": {

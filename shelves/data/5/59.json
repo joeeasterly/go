@@ -255,13 +255,13 @@
       "permalink": "https://joeeasterly.github.io/go/8anv",
       "staged": "2024-01-19 11:39:27",
       "bay": "591",
-      "expires": "2024-12-31 00:00:00",
+      "expires": "2026-02-28 00:00:00",
       "label": "Sichuan Pepper",
       "last_updated": {
-        "$date": "2024-01-19T20:58:56.735Z"
+        "$date": "2024-02-01T12:43:05.709Z"
       },
       "notion_id": "1026",
-      "percentage": "35",
+      "percentage": "99",
       "quantity": "1",
       "shcn": "591",
       "shelf": "59",
@@ -291,6 +291,30 @@
       "shelf": "59",
       "type": "consumable",
       "upc": "072705105670"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b95497c3069472c1e99"
+      },
+      "identifier": "aead",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/aead",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2025-08-31 00:00:00",
+      "label": "Niblack Chinese Five Spice 2oz",
+      "last_updated": {
+        "$date": "2024-02-01T12:47:08.556Z"
+      },
+      "notion_id": "1290",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "7597418239"
     },
     {
       "_id": {
@@ -414,27 +438,51 @@
     },
     {
       "_id": {
-        "$oid": "64f11ba0497c3069472e45ad"
+        "$oid": "64f11ba0497c3069472e3e08"
       },
-      "identifier": "er31",
+      "identifier": "ep5v",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/er31",
+      "permalink": "https://joeeasterly.github.io/go/ep5v",
       "staged": "2024-01-19 11:39:27",
       "bay": "591",
-      "expires": "2020-04-10 00:00:00",
-      "label": "Spice Islands Organic Ground Tumeric 2.0 oz",
+      "expires": "2026-02-28 00:00:00",
+      "label": "Niblack Whole Red Szechuan Peppercorns 3oz",
       "last_updated": {
-        "$date": "2024-01-19T20:57:58.740Z"
+        "$date": "2024-02-01T12:42:15.857Z"
       },
-      "notion_id": "1025",
-      "percentage": "80",
+      "notion_id": "1288",
+      "percentage": "99",
       "quantity": "1",
       "shcn": "591",
       "shelf": "59",
       "type": "consumable",
-      "upc": "04018810"
+      "upc": "7597416572"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba1497c3069472e7b40"
+      },
+      "identifier": "f5fm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/f5fm",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2025-05-31 00:00:00",
+      "label": "Niblack Whole Cumin 2oz",
+      "last_updated": {
+        "$date": "2024-02-01T12:44:27.778Z"
+      },
+      "notion_id": "1289",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "7597418633"
     },
     {
       "_id": {
@@ -741,6 +789,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11bc2497c30694734a228"
+      },
+      "identifier": "uf6v",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uf6v",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "591",
+      "expires": "2025-11-30 00:00:00",
+      "label": "Niblack Ground Tumeric 2oz",
+      "last_updated": {
+        "$date": "2024-02-01T12:48:45.639Z"
+      },
+      "notion_id": "1291",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "591",
+      "shelf": "59",
+      "type": "consumable",
+      "upc": "7597418535"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc8497c30694735afff"
       },
       "identifier": "wjnk",
@@ -882,30 +954,6 @@
       "shelf": "59",
       "type": "consumable",
       "upc": "072705105670"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bd0497c306947375d65"
-      },
-      "identifier": "zwzs",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/zwzs",
-      "staged": "2024-01-19 11:39:27",
-      "bay": "591",
-      "expires": "2019-11-30 00:00:00",
-      "label": "Niblack Whole Cumin",
-      "last_updated": {
-        "$date": "2024-01-19T20:23:20.269Z"
-      },
-      "notion_id": "1008",
-      "percentage": "90",
-      "quantity": "1",
-      "shcn": "591",
-      "shelf": "59",
-      "type": "consumable",
-      "upc": "075974166236"
     }
   ]
 }

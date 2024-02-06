@@ -1,0 +1,24 @@
+{
+  "shelving_record": {
+    "_id": {
+      "$oid": "64f11ba2497c3069472eb0f8"
+    },
+    "identifier": "fjwc",
+    "target": "#",
+    "class": "inventory",
+    "allocated": true,
+    "permalink": "https://joeeasterly.github.io/go/fjwc",
+    "staged": "2024-01-19 11:39:27",
+    "bay": "411",
+    "container": "411A",
+    "label": "Snack Zip-Loc Bags",
+    "last_updated": {
+      "$date": "2024-01-29T17:50:41.432Z"
+    },
+    "notion_id": "1269",
+    "shcn": "411A",
+    "shelf": "41",
+    "type": "storage"
+  },
+  "shelf_contents": []
+}

@@ -20,5 +20,49 @@
     "slot": "41225",
     "type": "storage"
   },
-  "shelf_contents": []
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11ba3497c3069472eec31"
+      },
+      "identifier": "g1q5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/g1q5",
+      "bay": "412",
+      "container": "4122",
+      "label": "3in x 1/4in eye loop bolts",
+      "last_updated": {
+        "$date": "2024-01-29T17:30:29.656Z"
+      },
+      "notion_id": "1264",
+      "shcn": "41225",
+      "shelf": "41",
+      "slot": "41225",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbe497c30694733df20"
+      },
+      "identifier": "sxem",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sxem",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "412",
+      "container": "4122",
+      "label": "7/8in x 1/4in nuts",
+      "last_updated": {
+        "$date": "2024-01-29T17:33:01.115Z"
+      },
+      "notion_id": "1265",
+      "shcn": "41225",
+      "shelf": "41",
+      "slot": "41225",
+      "type": "item"
+    }
+  ]
 }

@@ -18,5 +18,26 @@
     "shelf": "6A",
     "type": "storage"
   },
-  "shelf_contents": []
+  "shelf_contents": [
+    {
+      "_id": {
+        "$oid": "64f11b7e497c30694727f097"
+      },
+      "identifier": "22tb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/22tb",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "6A1",
+      "label": "Withings BPM Connect WPM05",
+      "last_updated": {
+        "$date": "2024-02-02T16:15:19.843Z"
+      },
+      "notion_id": "1298",
+      "shcn": "6A1",
+      "shelf": "6A",
+      "type": "item"
+    }
+  ]
 }

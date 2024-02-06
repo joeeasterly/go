@@ -22,6 +22,48 @@
   "shelf_contents": [
     {
       "_id": {
+        "$oid": "64f11b81497c30694728906e"
+      },
+      "identifier": "3as2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3as2",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "6ft white cat 6 gigabit ethernet cable",
+      "last_updated": {
+        "$date": "2024-01-31T19:52:45.845Z"
+      },
+      "notion_id": "1282",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b82497c30694728bf9d"
+      },
+      "identifier": "3pjh",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3pjh",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "403",
+      "container": "4031",
+      "label": "female mini-stereo to male stereo adapter",
+      "last_updated": {
+        "$date": "2024-02-05T21:08:33.409Z"
+      },
+      "notion_id": "1344",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b87497c306947299776"
       },
       "identifier": "5cha",
@@ -59,6 +101,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11b95497c3069472c21a0"
+      },
+      "identifier": "af2m",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/af2m",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "6ft male to female mini-stereo cable",
+      "last_updated": {
+        "$date": "2024-02-05T21:08:02.470Z"
+      },
+      "notion_id": "1343",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b97497c3069472c8d28"
       },
       "identifier": "b9xv",
@@ -92,6 +155,27 @@
       },
       "notion_id": "537",
       "shcn": "4031",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cd221"
+      },
+      "identifier": "bu6n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bu6n",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "6ft HDMI cable",
+      "last_updated": {
+        "$date": "2024-01-31T19:52:56.525Z"
+      },
+      "notion_id": "1275",
+      "shcn": "4031",
+      "shelf": "40",
       "type": "item"
     },
     {
@@ -172,6 +256,48 @@
     },
     {
       "_id": {
+        "$oid": "64f11bae497c3069473100ba"
+      },
+      "identifier": "m6ue",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/m6ue",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "6ft white cat 6 gigabit ethernet cable",
+      "last_updated": {
+        "$date": "2024-01-31T19:52:36.908Z"
+      },
+      "notion_id": "1283",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb9497c30694732fc5c"
+      },
+      "identifier": "r5rg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r5rg",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "Roku 3820X Streaming Stick 4K",
+      "last_updated": {
+        "$date": "2024-01-31T19:52:12.024Z"
+      },
+      "notion_id": "1278",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bba497c3069473333e0"
       },
       "identifier": "rkmm",
@@ -244,6 +370,27 @@
       "notion_id": "545",
       "shcn": "4031",
       "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c306947360129"
+      },
+      "identifier": "x6xw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x6xw",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "Roku WR002 Long-Range Wireless Receiver",
+      "last_updated": {
+        "$date": "2024-01-31T19:52:00.969Z"
+      },
+      "notion_id": "1277",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
     }
   ]
 }

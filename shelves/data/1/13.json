@@ -100,6 +100,30 @@
     },
     {
       "_id": {
+        "$oid": "64f11baa497c30694730390b"
+      },
+      "identifier": "jmwy",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/jmwy",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "131",
+      "expires": "2028-12-31 00:00:00",
+      "label": "Yankee Candle Midsummers Night Car Freshener",
+      "last_updated": {
+        "$date": "2024-02-05T19:13:05.925Z"
+      },
+      "notion_id": "1326",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "131",
+      "shelf": "13",
+      "type": "consumable",
+      "upc": "609032780241"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb1497c306947318dbb"
       },
       "identifier": "na3f",
