@@ -412,8 +412,17 @@
         "identifier": "af2m",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/af2m"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/af2m",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4031",
+        "label": "6ft male to female mini-stereo cable",
+        "last_updated": "2024-02-05 21:08:02.470000",
+        "notion_id": "1343",
+        "shcn": "4031",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b95497c3069472c21a1",
