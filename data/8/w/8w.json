@@ -1860,8 +1860,16 @@
         "identifier": "8w89",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8w89"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8w89",
+        "label": "3ft black grounded extension cable",
+        "last_updated": "2024-02-05 21:09:25.590000",
+        "notion_id": "1336",
+        "shcn": "4020",
+        "type": "item",
+        "bay": "402",
+        "container": "4020",
+        "shelf": "40"
     },
     {
         "_id": "64f11b90497c3069472b5a56",
