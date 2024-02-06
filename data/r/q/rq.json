@@ -7077,8 +7077,16 @@
         "identifier": "rqvh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rqvh"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rqvh",
+        "label": "E-JUN 12in polarized ungrounded switched cable",
+        "last_updated": "2024-02-05 21:12:42.872000",
+        "notion_id": "1334",
+        "shcn": "4020",
+        "type": "item",
+        "bay": "402",
+        "container": "4020",
+        "shelf": "40"
     },
     {
         "_id": "64f11bba497c3069473344de",
