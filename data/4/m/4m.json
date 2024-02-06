@@ -668,8 +668,16 @@
         "identifier": "4m3m",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4m3m"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4m3m",
+        "label": "6ft black grounded extension cord",
+        "last_updated": "2024-02-05 21:12:58.622000",
+        "notion_id": "1327",
+        "shcn": "4020",
+        "type": "item",
+        "bay": "402",
+        "container": "4020",
+        "shelf": "40"
     },
     {
         "_id": "64f11b85497c3069472935c1",
