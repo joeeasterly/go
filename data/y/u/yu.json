@@ -1872,9 +1872,17 @@
         "identifier": "yu89",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/yu89",
-        "staged": "2024-01-30 20:10:32"
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "40in USB-C to Lightning Cable",
+        "last_updated": "2024-02-06 21:17:12.804000",
+        "notion_id": "1352",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bcd497c30694736d256",
