@@ -3932,8 +3932,17 @@
         "identifier": "t1gc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/t1gc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/t1gc",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "2m USB-A to USB-B Printer Cable",
+        "last_updated": "2024-02-07 14:03:54.869000",
+        "notion_id": "1397",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bbe497c30694733eb59",
