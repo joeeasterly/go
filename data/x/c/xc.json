@@ -2636,8 +2636,17 @@
         "identifier": "xcba",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xcba"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xcba",
+        "staged": "2024-02-06 18:58:19",
+        "bay": "402",
+        "container": "4020",
+        "label": "9in Male DisplayPort to Female DVI Cable",
+        "last_updated": "2024-02-07 13:51:33.019000",
+        "notion_id": "1377",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bca497c3069473616b7",
