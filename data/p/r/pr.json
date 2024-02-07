@@ -1140,8 +1140,17 @@
         "identifier": "pr5e",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pr5e"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/pr5e",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "402",
+        "container": "4020",
+        "last_updated": "2024-02-06 21:22:57.874000",
+        "shcn": "4020",
+        "shelf": "40",
+        "label": "6ft unpolarized power cable",
+        "notion_id": "1371",
+        "type": "item"
     },
     {
         "_id": "64f11bb5497c3069473245fb",
