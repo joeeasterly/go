@@ -3164,8 +3164,17 @@
         "identifier": "q6dc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/q6dc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/q6dc",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "402",
+        "container": "4020",
+        "label": "Insta360 Bullet Time Cord",
+        "last_updated": "2024-02-07 13:52:24.422000",
+        "notion_id": "1391",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb6497c306947327ef9",
