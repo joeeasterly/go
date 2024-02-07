@@ -3572,8 +3572,17 @@
         "identifier": "92ey",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/92ey"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/92ey",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "3ft USB-A to USB-B cable",
+        "last_updated": "2024-02-06 21:15:00.731000",
+        "notion_id": "1356",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b90497c3069472b6f2c",
@@ -3960,7 +3969,7 @@
         "permalink": "https://joeeasterly.github.io/go/92gf",
         "bay": "5M0",
         "label": "bay 5M0",
-        "last_updated": "2024-01-01T16:26:17.526000",
+        "last_updated": "2024-01-01 16:26:17.526000",
         "notion_id": "761",
         "shcn": "5M0",
         "shelf": "5M",
