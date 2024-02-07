@@ -3428,8 +3428,17 @@
         "identifier": "r2ed",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/r2ed"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/r2ed",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "20in USB-A to USB-B Micro Cable",
+        "last_updated": "2024-02-06 21:18:19.860000",
+        "notion_id": "1367",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb8497c30694732ef1a",
@@ -6424,7 +6433,7 @@
         "permalink": "https://joeeasterly.github.io/go/r2t3",
         "bay": "563",
         "label": "Vitamix accessories",
-        "last_updated": "2023-11-25T21:30:47.238000",
+        "last_updated": "2023-11-25 21:30:47.238000",
         "notion_id": "652",
         "shcn": "563",
         "shelf": "56",
@@ -8197,6 +8206,7 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/r2zz"
+        "permalink": "https://joeeasterly.github.io/go/r2zz",
+        "staged": "2024-02-06 18:58:19"
     }
 ]
