@@ -3060,8 +3060,17 @@
         "identifier": "6vcy",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6vcy"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6vcy",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "402",
+        "container": "4020",
+        "label": "Amazon 9W USB power adapter",
+        "last_updated": "2024-02-06 21:19:50.134000",
+        "notion_id": "1369",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b8b497c3069472a56ec",
@@ -5896,7 +5905,7 @@
         "permalink": "https://joeeasterly.github.io/go/6vr1",
         "bay": "575",
         "label": "AP flour, bread flour, white rice",
-        "last_updated": "2023-11-25T21:17:41.809000",
+        "last_updated": "2023-11-25 21:17:41.809000",
         "notion_id": "643",
         "shcn": "575",
         "shelf": "57",
