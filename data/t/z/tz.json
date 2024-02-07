@@ -724,8 +724,17 @@
         "identifier": "tz3u",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tz3u"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tz3u",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "last_updated": "2024-02-07 14:02:21.482000",
+        "shcn": "4030",
+        "shelf": "40",
+        "label": "1.5m USB-A to USB-B Micro Cable",
+        "notion_id": "1401",
+        "type": "item"
     },
     {
         "_id": "64f11bc0497c3069473465c8",
@@ -3024,7 +3033,7 @@
         "permalink": "https://joeeasterly.github.io/go/tzct",
         "bay": "5G2",
         "label": "bay 5G2",
-        "last_updated": "2024-01-01T16:01:07.899000",
+        "last_updated": "2024-01-01 16:01:07.899000",
         "notion_id": "742",
         "shcn": "5G2",
         "shelf": "5G",
@@ -3547,8 +3556,16 @@
         "identifier": "tzeu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tzeu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tzeu",
+        "bay": "102",
+        "container": "1020",
+        "label": "1m USB-A to USB-B Micro Cable",
+        "last_updated": "2024-02-07 13:03:50.251000",
+        "notion_id": "1384",
+        "shcn": "1020",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bc0497c306947346728",
@@ -5196,7 +5213,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tzn9"
+        "permalink": "https://joeeasterly.github.io/go/tzn9",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bc0497c3069473467f6",
