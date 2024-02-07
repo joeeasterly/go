@@ -356,9 +356,17 @@
         "identifier": "zs2d",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/zs2d",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07 13:56:33",
+        "bay": "402",
+        "container": "4020",
+        "label": "GE E192912 PS-410B Power Strip",
+        "last_updated": "2024-02-07 13:58:10.411000",
+        "notion_id": "1378",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bcf497c30694737499a",
