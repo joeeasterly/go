@@ -1028,8 +1028,17 @@
         "identifier": "xr51",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xr51"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xr51",
+        "staged": "2024-02-06 18:58:19",
+        "bay": "102",
+        "container": "1020",
+        "label": "6ft Unpolarized Ungrounded Power Cable",
+        "last_updated": "2024-02-07 13:30:48.999000",
+        "notion_id": "1395",
+        "shcn": "1020",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bca497c3069473645ee",
@@ -3344,7 +3353,7 @@
         "permalink": "https://joeeasterly.github.io/go/xre2",
         "bay": "5Q4",
         "label": "back of laundry room door",
-        "last_updated": "2024-01-01T16:38:42.905000",
+        "last_updated": "2024-01-01 16:38:42.905000",
         "notion_id": "779",
         "shcn": "5Q4",
         "shelf": "5Q",
