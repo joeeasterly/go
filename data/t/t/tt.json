@@ -5540,8 +5540,17 @@
         "identifier": "ttpn",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ttpn"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ttpn",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4031",
+        "label": "HOSA CSS-200 10ft 1/4in Stereo Interconnect Cable",
+        "last_updated": "2024-02-07 13:56:53.712000",
+        "notion_id": "1380",
+        "shcn": "4031",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bc0497c306947345022",
@@ -5829,7 +5838,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ttqs"
+        "permalink": "https://joeeasterly.github.io/go/ttqs",
+        "staged": "2024-02-06 18:58:19"
     },
     {
         "_id": "64f11bc0497c306947345046",
