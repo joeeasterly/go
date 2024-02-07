@@ -1364,9 +1364,17 @@
         "identifier": "h86b",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/h86b",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "402",
+        "container": "4020",
+        "label": "Amazon 9W USB power adapter",
+        "last_updated": "2024-02-06 21:19:53.867000",
+        "notion_id": "1370",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11ba6497c3069472f8618",
