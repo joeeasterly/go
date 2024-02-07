@@ -492,8 +492,17 @@
         "identifier": "9y2x",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9y2x"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9y2x",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "402",
+        "container": "4020",
+        "label": "Google power adapter",
+        "last_updated": "2024-02-06 21:24:50.877000",
+        "notion_id": "1358",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b93497c3069472be1ab",
@@ -2765,7 +2774,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9ybt"
+        "permalink": "https://joeeasterly.github.io/go/9ybt",
+        "staged": "2024-02-06 18:58:19"
     },
     {
         "_id": "64f11b93497c3069472be2c7",
