@@ -197,6 +197,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba0497c3069472e487e"
+      },
+      "identifier": "ersj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ersj",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "Best Buy Essentials 15ft Subwoofer RCA Cable Black",
+      "last_updated": {
+        "$date": "2024-02-07T13:54:36.605Z"
+      },
+      "notion_id": "1372",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba3497c3069472eec43"
       },
       "identifier": "g1qq",
@@ -271,6 +292,27 @@
         "$date": "2024-01-31T19:52:36.908Z"
       },
       "notion_id": "1283",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11baf497c3069473124b0"
+      },
+      "identifier": "mfu4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/mfu4",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "403",
+      "container": "4031",
+      "label": "Xbox Elite 2 Controller Case",
+      "last_updated": {
+        "$date": "2024-02-07T13:55:28.765Z"
+      },
+      "notion_id": "1373",
       "shcn": "4031",
       "shelf": "40",
       "type": "item"
@@ -353,6 +395,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bc0497c306947345021"
+      },
+      "identifier": "ttpn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ttpn",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "HOSA CSS-200 10ft 1/4in Stereo Interconnect Cable",
+      "last_updated": {
+        "$date": "2024-02-07T13:56:53.712Z"
+      },
+      "notion_id": "1380",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc0497c306947345b72"
       },
       "identifier": "twh6",
@@ -370,6 +433,69 @@
       "notion_id": "545",
       "shcn": "4031",
       "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc5497c3069473524c4"
+      },
+      "identifier": "vfur",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vfur",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "5ft RCA AV Cable",
+      "last_updated": {
+        "$date": "2024-02-07T13:57:19.935Z"
+      },
+      "notion_id": "1383",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc6497c3069473559ad"
+      },
+      "identifier": "vw31",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vw31",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "1.5m DisplayPort Cable",
+      "last_updated": {
+        "$date": "2024-02-07T13:55:46.154Z"
+      },
+      "notion_id": "1394",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc9497c306947360015"
+      },
+      "identifier": "x6p9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/x6p9",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "5ft HDMI Cord",
+      "last_updated": {
+        "$date": "2024-02-07T13:56:17.483Z"
+      },
+      "notion_id": "1393",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {

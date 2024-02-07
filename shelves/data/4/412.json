@@ -564,6 +564,25 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba3497c3069472edd6d"
+      },
+      "identifier": "fx11",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/fx11",
+      "label": "Bosch GLM 40 Laser Measure",
+      "last_updated": {
+        "$date": "2024-02-06T18:27:19.053Z"
+      },
+      "notion_id": "363",
+      "shelf": "41",
+      "bay": "412",
+      "shcn": "412",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba3497c3069472eec31"
       },
       "identifier": "g1q5",

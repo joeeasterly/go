@@ -22,6 +22,48 @@
   "shelf_contents": [
     {
       "_id": {
+        "$oid": "64f11b7e497c30694727edf4"
+      },
+      "identifier": "2258",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2258",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "Lemoistar USB Power Cable",
+      "last_updated": {
+        "$date": "2024-02-07T13:59:22.813Z"
+      },
+      "notion_id": "1379",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b7f497c3069472838b4"
+      },
+      "identifier": "2mu8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/2mu8",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "1m USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-07T14:00:07.053Z"
+      },
+      "notion_id": "1386",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b82497c30694728beb3"
       },
       "identifier": "3pb7",
@@ -62,6 +104,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11b82497c30694728c8ab"
+      },
+      "identifier": "3rty",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3rty",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "Amazon Basics 10ft USB-A to USB-B Printer Cable",
+      "last_updated": {
+        "$date": "2024-02-07T14:02:52.176Z"
+      },
+      "notion_id": "1398",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b85497c306947294f6a"
       },
       "identifier": "4tgx",
@@ -77,6 +140,27 @@
         "$date": "2024-01-31T19:53:29.480Z"
       },
       "notion_id": "1276",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a1a09"
+      },
+      "identifier": "6d5w",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6d5w",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "40in USB-A to iPod 30-pin cable",
+      "last_updated": {
+        "$date": "2024-02-06T21:26:05.450Z"
+      },
+      "notion_id": "1351",
       "shcn": "4030",
       "shelf": "40",
       "type": "item"
@@ -124,6 +208,48 @@
     },
     {
       "_id": {
+        "$oid": "64f11b90497c3069472b6f2b"
+      },
+      "identifier": "92ey",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/92ey",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "3ft USB-A to USB-B cable",
+      "last_updated": {
+        "$date": "2024-02-06T21:15:00.731Z"
+      },
+      "notion_id": "1356",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b91497c3069472b84d8"
+      },
+      "identifier": "97vc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/97vc",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "6ft USB-A to USB-B Printer Cable",
+      "last_updated": {
+        "$date": "2024-02-06T21:16:33.817Z"
+      },
+      "notion_id": "1365",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b92497c3069472bbc43"
       },
       "identifier": "9nqq",
@@ -159,6 +285,48 @@
         "$date": "2024-02-05T21:05:34.753Z"
       },
       "notion_id": "1342",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cc986"
+      },
+      "identifier": "bs1t",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bs1t",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "6ft USB-A to USB-B 3.0 cable",
+      "last_updated": {
+        "$date": "2024-02-06T21:15:43.059Z"
+      },
+      "notion_id": "1354",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9a497c3069472d20c0"
+      },
+      "identifier": "ceum",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ceum",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "1.5m USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-07T14:00:15.733Z"
+      },
+      "notion_id": "1385",
       "shcn": "4030",
       "shelf": "40",
       "type": "item"
@@ -226,6 +394,88 @@
     },
     {
       "_id": {
+        "$oid": "64f11b9e497c3069472dde4d"
+      },
+      "identifier": "dx81",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dx81",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "40in USB-A to USB-B cable",
+      "last_updated": {
+        "$date": "2024-02-06T21:14:27.414Z"
+      },
+      "notion_id": "1357",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9e497c3069472de1f9"
+      },
+      "identifier": "dy5d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dy5d",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "403",
+      "container": "4030",
+      "label": "Sabrent HB-UMP3 USB 3.0 Hub",
+      "last_updated": {
+        "$date": "2024-02-07T14:04:52.341Z"
+      },
+      "notion_id": "1387",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba0497c3069472e5c2f"
+      },
+      "identifier": "ewq3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ewq3",
+      "label": "12in usb-c to right-angle usb-c cable",
+      "last_updated": {
+        "$date": "2024-02-06T21:13:46.807Z"
+      },
+      "notion_id": "422",
+      "shelf": "40",
+      "bay": "403",
+      "container": "4030",
+      "shcn": "4030"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba1497c3069472e8491"
+      },
+      "identifier": "f7t5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/f7t5",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "Belkin F2CU040 USB-C to Ethernet Adapter",
+      "last_updated": {
+        "$date": "2024-02-06T21:25:55.663Z"
+      },
+      "notion_id": "1362",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba3497c3069472eec42"
       },
       "identifier": "g1qp",
@@ -262,6 +512,27 @@
       "notion_id": "543",
       "shcn": "4030",
       "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f2a65"
+      },
+      "identifier": "gh8s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gh8s",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "6ft USB-C to Lightning cable",
+      "last_updated": {
+        "$date": "2024-02-06T21:17:50.174Z"
+      },
+      "notion_id": "1359",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {
@@ -349,6 +620,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bb8497c30694732ef19"
+      },
+      "identifier": "r2ed",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r2ed",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "20in USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-06T21:18:19.860Z"
+      },
+      "notion_id": "1367",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb9497c306947331517"
       },
       "identifier": "rbxb",
@@ -387,6 +679,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bbe497c30694733eb58"
+      },
+      "identifier": "t1gc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/t1gc",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "2m USB-A to USB-B Printer Cable",
+      "last_updated": {
+        "$date": "2024-02-07T14:03:54.869Z"
+      },
+      "notion_id": "1397",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bbf497c306947341005"
       },
       "identifier": "tans",
@@ -403,6 +716,27 @@
       "notion_id": "527",
       "shcn": "4030",
       "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c3069473465c7"
+      },
+      "identifier": "tz3u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tz3u",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "last_updated": {
+        "$date": "2024-02-07T14:02:21.482Z"
+      },
+      "shcn": "4030",
+      "shelf": "40",
+      "label": "1.5m USB-A to USB-B Micro Cable",
+      "notion_id": "1401",
+      "type": "item"
     },
     {
       "_id": {
@@ -440,6 +774,27 @@
       "notion_id": "563",
       "shcn": "4030",
       "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735c711"
+      },
+      "identifier": "wre5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wre5",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "20in USB-A extension cable",
+      "last_updated": {
+        "$date": "2024-02-06T21:18:53.205Z"
+      },
+      "notion_id": "1355",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {
@@ -505,6 +860,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bcc497c3069473683c2"
+      },
+      "identifier": "y7kp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/y7kp",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4030",
+      "label": "Belkin Pro 2m USB-A to USB-B Printer Cable",
+      "last_updated": {
+        "$date": "2024-02-07T14:04:30.456Z"
+      },
+      "notion_id": "1399",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bcc497c306947369b5d"
       },
       "identifier": "ydgh",
@@ -520,6 +896,69 @@
         "$date": "2024-02-04T15:34:09.372Z"
       },
       "notion_id": "1274",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736d255"
+      },
+      "identifier": "yu89",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yu89",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "40in USB-C to Lightning Cable",
+      "last_updated": {
+        "$date": "2024-02-06T21:17:12.804Z"
+      },
+      "notion_id": "1352",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736d68e"
+      },
+      "identifier": "yva2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yva2",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4030",
+      "label": "6ft USB-A to USB-B 3.0 Cable",
+      "last_updated": {
+        "$date": "2024-02-07T14:03:23.782Z"
+      },
+      "notion_id": "1400",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c306947370e7d"
+      },
+      "identifier": "za9h",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/za9h",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "0.5m USB-A to USB-B Micro 3.0 Cable",
+      "last_updated": {
+        "$date": "2024-02-07T13:58:58.278Z"
+      },
+      "notion_id": "1388",
       "shcn": "4030",
       "shelf": "40",
       "type": "item"
