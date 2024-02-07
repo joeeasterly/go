@@ -1088,9 +1088,17 @@
         "identifier": "2258",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/2258",
-        "staged": "2024-01-30 20:10:32"
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "Lemoistar USB Power Cable",
+        "last_updated": "2024-02-07 13:59:22.813000",
+        "notion_id": "1379",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b7e497c30694727edf5",
