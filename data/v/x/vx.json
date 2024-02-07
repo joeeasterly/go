@@ -868,8 +868,17 @@
         "identifier": "vx4d",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vx4d"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vx4d",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "402",
+        "container": "4020",
+        "label": "Amazon 9W USB power adapter",
+        "last_updated": "2024-02-06 21:20:08.843000",
+        "notion_id": "1368",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bc6497c306947355dda",
