@@ -7540,8 +7540,17 @@
         "identifier": "zzxf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/zzxf"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/zzxf",
+        "staged": "2024-02-06 18:58:19",
+        "bay": "402",
+        "container": "4020",
+        "label": "6ft male to male vga cable",
+        "last_updated": "2024-02-06 21:23:21.405000",
+        "notion_id": "1364",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bd0497c30694737691c",
