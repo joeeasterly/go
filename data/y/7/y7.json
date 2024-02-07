@@ -1800,7 +1800,7 @@
         "permalink": "https://joeeasterly.github.io/go/y781",
         "bay": "481",
         "label": "bay 481",
-        "last_updated": "2024-01-04T16:51:31.451000",
+        "last_updated": "2024-01-04 16:51:31.451000",
         "notion_id": "889",
         "shcn": "481",
         "shelf": "48",
@@ -4787,8 +4787,17 @@
         "identifier": "y7kp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/y7kp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/y7kp",
+        "staged": "2024-02-06 18:58:19",
+        "bay": "403",
+        "container": "4030",
+        "label": "Belkin Pro 2m USB-A to USB-B Printer Cable",
+        "last_updated": "2024-02-07 14:04:30.456000",
+        "notion_id": "1399",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bcc497c3069473683c3",
