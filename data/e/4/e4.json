@@ -1781,7 +1781,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/e47y"
+        "permalink": "https://joeeasterly.github.io/go/e47y",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b9e497c3069472df64c",
@@ -2023,7 +2024,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/e48w",
         "label": "1/4in 20 x 1in phillips machine screws",
-        "last_updated": "2023-10-05T17:50:54.292000",
+        "last_updated": "2023-10-05 17:50:54.292000",
         "notion_id": "392",
         "shelf": "411"
     },
@@ -3008,8 +3009,17 @@
         "identifier": "e4cr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/e4cr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/e4cr",
+        "staged": "2024-01-07 13:56:33",
+        "bay": "402",
+        "container": "4020",
+        "label": "Apple 5V 3A USB-C Power Adapter",
+        "last_updated": "2024-02-07 13:48:34.317000",
+        "notion_id": "1392",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b9e497c3069472df6e5",
