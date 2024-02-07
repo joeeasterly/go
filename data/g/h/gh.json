@@ -1988,8 +1988,17 @@
         "identifier": "gh8s",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gh8s"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gh8s",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "6ft USB-C to Lightning cable",
+        "last_updated": "2024-02-06 21:17:50.174000",
+        "notion_id": "1359",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11ba5497c3069472f2a66",
@@ -4180,8 +4189,17 @@
         "identifier": "ghhb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ghhb"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ghhb",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "402",
+        "container": "4020",
+        "label": "CyberPower 3-outlet surge protector with USB-A and USB-C",
+        "last_updated": "2024-02-06 21:20:31.041000",
+        "notion_id": "1349",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11ba5497c3069472f2b78",
@@ -7103,7 +7121,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ghvr",
         "label": "shelf 42",
-        "last_updated": "2023-12-24T20:39:34.065000",
+        "last_updated": "2023-12-24 20:39:34.065000",
         "notion_id": "366",
         "shcn": "42",
         "shelf": "42",
