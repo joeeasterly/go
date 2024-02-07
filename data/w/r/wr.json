@@ -3374,8 +3374,17 @@
         "identifier": "wre5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wre5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wre5",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "20in USB-A extension cable",
+        "last_updated": "2024-02-06 21:18:53.205000",
+        "notion_id": "1355",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bc8497c30694735c712",
@@ -5263,8 +5272,17 @@
         "identifier": "wrnh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wrnh"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wrnh",
+        "staged": "2024-02-06 18:58:19",
+        "bay": "402",
+        "container": "4020",
+        "label": "14in polarized ungrounded extension cable",
+        "last_updated": "2024-02-06 21:23:54.092000",
+        "notion_id": "1366",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bc8497c30694735c7fe",
