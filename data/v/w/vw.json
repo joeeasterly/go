@@ -516,8 +516,17 @@
         "identifier": "vw31",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vw31"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vw31",
+        "staged": "2024-02-06 18:58:19",
+        "bay": "403",
+        "container": "4031",
+        "label": "1.5m DisplayPort Cable",
+        "last_updated": "2024-02-07 13:55:46.154000",
+        "notion_id": "1394",
+        "shcn": "4031",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bc6497c3069473559ae",
@@ -5152,7 +5161,7 @@
         "permalink": "https://joeeasterly.github.io/go/vwn4",
         "bay": "121",
         "label": "bay 121",
-        "last_updated": "2023-12-25T10:11:53.944000",
+        "last_updated": "2023-12-25 10:11:53.944000",
         "notion_id": "121",
         "shcn": "121",
         "shelf": "12",
