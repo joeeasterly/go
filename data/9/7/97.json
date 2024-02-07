@@ -7028,8 +7028,17 @@
         "identifier": "97vc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/97vc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/97vc",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "6ft USB-A to USB-B Printer Cable",
+        "last_updated": "2024-02-06 21:16:33.817000",
+        "notion_id": "1365",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b91497c3069472b84d9",
