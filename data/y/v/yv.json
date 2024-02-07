@@ -2316,8 +2316,17 @@
         "identifier": "yva2",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yva2"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yva2",
+        "staged": "2024-02-06 18:58:19",
+        "bay": "403",
+        "container": "4030",
+        "label": "6ft USB-A to USB-B 3.0 Cable",
+        "last_updated": "2024-02-07 14:03:23.782000",
+        "notion_id": "1400",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bcd497c30694736d68f",
