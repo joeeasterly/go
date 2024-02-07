@@ -6831,8 +6831,17 @@
         "identifier": "ceum",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ceum"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ceum",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "1.5m USB-A to USB-B Micro Cable",
+        "last_updated": "2024-02-07 14:00:15.733000",
+        "notion_id": "1385",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b9a497c3069472d20c1",
