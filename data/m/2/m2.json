@@ -1492,9 +1492,18 @@
         "identifier": "m26u",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/m26u",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "411",
+        "container": "4112",
+        "label": "Hoioto USB Power Adapter 5V 2A",
+        "last_updated": "2024-02-09 18:40:16.262000",
+        "notion_id": "1468",
+        "shcn": "41120",
+        "shelf": "41",
+        "slot": "41120",
+        "type": "item"
     },
     {
         "_id": "64f11bae497c30694730ee28",
