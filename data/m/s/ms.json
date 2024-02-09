@@ -5444,8 +5444,17 @@
         "identifier": "msp9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/msp9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/msp9",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "231",
+        "container": "2310",
+        "label": "Apple HDMI to DVI Adapter",
+        "last_updated": "2024-02-08 21:17:00.284000",
+        "notion_id": "1455",
+        "shcn": "2310",
+        "shelf": "23",
+        "type": "item"
     },
     {
         "_id": "64f11bb0497c306947314c16",
