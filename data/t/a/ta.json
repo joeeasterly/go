@@ -5351,16 +5351,9 @@
         "_id": "64f11bbf497c306947341005",
         "identifier": "tans",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/tans",
-        "bay": "403",
-        "container": "4030",
-        "label": "usb-c to lightning cable, 2m",
-        "last_updated": "2023-10-22 16:54:54.211000",
-        "notion_id": "527",
-        "shcn": "4030",
-        "shelf": "40"
+        "allocated": false,
+        "container": "2310",
+        "last_updated": "2024-02-09 10:57:15.244000"
     },
     {
         "_id": "64f11bbf497c306947341006",
