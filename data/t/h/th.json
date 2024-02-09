@@ -5384,8 +5384,17 @@
         "identifier": "thny",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/thny"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/thny",
+        "staged": "2024-02-08 17:38:56",
+        "bay": "402",
+        "container": "4020",
+        "label": "Apple 30-pin Digital AV Adapter",
+        "last_updated": "2024-02-08 18:46:27.526000",
+        "notion_id": "1444",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bbf497c306947342c0c",
