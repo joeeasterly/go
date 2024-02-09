@@ -1460,8 +1460,17 @@
         "identifier": "hf6q",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/hf6q"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/hf6q",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "231",
+        "container": "2310",
+        "label": "Apple 29W USB-C Power Adapter",
+        "last_updated": "2024-02-08 21:13:09.746000",
+        "notion_id": "1453",
+        "shcn": "2310",
+        "shelf": "23",
+        "type": "item"
     },
     {
         "_id": "64f11ba7497c3069472fa224",
