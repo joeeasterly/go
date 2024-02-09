@@ -957,7 +957,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yf4r"
+        "permalink": "https://joeeasterly.github.io/go/yf4r",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bcc497c30694736a1e5",
@@ -5756,8 +5757,17 @@
         "identifier": "yfqg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yfqg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yfqg",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "402",
+        "container": "4020",
+        "label": "Apple A1438 Lightning Digital AV Adapter",
+        "last_updated": "2024-02-08 18:46:53.189000",
+        "notion_id": "1432",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bcc497c30694736a43d",
@@ -6056,7 +6066,7 @@
         "permalink": "https://joeeasterly.github.io/go/yfrn",
         "bay": "5H1",
         "label": "bay 5H1",
-        "last_updated": "2024-01-01T16:11:19.977000",
+        "last_updated": "2024-01-01 16:11:19.977000",
         "notion_id": "751",
         "shcn": "5H1",
         "shelf": "5H",
@@ -7268,7 +7278,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yfwc"
+        "permalink": "https://joeeasterly.github.io/go/yfwc",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11bcc497c30694736a4f9",
