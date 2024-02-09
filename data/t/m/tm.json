@@ -1332,9 +1332,16 @@
         "identifier": "tm67",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/tm67",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "262",
+        "label": "PackIt Freezable Lunch Box",
+        "last_updated": "2024-02-09 17:57:35.059000",
+        "notion_id": "1461",
+        "shcn": "262",
+        "shelf": "26",
+        "type": "item"
     },
     {
         "_id": "64f11bbf497c306947343614",
