@@ -3180,8 +3180,17 @@
         "identifier": "gjdc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gjdc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gjdc",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "6ft USB-A to USB-B Micro Cable",
+        "last_updated": "2024-02-08 18:36:41.209000",
+        "notion_id": "1416",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11ba5497c3069472f2ef9",
