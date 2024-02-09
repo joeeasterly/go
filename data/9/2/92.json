@@ -2772,8 +2772,17 @@
         "identifier": "92bu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/92bu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/92bu",
+        "staged": "2024-02-08 17:38:56",
+        "bay": "403",
+        "container": "4030",
+        "label": "Apple 1m USB-A to Lightning Cable",
+        "last_updated": "2024-02-08 18:37:49.465000",
+        "notion_id": "1439",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b90497c3069472b6ec8",
