@@ -6383,9 +6383,17 @@
         "identifier": "qbsv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/qbsv",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "402",
+        "container": "4020",
+        "label": "Apple 85W MagSafe 2 Power Adapter",
+        "last_updated": "2024-02-08 18:44:29.406000",
+        "notion_id": "1424",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb7497c306947329489",
