@@ -3696,9 +3696,17 @@
         "identifier": "uffd",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/uffd",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "231",
+        "container": "2310",
+        "label": "Apple Accessories",
+        "last_updated": "2024-02-08 19:55:48.869000",
+        "notion_id": "1451",
+        "shcn": "2310",
+        "shelf": "23",
+        "type": "storage"
     },
     {
         "_id": "64f11bc2497c30694734a33a",
