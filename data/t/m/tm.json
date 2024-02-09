@@ -1333,7 +1333,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tm67"
+        "permalink": "https://joeeasterly.github.io/go/tm67",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bbf497c306947343614",
@@ -3684,8 +3685,17 @@
         "identifier": "tmfd",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tmfd"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tmfd",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "0.5m USB-A to USB-B Micro Cable",
+        "last_updated": "2024-02-08 18:36:51.505000",
+        "notion_id": "1418",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bbf497c30694734373a",
@@ -8128,7 +8138,7 @@
         "permalink": "https://joeeasterly.github.io/go/tmzr",
         "bay": "562",
         "label": "dolsot",
-        "last_updated": "2023-11-25T21:29:46.878000",
+        "last_updated": "2023-11-25 21:29:46.878000",
         "notion_id": "651",
         "shcn": "562",
         "shelf": "56",
