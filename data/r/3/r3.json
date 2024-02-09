@@ -2012,9 +2012,17 @@
         "identifier": "r38v",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/r38v",
-        "staged": "2024-02-06 18:58:19"
+        "staged": "2024-02-06 18:58:19",
+        "bay": "402",
+        "container": "4020",
+        "label": "6ft Apple Power Adapter Cable",
+        "last_updated": "2024-02-08 18:42:35.490000",
+        "notion_id": "1430",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb8497c30694732f269",
