@@ -2136,7 +2136,7 @@
         "permalink": "https://joeeasterly.github.io/go/xu9b",
         "bay": "531",
         "label": "cutting boards, sheet pans",
-        "last_updated": "2023-11-25T19:26:51.971000",
+        "last_updated": "2023-11-25 19:26:51.971000",
         "notion_id": "628",
         "shcn": "531",
         "shelf": "53",
@@ -2491,8 +2491,17 @@
         "identifier": "xuaq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xuaq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xuaq",
+        "staged": "2024-02-06 18:58:19",
+        "bay": "102",
+        "container": "1020",
+        "label": "Jadaol 25ft Cat7 Ethernet Cable",
+        "last_updated": "2024-02-07 18:31:41.024000",
+        "notion_id": "1414",
+        "shcn": "1020",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bcb497c3069473652a4",
@@ -4295,7 +4304,7 @@
         "permalink": "https://joeeasterly.github.io/go/xuhr",
         "bay": "450",
         "label": "bay 450",
-        "last_updated": "2024-01-04T17:07:44.960000",
+        "last_updated": "2024-01-04 17:07:44.960000",
         "notion_id": "901",
         "shcn": "450",
         "shelf": "45",
@@ -5555,7 +5564,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xupn"
+        "permalink": "https://joeeasterly.github.io/go/xupn",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11bcb497c306947365422",
