@@ -4388,8 +4388,17 @@
         "identifier": "unj5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/unj5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/unj5",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "5ft USB-A to USB-B Micro Cable",
+        "last_updated": "2024-02-08 18:36:22.238000",
+        "notion_id": "1417",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bc2497c30694734bb92",
