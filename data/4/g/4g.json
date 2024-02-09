@@ -3488,7 +3488,7 @@
         "permalink": "https://joeeasterly.github.io/go/4gem",
         "bay": "253",
         "label": "bay 253",
-        "last_updated": "2023-12-28T14:23:27.174000",
+        "last_updated": "2023-12-28 14:23:27.174000",
         "notion_id": "171",
         "shcn": "253",
         "shelf": "25",
@@ -6843,8 +6843,17 @@
         "identifier": "4guq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4guq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/4guq",
+        "staged": "2024-02-06 18:58:19",
+        "bay": "402",
+        "container": "4020",
+        "label": "2m DVI Cable",
+        "last_updated": "2024-02-09 18:28:18.963000",
+        "notion_id": "1467",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b84497c3069472928c4",
