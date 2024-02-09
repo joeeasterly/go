@@ -7,12 +7,12 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/xa11",
         "label": "belkin 6-outlet power strip",
-        "last_updated": "2024-02-05 21:13:25.708000",
+        "last_updated": "2024-02-09 18:35:45.113000",
         "notion_id": "",
         "shelf": "40",
-        "bay": "402",
-        "container": "4020",
-        "shcn": "4020"
+        "bay": "405",
+        "container": "4050",
+        "shcn": "4050"
     },
     {
         "_id": "64f11bc9497c306947360d6e",
@@ -5003,7 +5003,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xamg"
+        "permalink": "https://joeeasterly.github.io/go/xamg",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11bc9497c306947360fdd",
