@@ -2532,9 +2532,17 @@
         "identifier": "4yaw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/4yaw",
-        "staged": "2024-02-06 18:58:19"
+        "staged": "2024-02-06 18:58:19",
+        "label": "2m Power Cable",
+        "last_updated": "2024-02-09 18:25:02.105000",
+        "notion_id": "1466",
+        "shcn": "4050",
+        "type": "item",
+        "bay": "405",
+        "container": "4050",
+        "shelf": "40"
     },
     {
         "_id": "64f11b86497c3069472962aa",
@@ -4316,7 +4324,7 @@
         "bay": "402",
         "container": "4020",
         "label": "6ft Cat6 Black Ethernet Cable",
-        "last_updated": "2024-02-07 13:51:04.657000",
+        "last_updated": "2024-02-09 18:32:40.668000",
         "notion_id": "1381",
         "shcn": "4020",
         "shelf": "40",
