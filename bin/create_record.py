@@ -3,17 +3,24 @@ from library.link_notion_inventory import link_notion_inventory
 from library.get_notion_record import get_notion_record
 from library.allocate_notion_id import allocate_notion_id
 from library.parse_notion_input import parse_notion_input
+from library.parse_qrcode_input import parse_qrcode_input
 from library.allocate_identifier import allocate_identifier
 from library.update_record_by_identifier import update_record_by_identifier
 from library.get_record_by_identifier import get_record_by_identifier
-from library.input_shcn import input_shcn
+from library.parse_shcn_input import parse_shcn_input
 from library.print_inventory import print_inventory
 import pymongo
 from pprint import pprint
 
 def create_record():
     print("Create Record:")
-    selected_record = allocate_identifier()
+    mungo_id = parse_qrcode_input("Enter Mungo ID or leave blank: ")
+    if mungo_id == "exit_loop":
+        return
+    if mungo_id == "":
+        selected_record = allocate_identifier()
+    else:
+        selected_record = get_record_by_identifier(mungo_id)
 
     if selected_record:
         
@@ -21,7 +28,7 @@ def create_record():
 
         mungo_id = selected_record['identifier']
         notion_id = parse_notion_input()
-        shcn = input_shcn()
+        shcn = parse_shcn_input()
         mungo_label = input("Enter Label: ")
 
         if mungo_label == "":

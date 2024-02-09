@@ -1,6 +1,20 @@
 import datetime, os
+
 def clear():
     os.system('cls' if os.name=='nt' else 'clear')
+
+def split_label(label, max_length):
+    """
+    Split the label at the last word boundary before max_length.
+    Return a tuple with the first line and the remainder.
+    """
+    if len(label) <= max_length:
+        return label, ''
+    # Find the last space within the max_length limit
+    split_point = label.rfind(' ', 0, max_length)
+    if split_point == -1:  # No spaces found, force split at max_length
+        return label[:max_length], label[max_length:]
+    return label[:split_point], label[split_point+1:]
 
 def print_inventory(record_dict):
     identifier = record_dict.get('identifier', '')
@@ -25,7 +39,14 @@ def print_inventory(record_dict):
     else:
         last_updated = ''
     print("#" * 50)
-    print("Inventory Record: " + label)
+    
+    # Handle label wrapping
+    max_label_length = 32  # Max characters for label on the first line
+    first_line_label, overflow_label = split_label(label, max_label_length)
+    print("Inventory Record: " + first_line_label)
+    if overflow_label:
+        print(overflow_label.rjust(50))  # Right-align the overflow text
+    
     len_location = len("SHCN: " + location)
     len_notion = len("Notion : " + notion_id)
     loc_notion_spacing = 50 - (len_location + len_notion)
@@ -50,6 +71,8 @@ def print_inventory(record_dict):
     print("#" * 50)
     print()
 
-# Run the update_record function if this script is run directly
+# Example usage
 # if __name__ == "__main__":
-    # print(print_inventory(record_dict))
+    # record_dict = {
+    #     'identifier': '12345',
+    #     'allocated': True

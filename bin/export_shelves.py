@@ -6,7 +6,7 @@ from datetime import datetime
 from bson import json_util
 import subprocess  # Import subprocess
 from library.connect_mungo import connect_mungo
-from library.input_shcn import input_shcn
+from library.parse_shcn_input import parse_shcn_input
 from library.get_storage_record import get_storage_record
 
 collection = connect_mungo()
@@ -17,7 +17,7 @@ output_directory = "/home/joeeasterly/Documents/GitHub/go/shelves/data"
 # Specify the path to the Git repository
 repo_path = "/home/joeeasterly/Documents/GitHub/go/shelves"
 
-# Search mungo for records where input_shcn.shcn matches the beginning of the shcn field in the collection.
+# Search mungo for records where parse_shcn_input.shcn matches the beginning of the shcn field in the collection.
 shelf_list = collection.distinct("shcn")
 
 # Counter for the number of files written

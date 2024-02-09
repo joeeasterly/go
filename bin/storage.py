@@ -1,7 +1,7 @@
 import pymongo
 from datetime import datetime
 from library.connect_mungo import connect_mungo
-from library.input_shcn import input_shcn
+from library.parse_shcn_input import parse_shcn_input
 from library.parse_qrcode_input import parse_qrcode_input
 from library.parse_notion_input import parse_notion_input
 from library.allocate_identifier import allocate_identifier
@@ -13,7 +13,7 @@ from library.link_notion_inventory import link_notion_inventory
 
 def add_storage():
     print("Add SHCN Record:")
-    shcn, shelf, bay, container, slot, analysis = input_shcn()
+    shcn, shelf, bay, container, slot, analysis = parse_shcn_input()
     print(analysis)
 
     mungo_id = parse_qrcode_input()

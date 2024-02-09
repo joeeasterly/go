@@ -6,10 +6,11 @@ from library.print_inventory import print_inventory
 from library.parse_qrcode_input import parse_qrcode_input
 from library.get_record_by_identifier import get_record_by_identifier
 from library.update_record_by_identifier import update_record_by_identifier
+from library.get_last_record import get_last_record
 from library.allocate_notion_id import allocate_notion_id
 from library.get_notion_record import get_notion_record
 from library.parse_notion_input import parse_notion_input
-from library.input_shcn import input_shcn
+from library.parse_shcn_input import parse_shcn_input
 
 def update_record():
     # Locate the record in mungo to update
@@ -17,6 +18,7 @@ def update_record():
     qrcode = parse_qrcode_input()
     
     selected_record = get_record_by_identifier(qrcode)
+    last_record = get_last_record()
     
     if selected_record:
         print_inventory(selected_record)
@@ -31,7 +33,7 @@ def update_record():
             notion_title = notion_record.get('properties').get('Name').get('title')[0].get('text').get('content')
         
         # Get the shelving location for the item, and parse out the specifics.
-        shcn, shelf, bay, container, slot, analysis = input_shcn()
+        shcn, shelf, bay, container, slot, analysis = parse_shcn_input()
 
         # If type is not storage, set it to item.
         mungo_type = selected_record.get('type')
@@ -56,7 +58,10 @@ def update_record():
         
         input_label = input(f"Enter Label: " + input_label_display)
         if input_label != "":
-            label = input_label
+            if input_label == "+":
+                label = last_record.get('label')
+            else:
+                label = input_label
         else:
             label = default_label
 

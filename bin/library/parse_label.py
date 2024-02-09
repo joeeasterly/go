@@ -1,4 +1,6 @@
+from library.get_last_record import get_last_record
 def parse_label(existing_label = None):
+    last_label = get_last_record().get('label', None)
     permitted_characters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j",
                             "k", "l", "m", "n", "o", "p", "q", "r", "s", "t",
                             "u", "v", "w", "x", "y", "z",
@@ -14,6 +16,8 @@ def parse_label(existing_label = None):
     label = input(label_prompt)
     if not label:
         label = existing_label
+    if label == "+":
+        label = last_label
     # Remove all characters in the label except those in the permitted_characters list.
     label = "".join([character for character in label if character in permitted_characters])
     return label

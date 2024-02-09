@@ -4,7 +4,7 @@ This script is used to reshelve items in an inventory system. It prompts the use
 Functions:
 - audit_items(shcn, shelf, bay, container, slot): Prompts the user to scan a QR code and updates the item's record in the inventory system with the new location information.
 """
-from library.input_shcn import input_shcn
+from library.parse_shcn_input import parse_shcn_input
 from library.parse_qrcode_input import parse_qrcode_input
 from library.update_record_by_identifier import update_record_by_identifier
 from library.get_record_by_identifier import get_record_by_identifier
@@ -13,7 +13,7 @@ from library.print_inventory import print_inventory
 from datetime import datetime
 
 def reshelve_record():
-    shcn, shelf, bay, container, slot, analysis = input_shcn()
+    shcn, shelf, bay, container, slot, analysis = parse_shcn_input()
     while True:
         mungo_id = parse_qrcode_input()
         if mungo_id == "exit_loop":

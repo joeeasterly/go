@@ -11,7 +11,7 @@ from library.parse_quantity import parse_quantity
 from library.parse_label import parse_label
 from library.parse_upc import parse_upc
 from library.parse_notion_input import parse_notion_input
-from library.input_shcn import input_shcn
+from library.parse_shcn_input import parse_shcn_input
 
 def update_consumable():
     
@@ -41,7 +41,7 @@ def update_consumable():
         label = parse_label(default_label)
         expires = parse_date(message = "Expiration Date: ")
         percentage = parse_percentage()
-        shcn, shelf, bay, container, slot, analysis = input_shcn(existing_shcn=existing_record.get("shcn"))
+        shcn, shelf, bay, container, slot, analysis = parse_shcn_input(existing_shcn=existing_record.get("shcn"))
         quantity = parse_quantity(existing_quantity=existing_record.get("quantity"))
 
         # Create, review, or update the link the record to Notion.
