@@ -397,7 +397,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ux2j"
+        "permalink": "https://joeeasterly.github.io/go/ux2j",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11bc3497c30694734dd9f",
@@ -5494,13 +5495,13 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/uxpe",
         "staged": "2024-01-19 11:39:27",
-        "bay": "402",
-        "container": "4020",
+        "bay": "231",
+        "container": "2310",
         "label": "Apple 45W Magsafe v1 power adapter",
-        "last_updated": "2024-02-04 15:33:26.361000",
+        "last_updated": "2024-02-08 21:07:56.259000",
         "notion_id": "1284",
-        "shcn": "4020",
-        "shelf": "40",
+        "shcn": "2310",
+        "shelf": "23",
         "type": "item"
     },
     {
