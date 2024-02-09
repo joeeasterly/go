@@ -8180,8 +8180,17 @@
         "identifier": "p4zy",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/p4zy"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/p4zy",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4031",
+        "label": "5ft MIDI Cable",
+        "last_updated": "2024-02-08 18:40:39.628000",
+        "notion_id": "1413",
+        "shcn": "4031",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb3497c30694731f96c",
