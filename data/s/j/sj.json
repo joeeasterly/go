@@ -2180,8 +2180,17 @@
         "identifier": "sj9h",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/sj9h"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/sj9h",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4031",
+        "label": "Nintendo 2m HDMI Cable",
+        "last_updated": "2024-02-08 18:40:00.905000",
+        "notion_id": "1402",
+        "shcn": "4031",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bbd497c30694733ae7e",
@@ -6109,7 +6118,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/sjrv"
+        "permalink": "https://joeeasterly.github.io/go/sjrv",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11bbd497c30694733b069",
@@ -6873,7 +6883,7 @@
         "staged": "2023-10-23 14:22:43",
         "bay": "221",
         "label": "Box: Sony FE 85mm F1.8 Lens",
-        "last_updated": "2024-01-04T12:34:11.477000",
+        "last_updated": "2024-01-04 12:34:11.477000",
         "notion_id": "704",
         "shcn": "221",
         "shelf": "22",
