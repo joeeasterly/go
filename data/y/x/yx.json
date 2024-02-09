@@ -3881,9 +3881,17 @@
         "identifier": "yxg4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/yxg4",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "102",
+        "container": "1020",
+        "label": "FSP Group FSP060-DBAE1 Power Adapter",
+        "last_updated": "2024-02-07 17:54:23.957000",
+        "notion_id": "1404",
+        "shcn": "1020",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bcd497c30694736df51",
