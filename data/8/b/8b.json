@@ -100,8 +100,17 @@
         "identifier": "8b1d",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8b1d"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8b1d",
+        "staged": "2024-02-08 17:38:56",
+        "bay": "402",
+        "container": "4020",
+        "label": "Apple A1362 30-pin SD Card Reader",
+        "last_updated": "2024-02-08 18:46:35.803000",
+        "notion_id": "1445",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b8e497c3069472b117a",
@@ -1937,7 +1946,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8b8h"
+        "permalink": "https://joeeasterly.github.io/go/8b8h",
+        "staged": "2024-01-30 20:10:32"
     },
     {
         "_id": "64f11b8e497c3069472b125e",
