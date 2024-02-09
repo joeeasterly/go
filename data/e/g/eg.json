@@ -6081,9 +6081,17 @@
         "identifier": "egrq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/egrq",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "402",
+        "container": "4020",
+        "label": "Apple A1790 Male USB-C to Female Mini DisplayPort/Thunderbolt Adapter",
+        "last_updated": "2024-02-08 18:46:20.368000",
+        "notion_id": "1431",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b9f497c3069472e2864",
