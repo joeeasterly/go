@@ -2917,8 +2917,17 @@
         "identifier": "3pcb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3pcb"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3pcb",
+        "staged": "2024-02-06 18:58:19",
+        "bay": "102",
+        "container": "1020",
+        "label": "1m AWM E101344-Z Serial ATA Cable",
+        "last_updated": "2024-02-08 18:25:20.020000",
+        "notion_id": "1446",
+        "shcn": "1020",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b82497c30694728bed8",
