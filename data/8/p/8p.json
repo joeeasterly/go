@@ -1212,9 +1212,16 @@
         "identifier": "8p5r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/8p5r",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07 13:56:33",
+        "bay": "350",
+        "label": "DeoxIt Fader F5 5oz Electronic Cleaner",
+        "last_updated": "2024-02-08 19:45:19.743000",
+        "notion_id": "1447",
+        "shcn": "350",
+        "shelf": "35",
+        "type": "item"
     },
     {
         "_id": "64f11b8f497c3069472b3e05",
