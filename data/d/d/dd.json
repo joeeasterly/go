@@ -5987,9 +5987,16 @@
         "identifier": "ddrc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ddrc",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "350",
+        "label": "DeoxIt D5 5oz Electronic Cleaner",
+        "last_updated": "2024-02-08 19:46:04.899000",
+        "notion_id": "1448",
+        "shcn": "350",
+        "shelf": "35",
+        "type": "item"
     },
     {
         "_id": "64f11b9c497c3069472d9c59",
