@@ -4876,8 +4876,17 @@
         "identifier": "rkm2",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rkm2"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rkm2",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "102",
+        "container": "1020",
+        "label": "Apple A1835 5W USB Power Adapter",
+        "last_updated": "2024-02-08 18:02:24.362000",
+        "notion_id": "1438",
+        "shcn": "1020",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bba497c3069473333cf",
@@ -5026,7 +5035,7 @@
         "bay": "403",
         "container": "4031",
         "label": "amazon basics 25-foot displayport to displayport cable",
-        "last_updated": "2023-10-27T18:18:34.775000",
+        "last_updated": "2023-10-27 18:18:34.775000",
         "notion_id": "564",
         "shcn": "4031",
         "shelf": "40"
