@@ -4758,7 +4758,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/t2kk"
+        "permalink": "https://joeeasterly.github.io/go/t2kk",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11bbe497c30694733efc0",
@@ -5949,8 +5950,17 @@
         "identifier": "t2r8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/t2r8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/t2r8",
+        "staged": "2024-02-08 17:38:56",
+        "bay": "102",
+        "container": "1020",
+        "label": "Apple AirPods Pro v1 Headphones",
+        "last_updated": "2024-02-08 17:57:08.938000",
+        "notion_id": "1437",
+        "shcn": "1020",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bbe497c30694733f055",
