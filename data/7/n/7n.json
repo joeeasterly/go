@@ -2332,8 +2332,17 @@
         "identifier": "7na4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7na4"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7na4",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "402",
+        "container": "4020",
+        "label": "Apple A1438 Lightning Digital AV Adapter",
+        "last_updated": "2024-02-08 18:46:12.511000",
+        "notion_id": "1433",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b8d497c3069472aba91",
@@ -5645,7 +5654,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7nq2"
+        "permalink": "https://joeeasterly.github.io/go/7nq2",
+        "staged": "2024-01-07 13:56:33"
     },
     {
         "_id": "64f11b8d497c3069472abc2f",
