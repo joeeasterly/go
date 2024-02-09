@@ -1020,8 +1020,17 @@
         "identifier": "8n4z",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8n4z"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8n4z",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "402",
+        "container": "4020",
+        "label": "Apple USB-C Power Adapter",
+        "last_updated": "2024-02-08 18:44:25.898000",
+        "notion_id": "1426",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b8f497c3069472b39ed",
@@ -7237,7 +7246,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8nw9"
+        "permalink": "https://joeeasterly.github.io/go/8nw9",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11b8f497c3069472b3cf6",
