@@ -956,9 +956,17 @@
         "identifier": "ta4r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ta4r",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "402",
+        "container": "4020",
+        "label": "Apple 85W Magsafe v1 Power Adapter",
+        "last_updated": "2024-02-08 18:44:05.152000",
+        "notion_id": "1407",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bbf497c306947340de5",
