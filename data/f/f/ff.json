@@ -1112,7 +1112,7 @@
         "permalink": "https://joeeasterly.github.io/go/ff5b",
         "bay": "5R0",
         "label": "bay 5R0",
-        "last_updated": "2024-01-01T16:48:15.364000",
+        "last_updated": "2024-01-01 16:48:15.364000",
         "notion_id": "781",
         "shcn": "5R0",
         "shelf": "5R",
@@ -1691,8 +1691,17 @@
         "identifier": "ff7k",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ff7k"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ff7k",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "1m USB-A Apple Watch cable",
+        "last_updated": "2024-02-08 18:33:40.057000",
+        "notion_id": "1421",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11ba2497c3069472ea240",
