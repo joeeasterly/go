@@ -1748,8 +1748,17 @@
         "identifier": "9k7u",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9k7u"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9k7u",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "403",
+        "container": "4030",
+        "label": "30in USB-A to USB-B Micro Cable",
+        "last_updated": "2024-02-08 18:38:29.809000",
+        "notion_id": "1419",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b92497c3069472bb248",
@@ -5735,7 +5744,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/9kqd",
         "label": "Medicine and Snacks",
-        "last_updated": "2023-11-20T18:08:09.047000",
+        "last_updated": "2023-11-20 18:08:09.047000",
         "notion_id": "599",
         "shcn": "50",
         "shelf": "50",
