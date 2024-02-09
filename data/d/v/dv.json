@@ -2448,8 +2448,17 @@
         "identifier": "dvah",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dvah"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/dvah",
+        "staged": "2024-01-30 20:10:32",
+        "bay": "102",
+        "container": "1020",
+        "label": "2m cat6 ethernet cable",
+        "last_updated": "2024-02-07 18:08:14.187000",
+        "notion_id": "1408",
+        "shcn": "1020",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b9d497c3069472dd69e",
@@ -7545,7 +7554,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dvxe"
+        "permalink": "https://joeeasterly.github.io/go/dvxe",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11b9d497c3069472dd91b",
