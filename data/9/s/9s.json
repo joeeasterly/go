@@ -4572,8 +4572,17 @@
         "identifier": "9sju",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9sju"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9sju",
+        "staged": "2024-02-08 17:38:56",
+        "bay": "403",
+        "container": "4030",
+        "label": "Apple 1m Black USB-A to Lightning Cable",
+        "last_updated": "2024-02-08 18:37:36.910000",
+        "notion_id": "1435",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b93497c3069472bcba8",
