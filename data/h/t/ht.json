@@ -3636,8 +3636,19 @@
         "identifier": "htf7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/htf7"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/htf7",
+        "staged": "2024-01-19 11:39:27",
+        "expires": "2025-01-19 00:00:00",
+        "label": "Wegmans Spicy Brown Mustard 12oz",
+        "last_updated": "2024-02-11 13:09:31.409000",
+        "notion_id": "1496",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "077890395059"
     },
     {
         "_id": "64f11ba8497c3069472fcf34",
