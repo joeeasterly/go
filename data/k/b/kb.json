@@ -972,8 +972,21 @@
         "identifier": "kb4t",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kb4t"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/kb4t",
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E4",
+        "container": "5E40",
+        "expires": "2024-05-22 00:00:00",
+        "label": "Wegmans Pepper Jack Cheese 8oz",
+        "last_updated": "2024-02-11 12:38:19.875000",
+        "notion_id": "1472",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E40",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890835739"
     },
     {
         "_id": "64f11bac497c3069473091e7",
@@ -1837,7 +1850,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kb86"
+        "permalink": "https://joeeasterly.github.io/go/kb86",
+        "staged": "2024-01-30 20:10:32"
     },
     {
         "_id": "64f11bac497c306947309253",
