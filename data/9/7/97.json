@@ -4227,9 +4227,20 @@
         "identifier": "97he",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/97he",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E6",
+        "expires": "2024-02-13 00:00:00",
+        "label": "Wegmans Hot Pork Italian Sausage",
+        "last_updated": "2024-02-11 12:42:28.609000",
+        "notion_id": "1475",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E6",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "2005603006945"
     },
     {
         "_id": "64f11b91497c3069472b837b",
