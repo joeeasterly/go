@@ -3158,9 +3158,19 @@
         "identifier": "e1da",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/e1da",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "expires": "2024-03-15 00:00:00",
+        "label": "Wegmans Greek Nonfat Yogurt Strawberry 4pk",
+        "last_updated": "2024-02-11 12:46:52.055000",
+        "notion_id": "1477",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890437223"
     },
     {
         "_id": "64f11b9e497c3069472deaf7",
