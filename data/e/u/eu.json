@@ -5220,8 +5220,19 @@
         "identifier": "eund",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/eund"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/eund",
+        "staged": "2024-01-19 11:39:27",
+        "expires": "2025-09-03 00:00:00",
+        "label": "Wegmans Organic Tahini 11oz",
+        "last_updated": "2024-02-11 13:04:55.304000",
+        "notion_id": "1493",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "077890544419"
     },
     {
         "_id": "64f11ba0497c3069472e53fa",
