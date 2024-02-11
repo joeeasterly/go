@@ -4612,8 +4612,19 @@
         "identifier": "a5k1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/a5k1"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/a5k1",
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2025-04-25 00:00:00",
+        "label": "Pillsbury Funfetti Cake Mix 15.25oz",
+        "last_updated": "2024-02-11 13:02:44.523000",
+        "notion_id": "1491",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "013300608111"
     },
     {
         "_id": "64f11b94497c3069472bfbae",
