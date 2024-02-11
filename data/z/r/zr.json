@@ -7774,9 +7774,19 @@
         "identifier": "zryb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/zryb",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-08-27 00:00:00",
+        "label": "Olive Garden Signature Italian Dressing 24oz",
+        "last_updated": "2024-02-11 12:51:10.666000",
+        "notion_id": "1481",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "070200838192"
     },
     {
         "_id": "64f11bcf497c306947374938",
