@@ -5337,9 +5337,19 @@
         "identifier": "xdnr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/xdnr",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "expires": "2024-02-18 00:00:00",
+        "label": "Wegmans Baby Arugula",
+        "last_updated": "2024-02-11 12:56:39.817000",
+        "notion_id": "1485",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890177181"
     },
     {
         "_id": "64f11bca497c306947361c05",
