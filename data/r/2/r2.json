@@ -8205,8 +8205,16 @@
         "identifier": "r2zz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/r2zz",
-        "staged": "2024-02-06 18:58:19"
+        "staged": "2024-02-06 18:58:19",
+        "bay": "402",
+        "container": "4020",
+        "label": "Microsoft Bluetooth Mouse",
+        "last_updated": "2024-02-11 16:41:50.881000",
+        "notion_id": "1500",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     }
 ]
