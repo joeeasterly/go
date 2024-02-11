@@ -1780,9 +1780,19 @@
         "identifier": "e47y",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/e47y",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "expires": "2025-04-24 00:00:00",
+        "label": "Pillsbury Funfetti Unicorn Vanilla 15.6oz",
+        "last_updated": "2024-02-11 13:10:41.621000",
+        "notion_id": "1497",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "013300000090"
     },
     {
         "_id": "64f11b9e497c3069472df64c",
