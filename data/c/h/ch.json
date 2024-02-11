@@ -5320,9 +5320,20 @@
         "identifier": "chnr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/chnr",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "5E1",
+        "expires": "2024-03-17 00:00:00",
+        "label": "Wegmans Ultra-Pasteurized Half and Half 1qt",
+        "last_updated": "2024-02-11 12:49:58.839000",
+        "notion_id": "1480",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E1",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890486726"
     },
     {
         "_id": "64f11b9a497c3069472d2c05",
