@@ -3341,9 +3341,19 @@
         "identifier": "yne1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/yne1",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "expires": "2024-10-05 00:00:00",
+        "label": "Tostitos Medium Salsa Con Queso 15oz",
+        "last_updated": "2024-02-11 13:05:54.164000",
+        "notion_id": "1494",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "028400070980"
     },
     {
         "_id": "64f11bcd497c30694736bb0e",
