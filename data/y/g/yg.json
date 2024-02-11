@@ -4548,9 +4548,19 @@
         "identifier": "ygjs",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ygjs",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07 13:56:33",
+        "expires": "2024-02-19 00:00:00",
+        "label": "Wegmans Chicken Breasts with Rib Meat 6lb",
+        "last_updated": "2024-02-11 12:54:11.079000",
+        "notion_id": "1483",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "200742211447"
     },
     {
         "_id": "64f11bcc497c30694736a7a6",
