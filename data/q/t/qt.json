@@ -6036,7 +6036,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/qtrj"
+        "permalink": "https://joeeasterly.github.io/go/qtrj",
+        "staged": "2024-02-06 18:58:19"
     },
     {
         "_id": "64f11bb8497c30694732d05f",
@@ -7186,9 +7187,17 @@
         "identifier": "qtw1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/qtw1",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "402",
+        "container": "4020",
+        "label": "GEO151UB-9013 Power Adapter 9V 1A",
+        "last_updated": "2024-02-11 16:46:27.765000",
+        "notion_id": "1501",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb8497c30694732d0ee",
