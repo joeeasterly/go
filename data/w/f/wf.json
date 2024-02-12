@@ -3032,8 +3032,19 @@
         "identifier": "wfct",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wfct"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wfct",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2026-12-31 00:00:00",
+        "label": "RainX Glass Cleaner and Rain Repellent 23oz",
+        "last_updated": "2024-02-12 17:44:40.192000",
+        "notion_id": "1534",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "079118958558"
     },
     {
         "_id": "64f11bc7497c30694735a2e7",
