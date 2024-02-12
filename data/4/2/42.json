@@ -4662,7 +4662,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/42k6"
+        "permalink": "https://joeeasterly.github.io/go/42k6",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11b83497c30694728efb3",
@@ -6373,8 +6374,19 @@
         "identifier": "42su",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/42su"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/42su",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2025-12-31 00:00:00",
+        "label": "Method Squirt and Mop Floor Cleaner 25oz",
+        "last_updated": "2024-02-12 17:03:36.271000",
+        "notion_id": "1519",
+        "percentage": "45",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "817939005637"
     },
     {
         "_id": "64f11b83497c30694728f088",
