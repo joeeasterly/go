@@ -2188,8 +2188,19 @@
         "identifier": "tk9j",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tk9j"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tk9j",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Arm & Hammer Scrub Free with Oxy 40oz",
+        "last_updated": "2024-02-12 16:51:03.717000",
+        "notion_id": "1509",
+        "percentage": "25",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "033200352419"
     },
     {
         "_id": "64f11bbf497c30694734327f",
