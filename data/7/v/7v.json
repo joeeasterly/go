@@ -7516,8 +7516,19 @@
         "identifier": "7vxc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7vxc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7vxc",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2029-12-31 00:00:00",
+        "label": "Swiffer Dry Sweeping Cloths 32ct",
+        "last_updated": "2024-02-12 17:34:08.858000",
+        "notion_id": "1525",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "037000318224"
     },
     {
         "_id": "64f11b8d497c3069472ad919",
