@@ -2508,8 +2508,19 @@
         "identifier": "y2at",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/y2at"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/y2at",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2025-12-31 00:00:00",
+        "label": "Tilex Mold Mildew Remover 32oz",
+        "last_updated": "2024-02-12 17:42:39.385000",
+        "notion_id": "1532",
+        "percentage": "45",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "044600011950"
     },
     {
         "_id": "64f11bcb497c306947366ea7",
@@ -4005,7 +4016,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/y2gn"
+        "permalink": "https://joeeasterly.github.io/go/y2gn",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11bcb497c306947366f62",
