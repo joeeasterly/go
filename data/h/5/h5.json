@@ -380,8 +380,16 @@
         "identifier": "h52g",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h52g"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h52g",
+        "bay": "101",
+        "container": "1010",
+        "label": "BT21 Tata Figurine",
+        "last_updated": "2024-02-11 19:55:02.113000",
+        "notion_id": "1507",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba6497c3069472f799d",
@@ -454,8 +462,16 @@
         "identifier": "h52q",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h52q"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h52q",
+        "bay": "101",
+        "container": "1010",
+        "label": "BT21 Kooky Figurine",
+        "last_updated": "2024-02-11 19:56:05.387000",
+        "notion_id": "1508",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba6497c3069472f79a4",
@@ -528,8 +544,16 @@
         "identifier": "h52x",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h52x"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/h52x",
+        "bay": "101",
+        "container": "1010",
+        "label": "BT21 Chimmy Figurine",
+        "last_updated": "2024-02-11 19:54:24.963000",
+        "notion_id": "1506",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba6497c3069472f79ab",
