@@ -5972,8 +5972,19 @@
         "identifier": "xgr8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xgr8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xgr8",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Spot Shot Instant Carpet Stain Remover 18oz",
+        "last_updated": "2024-02-12 17:41:32.482000",
+        "notion_id": "1531",
+        "percentage": "50",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "074405009937"
     },
     {
         "_id": "64f11bca497c306947362855",
