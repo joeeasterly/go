@@ -3815,8 +3815,19 @@
         "identifier": "t6fv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/t6fv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/t6fv",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Wegmans Cleaner with Bleach 32oz",
+        "last_updated": "2024-02-12 16:52:16.489000",
+        "notion_id": "1510",
+        "percentage": "80",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "077890104804"
     },
     {
         "_id": "64f11bbe497c30694733ff49",
