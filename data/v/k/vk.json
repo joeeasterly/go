@@ -1076,8 +1076,19 @@
         "identifier": "vk57",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vk57"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vk57",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2020-05-31 00:00:00",
+        "label": "Gojo Natural Orange Pumice Hand CLeaner 64oz",
+        "last_updated": "2024-02-12 17:54:50.808000",
+        "notion_id": "1537",
+        "percentage": "50",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "073852009583"
     },
     {
         "_id": "64f11bc5497c3069473531f4",
@@ -3980,8 +3991,19 @@
         "identifier": "vkgj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vkgj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vkgj",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2029-12-31 00:00:00",
+        "label": "Method Steel for Real 12oz",
+        "last_updated": "2024-02-12 17:58:37.004000",
+        "notion_id": "1538",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "817939000847"
     },
     {
         "_id": "64f11bc5497c30694735335f",
@@ -5751,7 +5773,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/vkqf",
         "label": "zinc 1/4 in AAB hex nuts",
-        "last_updated": "2023-10-05T18:03:39.853000",
+        "last_updated": "2023-10-05 18:03:39.853000",
         "notion_id": "396",
         "shelf": "411"
     },
