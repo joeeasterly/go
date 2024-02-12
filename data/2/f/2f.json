@@ -2848,8 +2848,19 @@
         "identifier": "2fc3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2fc3"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2fc3",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2026-12-31 00:00:00",
+        "label": "Pledge Multi Surface Cleaner 13.8oz",
+        "last_updated": "2024-02-12 17:40:05.891000",
+        "notion_id": "1530",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11b7f497c3069472822d0",
