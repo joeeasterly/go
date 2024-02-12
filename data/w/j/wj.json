@@ -7360,8 +7360,19 @@
         "identifier": "wjwq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wjwq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wjwq",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Kaboom Foam-tastic bathroom cleaner 19oz",
+        "last_updated": "2024-02-12 17:43:27.002000",
+        "notion_id": "1533",
+        "percentage": "40",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "757037352700"
     },
     {
         "_id": "64f11bc8497c30694735b104",
