@@ -4927,8 +4927,19 @@
         "identifier": "7zm7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7zm7"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7zm7",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-12-31 00:00:00",
+        "label": "Out Go Here Attractant 32oz",
+        "last_updated": "2024-02-12 17:09:22.878000",
+        "notion_id": "1524",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "010279705445"
     },
     {
         "_id": "64f11b8d497c3069472ae7d4",
