@@ -4660,8 +4660,19 @@
         "identifier": "8hk7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8hk7"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/8hk7",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2025-12-31 00:00:00",
+        "label": "Dawn Ultra Platinum Powerwash refill 16oz",
+        "last_updated": "2024-02-12 16:57:33.496000",
+        "notion_id": "1514",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "037000523666"
     },
     {
         "_id": "64f11b8f497c3069472b2bb4",
