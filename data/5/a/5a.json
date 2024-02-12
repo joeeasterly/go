@@ -7644,8 +7644,19 @@
         "identifier": "5axv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5axv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/5axv",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2025-12-31 00:00:00",
+        "label": "Bissell Pet Portable Cleaner 32oz",
+        "last_updated": "2024-02-12 16:56:19.446000",
+        "notion_id": "1513",
+        "percentage": "50",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "011120015089"
     },
     {
         "_id": "64f11b87497c306947299129",
