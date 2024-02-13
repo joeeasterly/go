@@ -4959,8 +4959,20 @@
         "identifier": "htmb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/htmb"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/htmb",
+        "staged": "2024-02-12 10:30:59",
+        "bay": "5N0",
+        "expires": "2029-12-31 00:00:00",
+        "label": "Mr Clean Magic Eraser 4ct",
+        "last_updated": "2024-02-12 20:40:00.756000",
+        "notion_id": "1555",
+        "percentage": "100",
+        "quantity": "4",
+        "shcn": "5N0",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "037000820277"
     },
     {
         "_id": "64f11ba8497c3069472fcfd8",
