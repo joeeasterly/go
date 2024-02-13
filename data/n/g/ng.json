@@ -5980,8 +5980,20 @@
         "identifier": "ngrc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ngrc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ngrc",
+        "staged": "2024-02-12 10:30:59",
+        "bay": "5N2",
+        "expires": "2029-12-31 00:00:00",
+        "label": "Febreze Linen and Sky Air Refresher 9.7oz",
+        "last_updated": "2024-02-12 20:20:05.897000",
+        "notion_id": "1553",
+        "percentage": "40",
+        "quantity": "1",
+        "shcn": "5N2",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "037000071006"
     },
     {
         "_id": "64f11bb1497c30694731a859",
