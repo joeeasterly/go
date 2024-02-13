@@ -41,14 +41,15 @@
         "staged": "2024-02-12 10:30:59",
         "expires": "2029-12-31 00:00:00",
         "label": "Windex Original 23oz",
-        "last_updated": "2024-02-12 17:07:28.975000",
+        "last_updated": "2024-02-12 20:22:31.053000",
         "notion_id": "1522",
         "percentage": "15",
         "quantity": "1",
-        "shcn": "5N",
+        "shcn": "5N1",
         "shelf": "5N",
         "type": "consumable",
-        "upc": "019800701956"
+        "upc": "019800701956",
+        "bay": "5N1"
     },
     {
         "_id": "64f11b81497c306947289972",
