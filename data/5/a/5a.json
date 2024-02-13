@@ -7649,14 +7649,15 @@
         "staged": "2024-02-12 10:30:59",
         "expires": "2025-12-31 00:00:00",
         "label": "Bissell Pet Portable Cleaner 32oz",
-        "last_updated": "2024-02-12 16:56:19.446000",
+        "last_updated": "2024-02-12 20:27:47.957000",
         "notion_id": "1513",
         "percentage": "50",
         "quantity": "1",
-        "shcn": "5N",
+        "shcn": "5N1",
         "shelf": "5N",
         "type": "consumable",
-        "upc": "011120015089"
+        "upc": "011120015089",
+        "bay": "5N1"
     },
     {
         "_id": "64f11b87497c306947299129",
