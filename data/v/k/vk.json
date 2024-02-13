@@ -1081,14 +1081,15 @@
         "staged": "2024-02-12 10:30:59",
         "expires": "2020-05-31 00:00:00",
         "label": "Gojo Natural Orange Pumice Hand CLeaner 64oz",
-        "last_updated": "2024-02-12 17:54:50.808000",
+        "last_updated": "2024-02-12 20:31:51.988000",
         "notion_id": "1537",
         "percentage": "50",
         "quantity": "1",
-        "shcn": "5N",
-        "shelf": "5N",
+        "shcn": "5K0",
+        "shelf": "5K",
         "type": "consumable",
-        "upc": "073852009583"
+        "upc": "073852009583",
+        "bay": "5K0"
     },
     {
         "_id": "64f11bc5497c3069473531f4",
@@ -3996,14 +3997,15 @@
         "staged": "2024-02-12 10:30:59",
         "expires": "2029-12-31 00:00:00",
         "label": "Method Steel for Real 12oz",
-        "last_updated": "2024-02-12 17:58:37.004000",
+        "last_updated": "2024-02-12 20:30:26.286000",
         "notion_id": "1538",
         "percentage": "100",
         "quantity": "1",
-        "shcn": "5N",
+        "shcn": "5N2",
         "shelf": "5N",
         "type": "consumable",
-        "upc": "817939000847"
+        "upc": "817939000847",
+        "bay": "5N2"
     },
     {
         "_id": "64f11bc5497c30694735335f",
