@@ -660,8 +660,20 @@
         "identifier": "nv3k",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nv3k"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nv3k",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2026-12-31 00:00:00",
+        "label": "Bissell Pet Crosswave Cleaner 8oz",
+        "last_updated": "2024-02-12 20:29:08.971000",
+        "notion_id": "1549",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5N0",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "none",
+        "bay": "5N0"
     },
     {
         "_id": "64f11bb2497c30694731d5c0",
