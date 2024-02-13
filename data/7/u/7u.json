@@ -5799,14 +5799,15 @@
         "staged": "2024-02-12 10:30:59",
         "expires": "2024-12-31 00:00:00",
         "label": "Resolve Spot Magic Carpet CLeaner 14oz",
-        "last_updated": "2024-02-12 17:36:16.101000",
+        "last_updated": "2024-02-12 20:30:22.036000",
         "notion_id": "1527",
         "percentage": "10",
         "quantity": "1",
-        "shcn": "5N",
+        "shcn": "5N2",
         "shelf": "5N",
         "type": "consumable",
-        "upc": "019200758925"
+        "upc": "019200758925",
+        "bay": "5N2"
     },
     {
         "_id": "64f11b8d497c3069472ad440",
