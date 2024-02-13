@@ -6413,8 +6413,20 @@
         "identifier": "nzt1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nzt1"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nzt1",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2029-12-31 00:00:00",
+        "label": "Swiffer Dusters 18ct",
+        "last_updated": "2024-02-12 20:35:21.914000",
+        "notion_id": "1547",
+        "percentage": "80",
+        "quantity": "1",
+        "shcn": "5N0",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "037000990369",
+        "bay": "5N0"
     },
     {
         "_id": "64f11bb3497c30694731e88e",
