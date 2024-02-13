@@ -207,27 +207,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11b8a497c3069472a1a09"
-      },
-      "identifier": "6d5w",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/6d5w",
-      "staged": "2024-01-30 20:10:32",
-      "bay": "403",
-      "container": "4030",
-      "label": "40in USB-A to iPod 30-pin cable",
-      "last_updated": {
-        "$date": "2024-02-06T21:26:05.450Z"
-      },
-      "notion_id": "1351",
-      "shcn": "4030",
-      "shelf": "40",
-      "type": "item"
-    },
-    {
-      "_id": {
         "$oid": "64f11b8b497c3069472a68ef"
       },
       "identifier": "6zw3",
@@ -328,6 +307,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11b92497c3069472bb247"
+      },
+      "identifier": "9k7u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9k7u",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "30in USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:38:29.809Z"
+      },
+      "notion_id": "1419",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b92497c3069472bbc43"
       },
       "identifier": "9nqq",
@@ -369,6 +369,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11b96497c3069472c59f2"
+      },
+      "identifier": "aw56",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/aw56",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "Gray Soap Dispenser USB Charging cable",
+      "last_updated": {
+        "$date": "2024-02-09T18:31:23.137Z"
+      },
+      "notion_id": "1318",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b96497c3069472c6ab9"
       },
       "identifier": "b1bd",
@@ -381,7 +402,7 @@
       "container": "4030",
       "label": "3ft USB-A to USB-B printer cable",
       "last_updated": {
-        "$date": "2024-02-05T21:05:34.753Z"
+        "$date": "2024-02-09T18:30:52.932Z"
       },
       "notion_id": "1342",
       "shcn": "4030",
@@ -423,6 +444,27 @@
       },
       "notion_id": "537",
       "shcn": "4031",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cb1d1"
+      },
+      "identifier": "bk45",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bk45",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "2ft USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:35:37.606Z"
+      },
+      "notion_id": "1420",
+      "shcn": "4030",
+      "shelf": "40",
       "type": "item"
     },
     {
@@ -711,6 +753,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba2497c3069472ea23f"
+      },
+      "identifier": "ff7k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ff7k",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "1m USB-A Apple Watch cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:33:40.057Z"
+      },
+      "notion_id": "1421",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba3497c3069472eec42"
       },
       "identifier": "g1qp",
@@ -769,21 +832,21 @@
     },
     {
       "_id": {
-        "$oid": "64f11ba5497c3069472f2a65"
+        "$oid": "64f11ba5497c3069472f2ef8"
       },
-      "identifier": "gh8s",
+      "identifier": "gjdc",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/gh8s",
+      "permalink": "https://joeeasterly.github.io/go/gjdc",
       "staged": "2024-01-30 20:10:32",
       "bay": "403",
       "container": "4030",
-      "label": "6ft USB-C to Lightning cable",
+      "label": "6ft USB-A to USB-B Micro Cable",
       "last_updated": {
-        "$date": "2024-02-06T21:17:50.174Z"
+        "$date": "2024-02-08T18:36:41.209Z"
       },
-      "notion_id": "1359",
+      "notion_id": "1416",
       "shcn": "4030",
       "shelf": "40",
       "type": "item"
@@ -807,6 +870,27 @@
       "notion_id": "565",
       "shcn": "4031",
       "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472faeac"
+      },
+      "identifier": "hjaz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hjaz",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "1m USB-A to USB-B Printer Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:36:06.208Z"
+      },
+      "notion_id": "1405",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {
@@ -956,6 +1040,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bb3497c30694731f96b"
+      },
+      "identifier": "p4zy",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/p4zy",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "5ft MIDI Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:40:39.628Z"
+      },
+      "notion_id": "1413",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb8497c30694732ef19"
       },
       "identifier": "r2ed",
@@ -1070,6 +1175,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bbd497c30694733ae7d"
+      },
+      "identifier": "sj9h",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sj9h",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "Nintendo 2m HDMI Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:40:00.905Z"
+      },
+      "notion_id": "1402",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bbd497c30694733c839"
       },
       "identifier": "srqd",
@@ -1112,22 +1238,24 @@
     },
     {
       "_id": {
-        "$oid": "64f11bbf497c306947341005"
+        "$oid": "64f11bbf497c306947343739"
       },
-      "identifier": "tans",
+      "identifier": "tmfd",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/tans",
+      "permalink": "https://joeeasterly.github.io/go/tmfd",
+      "staged": "2024-01-30 20:10:32",
       "bay": "403",
       "container": "4030",
-      "label": "usb-c to lightning cable, 2m",
+      "label": "0.5m USB-A to USB-B Micro Cable",
       "last_updated": {
-        "$date": "2023-10-22T16:54:54.211Z"
+        "$date": "2024-02-08T18:36:51.505Z"
       },
-      "notion_id": "527",
+      "notion_id": "1418",
       "shcn": "4030",
-      "shelf": "40"
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {
@@ -1193,6 +1321,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bc1497c306947347f99"
+      },
+      "identifier": "u6jd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/u6jd",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "Hosa 1/4in Stereo to 1/4in Mono Audio Interconnect Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:39:34.478Z"
+      },
+      "notion_id": "1423",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc1497c30694734815b"
       },
       "identifier": "u6zf",
@@ -1206,6 +1355,27 @@
       },
       "notion_id": "535",
       "shcn": "4030",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734bb91"
+      },
+      "identifier": "unj5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/unj5",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "5ft USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:36:22.238Z"
+      },
+      "notion_id": "1417",
+      "shcn": "4030",
+      "shelf": "40",
       "type": "item"
     },
     {
@@ -1367,10 +1537,52 @@
       "container": "4030",
       "label": "5ft USB-A to USB-B Micro cable",
       "last_updated": {
-        "$date": "2024-02-05T21:07:19.951Z"
+        "$date": "2024-02-09T18:37:20.632Z"
       },
       "notion_id": "1341",
       "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c3069473633e6"
+      },
+      "identifier": "xkmt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xkmt",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "8ft Male to Female Mini-Stereo Extension Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:40:11.462Z"
+      },
+      "notion_id": "1425",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcb497c306947364b62"
+      },
+      "identifier": "xsgp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xsgp",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "1.5m HDMI Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:41:03.056Z"
+      },
+      "notion_id": "1415",
+      "shcn": "4031",
       "shelf": "40",
       "type": "item"
     },
@@ -1439,27 +1651,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11bcd497c30694736d255"
-      },
-      "identifier": "yu89",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/yu89",
-      "staged": "2024-01-30 20:10:32",
-      "bay": "403",
-      "container": "4030",
-      "label": "40in USB-C to Lightning Cable",
-      "last_updated": {
-        "$date": "2024-02-06T21:17:12.804Z"
-      },
-      "notion_id": "1352",
-      "shcn": "4030",
-      "shelf": "40",
-      "type": "item"
-    },
-    {
-      "_id": {
         "$oid": "64f11bcd497c30694736d68e"
       },
       "identifier": "yva2",
@@ -1481,6 +1672,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bcd497c30694736da6e"
+      },
+      "identifier": "yw92",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yw92",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "RadioShack RG-6 18AWG CatV Coaxial Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:39:15.115Z"
+      },
+      "notion_id": "1412",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bce497c306947370e7d"
       },
       "identifier": "za9h",
@@ -1493,7 +1705,7 @@
       "container": "4030",
       "label": "0.5m USB-A to USB-B Micro 3.0 Cable",
       "last_updated": {
-        "$date": "2024-02-07T13:58:58.278Z"
+        "$date": "2024-02-08T18:34:34.516Z"
       },
       "notion_id": "1388",
       "shcn": "4030",
@@ -1519,27 +1731,6 @@
       "notion_id": "553",
       "shcn": "4030",
       "shelf": "40"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bcf497c3069473745b9"
-      },
-      "identifier": "zr3d",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/zr3d",
-      "staged": "2024-01-30 20:10:32",
-      "bay": "403",
-      "container": "4030",
-      "label": "Nintendo USB-A to USB-C cable",
-      "last_updated": {
-        "$date": "2024-02-05T21:06:44.483Z"
-      },
-      "notion_id": "1335",
-      "shcn": "4030",
-      "shelf": "40",
-      "type": "item"
     },
     {
       "_id": {

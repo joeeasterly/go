@@ -964,24 +964,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11bc9497c30694735f10f"
-      },
-      "identifier": "x2x3",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/x2x3",
-      "bay": "412",
-      "last_updated": {
-        "$date": "2023-10-18T12:25:25.064Z"
-      },
-      "shelf": "41",
-      "label": "sonos roam",
-      "notion_id": "497",
-      "shcn": "412"
-    },
-    {
-      "_id": {
         "$oid": "64f11bcc497c306947369c3b"
       },
       "identifier": "ydqf",

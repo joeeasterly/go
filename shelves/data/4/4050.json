@@ -1,20 +1,22 @@
 {
   "shelving_record": {
     "_id": {
-      "$oid": "64f11bb8497c30694732d0b6"
+      "$oid": "64f11b9d497c3069472dac7c"
     },
-    "identifier": "qtua",
+    "identifier": "dhsg",
     "target": "#",
     "class": "inventory",
     "allocated": true,
-    "permalink": "https://joeeasterly.github.io/go/qtua",
+    "permalink": "https://joeeasterly.github.io/go/dhsg",
+    "staged": "2024-01-07 13:56:33",
     "bay": "405",
-    "label": "bay 405",
+    "container": "4050",
+    "label": "Power Strips and Cables",
     "last_updated": {
-      "$date": "2023-12-25T10:00:50.453Z"
+      "$date": "2024-02-09T18:11:31.782Z"
     },
-    "notion_id": "446",
-    "shcn": "405",
+    "notion_id": "1465",
+    "shcn": "4050",
     "shelf": "40",
     "type": "storage"
   },
@@ -120,27 +122,6 @@
       "bay": "405",
       "container": "4050",
       "shelf": "40"
-    },
-    {
-      "_id": {
-        "$oid": "64f11b9d497c3069472dac7c"
-      },
-      "identifier": "dhsg",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/dhsg",
-      "staged": "2024-01-07 13:56:33",
-      "bay": "405",
-      "container": "4050",
-      "label": "Power Strips and Cables",
-      "last_updated": {
-        "$date": "2024-02-09T18:11:31.782Z"
-      },
-      "notion_id": "1465",
-      "shcn": "4050",
-      "shelf": "40",
-      "type": "storage"
     },
     {
       "_id": {

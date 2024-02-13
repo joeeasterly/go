@@ -337,6 +337,100 @@
     },
     {
       "_id": {
+        "$oid": "64f11b8d497c3069472ae731"
+      },
+      "identifier": "7zf5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7zf5",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-06-19 00:00:00",
+      "label": "Wegmans Spicy Kimchi 14oz",
+      "last_updated": {
+        "$date": "2024-02-11T12:44:48.026Z"
+      },
+      "notion_id": "1476",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890484166"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b0000"
+      },
+      "identifier": "86nm",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/86nm",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "5E6",
+      "expires": "2024-03-05 00:00:00",
+      "label": "Wegmans Polish Kielbasa 13oz",
+      "last_updated": {
+        "$date": "2024-02-11T12:40:58.732Z"
+      },
+      "notion_id": "1474",
+      "percentage": "100",
+      "quantity": "100",
+      "shcn": "5E6",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890372791"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b91497c3069472b837a"
+      },
+      "identifier": "97he",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/97he",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E6",
+      "expires": "2024-02-13 00:00:00",
+      "label": "Wegmans Hot Pork Italian Sausage",
+      "last_updated": {
+        "$date": "2024-02-11T12:42:28.609Z"
+      },
+      "notion_id": "1475",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E6",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "2005603006945"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c831f"
+      },
+      "identifier": "b7ek",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/b7ek",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-05-30 00:00:00",
+      "label": "Wegmans Shredded Mexican Blend Cheese 32oz",
+      "last_updated": {
+        "$date": "2024-02-11T12:47:51.807Z"
+      },
+      "notion_id": "1478",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890530726"
+    },
+    {
+      "_id": {
         "$oid": "64f11b99497c3069472ce5a1"
       },
       "identifier": "bz2n",
@@ -382,6 +476,30 @@
       "shelf": "5E",
       "type": "consumable",
       "upc": "077890117880"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9a497c3069472d2c04"
+      },
+      "identifier": "chnr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/chnr",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E1",
+      "expires": "2024-03-17 00:00:00",
+      "label": "Wegmans Ultra-Pasteurized Half and Half 1qt",
+      "last_updated": {
+        "$date": "2024-02-11T12:49:58.839Z"
+      },
+      "notion_id": "1480",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E1",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890486726"
     },
     {
       "_id": {
@@ -500,6 +618,29 @@
     },
     {
       "_id": {
+        "$oid": "64f11b9e497c3069472deaf6"
+      },
+      "identifier": "e1da",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/e1da",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-03-15 00:00:00",
+      "label": "Wegmans Greek Nonfat Yogurt Strawberry 4pk",
+      "last_updated": {
+        "$date": "2024-02-11T12:46:52.055Z"
+      },
+      "notion_id": "1477",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890437223"
+    },
+    {
+      "_id": {
         "$oid": "64f11b9e497c3069472df3cb"
       },
       "identifier": "e3ky",
@@ -516,6 +657,28 @@
       "shcn": "5E1",
       "shelf": "5E",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e0f09"
+      },
+      "identifier": "eadw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/eadw",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-05-22 00:00:00",
+      "label": "Wegmans Pepper Jack Cheese 8oz",
+      "last_updated": {
+        "$date": "2024-02-11T12:39:02.288Z"
+      },
+      "notion_id": "1473",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E40",
+      "type": "consumable",
+      "upc": "077890835739"
     },
     {
       "_id": {
@@ -634,6 +797,29 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba8497c3069472fc46a"
+      },
+      "identifier": "hqrx",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hqrx",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-03-04 00:00:00",
+      "label": "Wegmans Grade AA Extra Large Eggs 18ct",
+      "last_updated": {
+        "$date": "2024-02-11T12:55:16.344Z"
+      },
+      "notion_id": "1484",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890339770"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba9497c306947300e7d"
       },
       "identifier": "ja9h",
@@ -674,6 +860,31 @@
       "shelf": "5E",
       "type": "consumable",
       "upc": "077890339770"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bac497c3069473091e6"
+      },
+      "identifier": "kb4t",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kb4t",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "5E4",
+      "container": "5E40",
+      "expires": "2024-05-22 00:00:00",
+      "label": "Wegmans Pepper Jack Cheese 8oz",
+      "last_updated": {
+        "$date": "2024-02-11T12:38:19.875Z"
+      },
+      "notion_id": "1472",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E40",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890835739"
     },
     {
       "_id": {
@@ -984,6 +1195,29 @@
     },
     {
       "_id": {
+        "$oid": "64f11bbc497c3069473390fe"
+      },
+      "identifier": "sawj",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sawj",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-06-20 00:00:00",
+      "label": "Wegmans Cream Cheese 16oz",
+      "last_updated": {
+        "$date": "2024-02-11T12:48:56.311Z"
+      },
+      "notion_id": "1479",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890295168"
+    },
+    {
+      "_id": {
         "$oid": "64f11bbc497c306947339362"
       },
       "identifier": "sbgp",
@@ -1286,16 +1520,16 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/v9zy",
       "staged": "2024-01-07 13:56:33",
-      "bay": "5E2",
+      "bay": "5E8",
       "expires": "2024-07-06 00:00:00",
       "label": "Wegmans Spicy Kimchi 14oz",
       "last_updated": {
-        "$date": "2024-01-24T16:23:38.454Z"
+        "$date": "2024-02-11T12:45:26.842Z"
       },
       "notion_id": "1158",
       "percentage": "100",
       "quantity": "1",
-      "shcn": "5E2",
+      "shcn": "5E8",
       "shelf": "5E",
       "type": "consumable",
       "upc": "077890484166"
@@ -1466,6 +1700,29 @@
     },
     {
       "_id": {
+        "$oid": "64f11bca497c306947361c04"
+      },
+      "identifier": "xdnr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xdnr",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-02-18 00:00:00",
+      "label": "Wegmans Baby Arugula",
+      "last_updated": {
+        "$date": "2024-02-11T12:56:39.817Z"
+      },
+      "notion_id": "1485",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890177181"
+    },
+    {
+      "_id": {
         "$oid": "64f11bca497c306947363243"
       },
       "identifier": "xk7q",
@@ -1490,6 +1747,29 @@
     },
     {
       "_id": {
+        "$oid": "64f11bcc497c30694736a7a5"
+      },
+      "identifier": "ygjs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ygjs",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-02-19 00:00:00",
+      "label": "Wegmans Chicken Breasts with Rib Meat 6lb",
+      "last_updated": {
+        "$date": "2024-02-11T12:54:11.079Z"
+      },
+      "notion_id": "1483",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "200742211447"
+    },
+    {
+      "_id": {
         "$oid": "64f11bcc497c30694736a954"
       },
       "identifier": "ygz8",
@@ -1511,6 +1791,29 @@
       "shelf": "5E",
       "type": "consumable",
       "upc": "073420116149"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bce497c30694736fd14"
+      },
+      "identifier": "z5x8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/z5x8",
+      "staged": "2024-01-19 11:39:27",
+      "expires": "2024-06-18 00:00:00",
+      "label": "Wegmans Italian Style Sliced Pepperoni 6oz",
+      "last_updated": {
+        "$date": "2024-02-11T12:52:31.856Z"
+      },
+      "notion_id": "1482",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "077890503997"
     },
     {
       "_id": {
@@ -1559,6 +1862,29 @@
       "shelf": "5E",
       "type": "consumable",
       "upc": "098308243229"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcf497c306947374937"
+      },
+      "identifier": "zryb",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/zryb",
+      "staged": "2024-01-07 13:56:33",
+      "expires": "2024-08-27 00:00:00",
+      "label": "Olive Garden Signature Italian Dressing 24oz",
+      "last_updated": {
+        "$date": "2024-02-11T12:51:10.666Z"
+      },
+      "notion_id": "1481",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "5E",
+      "shelf": "5E",
+      "type": "consumable",
+      "upc": "070200838192"
     },
     {
       "_id": {

@@ -39,6 +39,54 @@
     },
     {
       "_id": {
+        "$oid": "64f11b8d497c3069472abc2e"
+      },
+      "identifier": "7nq2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7nq2",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "131",
+      "expires": "2026-03-31 00:00:00",
+      "label": "LiquaCel Grape 32oz",
+      "last_updated": {
+        "$date": "2024-02-09T17:54:46.684Z"
+      },
+      "notion_id": "1460",
+      "percentage": "75",
+      "quantity": "1",
+      "shcn": "131",
+      "shelf": "13",
+      "type": "consumable",
+      "upc": "782028000940"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b14cf"
+      },
+      "identifier": "8bv3",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8bv3",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "131",
+      "expires": "2024-09-30 00:00:00",
+      "label": "IcyHot Max Lidocaine Patches 5ct",
+      "last_updated": {
+        "$date": "2024-02-09T17:52:48.408Z"
+      },
+      "notion_id": "1459",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "131",
+      "shelf": "13",
+      "type": "consumable",
+      "upc": "041167172018"
+    },
+    {
+      "_id": {
         "$oid": "64f11b91497c3069472b8292"
       },
       "identifier": "97a6",
@@ -59,6 +107,30 @@
       "shelf": "13",
       "type": "consumable",
       "upc": "041100564542"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b97497c3069472c93b5"
+      },
+      "identifier": "bbk9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bbk9",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "131",
+      "expires": "2026-03-31 00:00:00",
+      "label": "Padagis Polyethylene Glycol 3350 8.3oz",
+      "last_updated": {
+        "$date": "2024-02-09T17:59:19.604Z"
+      },
+      "notion_id": "1462",
+      "percentage": "100",
+      "quantity": "1",
+      "shcn": "131",
+      "shelf": "13",
+      "type": "consumable",
+      "upc": "345802868022"
     },
     {
       "_id": {

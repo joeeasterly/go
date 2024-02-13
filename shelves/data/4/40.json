@@ -234,36 +234,37 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/49pj",
       "staged": "2024-01-30 20:10:32",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "label": "5ft black grounded power cable",
       "last_updated": {
-        "$date": "2024-02-05T21:04:20.422Z"
+        "$date": "2024-02-09T18:36:35.858Z"
       },
       "notion_id": "1347",
-      "shcn": "4020",
+      "shcn": "4050",
       "shelf": "40",
       "type": "item"
     },
     {
       "_id": {
-        "$oid": "64f11b84497c306947292d75"
+        "$oid": "64f11b84497c3069472928c3"
       },
-      "identifier": "4j19",
+      "identifier": "4guq",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/4j19",
-      "label": "Apple iMac Power Cable",
-      "last_updated": {
-        "$date": "2024-02-05T21:10:03.654Z"
-      },
-      "notion_id": "1345",
-      "shcn": "4020",
-      "type": "item",
+      "permalink": "https://joeeasterly.github.io/go/4guq",
+      "staged": "2024-02-06 18:58:19",
       "bay": "402",
       "container": "4020",
-      "shelf": "40"
+      "label": "2m DVI Cable",
+      "last_updated": {
+        "$date": "2024-02-09T18:28:18.963Z"
+      },
+      "notion_id": "1467",
+      "shcn": "4020",
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {
@@ -276,13 +277,13 @@
       "permalink": "https://joeeasterly.github.io/go/4m3m",
       "label": "6ft black grounded extension cord",
       "last_updated": {
-        "$date": "2024-02-05T21:12:58.622Z"
+        "$date": "2024-02-09T18:36:07.341Z"
       },
       "notion_id": "1327",
-      "shcn": "4020",
+      "shcn": "4050",
       "type": "item",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "shelf": "40"
     },
     {
@@ -308,6 +309,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11b86497c3069472962a9"
+      },
+      "identifier": "4yaw",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4yaw",
+      "staged": "2024-02-06 18:58:19",
+      "label": "2m Power Cable",
+      "last_updated": {
+        "$date": "2024-02-09T18:25:02.105Z"
+      },
+      "notion_id": "1466",
+      "shcn": "4050",
+      "type": "item",
+      "bay": "405",
+      "container": "4050",
+      "shelf": "40"
+    },
+    {
+      "_id": {
         "$oid": "64f11b86497c306947296387"
       },
       "identifier": "4yhu",
@@ -320,7 +342,7 @@
       "container": "4020",
       "label": "6ft Cat6 Black Ethernet Cable",
       "last_updated": {
-        "$date": "2024-02-07T13:51:04.657Z"
+        "$date": "2024-02-09T18:32:40.668Z"
       },
       "notion_id": "1381",
       "shcn": "4020",
@@ -358,77 +380,14 @@
       "permalink": "https://joeeasterly.github.io/go/5yxr",
       "label": "5ft 3-prong AC power cord",
       "last_updated": {
-        "$date": "2024-02-05T21:10:49.751Z"
+        "$date": "2024-02-09T18:26:51.246Z"
       },
       "notion_id": "1339",
-      "shcn": "4020",
+      "shcn": "4050",
       "type": "item",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "shelf": "40"
-    },
-    {
-      "_id": {
-        "$oid": "64f11b8a497c3069472a1a09"
-      },
-      "identifier": "6d5w",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/6d5w",
-      "staged": "2024-01-30 20:10:32",
-      "bay": "403",
-      "container": "4030",
-      "label": "40in USB-A to iPod 30-pin cable",
-      "last_updated": {
-        "$date": "2024-02-06T21:26:05.450Z"
-      },
-      "notion_id": "1351",
-      "shcn": "4030",
-      "shelf": "40",
-      "type": "item"
-    },
-    {
-      "_id": {
-        "$oid": "64f11b8b497c3069472a5332"
-      },
-      "identifier": "6uf6",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/6uf6",
-      "staged": "2024-01-30 20:10:32",
-      "bay": "402",
-      "container": "4020",
-      "label": "6ft Apple Power Adapter Cable",
-      "last_updated": {
-        "$date": "2024-02-06T21:20:58.140Z"
-      },
-      "notion_id": "1350",
-      "shcn": "4020",
-      "shelf": "40",
-      "type": "item"
-    },
-    {
-      "_id": {
-        "$oid": "64f11b8b497c3069472a56eb"
-      },
-      "identifier": "6vcy",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/6vcy",
-      "staged": "2024-01-19 11:39:27",
-      "bay": "402",
-      "container": "4020",
-      "label": "Amazon 9W USB power adapter",
-      "last_updated": {
-        "$date": "2024-02-06T21:19:50.134Z"
-      },
-      "notion_id": "1369",
-      "shcn": "4020",
-      "shelf": "40",
-      "type": "item"
     },
     {
       "_id": {
@@ -445,6 +404,27 @@
       },
       "notion_id": "536",
       "shcn": "4031",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472abe2e"
+      },
+      "identifier": "7p72",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7p72",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "402",
+      "container": "4020",
+      "label": "Metrologic MS9520 USB Barcode Scanner",
+      "last_updated": {
+        "$date": "2024-02-09T18:35:03.685Z"
+      },
+      "notion_id": "1440",
+      "shcn": "4020",
+      "shelf": "40",
       "type": "item"
     },
     {
@@ -499,13 +479,13 @@
       "permalink": "https://joeeasterly.github.io/go/8w89",
       "label": "3ft black grounded extension cable",
       "last_updated": {
-        "$date": "2024-02-05T21:09:25.590Z"
+        "$date": "2024-02-09T18:37:49.240Z"
       },
       "notion_id": "1336",
-      "shcn": "4020",
+      "shcn": "4050",
       "type": "item",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "shelf": "40"
     },
     {
@@ -546,6 +526,48 @@
         "$date": "2024-02-06T21:16:33.817Z"
       },
       "notion_id": "1365",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b91497c3069472b8c23"
+      },
+      "identifier": "99pq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/99pq",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "402",
+      "container": "4020",
+      "label": "Ableton Push Power Adapter",
+      "last_updated": {
+        "$date": "2024-02-09T18:32:27.870Z"
+      },
+      "notion_id": "1441",
+      "shcn": "4020",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b92497c3069472bb247"
+      },
+      "identifier": "9k7u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9k7u",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "30in USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:38:29.809Z"
+      },
+      "notion_id": "1419",
       "shcn": "4030",
       "shelf": "40",
       "type": "item"
@@ -622,14 +644,14 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/aw56",
       "staged": "2024-01-30 20:10:32",
-      "bay": "402",
-      "container": "4020",
+      "bay": "403",
+      "container": "4030",
       "label": "Gray Soap Dispenser USB Charging cable",
       "last_updated": {
-        "$date": "2024-02-04T15:40:02.084Z"
+        "$date": "2024-02-09T18:31:23.137Z"
       },
       "notion_id": "1318",
-      "shcn": "4020",
+      "shcn": "4030",
       "shelf": "40",
       "type": "item"
     },
@@ -647,7 +669,7 @@
       "container": "4020",
       "label": "Sauce Light Sticks",
       "last_updated": {
-        "$date": "2024-02-07T13:50:17.711Z"
+        "$date": "2024-02-09T18:07:17.088Z"
       },
       "notion_id": "1374",
       "shcn": "4020",
@@ -668,7 +690,7 @@
       "container": "4030",
       "label": "3ft USB-A to USB-B printer cable",
       "last_updated": {
-        "$date": "2024-02-05T21:05:34.753Z"
+        "$date": "2024-02-09T18:30:52.932Z"
       },
       "notion_id": "1342",
       "shcn": "4030",
@@ -730,6 +752,27 @@
       },
       "notion_id": "537",
       "shcn": "4031",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b98497c3069472cb1d1"
+      },
+      "identifier": "bk45",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/bk45",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "2ft USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:35:37.606Z"
+      },
+      "notion_id": "1420",
+      "shcn": "4030",
+      "shelf": "40",
       "type": "item"
     },
     {
@@ -964,7 +1007,7 @@
       "container": "4020",
       "label": "7ft DisplayPort to Mini DisplayPort Cable",
       "last_updated": {
-        "$date": "2024-02-07T13:49:13.828Z"
+        "$date": "2024-02-09T18:05:33.224Z"
       },
       "notion_id": "1375",
       "shcn": "4020",
@@ -990,6 +1033,48 @@
       "notion_id": "554",
       "shcn": "4030",
       "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9d497c3069472dac7c"
+      },
+      "identifier": "dhsg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dhsg",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "405",
+      "container": "4050",
+      "label": "Power Strips and Cables",
+      "last_updated": {
+        "$date": "2024-02-09T18:11:31.782Z"
+      },
+      "notion_id": "1465",
+      "shcn": "4050",
+      "shelf": "40",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9d497c3069472dd69d"
+      },
+      "identifier": "dvah",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/dvah",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "402",
+      "container": "4020",
+      "label": "2m cat6 ethernet cable",
+      "last_updated": {
+        "$date": "2024-02-09T18:05:42.227Z"
+      },
+      "notion_id": "1408",
+      "shcn": "4020",
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {
@@ -1030,27 +1115,6 @@
       },
       "notion_id": "1387",
       "shcn": "4030",
-      "shelf": "40",
-      "type": "item"
-    },
-    {
-      "_id": {
-        "$oid": "64f11b9e497c3069472df6e4"
-      },
-      "identifier": "e4cr",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/e4cr",
-      "staged": "2024-01-07 13:56:33",
-      "bay": "402",
-      "container": "4020",
-      "label": "Apple 5V 3A USB-C Power Adapter",
-      "last_updated": {
-        "$date": "2024-02-07T13:48:34.317Z"
-      },
-      "notion_id": "1392",
-      "shcn": "4020",
       "shelf": "40",
       "type": "item"
     },
@@ -1138,6 +1202,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba2497c3069472ea23f"
+      },
+      "identifier": "ff7k",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ff7k",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "1m USB-A Apple Watch cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:33:40.057Z"
+      },
+      "notion_id": "1421",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba2497c3069472ec7d0"
       },
       "identifier": "frm4",
@@ -1217,22 +1302,22 @@
     },
     {
       "_id": {
-        "$oid": "64f11ba5497c3069472f2a65"
+        "$oid": "64f11ba4497c3069472f11ee"
       },
-      "identifier": "gh8s",
+      "identifier": "gb52",
       "target": "#",
       "class": "inventory",
       "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/gh8s",
-      "staged": "2024-01-30 20:10:32",
-      "bay": "403",
-      "container": "4030",
-      "label": "6ft USB-C to Lightning cable",
+      "permalink": "https://joeeasterly.github.io/go/gb52",
+      "staged": "2024-02-08 17:38:56",
+      "bay": "402",
+      "container": "4020",
+      "label": "Microsoft Bluetooth Mouse",
       "last_updated": {
-        "$date": "2024-02-06T21:17:50.174Z"
+        "$date": "2024-02-09T18:04:54.197Z"
       },
-      "notion_id": "1359",
-      "shcn": "4030",
+      "notion_id": "1464",
+      "shcn": "4020",
       "shelf": "40",
       "type": "item"
     },
@@ -1246,14 +1331,35 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/ghhb",
       "staged": "2024-01-19 11:39:27",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "label": "CyberPower 3-outlet surge protector with USB-A and USB-C",
       "last_updated": {
-        "$date": "2024-02-06T21:20:31.041Z"
+        "$date": "2024-02-09T18:22:16.137Z"
       },
       "notion_id": "1349",
-      "shcn": "4020",
+      "shcn": "4050",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f2ef8"
+      },
+      "identifier": "gjdc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gjdc",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "6ft USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:36:41.209Z"
+      },
+      "notion_id": "1416",
+      "shcn": "4030",
       "shelf": "40",
       "type": "item"
     },
@@ -1271,7 +1377,7 @@
       "container": "4020",
       "label": "DVE DSA-15P-05 Power Adapter",
       "last_updated": {
-        "$date": "2024-02-07T13:48:56.733Z"
+        "$date": "2024-02-09T18:05:19.026Z"
       },
       "notion_id": "1382",
       "shcn": "4020",
@@ -1319,27 +1425,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11ba6497c3069472f8617"
-      },
-      "identifier": "h86b",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/h86b",
-      "staged": "2024-01-19 11:39:27",
-      "bay": "402",
-      "container": "4020",
-      "label": "Amazon 9W USB power adapter",
-      "last_updated": {
-        "$date": "2024-02-06T21:19:53.867Z"
-      },
-      "notion_id": "1370",
-      "shcn": "4020",
-      "shelf": "40",
-      "type": "item"
-    },
-    {
-      "_id": {
         "$oid": "64f11ba6497c3069472f86e0"
       },
       "identifier": "h8cm",
@@ -1356,6 +1441,27 @@
       "shcn": "402",
       "shelf": "40",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472faeac"
+      },
+      "identifier": "hjaz",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hjaz",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "1m USB-A to USB-B Printer Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:36:06.208Z"
+      },
+      "notion_id": "1405",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {
@@ -1389,13 +1495,13 @@
       "permalink": "https://joeeasterly.github.io/go/hvre",
       "label": "5ft grounded power cable",
       "last_updated": {
-        "$date": "2024-02-05T21:09:08.575Z"
+        "$date": "2024-02-09T18:22:28.856Z"
       },
       "notion_id": "1328",
-      "shcn": "4020",
+      "shcn": "4050",
       "type": "item",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "shelf": "40"
     },
     {
@@ -1412,7 +1518,7 @@
       "container": "4020",
       "label": "BlackX USB 2.0 Enclosure Power Adapter",
       "last_updated": {
-        "$date": "2024-02-06T21:19:43.425Z"
+        "$date": "2024-02-09T18:33:33.648Z"
       },
       "notion_id": "1360",
       "shcn": "4020",
@@ -1430,13 +1536,13 @@
       "permalink": "https://joeeasterly.github.io/go/jxss",
       "label": "10ft white grounded power cable",
       "last_updated": {
-        "$date": "2024-02-05T21:11:31.369Z"
+        "$date": "2024-02-09T18:23:16.329Z"
       },
       "notion_id": "1330",
-      "shcn": "4020",
+      "shcn": "4050",
       "type": "item",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "shelf": "40"
     },
     {
@@ -1469,14 +1575,14 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/k6xv",
       "staged": "2024-01-19 11:39:27",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "label": "CyberPower 6-outlet surge protector with USB-A and USB-C",
       "last_updated": {
-        "$date": "2024-02-06T21:20:28.080Z"
+        "$date": "2024-02-09T18:22:12.728Z"
       },
       "notion_id": "1348",
-      "shcn": "4020",
+      "shcn": "4050",
       "shelf": "40",
       "type": "item"
     },
@@ -1557,7 +1663,7 @@
       "container": "4020",
       "label": "Logitech M-BJ58 830718 Optical Wheel Mouse",
       "last_updated": {
-        "$date": "2024-02-07T13:49:53.616Z"
+        "$date": "2024-02-09T18:02:44.135Z"
       },
       "notion_id": "1390",
       "shcn": "4020",
@@ -1599,7 +1705,7 @@
       "container": "4020",
       "label": "100ft Cat6 Ethernet Cable",
       "last_updated": {
-        "$date": "2024-02-07T13:53:17.181Z"
+        "$date": "2024-02-09T18:33:01.861Z"
       },
       "notion_id": "1376",
       "shcn": "4020",
@@ -1629,6 +1735,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bb1497c306947319d9a"
+      },
+      "identifier": "ne2e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ne2e",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "402",
+      "container": "4020",
+      "label": "Ableton Push Power Adapter",
+      "last_updated": {
+        "$date": "2024-02-09T18:32:19.648Z"
+      },
+      "notion_id": "1442",
+      "shcn": "4020",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb1497c30694731ad99"
       },
       "identifier": "nj2d",
@@ -1641,7 +1768,7 @@
       "container": "4020",
       "label": "DeWalt DCB1104 12v/20v 4A Charger",
       "last_updated": {
-        "$date": "2024-02-05T21:11:55.323Z"
+        "$date": "2024-02-09T18:06:07.629Z"
       },
       "notion_id": "1331",
       "shcn": "4020",
@@ -1671,6 +1798,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bb3497c30694731f96b"
+      },
+      "identifier": "p4zy",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/p4zy",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "5ft MIDI Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:40:39.628Z"
+      },
+      "notion_id": "1413",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb5497c3069473245fa"
       },
       "identifier": "pr5e",
@@ -1679,12 +1827,12 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/pr5e",
       "staged": "2024-01-30 20:10:32",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "last_updated": {
-        "$date": "2024-02-06T21:22:57.874Z"
+        "$date": "2024-02-09T18:38:02.044Z"
       },
-      "shcn": "4020",
+      "shcn": "4050",
       "shelf": "40",
       "label": "6ft unpolarized power cable",
       "notion_id": "1371",
@@ -1725,7 +1873,7 @@
       "container": "4020",
       "label": "Insta360 Bullet Time Cord",
       "last_updated": {
-        "$date": "2024-02-07T13:52:24.422Z"
+        "$date": "2024-02-09T18:33:15.538Z"
       },
       "notion_id": "1391",
       "shcn": "4020",
@@ -1795,27 +1943,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11bb9497c306947330123"
-      },
-      "identifier": "r6xq",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/r6xq",
-      "staged": "2024-01-19 11:39:27",
-      "bay": "402",
-      "container": "4020",
-      "label": "Apple 87w USB-C Power Adapter",
-      "last_updated": {
-        "$date": "2024-02-07T13:48:42.391Z"
-      },
-      "notion_id": "1389",
-      "shcn": "4020",
-      "shelf": "40",
-      "type": "item"
-    },
-    {
-      "_id": {
         "$oid": "64f11bb9497c306947331517"
       },
       "identifier": "rbxb",
@@ -1872,6 +1999,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bba497c306947333761"
+      },
+      "identifier": "rmgn",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rmgn",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "402",
+      "container": "4020",
+      "label": "Microsoft Surface Pro Charger 60W",
+      "last_updated": {
+        "$date": "2024-02-09T18:01:34.091Z"
+      },
+      "notion_id": "1463",
+      "shcn": "4020",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bba497c3069473344dd"
       },
       "identifier": "rqvh",
@@ -1881,13 +2029,13 @@
       "permalink": "https://joeeasterly.github.io/go/rqvh",
       "label": "E-JUN 12in polarized ungrounded switched cable",
       "last_updated": {
-        "$date": "2024-02-05T21:12:42.872Z"
+        "$date": "2024-02-09T18:22:49.131Z"
       },
       "notion_id": "1334",
-      "shcn": "4020",
+      "shcn": "4050",
       "type": "item",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "shelf": "40"
     },
     {
@@ -1924,6 +2072,27 @@
       },
       "shcn": "4031",
       "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbd497c30694733ae7d"
+      },
+      "identifier": "sj9h",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sj9h",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "Nintendo 2m HDMI Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:40:00.905Z"
+      },
+      "notion_id": "1402",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {
@@ -1969,25 +2138,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11bbf497c306947341005"
-      },
-      "identifier": "tans",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/tans",
-      "bay": "403",
-      "container": "4030",
-      "label": "usb-c to lightning cable, 2m",
-      "last_updated": {
-        "$date": "2023-10-22T16:54:54.211Z"
-      },
-      "notion_id": "527",
-      "shcn": "4030",
-      "shelf": "40"
-    },
-    {
-      "_id": {
         "$oid": "64f11bbf497c306947342166"
       },
       "identifier": "tezt",
@@ -2018,14 +2168,35 @@
       "permalink": "https://joeeasterly.github.io/go/tj7q",
       "label": "10ft White polarized ungrounded extension cable",
       "last_updated": {
-        "$date": "2024-02-05T21:12:29.644Z"
+        "$date": "2024-02-09T18:21:19.390Z"
       },
       "notion_id": "1332",
-      "shcn": "4020",
+      "shcn": "4050",
       "type": "item",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947343739"
+      },
+      "identifier": "tmfd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tmfd",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "0.5m USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:36:51.505Z"
+      },
+      "notion_id": "1418",
+      "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {
@@ -2045,6 +2216,27 @@
       },
       "notion_id": "1380",
       "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc0497c306947345045"
+      },
+      "identifier": "ttqs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ttqs",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "405",
+      "container": "4050",
+      "label": "Utilitech 0074523 8ft 3-outlet flat plug cord",
+      "last_updated": {
+        "$date": "2024-02-09T18:23:00.954Z"
+      },
+      "notion_id": "1403",
+      "shcn": "4050",
       "shelf": "40",
       "type": "item"
     },
@@ -2091,6 +2283,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bc1497c306947347f99"
+      },
+      "identifier": "u6jd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/u6jd",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "Hosa 1/4in Stereo to 1/4in Mono Audio Interconnect Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:39:34.478Z"
+      },
+      "notion_id": "1423",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc1497c30694734815b"
       },
       "identifier": "u6zf",
@@ -2104,6 +2317,27 @@
       },
       "notion_id": "535",
       "shcn": "4030",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734bb91"
+      },
+      "identifier": "unj5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/unj5",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4030",
+      "label": "5ft USB-A to USB-B Micro Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:36:22.238Z"
+      },
+      "notion_id": "1417",
+      "shcn": "4030",
+      "shelf": "40",
       "type": "item"
     },
     {
@@ -2124,27 +2358,6 @@
       "shcn": "404",
       "shelf": "40",
       "type": "storage"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bc3497c30694734e01a"
-      },
-      "identifier": "uxpe",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/uxpe",
-      "staged": "2024-01-19 11:39:27",
-      "bay": "402",
-      "container": "4020",
-      "label": "Apple 45W Magsafe v1 power adapter",
-      "last_updated": {
-        "$date": "2024-02-04T15:33:26.361Z"
-      },
-      "notion_id": "1284",
-      "shcn": "4020",
-      "shelf": "40",
-      "type": "item"
     },
     {
       "_id": {
@@ -2228,27 +2441,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11bc5497c306947354e30"
-      },
-      "identifier": "vt74",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/vt74",
-      "staged": "2024-01-30 20:10:32",
-      "bay": "402",
-      "container": "4020",
-      "label": "6ft Apple Power Adapter Cable",
-      "last_updated": {
-        "$date": "2024-02-06T21:20:50.522Z"
-      },
-      "notion_id": "1361",
-      "shcn": "4020",
-      "shelf": "40",
-      "type": "item"
-    },
-    {
-      "_id": {
         "$oid": "64f11bc6497c3069473559ad"
       },
       "identifier": "vw31",
@@ -2265,27 +2457,6 @@
       },
       "notion_id": "1394",
       "shcn": "4031",
-      "shelf": "40",
-      "type": "item"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bc6497c306947355dd9"
-      },
-      "identifier": "vx4d",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/vx4d",
-      "staged": "2024-01-07 13:56:33",
-      "bay": "402",
-      "container": "4020",
-      "label": "Amazon 9W USB power adapter",
-      "last_updated": {
-        "$date": "2024-02-06T21:20:08.843Z"
-      },
-      "notion_id": "1368",
-      "shcn": "4020",
       "shelf": "40",
       "type": "item"
     },
@@ -2341,14 +2512,14 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/wrnh",
       "staged": "2024-02-06 18:58:19",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "label": "14in polarized ungrounded extension cable",
       "last_updated": {
-        "$date": "2024-02-06T21:23:54.092Z"
+        "$date": "2024-02-09T18:36:22.387Z"
       },
       "notion_id": "1366",
-      "shcn": "4020",
+      "shcn": "4050",
       "shelf": "40",
       "type": "item"
     },
@@ -2405,13 +2576,13 @@
       "permalink": "https://joeeasterly.github.io/go/xa11",
       "label": "belkin 6-outlet power strip",
       "last_updated": {
-        "$date": "2024-02-05T21:13:25.708Z"
+        "$date": "2024-02-09T18:35:45.113Z"
       },
       "notion_id": "",
       "shelf": "40",
-      "bay": "402",
-      "container": "4020",
-      "shcn": "4020"
+      "bay": "405",
+      "container": "4050",
+      "shcn": "4050"
     },
     {
       "_id": {
@@ -2468,10 +2639,73 @@
       "container": "4030",
       "label": "5ft USB-A to USB-B Micro cable",
       "last_updated": {
-        "$date": "2024-02-05T21:07:19.951Z"
+        "$date": "2024-02-09T18:37:20.632Z"
       },
       "notion_id": "1341",
       "shcn": "4030",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c3069473633e6"
+      },
+      "identifier": "xkmt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xkmt",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "8ft Male to Female Mini-Stereo Extension Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:40:11.462Z"
+      },
+      "notion_id": "1425",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c3069473645ed"
+      },
+      "identifier": "xr51",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xr51",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "405",
+      "container": "4050",
+      "label": "6ft Unpolarized Ungrounded Power Cable",
+      "last_updated": {
+        "$date": "2024-02-09T18:22:35.652Z"
+      },
+      "notion_id": "1395",
+      "shcn": "4050",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcb497c306947364b62"
+      },
+      "identifier": "xsgp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xsgp",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "1.5m HDMI Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:41:03.056Z"
+      },
+      "notion_id": "1415",
+      "shcn": "4031",
       "shelf": "40",
       "type": "item"
     },
@@ -2549,35 +2783,14 @@
       "permalink": "https://joeeasterly.github.io/go/yhax",
       "label": "6ft right-angle grounded power cable",
       "last_updated": {
-        "$date": "2024-02-05T21:09:40.567Z"
+        "$date": "2024-02-09T18:26:27.393Z"
       },
       "notion_id": "1333",
-      "shcn": "4020",
+      "shcn": "4050",
       "type": "item",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "shelf": "40"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bcd497c30694736d255"
-      },
-      "identifier": "yu89",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/yu89",
-      "staged": "2024-01-30 20:10:32",
-      "bay": "403",
-      "container": "4030",
-      "label": "40in USB-C to Lightning Cable",
-      "last_updated": {
-        "$date": "2024-02-06T21:17:12.804Z"
-      },
-      "notion_id": "1352",
-      "shcn": "4030",
-      "shelf": "40",
-      "type": "item"
     },
     {
       "_id": {
@@ -2621,6 +2834,48 @@
     },
     {
       "_id": {
+        "$oid": "64f11bcd497c30694736da6e"
+      },
+      "identifier": "yw92",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yw92",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "RadioShack RG-6 18AWG CatV Coaxial Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:39:15.115Z"
+      },
+      "notion_id": "1412",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736df50"
+      },
+      "identifier": "yxg4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yxg4",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "402",
+      "container": "4020",
+      "label": "FSP Group FSP060-DBAE1 Power Adapter",
+      "last_updated": {
+        "$date": "2024-02-09T18:07:00.607Z"
+      },
+      "notion_id": "1404",
+      "shcn": "4020",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bce497c306947370e7d"
       },
       "identifier": "za9h",
@@ -2633,7 +2888,7 @@
       "container": "4030",
       "label": "0.5m USB-A to USB-B Micro 3.0 Cable",
       "last_updated": {
-        "$date": "2024-02-07T13:58:58.278Z"
+        "$date": "2024-02-08T18:34:34.516Z"
       },
       "notion_id": "1388",
       "shcn": "4030",
@@ -2690,14 +2945,14 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/zr3d",
       "staged": "2024-01-30 20:10:32",
-      "bay": "403",
-      "container": "4030",
+      "bay": "402",
+      "container": "4020",
       "label": "Nintendo USB-A to USB-C cable",
       "last_updated": {
-        "$date": "2024-02-05T21:06:44.483Z"
+        "$date": "2024-02-09T18:06:48.019Z"
       },
       "notion_id": "1335",
-      "shcn": "4030",
+      "shcn": "4020",
       "shelf": "40",
       "type": "item"
     },
@@ -2711,14 +2966,14 @@
       "allocated": true,
       "permalink": "https://joeeasterly.github.io/go/zs2d",
       "staged": "2024-01-07 13:56:33",
-      "bay": "402",
-      "container": "4020",
+      "bay": "405",
+      "container": "4050",
       "label": "GE E192912 PS-410B Power Strip",
       "last_updated": {
-        "$date": "2024-02-07T13:58:10.411Z"
+        "$date": "2024-02-09T18:21:26.179Z"
       },
       "notion_id": "1378",
-      "shcn": "4020",
+      "shcn": "4050",
       "shelf": "40",
       "type": "item"
     },

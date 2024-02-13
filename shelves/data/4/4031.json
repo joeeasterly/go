@@ -319,6 +319,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bb3497c30694731f96b"
+      },
+      "identifier": "p4zy",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/p4zy",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "5ft MIDI Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:40:39.628Z"
+      },
+      "notion_id": "1413",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb9497c30694732fc5c"
       },
       "identifier": "r5rg",
@@ -395,6 +416,27 @@
     },
     {
       "_id": {
+        "$oid": "64f11bbd497c30694733ae7d"
+      },
+      "identifier": "sj9h",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/sj9h",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "Nintendo 2m HDMI Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:40:00.905Z"
+      },
+      "notion_id": "1402",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc0497c306947345021"
       },
       "identifier": "ttpn",
@@ -433,6 +475,27 @@
       "notion_id": "545",
       "shcn": "4031",
       "shelf": "40"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc1497c306947347f99"
+      },
+      "identifier": "u6jd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/u6jd",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "Hosa 1/4in Stereo to 1/4in Mono Audio Interconnect Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:39:34.478Z"
+      },
+      "notion_id": "1423",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
     },
     {
       "_id": {
@@ -514,6 +577,69 @@
         "$date": "2024-01-31T19:52:00.969Z"
       },
       "notion_id": "1277",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bca497c3069473633e6"
+      },
+      "identifier": "xkmt",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xkmt",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "403",
+      "container": "4031",
+      "label": "8ft Male to Female Mini-Stereo Extension Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:40:11.462Z"
+      },
+      "notion_id": "1425",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcb497c306947364b62"
+      },
+      "identifier": "xsgp",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/xsgp",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "1.5m HDMI Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:41:03.056Z"
+      },
+      "notion_id": "1415",
+      "shcn": "4031",
+      "shelf": "40",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcd497c30694736da6e"
+      },
+      "identifier": "yw92",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yw92",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "403",
+      "container": "4031",
+      "label": "RadioShack RG-6 18AWG CatV Coaxial Cable",
+      "last_updated": {
+        "$date": "2024-02-08T18:39:15.115Z"
+      },
+      "notion_id": "1412",
       "shcn": "4031",
       "shelf": "40",
       "type": "item"

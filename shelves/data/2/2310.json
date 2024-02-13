@@ -1,20 +1,22 @@
 {
   "shelving_record": {
     "_id": {
-      "$oid": "64f11ba0497c3069472e62b1"
+      "$oid": "64f11bc2497c30694734a339"
     },
-    "identifier": "eyb5",
+    "identifier": "uffd",
     "target": "#",
     "class": "inventory",
     "allocated": true,
-    "permalink": "https://joeeasterly.github.io/go/eyb5",
+    "permalink": "https://joeeasterly.github.io/go/uffd",
+    "staged": "2024-01-19 11:39:27",
     "bay": "231",
-    "label": "bay 231",
+    "container": "2310",
+    "label": "Apple Accessories",
     "last_updated": {
-      "$date": "2023-12-24T21:10:48.092Z"
+      "$date": "2024-02-08T19:55:48.869Z"
     },
-    "notion_id": "159",
-    "shcn": "231",
+    "notion_id": "1451",
+    "shcn": "2310",
     "shelf": "23",
     "type": "storage"
   },
@@ -246,26 +248,6 @@
       },
       "notion_id": "1431",
       "shcn": "2310",
-      "shelf": "23",
-      "type": "item"
-    },
-    {
-      "_id": {
-        "$oid": "64f11ba1497c3069472e7777"
-      },
-      "identifier": "f4hb",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/f4hb",
-      "staged": "2023-10-23 14:22:43",
-      "bay": "231",
-      "label": "Focusrite Scarlertt 2i4",
-      "last_updated": {
-        "$date": "2024-01-07T20:15:31.585Z"
-      },
-      "notion_id": "936",
-      "shcn": "231",
       "shelf": "23",
       "type": "item"
     },
@@ -607,27 +589,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11bc2497c30694734a339"
-      },
-      "identifier": "uffd",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/uffd",
-      "staged": "2024-01-19 11:39:27",
-      "bay": "231",
-      "container": "2310",
-      "label": "Apple Accessories",
-      "last_updated": {
-        "$date": "2024-02-08T19:55:48.869Z"
-      },
-      "notion_id": "1451",
-      "shcn": "2310",
-      "shelf": "23",
-      "type": "storage"
-    },
-    {
-      "_id": {
         "$oid": "64f11bc3497c30694734e01a"
       },
       "identifier": "uxpe",
@@ -685,26 +646,6 @@
       },
       "shcn": "2310",
       "shelf": "23"
-    },
-    {
-      "_id": {
-        "$oid": "64f11bc8497c30694735d626"
-      },
-      "identifier": "wv6t",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/wv6t",
-      "staged": "2023-10-23 14:22:43",
-      "bay": "231",
-      "label": "Solix bi-color LED studio light",
-      "last_updated": {
-        "$date": "2024-01-06T17:12:00.252Z"
-      },
-      "notion_id": "719",
-      "shcn": "231",
-      "shelf": "23",
-      "type": "item"
     },
     {
       "_id": {

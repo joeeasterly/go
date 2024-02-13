@@ -20,6 +20,173 @@
   "shelf_contents": [
     {
       "_id": {
+        "$oid": "64f11b83497c30694728dcb8"
+      },
+      "identifier": "3wuc",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/3wuc",
+      "staged": "2024-02-08 17:38:56",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 1m Black USB-A to Lightning Cable",
+      "last_updated": {
+        "$date": "2024-02-09T10:48:35.314Z"
+      },
+      "notion_id": "1436",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b84497c306947292d75"
+      },
+      "identifier": "4j19",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/4j19",
+      "label": "Apple iMac Power Cable",
+      "last_updated": {
+        "$date": "2024-02-08T21:17:15.973Z"
+      },
+      "notion_id": "1345",
+      "shcn": "2310",
+      "type": "item",
+      "bay": "231",
+      "container": "2310",
+      "shelf": "23"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b88497c30694729d693"
+      },
+      "identifier": "5va7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/5va7",
+      "staged": "2024-02-08 17:38:56",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple A1450 Lightning to 30-pin Cable",
+      "last_updated": {
+        "$date": "2024-02-08T20:06:33.146Z"
+      },
+      "notion_id": "1443",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8a497c3069472a1a09"
+      },
+      "identifier": "6d5w",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6d5w",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "231",
+      "container": "2310",
+      "label": "40in USB-A to iPod 30-pin cable",
+      "last_updated": {
+        "$date": "2024-02-09T10:49:31.161Z"
+      },
+      "notion_id": "1351",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8d497c3069472aba90"
+      },
+      "identifier": "7na4",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/7na4",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple A1438 Lightning Digital AV Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T20:07:17.807Z"
+      },
+      "notion_id": "1433",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8e497c3069472b1179"
+      },
+      "identifier": "8b1d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8b1d",
+      "staged": "2024-02-08 17:38:56",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple A1362 30-pin SD Card Reader",
+      "last_updated": {
+        "$date": "2024-02-08T20:06:55.560Z"
+      },
+      "notion_id": "1445",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b8f497c3069472b39ec"
+      },
+      "identifier": "8n4z",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/8n4z",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple USB-C Power Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T20:07:42.457Z"
+      },
+      "notion_id": "1426",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b90497c3069472b6ec7"
+      },
+      "identifier": "92bu",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/92bu",
+      "staged": "2024-02-08 17:38:56",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 1m USB-A to Lightning Cable",
+      "last_updated": {
+        "$date": "2024-02-09T10:48:42.973Z"
+      },
+      "notion_id": "1439",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11b92497c3069472bc248"
       },
       "identifier": "9q7v",
@@ -36,6 +203,69 @@
       "shcn": "233",
       "shelf": "23",
       "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b93497c3069472bcba7"
+      },
+      "identifier": "9sju",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/9sju",
+      "staged": "2024-02-08 17:38:56",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 1m Black USB-A to Lightning Cable",
+      "last_updated": {
+        "$date": "2024-02-09T10:48:52.412Z"
+      },
+      "notion_id": "1435",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9e497c3069472df6e4"
+      },
+      "identifier": "e4cr",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/e4cr",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 5V 3A USB-C Power Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T21:07:11.266Z"
+      },
+      "notion_id": "1392",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11b9f497c3069472e2863"
+      },
+      "identifier": "egrq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/egrq",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple A1790 Male USB-C to Female Mini DisplayPort/Thunderbolt Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T20:06:47.901Z"
+      },
+      "notion_id": "1431",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
     },
     {
       "_id": {
@@ -78,6 +308,153 @@
     },
     {
       "_id": {
+        "$oid": "64f11ba5497c3069472f2a65"
+      },
+      "identifier": "gh8s",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gh8s",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "231",
+      "container": "2310",
+      "label": "6ft USB-C to Lightning cable",
+      "last_updated": {
+        "$date": "2024-02-09T10:56:27.021Z"
+      },
+      "notion_id": "1359",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba5497c3069472f3785"
+      },
+      "identifier": "gmhs",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/gmhs",
+      "staged": "2024-02-08 17:38:56",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 1m USB-A to Lightning Cable",
+      "last_updated": {
+        "$date": "2024-02-09T10:49:03.982Z"
+      },
+      "notion_id": "1434",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba7497c3069472fa223"
+      },
+      "identifier": "hf6q",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/hf6q",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 29W USB-C Power Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T21:13:09.746Z"
+      },
+      "notion_id": "1453",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bad497c30694730a453"
+      },
+      "identifier": "kfr7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/kfr7",
+      "staged": "2024-02-08 17:38:56",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 2m USB-C to Lightning Cable",
+      "last_updated": {
+        "$date": "2024-02-09T10:59:10.962Z"
+      },
+      "notion_id": "1456",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb0497c306947314c15"
+      },
+      "identifier": "msp9",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/msp9",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple HDMI to DVI Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T21:17:00.284Z"
+      },
+      "notion_id": "1455",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c306947329488"
+      },
+      "identifier": "qbsv",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qbsv",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 85W MagSafe 2 Power Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T20:04:55.379Z"
+      },
+      "notion_id": "1424",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb7497c30694732af71"
+      },
+      "identifier": "qjh5",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/qjh5",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "231",
+      "container": "2310",
+      "label": "1m USB-A Apple Watch cable",
+      "last_updated": {
+        "$date": "2024-02-09T10:56:46.713Z"
+      },
+      "notion_id": "1422",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bb8497c30694732d84d"
       },
       "identifier": "qvr1",
@@ -93,6 +470,90 @@
       },
       "notion_id": "928",
       "shcn": "230",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb8497c30694732f268"
+      },
+      "identifier": "r38v",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r38v",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "231",
+      "container": "2310",
+      "label": "6ft Apple Power Adapter Cable",
+      "last_updated": {
+        "$date": "2024-02-08T20:06:07.849Z"
+      },
+      "notion_id": "1430",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bb9497c306947330123"
+      },
+      "identifier": "r6xq",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/r6xq",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 87w USB-C Power Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T21:06:49.811Z"
+      },
+      "notion_id": "1389",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c306947332e9f"
+      },
+      "identifier": "rjak",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rjak",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "231",
+      "container": "2310",
+      "label": "1m USB-A to 30-Pin iPod Cable",
+      "last_updated": {
+        "$date": "2024-02-09T10:56:34.548Z"
+      },
+      "notion_id": "1411",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bba497c3069473333ce"
+      },
+      "identifier": "rkm2",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/rkm2",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple A1835 5W USB Power Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T20:02:29.515Z"
+      },
+      "notion_id": "1438",
+      "shcn": "2310",
       "shelf": "23",
       "type": "item"
     },
@@ -117,6 +578,153 @@
     },
     {
       "_id": {
+        "$oid": "64f11bbc497c306947338221"
+      },
+      "identifier": "s76n",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/s76n",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "231",
+      "container": "2310",
+      "label": "6ft Apple Power Adapter Cable",
+      "last_updated": {
+        "$date": "2024-02-08T20:05:52.629Z"
+      },
+      "notion_id": "1428",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbe497c30694733f054"
+      },
+      "identifier": "t2r8",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/t2r8",
+      "staged": "2024-02-08 17:38:56",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple AirPods Pro v1 Headphones",
+      "last_updated": {
+        "$date": "2024-02-08T21:10:56.567Z"
+      },
+      "notion_id": "1437",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947340de4"
+      },
+      "identifier": "ta4r",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ta4r",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 85W Magsafe v1 Power Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T20:07:34.364Z"
+      },
+      "notion_id": "1407",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947341a93"
+      },
+      "identifier": "tda7",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/tda7",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "231",
+      "container": "2310",
+      "label": "6ft Apple Power Adapter Cable",
+      "last_updated": {
+        "$date": "2024-02-08T20:05:18.913Z"
+      },
+      "notion_id": "1429",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bbf497c306947342c0b"
+      },
+      "identifier": "thny",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/thny",
+      "staged": "2024-02-08 17:38:56",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 30-pin Digital AV Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T20:07:01.334Z"
+      },
+      "notion_id": "1444",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc2497c30694734a339"
+      },
+      "identifier": "uffd",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uffd",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple Accessories",
+      "last_updated": {
+        "$date": "2024-02-08T19:55:48.869Z"
+      },
+      "notion_id": "1451",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "storage"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc3497c30694734e01a"
+      },
+      "identifier": "uxpe",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/uxpe",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple 45W Magsafe v1 power adapter",
+      "last_updated": {
+        "$date": "2024-02-08T21:07:56.259Z"
+      },
+      "notion_id": "1284",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc5497c306947354902"
       },
       "identifier": "vrwp",
@@ -136,6 +744,45 @@
     },
     {
       "_id": {
+        "$oid": "64f11bc5497c306947354e30"
+      },
+      "identifier": "vt74",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vt74",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "231",
+      "container": "2310",
+      "label": "6ft Apple Power Adapter Cable",
+      "last_updated": {
+        "$date": "2024-02-08T20:14:58.414Z"
+      },
+      "notion_id": "1361",
+      "shcn": "2310",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc8497c30694735c23a"
+      },
+      "identifier": "wq7e",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/wq7e",
+      "staged": "2024-02-06 18:58:19",
+      "bay": "231",
+      "container": "2310",
+      "last_updated": {
+        "$date": "2024-02-08T20:05:38.315Z"
+      },
+      "shcn": "2310",
+      "shelf": "23"
+    },
+    {
+      "_id": {
         "$oid": "64f11bc8497c30694735d626"
       },
       "identifier": "wv6t",
@@ -151,6 +798,27 @@
       },
       "notion_id": "719",
       "shcn": "231",
+      "shelf": "23",
+      "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bcc497c30694736a43c"
+      },
+      "identifier": "yfqg",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/yfqg",
+      "staged": "2024-01-30 20:10:32",
+      "bay": "231",
+      "container": "2310",
+      "label": "Apple A1438 Lightning Digital AV Adapter",
+      "last_updated": {
+        "$date": "2024-02-08T20:07:09.699Z"
+      },
+      "notion_id": "1432",
+      "shcn": "2310",
       "shelf": "23",
       "type": "item"
     }

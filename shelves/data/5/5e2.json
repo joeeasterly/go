@@ -407,30 +407,6 @@
     },
     {
       "_id": {
-        "$oid": "64f11bc4497c306947350d6b"
-      },
-      "identifier": "v9zy",
-      "target": "#",
-      "class": "inventory",
-      "allocated": true,
-      "permalink": "https://joeeasterly.github.io/go/v9zy",
-      "staged": "2024-01-07 13:56:33",
-      "bay": "5E2",
-      "expires": "2024-07-06 00:00:00",
-      "label": "Wegmans Spicy Kimchi 14oz",
-      "last_updated": {
-        "$date": "2024-01-24T16:23:38.454Z"
-      },
-      "notion_id": "1158",
-      "percentage": "100",
-      "quantity": "1",
-      "shcn": "5E2",
-      "shelf": "5E",
-      "type": "consumable",
-      "upc": "077890484166"
-    },
-    {
-      "_id": {
         "$oid": "64f11bc9497c30694736106c"
       },
       "identifier": "xarz",

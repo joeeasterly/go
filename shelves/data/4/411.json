@@ -59,6 +59,28 @@
     },
     {
       "_id": {
+        "$oid": "64f11b8b497c3069472a56eb"
+      },
+      "identifier": "6vcy",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/6vcy",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "4112",
+      "label": "Amazon 9W USB power adapter",
+      "last_updated": {
+        "$date": "2024-02-09T18:42:25.551Z"
+      },
+      "notion_id": "1369",
+      "shcn": "41120",
+      "shelf": "41",
+      "type": "item",
+      "slot": "41120"
+    },
+    {
+      "_id": {
         "$oid": "64f11b90497c3069472b481e"
       },
       "identifier": "8rpj",
@@ -369,6 +391,28 @@
     },
     {
       "_id": {
+        "$oid": "64f11b9d497c3069472dc9f9"
+      },
+      "identifier": "ds5d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/ds5d",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "4112",
+      "label": "Samsung USB Travel Adapter 5V 2A",
+      "last_updated": {
+        "$date": "2024-02-09T18:41:29.984Z"
+      },
+      "notion_id": "1469",
+      "shcn": "41120",
+      "shelf": "41",
+      "slot": "41120",
+      "type": "item"
+    },
+    {
+      "_id": {
         "$oid": "64f11ba2497c3069472eb0f8"
       },
       "identifier": "fjwc",
@@ -461,6 +505,28 @@
       "bay": "411",
       "shcn": "411",
       "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11ba6497c3069472f8617"
+      },
+      "identifier": "h86b",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/h86b",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "4112",
+      "label": "Amazon 9W USB power adapter",
+      "last_updated": {
+        "$date": "2024-02-09T18:34:05.817Z"
+      },
+      "notion_id": "1370",
+      "shcn": "41120",
+      "shelf": "41",
+      "type": "item",
+      "slot": "41120"
     },
     {
       "_id": {
@@ -575,6 +641,28 @@
       },
       "shcn": "411",
       "shelf": "41"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bae497c30694730ee27"
+      },
+      "identifier": "m26u",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/m26u",
+      "staged": "2024-01-19 11:39:27",
+      "bay": "411",
+      "container": "4112",
+      "label": "Hoioto USB Power Adapter 5V 2A",
+      "last_updated": {
+        "$date": "2024-02-09T18:40:16.262Z"
+      },
+      "notion_id": "1468",
+      "shcn": "41120",
+      "shelf": "41",
+      "slot": "41120",
+      "type": "item"
     },
     {
       "_id": {
@@ -795,6 +883,28 @@
       "bay": "411",
       "shcn": "411",
       "type": "item"
+    },
+    {
+      "_id": {
+        "$oid": "64f11bc6497c306947355dd9"
+      },
+      "identifier": "vx4d",
+      "target": "#",
+      "class": "inventory",
+      "allocated": true,
+      "permalink": "https://joeeasterly.github.io/go/vx4d",
+      "staged": "2024-01-07 13:56:33",
+      "bay": "411",
+      "container": "4112",
+      "label": "Amazon 9W USB power adapter",
+      "last_updated": {
+        "$date": "2024-02-09T18:41:52.631Z"
+      },
+      "notion_id": "1368",
+      "shcn": "41120",
+      "shelf": "41",
+      "type": "item",
+      "slot": "41120"
     },
     {
       "_id": {
