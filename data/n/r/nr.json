@@ -2500,8 +2500,20 @@
         "identifier": "nras",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nras"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nras",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2026-12-31 00:00:00",
+        "label": "Bissell Pet Pro Upright Cleaner 48oz",
+        "last_updated": "2024-02-12 20:22:45.791000",
+        "notion_id": "1550",
+        "percentage": "40",
+        "quantity": "1",
+        "shcn": "5N1",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "011120241846",
+        "bay": "5N1"
     },
     {
         "_id": "64f11bb2497c30694731c6a6",
