@@ -3132,8 +3132,20 @@
         "identifier": "vpd8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vpd8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vpd8",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2029-12-31 00:00:00",
+        "label": "Lysol Disinfectant Spray 19oz",
+        "last_updated": "2024-02-12 20:20:11.145000",
+        "notion_id": "1540",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "5N2",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "019200793292",
+        "bay": "5N2"
     },
     {
         "_id": "64f11bc5497c306947353ef5",
