@@ -1772,8 +1772,20 @@
         "identifier": "nd7x",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nd7x"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nd7x",
+        "staged": "2024-02-12 10:30:59",
+        "bay": "5K0",
+        "expires": "2029-12-31 00:00:00",
+        "label": "Tropiclean Papaya Coconut Pet Shampoo 1gal",
+        "last_updated": "2024-02-12 20:18:37.222000",
+        "notion_id": "1554",
+        "percentage": "80",
+        "quantity": "1",
+        "shcn": "5K0",
+        "shelf": "5K",
+        "type": "consumable",
+        "upc": "645095060135"
     },
     {
         "_id": "64f11bb1497c306947319a4b",
