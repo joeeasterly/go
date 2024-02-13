@@ -1513,14 +1513,15 @@
         "staged": "2024-02-12 10:30:59",
         "expires": "2026-12-31 00:00:00",
         "label": "Drano Dual Force Clog Cleaner 17oz",
-        "last_updated": "2024-02-12 17:46:13.838000",
+        "last_updated": "2024-02-12 20:29:33.177000",
         "notion_id": "1535",
         "percentage": "100",
         "quantity": "1",
-        "shcn": "5N",
+        "shcn": "5N0",
         "shelf": "5N",
         "type": "consumable",
-        "upc": "019800127381"
+        "upc": "019800127381",
+        "bay": "5N0"
     },
     {
         "_id": "64f11bc6497c30694735762a",
