@@ -2388,8 +2388,19 @@
         "identifier": "nma8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nma8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nma8",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2023-07-31 00:00:00",
+        "label": "Niblack Pure Orange Extract 4oz",
+        "last_updated": "2024-02-12 20:12:16.440000",
+        "notion_id": "1551",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "075974134808"
     },
     {
         "_id": "64f11bb2497c30694731b695",
