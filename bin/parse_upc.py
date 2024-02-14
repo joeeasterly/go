@@ -1,6 +1,6 @@
 def parse_upc(existing_upc = None):
     import pymongo
-    from library.connect_mungo import connect_mungo
+    from connect_mungo import connect_mungo
     permitted_characters = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
     upc_prompt = "Enter UPC: "
     upc, upc_label = "", ""

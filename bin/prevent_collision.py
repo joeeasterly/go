@@ -1,5 +1,5 @@
 import pymongo
-from library.connect_mungo import connect_mungo
+from connect_mungo import connect_mungo
 def prevent_collision(shcn):
     # make sure that the SHCN is not already an allocated mungo id
     shcn = shcn.replace("https://joeeasterly.github.io/go/", "")

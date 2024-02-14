@@ -1,5 +1,5 @@
-from library.get_last_record import get_last_record
-from library.get_record_by_identifier import get_record_by_identifier
+from get_last_record import get_last_record
+from get_record_by_identifier import get_record_by_identifier
 
 def parse_shcn_input(existing_shcn=None):
     last_shcn = get_last_record().get('shcn', None)

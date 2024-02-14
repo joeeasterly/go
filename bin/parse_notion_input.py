@@ -1,4 +1,4 @@
-from library.allocate_notion_id import allocate_notion_id
+from bin.allocate_notion_id import allocate_notion_id
 import time
 
 def parse_notion_input(mungo_notion=""):

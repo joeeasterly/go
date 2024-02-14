@@ -1,10 +1,10 @@
 import pymongo
 import sys
-from library.print_inventory import print_inventory
-from library.parse_qrcode_input import parse_qrcode_input
-from library.get_record_by_identifier import get_record_by_identifier
-from library.get_key_press import get_key_press
-from library.connect_mungo import connect_mungo
+from print_inventory import print_inventory
+from parse_qrcode_input import parse_qrcode_input
+from get_record_by_identifier import get_record_by_identifier
+from get_key_press import get_key_press
+from connect_mungo import connect_mungo
 from pprint import pprint
 def search_records():
     print("Search Records:")

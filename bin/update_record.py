@@ -1,16 +1,16 @@
 import pymongo
 from datetime import datetime
 import time
-from library.link_notion_inventory import link_notion_inventory
-from library.print_inventory import print_inventory
-from library.parse_qrcode_input import parse_qrcode_input
-from library.get_record_by_identifier import get_record_by_identifier
-from library.update_record_by_identifier import update_record_by_identifier
-from library.get_last_record import get_last_record
-from library.allocate_notion_id import allocate_notion_id
-from library.get_notion_record import get_notion_record
-from library.parse_notion_input import parse_notion_input
-from library.parse_shcn_input import parse_shcn_input
+from link_notion_inventory import link_notion_inventory
+from print_inventory import print_inventory
+from parse_qrcode_input import parse_qrcode_input
+from get_record_by_identifier import get_record_by_identifier
+from update_record_by_identifier import update_record_by_identifier
+from get_last_record import get_last_record
+from allocate_notion_id import allocate_notion_id
+from get_notion_record import get_notion_record
+from parse_notion_input import parse_notion_input
+from parse_shcn_input import parse_shcn_input
 
 def update_record():
     # Locate the record in mungo to update

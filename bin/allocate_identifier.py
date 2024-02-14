@@ -1,5 +1,5 @@
 import pymongo
-from library.connect_mungo import connect_mungo
+from connect_mungo import connect_mungo
 
 def allocate_identifier():
 # Connect to mongodb

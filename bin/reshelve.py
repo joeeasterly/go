@@ -4,12 +4,12 @@ This script is used to reshelve items in an inventory system. It prompts the use
 Functions:
 - audit_items(shcn, shelf, bay, container, slot): Prompts the user to scan a QR code and updates the item's record in the inventory system with the new location information.
 """
-from library.parse_shcn_input import parse_shcn_input
-from library.parse_qrcode_input import parse_qrcode_input
-from library.update_record_by_identifier import update_record_by_identifier
-from library.get_record_by_identifier import get_record_by_identifier
-from library.reshelve_notion_inventory import reshelve_notion_inventory
-from library.print_inventory import print_inventory
+from parse_shcn_input import parse_shcn_input
+from parse_qrcode_input import parse_qrcode_input
+from update_record_by_identifier import update_record_by_identifier
+from get_record_by_identifier import get_record_by_identifier
+from reshelve_notion_inventory import reshelve_notion_inventory
+from print_inventory import print_inventory
 from datetime import datetime
 
 def reshelve_record():

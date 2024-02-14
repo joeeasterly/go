@@ -4,7 +4,9 @@ from datetime import datetime
 from library.link_notion_consumable import link_notion_consumable  # Import the function
 from library.print_inventory import print_inventory
 from library.connect_mungo import connect_mungo
-from library.parse_date import parse_date
+from library.get_last_record import get_last_record
+from library.get_mongodb_date_as_string import get_mongodb_date_as_string
+from library.parse_date_input import parse_date_input
 from library.parse_qrcode_input import parse_qrcode_input
 from library.parse_percentage import parse_percentage
 from library.parse_quantity import parse_quantity
@@ -22,6 +24,7 @@ def update_consumable():
     
     filter_criteria = {"identifier": identifier}
     existing_record = collection.find_one(filter_criteria)
+    last_record = get_last_record()
     if existing_record:
         print_inventory(existing_record)
         if existing_record.get("upc"):
@@ -39,7 +42,7 @@ def update_consumable():
         else:
             default_label = None
         label = parse_label(default_label)
-        expires = parse_date(message = "Expiration Date: ")
+        expires = parse_date_input(existing_record, last_record, "expires", message = "Expiration Date: ")
         percentage = parse_percentage()
         shcn, shelf, bay, container, slot, analysis = parse_shcn_input(existing_shcn=existing_record.get("shcn"))
         quantity = parse_quantity(existing_quantity=existing_record.get("quantity"))

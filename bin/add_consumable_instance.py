@@ -1,17 +1,17 @@
 import pymongo
 from pprint import pprint
 from datetime import datetime
-from library.link_notion_consumable import link_notion_consumable  # Import the function
-from library.print_inventory import print_inventory
-from library.connect_mungo import connect_mungo
-from library.parse_date import parse_date
-from library.parse_qrcode_input import parse_qrcode_input
-from library.parse_percentage import parse_percentage
-from library.parse_quantity import parse_quantity
-from library.parse_label import parse_label
-from library.parse_upc import parse_upc
-from library.parse_notion_input import parse_notion_input
-from library.parse_shcn_input import parse_shcn_input
+from link_notion_consumable import link_notion_consumable  # Import the function
+from print_inventory import print_inventory
+from connect_mungo import connect_mungo
+from parse_date_input import parse_date_input
+from parse_qrcode_input import parse_qrcode_input
+from parse_percentage import parse_percentage
+from parse_quantity import parse_quantity
+from parse_label import parse_label
+from parse_upc import parse_upc
+from parse_notion_input import parse_notion_input
+from parse_shcn_input import parse_shcn_input
 def add_consumable_instance():
     print("~Add Consumable Instance~")
     print("Enter source record:")

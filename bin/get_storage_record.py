@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import sys
 import pymongo
-from library.connect_mungo import connect_mungo
+from connect_mungo import connect_mungo
 def get_storage_record(shcn):
     
     collection = connect_mungo()

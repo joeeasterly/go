@@ -1,14 +1,14 @@
 from datetime import datetime
-from library.link_notion_inventory import link_notion_inventory
-from library.get_notion_record import get_notion_record
-from library.allocate_notion_id import allocate_notion_id
-from library.parse_notion_input import parse_notion_input
-from library.parse_qrcode_input import parse_qrcode_input
-from library.allocate_identifier import allocate_identifier
-from library.update_record_by_identifier import update_record_by_identifier
-from library.get_record_by_identifier import get_record_by_identifier
-from library.parse_shcn_input import parse_shcn_input
-from library.print_inventory import print_inventory
+from link_notion_inventory import link_notion_inventory
+from get_notion_record import get_notion_record
+from allocate_notion_id import allocate_notion_id
+from parse_notion_input import parse_notion_input
+from parse_qrcode_input import parse_qrcode_input
+from allocate_identifier import allocate_identifier
+from update_record_by_identifier import update_record_by_identifier
+from get_record_by_identifier import get_record_by_identifier
+from parse_shcn_input import parse_shcn_input
+from print_inventory import print_inventory
 import pymongo
 from pprint import pprint
 

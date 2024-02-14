@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 from datetime import datetime, timedelta
-from library.connect_mungo import connect_mungo
+from connect_mungo import connect_mungo
 
 # Function to get today's start and end datetime objects
 def get_today_start_end():
