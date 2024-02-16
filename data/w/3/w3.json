@@ -4324,8 +4324,19 @@
         "identifier": "w3hw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/w3hw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/w3hw",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2029-12-31T00:00:00",
+        "label": "Aura Cacia Lavender Essential Oil 0.5oz",
+        "last_updated": "2024-02-14 16:25:39.729000",
+        "notion_id": "1567",
+        "percentage": "80",
+        "quantity": "1",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "consumable",
+        "upc": "051381911232"
     },
     {
         "_id": "64f11bc6497c30694735738a",
