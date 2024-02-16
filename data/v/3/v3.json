@@ -2084,8 +2084,19 @@
         "identifier": "v395",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/v395"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/v395",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2029-12-31T00:00:00",
+        "label": "Yankee Candle Midsummers Night Diffuser Blend 0.5oz",
+        "last_updated": "2024-02-16 12:26:58.955000",
+        "notion_id": "1571",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11bc4497c30694734f272",
