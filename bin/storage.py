@@ -1,14 +1,10 @@
 import pymongo
 from datetime import datetime
-from connect_mungo import connect_mungo
-from parse_shcn_input import parse_shcn_input
-from parse_qrcode_input import parse_qrcode_input
-from parse_notion_input import parse_notion_input
-from allocate_identifier import allocate_identifier
-from get_record_by_identifier import get_record_by_identifier
+from lib_mungo import connect_mungo, get_record_by_identifier, allocate_identifier
+from lib_shcn import parse_shcn_input
+from lib_notion import allocate_notion_id, link_notion_inventory, parse_notion_input
+from lib_identifier import parse_qrcode_input
 from print_inventory import print_inventory
-from allocate_notion_id import allocate_notion_id
-from link_notion_inventory import link_notion_inventory
 
 
 def add_storage():

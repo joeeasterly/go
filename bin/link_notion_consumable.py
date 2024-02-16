@@ -69,6 +69,7 @@ def link_notion_consumable(notion_id, mungo_id, shcn, mungo_label, expires, upc,
                 json=update_data
             )
             print(f'response: {update_response.status_code}')
+            pprint(update_response.json())
             if update_response.status_code == 200:
                 return "Notion record updated successfully: https://notion.so/inv-" + notion_id
             else:

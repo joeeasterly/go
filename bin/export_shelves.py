@@ -5,9 +5,8 @@ import re
 from datetime import datetime
 from bson import json_util
 import subprocess  # Import subprocess
-from connect_mungo import connect_mungo
-from parse_shcn_input import parse_shcn_input
-from get_storage_record import get_storage_record
+from lib_mungo import connect_mungo, get_storage_record
+from lib_shcn import parse_shcn_input
 
 collection = connect_mungo()
 

@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 from datetime import datetime
 import csv
-from connect_mungo import connect_mungo
+from lib_mungo import connect_mungo
 
 try:
     # Get the number of records to allocate from user input and validate

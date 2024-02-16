@@ -1,16 +1,12 @@
 from datetime import datetime
-from link_notion_inventory import link_notion_inventory
-from get_notion_record import get_notion_record
-from allocate_notion_id import allocate_notion_id
-from parse_notion_input import parse_notion_input
-from parse_qrcode_input import parse_qrcode_input
-from allocate_identifier import allocate_identifier
-from update_record_by_identifier import update_record_by_identifier
-from get_record_by_identifier import get_record_by_identifier
-from parse_shcn_input import parse_shcn_input
-from print_inventory import print_inventory
-import pymongo
 from pprint import pprint
+import pymongo
+from lib_notion import allocate_notion_id, link_notion_inventory, get_notion_record, parse_notion_input
+from lib_mungo import allocate_identifier, get_record_by_identifier
+from lib_shcn import parse_shcn_input
+from lib_identifier import parse_qrcode_input
+from update_record_by_identifier import update_record_by_identifier
+from print_inventory import print_inventory
 
 def create_record():
     print("Create Record:")

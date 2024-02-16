@@ -2,7 +2,7 @@
 import sys
 import pymongo
 from pprint import pprint
-from connect_mungo import connect_mungo
+from lib_mungo import connect_mungo
 def update_record_by_identifier(update_fields, unset_fields=None):
     """
     Update a record in mongodb://mungo/go/link by identifier, using both update and unset fields.

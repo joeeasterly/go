@@ -1,9 +1,9 @@
 import pymongo
 from datetime import datetime
-from archive_notion_page import archive_notion_page
+from lib_notion import archive_notion_page
 from print_inventory import print_inventory
-from connect_mungo import connect_mungo
-from parse_qrcode_input import parse_qrcode_input
+from lib_mungo import connect_mungo
+from lib_identifier import parse_qrcode_input
 def delete_consumable():
     print("~Delete Consumable~")
     identifier = parse_qrcode_input()

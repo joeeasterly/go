@@ -1,24 +1,36 @@
 from datetime import datetime
+from datetime import datetime
 from dateparser import parse
+def read_mongodb_date(record, field):
+    """Reads a date from a MongoDB record and returns it as an ISO formatted string.
 
-def get_mongodb_date_as_string(record, field):
-    mongodb_date = record.get(field)
-    if mongodb_date and isinstance(mongodb_date, dict):  # Check for nested structure
-        date_str = mongodb_date.get("$date")
-        if date_str:
-            dt = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")  # Parse ISO Format
-            return dt.isoformat()
-        else:
-            return None
-    else:
-        return None
+    Args:
+        record: A MongoDB record.
+        field: The name of the field containing the date.
+
+    Returns:
+        The date as an ISO formatted string, or None if the date is not found or is not
+        a valid date.
+    """
+
+    date_value = record.get(field)
+    if date_value:
+        if isinstance(date_value, datetime):  # Handle datetime objects directly
+            return date_value.isoformat()
+        elif isinstance(date_value, str):  # Handle date strings 
+            try:
+                dt = datetime.strptime(date_value, "%Y-%m-%d %H:%M:%S")  # Adjust format if needed
+                return dt.isoformat()
+            except ValueError:
+                pass  # Ignore invalid date strings
+    return None
 
 def parse_date_input(existing_record, last_record, date_field, message=None):
     if message is None:
         message = "Enter date (YYYYMMDD or + to use last record's date, leave blank to use existing date): "
     
-    existing_date = get_mongodb_date_as_string(existing_record, date_field)
-    last_date = get_mongodb_date_as_string(last_record, date_field)
+    existing_date = read_mongodb_date(existing_record, date_field)
+    last_date = read_mongodb_date(last_record, date_field)
 
     input_date = input(message).strip()  # Strip to remove leading/trailing whitespace
 

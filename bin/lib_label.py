@@ -1,4 +1,4 @@
-from get_last_record import get_last_record
+from lib_mungo import get_last_record
 def parse_label(existing_label = None):
     last_label = get_last_record().get('label', None)
     permitted_characters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j",

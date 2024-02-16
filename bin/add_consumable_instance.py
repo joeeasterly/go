@@ -3,15 +3,14 @@ from pprint import pprint
 from datetime import datetime
 from link_notion_consumable import link_notion_consumable  # Import the function
 from print_inventory import print_inventory
-from connect_mungo import connect_mungo
-from parse_date_input import parse_date_input
-from parse_qrcode_input import parse_qrcode_input
-from parse_percentage import parse_percentage
-from parse_quantity import parse_quantity
-from parse_label import parse_label
+from lib_date import parse_date_input
+from lib_mungo import connect_mungo
+from lib_notion import parse_notion_input
+from lib_shcn import parse_shcn_input
+from lib_label import parse_label
+from lib_identifier import parse_qrcode_input
+from lib_consumable import parse_percentage, parse_quantity
 from parse_upc import parse_upc
-from parse_notion_input import parse_notion_input
-from parse_shcn_input import parse_shcn_input
 def add_consumable_instance():
     print("~Add Consumable Instance~")
     print("Enter source record:")

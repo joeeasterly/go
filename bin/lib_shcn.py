@@ -1,12 +1,13 @@
-from get_last_record import get_last_record
-from get_record_by_identifier import get_record_by_identifier
+from lib_mungo import get_record_by_identifier
 
-def parse_shcn_input(existing_shcn=None):
-    last_shcn = get_last_record().get('shcn', None)
+def parse_shcn_input(existing_shcn=None, last_record=None, message=None):
+    last_shcn = last_record.get('shcn', None)
     shcn = shelf = bay = container = slot = analysis = None
-    
-    shcn_prompt = f"Enter SHCN [{existing_shcn}]: " if existing_shcn else "Enter SHCN: "
-    shcn = input(shcn_prompt)  # Keep original case for URLs
+    if message is not None:
+        shcn_prompt = message
+    else:
+        shcn_prompt = f"Enter SHCN [{existing_shcn}]: " if existing_shcn else "Enter SHCN: "
+    shcn = input(shcn_prompt)
     
     if not shcn:
         shcn = existing_shcn
