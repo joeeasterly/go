@@ -3892,8 +3892,18 @@
         "identifier": "n6g7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/n6g7"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/n6g7",
+        "staged": "2024-02-12 10:30:59",
+        "label": "Tide Pods 39ct",
+        "last_updated": "2024-02-14 16:31:33.433000",
+        "notion_id": "1562",
+        "percentage": "100",
+        "quantity": "39",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "item",
+        "upc": "none"
     },
     {
         "_id": "64f11bb1497c306947317f54",
