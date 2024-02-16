@@ -4309,8 +4309,19 @@
         "identifier": "r2ht",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/r2ht"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/r2ht",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2022-02-28T00:00:00",
+        "label": "LorAnn Bergamot Essential Oil 0.33oz",
+        "last_updated": "2024-02-16 12:36:32.050000",
+        "notion_id": "1575",
+        "percentage": "75",
+        "quantity": "1",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "consumable",
+        "upc": "023535151061"
     },
     {
         "_id": "64f11bb8497c30694732ef87",
