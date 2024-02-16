@@ -100,8 +100,19 @@
         "identifier": "vd1d",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vd1d"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vd1d",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2022-11-30T00:00:00",
+        "label": "LorAnn Tea Tree Essential Oil 0.33oz",
+        "last_updated": "2024-02-16 12:14:53.707000",
+        "notion_id": "1570",
+        "percentage": "60",
+        "quantity": "1",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "consumable",
+        "upc": "023535151757"
     },
     {
         "_id": "64f11bc5497c30694735197a",
