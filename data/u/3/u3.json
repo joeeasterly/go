@@ -797,7 +797,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/u344"
+        "permalink": "https://joeeasterly.github.io/go/u344",
+        "staged": "2024-01-30 20:10:32"
     },
     {
         "_id": "64f11bc1497c3069473471d1",
@@ -6620,8 +6621,19 @@
         "identifier": "u3tv",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/u3tv"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/u3tv",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2022-06-30T00:00:00",
+        "label": "LorAnn Eucalyptus Essential Oil 0.33oz",
+        "last_updated": "2024-02-16 12:34:48.125000",
+        "notion_id": "1574",
+        "percentage": "80",
+        "quantity": "1",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "consumable",
+        "upc": "023535151153"
     },
     {
         "_id": "64f11bc1497c3069473474a9",
