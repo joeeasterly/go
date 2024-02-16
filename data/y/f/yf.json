@@ -956,9 +956,16 @@
         "identifier": "yf4r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/yf4r",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19 11:39:27",
+        "bay": "380",
+        "label": "UR Goergen Institute Commemorative Throw Blanket",
+        "last_updated": "2024-02-14 20:12:58.243000",
+        "notion_id": "1568",
+        "shcn": "380",
+        "shelf": "38",
+        "type": "item"
     },
     {
         "_id": "64f11bcc497c30694736a1e5",
@@ -4014,7 +4021,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yfgp"
+        "permalink": "https://joeeasterly.github.io/go/yfgp",
+        "staged": "2024-02-12 10:30:59"
     },
     {
         "_id": "64f11bcc497c30694736a363",
