@@ -5180,8 +5180,19 @@
         "identifier": "vfn8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vfn8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vfn8",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2022-01-31T00:00:00",
+        "label": "LorAnn Cedarwood Essential Oil",
+        "last_updated": "2024-02-15 18:13:45.891000",
+        "notion_id": "1569",
+        "percentage": "80",
+        "quantity": "1",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "consumable",
+        "upc": "023535151122"
     },
     {
         "_id": "64f11bc5497c3069473523f5",
