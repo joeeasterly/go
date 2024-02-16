@@ -1196,8 +1196,18 @@
         "identifier": "kg5p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kg5p"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/kg5p",
+        "staged": "2024-02-12 10:30:59",
+        "label": "Snuggle Spring Burst Fabric Softener 95oz",
+        "last_updated": "2024-02-14 16:31:09.077000",
+        "notion_id": "1563",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "item",
+        "upc": "072613466580"
     },
     {
         "_id": "64f11bad497c30694730a603",
