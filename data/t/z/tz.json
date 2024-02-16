@@ -3069,7 +3069,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tzcx"
+        "permalink": "https://joeeasterly.github.io/go/tzcx",
+        "staged": "2024-02-12 10:30:59"
     },
     {
         "_id": "64f11bc0497c3069473466eb",
@@ -8029,8 +8030,19 @@
         "identifier": "tzz9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tzz9"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/tzz9",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2029-12-31T00:00:00",
+        "label": "Hello Lovely Fruity Floral Fragrance Oil 0.5oz",
+        "last_updated": "2024-02-16 12:32:25.249000",
+        "notion_id": "1573",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11bc0497c306947346956",
