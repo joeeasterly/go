@@ -1197,7 +1197,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6f5p"
+        "permalink": "https://joeeasterly.github.io/go/6f5p",
+        "staged": "2024-01-30 20:10:32"
     },
     {
         "_id": "64f11b8a497c3069472a2203",
@@ -4189,7 +4190,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6fhc"
+        "permalink": "https://joeeasterly.github.io/go/6fhc",
+        "staged": "2024-02-06 18:58:19"
     },
     {
         "_id": "64f11b8a497c3069472a2379",
@@ -4909,7 +4911,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6fm6"
+        "permalink": "https://joeeasterly.github.io/go/6fm6",
+        "staged": "2024-02-12 10:30:59"
     },
     {
         "_id": "64f11b8a497c3069472a23d3",
@@ -5779,21 +5782,8 @@
         "_id": "64f11b8a497c3069472a243f",
         "identifier": "6fqk",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/6fqk",
-        "staged": "2024-01-19 11:39:27",
-        "bay": "5EA",
-        "expires": "2023-04-12 00:00:00",
-        "label": "Wegmans Steak House Peppercorn Marinade 16oz",
-        "last_updated": "2024-01-23 22:13:45.262000",
-        "notion_id": "1118",
-        "percentage": "80",
-        "quantity": "1",
-        "shcn": "5EA",
-        "shelf": "5E",
-        "type": "consumable",
-        "upc": "077890432150"
+        "allocated": false,
+        "last_updated": "2024-02-17 16:41:08.057000"
     },
     {
         "_id": "64f11b8a497c3069472a2440",
@@ -7249,7 +7239,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6fw9"
+        "permalink": "https://joeeasterly.github.io/go/6fw9",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11b8a497c3069472a24f6",
