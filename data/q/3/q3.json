@@ -2612,8 +2612,19 @@
         "identifier": "q3b7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/q3b7"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/q3b7",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-04-27T00:00:00",
+        "label": "ondansetron 4mg 15ct",
+        "last_updated": "2024-02-18 15:07:16.470000",
+        "notion_id": "1584",
+        "percentage": "100",
+        "quantity": "15",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11bb6497c3069473272b4",
