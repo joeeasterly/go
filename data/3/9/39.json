@@ -1625,14 +1625,15 @@
         "staged": "2024-01-07 13:56:33",
         "expires": "2024-12-11 00:00:00",
         "label": "Wegmans Spring Water 128oz",
-        "last_updated": "2024-01-27 15:29:16.349000",
+        "last_updated": "2024-02-23 14:53:16.916000",
         "notion_id": "1211",
         "percentage": "100",
         "quantity": "1",
-        "shcn": "1A",
-        "shelf": "1A",
+        "shcn": "484",
+        "shelf": "48",
         "type": "consumable",
-        "upc": "077890414576"
+        "upc": "077890414576",
+        "bay": "484"
     },
     {
         "_id": "64f11b81497c306947288a38",
