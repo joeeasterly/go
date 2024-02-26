@@ -656,7 +656,7 @@
         "permalink": "https://joeeasterly.github.io/go/733j",
         "bay": "150",
         "label": "bay 150",
-        "last_updated": "2023-12-28T14:29:27.851000",
+        "last_updated": "2023-12-28 14:29:27.851000",
         "notion_id": "266",
         "shcn": "150",
         "shelf": "15",
@@ -3371,8 +3371,20 @@
         "identifier": "73e5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/73e5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/73e5",
+        "label": "12foot coaxial cable",
+        "last_updated": "2024-02-25 15:05:35.233000",
+        "notion_id": "1591",
+        "shcn": [
+            "70",
+            "70",
+            null,
+            null,
+            null,
+            "Shelf: 70"
+        ],
+        "type": "item"
     },
     {
         "_id": "64f11b8b497c3069472a7312",
