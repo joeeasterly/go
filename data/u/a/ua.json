@@ -4418,21 +4418,8 @@
         "_id": "64f11bc1497c306947348f94",
         "identifier": "uaj8",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/uaj8",
-        "staged": "2024-01-19 11:39:27",
-        "bay": "5EA",
-        "expires": "2023-11-25 00:00:00",
-        "label": "Whole Foods 365 Classic Ranch Dressing 21.8oz",
-        "last_updated": "2024-01-23 22:14:04.374000",
-        "notion_id": "1112",
-        "percentage": "25",
-        "quantity": "1",
-        "shcn": "5EA",
-        "shelf": "5E",
-        "type": "consumable",
-        "upc": "099482516819"
+        "allocated": false,
+        "last_updated": "2024-02-22 17:11:02.553000"
     },
     {
         "_id": "64f11bc1497c306947348f95",
