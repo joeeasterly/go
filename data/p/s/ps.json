@@ -7855,15 +7855,28 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/psyk"
+        "permalink": "https://joeeasterly.github.io/go/psyk",
+        "staged": "2024-02-06 18:58:19"
     },
     {
         "_id": "64f11bb5497c306947324d40",
         "identifier": "psym",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/psym"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/psym",
+        "staged": "2024-02-12 10:30:59",
+        "bay": "5E6",
+        "expires": "2024-03-02T00:00:00",
+        "label": "Wegmans 98% Fat Free Turkey 0.58lb",
+        "last_updated": "2024-02-26 18:11:32.558000",
+        "notion_id": "1595",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E6",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "2027550005215"
     },
     {
         "_id": "64f11bb5497c306947324d41",
