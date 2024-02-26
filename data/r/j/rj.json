@@ -2502,7 +2502,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rjar"
+        "permalink": "https://joeeasterly.github.io/go/rjar",
+        "staged": "2024-02-12 10:30:59"
     },
     {
         "_id": "64f11bba497c306947332ea5",
@@ -2981,8 +2982,19 @@
         "identifier": "rjcm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rjcm"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rjcm",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-11-08T00:00:00",
+        "label": "docusate sodium 100mg 100ct rx 560398259",
+        "last_updated": "2024-02-18 14:48:34.626000",
+        "notion_id": "1579",
+        "percentage": "100",
+        "quantity": "100",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "consumable",
+        "upc": "none"
     },
     {
         "_id": "64f11bba497c306947332ee1",
