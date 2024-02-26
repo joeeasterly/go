@@ -1395,21 +1395,8 @@
         "_id": "64f11bba497c30694733421b",
         "identifier": "rq6f",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/rq6f",
-        "staged": "2024-01-19 11:39:27",
-        "bay": "5EA",
-        "expires": "2024-03-06 00:00:00",
-        "label": "Olive Garden Italian Dressing 16oz",
-        "last_updated": "2024-01-23 22:13:56.980000",
-        "notion_id": "1117",
-        "percentage": "15",
-        "quantity": "1",
-        "shcn": "5EA",
-        "shelf": "5E",
-        "type": "consumable",
-        "upc": "070200838123"
+        "allocated": false,
+        "last_updated": "2024-02-22 17:12:48.089000"
     },
     {
         "_id": "64f11bba497c30694733421c",
