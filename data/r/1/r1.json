@@ -7011,8 +7011,15 @@
         "identifier": "r1vb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/r1vb"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/r1vb",
+        "staged": "2024-02-12 10:30:59",
+        "label": "Raytheon 4D32 Vacuum Tube",
+        "last_updated": "2024-02-18 14:37:19.054000",
+        "notion_id": "1578",
+        "shcn": "39",
+        "shelf": "39",
+        "type": "item"
     },
     {
         "_id": "64f11bb8497c30694732ecd8",
