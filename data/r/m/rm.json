@@ -1731,8 +1731,15 @@
         "identifier": "rm7r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rm7r"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/rm7r",
+        "staged": "2024-02-12 10:30:59",
+        "label": "4D32 Vacuum Tube",
+        "last_updated": "2024-02-18 14:37:56.646000",
+        "notion_id": "1577",
+        "shcn": "39",
+        "shelf": "39",
+        "type": "item"
     },
     {
         "_id": "64f11bba497c306947333645",
