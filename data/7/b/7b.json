@@ -7795,20 +7795,8 @@
         "_id": "64f11b8c497c3069472a953b",
         "identifier": "7byf",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/7byf",
-        "staged": "2024-02-12 10:30:59",
-        "expires": "2024-12-31 00:00:00",
-        "label": "Le Creuset Cast Iron Cookware Cleaner 12oz",
-        "last_updated": "2024-02-12 17:37:34.509000",
-        "notion_id": "1528",
-        "percentage": "100",
-        "quantity": "1",
-        "shcn": "5N",
-        "shelf": "5N",
-        "type": "consumable",
-        "upc": "731589017669"
+        "allocated": false,
+        "last_updated": "2024-02-25 10:27:43.493000"
     },
     {
         "_id": "64f11b8c497c3069472a953c",
