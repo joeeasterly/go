@@ -1308,8 +1308,19 @@
         "identifier": "cr64",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/cr64"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/cr64",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-03-14T00:00:00",
+        "label": "Taylor Mediterranean Crunch Salad 120z",
+        "last_updated": "2024-03-09 16:37:21.476000",
+        "notion_id": "1604",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "030223039365"
     },
     {
         "_id": "64f11b9b497c3069472d4611",
@@ -4780,8 +4791,19 @@
         "identifier": "crkp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/crkp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/crkp",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-03-24T00:00:00",
+        "label": "Taylor Mediterranean Crunch Salad 120z",
+        "last_updated": "2024-03-09 16:38:00.779000",
+        "notion_id": "1605",
+        "percentage": "10",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "030223039365"
     },
     {
         "_id": "64f11b9b497c3069472d47c3",
