@@ -4355,21 +4355,8 @@
         "_id": "64f11b9b497c3069472d6f8d",
         "identifier": "d2j1",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/d2j1",
-        "staged": "2024-01-19 11:39:27",
-        "bay": "5E2",
-        "expires": "2024-02-23 00:00:00",
-        "label": "CJ Haechandle Doenjang 500g",
-        "last_updated": "2024-01-24 15:55:00.407000",
-        "notion_id": "1144",
-        "percentage": "85",
-        "quantity": "1",
-        "shcn": "5E2",
-        "shelf": "5E",
-        "type": "consumable",
-        "upc": "807176702185"
+        "allocated": false,
+        "last_updated": "2024-03-10 11:59:18.644000"
     },
     {
         "_id": "64f11b9b497c3069472d6f8e",
@@ -5185,7 +5172,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/d2n7"
+        "permalink": "https://joeeasterly.github.io/go/d2n7",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11b9b497c3069472d6ff4",
