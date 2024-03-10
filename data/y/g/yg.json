@@ -8006,21 +8006,8 @@
         "_id": "64f11bcc497c30694736a954",
         "identifier": "ygz8",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/ygz8",
-        "staged": "2024-01-19 11:39:27",
-        "bay": "5ED",
-        "expires": "2024-01-29 00:00:00",
-        "label": "Daisy Light Sour Cream 14oz",
-        "last_updated": "2024-01-23 22:14:42.207000",
-        "notion_id": "1108",
-        "percentage": "100",
-        "quantity": "1",
-        "shcn": "5ED",
-        "shelf": "5E",
-        "type": "consumable",
-        "upc": "073420116149"
+        "allocated": false,
+        "last_updated": "2024-03-10 12:00:04.386000"
     },
     {
         "_id": "64f11bcc497c30694736a955",
