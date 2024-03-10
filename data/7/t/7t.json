@@ -7538,21 +7538,8 @@
         "_id": "64f11b8d497c3069472ad11a",
         "identifier": "7txe",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/7txe",
-        "staged": "2024-01-07 13:56:33",
-        "bay": "5E2",
-        "expires": "2024-05-02 00:00:00",
-        "label": "Wegmans Cream Cheese 16oz",
-        "last_updated": "2024-01-24 16:12:22.158000",
-        "notion_id": "1154",
-        "percentage": "40",
-        "quantity": "1",
-        "shcn": "5E2",
-        "shelf": "5E",
-        "type": "consumable",
-        "upc": "077890295168"
+        "allocated": false,
+        "last_updated": "2024-03-10 11:58:57.843000"
     },
     {
         "_id": "64f11b8d497c3069472ad11b",
