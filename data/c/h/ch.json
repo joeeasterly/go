@@ -1261,7 +1261,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ch5x"
+        "permalink": "https://joeeasterly.github.io/go/ch5x",
+        "staged": "2024-02-12 10:30:59"
     },
     {
         "_id": "64f11b9a497c3069472d2a0b",
@@ -2272,8 +2273,19 @@
         "identifier": "ch9u",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ch9u"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ch9u",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-04-13T00:00:00",
+        "label": "Kirkland Eggs 5doz",
+        "last_updated": "2024-03-09 16:50:41.386000",
+        "notion_id": "1606",
+        "percentage": "100",
+        "quantity": "60",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "096619102556"
     },
     {
         "_id": "64f11b9a497c3069472d2a88",
