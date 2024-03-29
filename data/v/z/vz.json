@@ -3061,8 +3061,19 @@
         "identifier": "vzcx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vzcx"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vzcx",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-03-20T00:00:00",
+        "label": "Wegmans Spring Mix 16oz",
+        "last_updated": "2024-03-10 14:08:52.442000",
+        "notion_id": "1619",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890737873"
     },
     {
         "_id": "64f11bc6497c3069473566eb",
