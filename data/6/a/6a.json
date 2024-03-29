@@ -1373,7 +1373,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6a6c"
+        "permalink": "https://joeeasterly.github.io/go/6a6c",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11b89497c3069472a0e19",
@@ -3979,9 +3980,13 @@
         "_id": "64f11b89497c3069472a0f5e",
         "identifier": "6agj",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6agj"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6agj",
+        "label": "Wyrd Sisters",
+        "last_updated": "2024-03-28 09:11:38.218000",
+        "notion_id": "297",
+        "type": "work"
     },
     {
         "_id": "64f11b89497c3069472a0f5f",
