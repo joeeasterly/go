@@ -1656,7 +1656,7 @@
         "permalink": "https://joeeasterly.github.io/go/bq7f",
         "bay": "650",
         "label": "north side surface",
-        "last_updated": "2024-01-03T10:43:20.105000",
+        "last_updated": "2024-01-03 10:43:20.105000",
         "notion_id": "844",
         "shcn": "650",
         "shelf": "65",
@@ -1903,7 +1903,7 @@
         "permalink": "https://joeeasterly.github.io/go/bq8d",
         "bay": "123",
         "label": "bay 123",
-        "last_updated": "2023-12-25T10:11:33.468000",
+        "last_updated": "2023-12-25 10:11:33.468000",
         "notion_id": "123",
         "shcn": "123",
         "shelf": "12",
@@ -3307,7 +3307,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bqdv"
+        "permalink": "https://joeeasterly.github.io/go/bqdv",
+        "staged": "2024-02-12 10:30:59"
     },
     {
         "_id": "64f11b98497c3069472cc309",
@@ -4002,8 +4003,19 @@
         "identifier": "bqgk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bqgk"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bqgk",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2026-02-13T00:00:00",
+        "label": "Wegmans Smooth Pizza Sauce",
+        "last_updated": "2024-03-12 14:59:30.516000",
+        "notion_id": "1622",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5G",
+        "shelf": "5G",
+        "type": "consumable",
+        "upc": "077890493137"
     },
     {
         "_id": "64f11b98497c3069472cc360",
@@ -5211,7 +5223,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bqna"
+        "permalink": "https://joeeasterly.github.io/go/bqna",
+        "staged": "2024-01-30 20:10:32"
     },
     {
         "_id": "64f11b98497c3069472cc3f7",
@@ -7615,7 +7628,7 @@
         "staged": "2023-10-23 14:22:43",
         "bay": "221",
         "label": "Box: ICOM ID-52A VHF-UHF Transceiver",
-        "last_updated": "2024-01-04T12:34:20.284000",
+        "last_updated": "2024-01-04 12:34:20.284000",
         "notion_id": "712",
         "shcn": "221",
         "shelf": "22",
