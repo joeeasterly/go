@@ -301,7 +301,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bc26"
+        "permalink": "https://joeeasterly.github.io/go/bc26",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b97497c3069472c9593",
@@ -3364,8 +3365,19 @@
         "identifier": "bce5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bce5"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bce5",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-03-24T00:00:00",
+        "label": "Wegmans 1percent milk half gal",
+        "last_updated": "2024-03-10 13:59:46.544000",
+        "notion_id": "1612",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890939925"
     },
     {
         "_id": "64f11b97497c3069472c9712",
