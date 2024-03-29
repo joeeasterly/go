@@ -3244,8 +3244,19 @@
         "identifier": "bvdp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bvdp"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bvdp",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-03-23T00:00:00",
+        "label": "Wegmans Prepared Horseradish 8.5oz",
+        "last_updated": "2024-03-12 16:46:38.208000",
+        "notion_id": "1623",
+        "percentage": "90",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890675908"
     },
     {
         "_id": "64f11b98497c3069472cd703",
@@ -6492,8 +6503,15 @@
         "identifier": "bvtc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bvtc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bvtc",
+        "staged": "2024-02-12 10:30:59",
+        "label": "Box - Canon Lens Case LZ1438",
+        "last_updated": "2024-03-24 11:20:01.610000",
+        "notion_id": "1624",
+        "shcn": "21",
+        "shelf": "21",
+        "type": "item"
     },
     {
         "_id": "64f11b99497c3069472cd899",
