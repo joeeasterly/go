@@ -1116,8 +1116,20 @@
         "identifier": "xw5c",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xw5c"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xw5c",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-07-21T00:00:00",
+        "label": "Wegmans Saltine Crackers 16oz",
+        "last_updated": "2024-03-10 15:48:20.457000",
+        "notion_id": "1620",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "500",
+        "shelf": "50",
+        "type": "consumable",
+        "upc": "077890523230",
+        "bay": "500"
     },
     {
         "_id": "64f11bcb497c3069473659f9",
