@@ -4020,9 +4020,17 @@
         "identifier": "yfgp",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/yfgp",
-        "staged": "2024-02-12 10:30:59"
+        "staged": "2024-02-12 10:30:59",
+        "bay": "101",
+        "container": "1010",
+        "label": "Apple Magsafeower Adapter 85w",
+        "last_updated": "2024-03-29 18:58:28.925000",
+        "notion_id": "1627",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bcc497c30694736a363",
