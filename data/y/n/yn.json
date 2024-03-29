@@ -1677,8 +1677,19 @@
         "identifier": "yn7h",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yn7h"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yn7h",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-03-18T00:00:00",
+        "label": "Wegmans Shaved Brussels Sprouts 14oz",
+        "last_updated": "2024-03-10 14:07:44.310000",
+        "notion_id": "1618",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890248041"
     },
     {
         "_id": "64f11bcd497c30694736ba3e",
