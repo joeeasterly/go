@@ -1107,21 +1107,8 @@
         "_id": "64f11bc7497c30694735a1f7",
         "identifier": "wf5b",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/wf5b",
-        "staged": "2024-01-19 11:39:27",
-        "bay": "503",
-        "expires": "2023-07-21 00:00:00",
-        "label": "Mush Garden Shiitake Mushroom Chips 90g",
-        "last_updated": "2024-01-24 10:49:43.597000",
-        "notion_id": "1133",
-        "percentage": "100",
-        "quantity": "1",
-        "shcn": "503",
-        "shelf": "50",
-        "type": "consumable",
-        "upc": "690277768200"
+        "allocated": false,
+        "last_updated": "2024-03-12 14:55:04.021000"
     },
     {
         "_id": "64f11bc7497c30694735a1f8",
