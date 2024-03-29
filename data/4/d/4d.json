@@ -1932,9 +1932,17 @@
         "identifier": "4d8j",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/4d8j",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07 13:56:33",
+        "bay": "101",
+        "container": "1010",
+        "label": "Kensington 62132 6-outlet power strip",
+        "last_updated": "2024-03-29 18:51:08.614000",
+        "notion_id": "1626",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b84497c306947291a5f",
@@ -6350,7 +6358,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4dst"
+        "permalink": "https://joeeasterly.github.io/go/4dst",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11b84497c306947291c87",
