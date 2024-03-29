@@ -299,21 +299,8 @@
         "_id": "64f11ba4497c3069472f2192",
         "identifier": "gf26",
         "target": "#",
-        "class": "inventory",
-        "allocated": true,
-        "permalink": "https://joeeasterly.github.io/go/gf26",
-        "staged": "2024-01-19 11:39:27",
-        "bay": "503",
-        "expires": "2024-11-03 00:00:00",
-        "label": "Whole Foods 365 Freeze-Dried Strawberry Slices 1.2oz",
-        "last_updated": "2024-01-24 10:51:15.406000",
-        "notion_id": "1134",
-        "percentage": "90",
-        "quantity": "1",
-        "shcn": "503",
-        "shelf": "50",
-        "type": "consumable",
-        "upc": "099482453121"
+        "allocated": false,
+        "last_updated": "2024-03-12 14:54:39.336000"
     },
     {
         "_id": "64f11ba4497c3069472f2193",
@@ -4071,9 +4058,13 @@
         "_id": "64f11ba4497c3069472f2368",
         "identifier": "gfgv",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gfgv"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/gfgv",
+        "label": "XPath and XPointer",
+        "last_updated": "2024-03-25 19:42:28.665000",
+        "notion_id": "1675",
+        "type": "work"
     },
     {
         "_id": "64f11ba4497c3069472f2369",
