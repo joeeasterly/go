@@ -5595,9 +5595,13 @@
         "_id": "64f11ba3497c3069472ed028",
         "identifier": "ftpv",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ftpv"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ftpv",
+        "label": "XSLT and XPATH Programmers Reference",
+        "last_updated": "2024-03-25 19:37:37.906000",
+        "notion_id": "1674",
+        "type": "work"
     },
     {
         "_id": "64f11ba3497c3069472ed029",
