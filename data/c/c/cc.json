@@ -2996,8 +2996,19 @@
         "identifier": "cccq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/cccq"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/cccq",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-03-31T00:00:00",
+        "label": "Wegmans Ranch Dip 12oz",
+        "last_updated": "2024-03-10 13:57:18.296000",
+        "notion_id": "1609",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890545560"
     },
     {
         "_id": "64f11b9a497c3069472d16e4",
