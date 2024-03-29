@@ -2772,8 +2772,19 @@
         "identifier": "cgbu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/cgbu"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/cgbu",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-07-25T00:00:00",
+        "label": "Wegmans Cream Cheese 16oz",
+        "last_updated": "2024-03-10 13:58:46.276000",
+        "notion_id": "1611",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890295168"
     },
     {
         "_id": "64f11b9a497c3069472d26c8",
@@ -8044,8 +8055,19 @@
         "identifier": "cgze",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/cgze"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/cgze",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-03-27T00:00:00",
+        "label": "Siggis Blueberry Filmjolk 1qt",
+        "last_updated": "2024-03-10 13:51:24.204000",
+        "notion_id": "1607",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "898248001404"
     },
     {
         "_id": "64f11b9a497c3069472d295b",
