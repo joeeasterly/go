@@ -564,8 +564,19 @@
         "identifier": "c737",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/c737"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/c737",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-08-18T00:00:00",
+        "label": "Wegmans Provlone Cheese 8oz",
+        "last_updated": "2024-03-10 14:05:29.550000",
+        "notion_id": "1616",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "077890443354"
     },
     {
         "_id": "64f11b99497c3069472d01b4",
@@ -7045,7 +7056,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/c7vh"
+        "permalink": "https://joeeasterly.github.io/go/c7vh",
+        "staged": "2024-01-19 11:39:27"
     },
     {
         "_id": "64f11b99497c3069472d04de",
@@ -7292,8 +7304,19 @@
         "identifier": "c7wg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/c7wg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/c7wg",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-03-28T00:00:00",
+        "label": "Wegmans Sirloin Perfect Portions 2pk",
+        "last_updated": "2024-03-10 14:04:38.688000",
+        "notion_id": "1615",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5E",
+        "shelf": "5E",
+        "type": "consumable",
+        "upc": "2001380010502"
     },
     {
         "_id": "64f11b99497c3069472d04fd",
