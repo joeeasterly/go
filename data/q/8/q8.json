@@ -660,8 +660,19 @@
         "identifier": "q83k",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/q83k"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/q83k",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2026-12-31 00:00:00",
+        "label": "Swiffer Sweeper Wet Mopping Cloths 32ct",
+        "last_updated": "2024-02-12 18:57:35.475000",
+        "notion_id": "1544",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "90579301"
     },
     {
         "_id": "64f11bb6497c3069473285c0",
@@ -2516,8 +2527,17 @@
         "identifier": "q8au",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/q8au"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/q8au",
+        "staged": "2024-02-08 17:38:56",
+        "bay": "101",
+        "container": "1010",
+        "label": "Teka TEKA006-1300230UK Power Adapter for Ottlite",
+        "last_updated": "2024-03-29 19:18:42.419000",
+        "notion_id": "1629",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bb6497c3069473286a8",
@@ -7757,7 +7777,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/q8ya"
+        "permalink": "https://joeeasterly.github.io/go/q8ya",
+        "staged": "2024-02-08 17:38:56"
     },
     {
         "_id": "64f11bb6497c306947328937",
