@@ -8152,8 +8152,15 @@
         "identifier": "u3zt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/u3zt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/u3zt",
+        "bay": "3D0",
+        "label": "bay 3D0",
+        "last_updated": "2024-03-29 19:48:13.161000",
+        "notion_id": "1634",
+        "shcn": "3D0",
+        "shelf": "3D",
+        "type": "storage"
     },
     {
         "_id": "64f11bc1497c306947347567",
