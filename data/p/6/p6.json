@@ -4623,9 +4623,13 @@
         "_id": "64f11bb3497c30694731ffad",
         "identifier": "p6k1",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/p6k1"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/p6k1",
+        "label": "The Woman Who Died a Lot",
+        "last_updated": "2024-03-30 08:29:29.802000",
+        "notion_id": "839",
+        "type": "work"
     },
     {
         "_id": "64f11bb3497c30694731ffae",
