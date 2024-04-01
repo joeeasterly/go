@@ -836,8 +836,19 @@
         "identifier": "bh49",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bh49"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bh49",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-11-02T00:00:00",
+        "label": "Wegmans Sparkling Water Passion Fruit 12pk",
+        "last_updated": "2024-04-01 14:32:55.029000",
+        "notion_id": "1647",
+        "percentage": "100",
+        "quantity": "12",
+        "shcn": "20",
+        "shelf": "20",
+        "type": "consumable",
+        "upc": "077890466438"
     },
     {
         "_id": "64f11b98497c3069472ca9d6",
