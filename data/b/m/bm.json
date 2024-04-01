@@ -1436,8 +1436,19 @@
         "identifier": "bm6m",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bm6m"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bm6m",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-11-17T00:00:00",
+        "label": "Wegmans Sparkling Water Mixed Berry 12pk",
+        "last_updated": "2024-04-01 14:31:24.009000",
+        "notion_id": "1646",
+        "percentage": "100",
+        "quantity": "12",
+        "shcn": "20",
+        "shelf": "20",
+        "type": "consumable",
+        "upc": "077890351956"
     },
     {
         "_id": "64f11b98497c3069472cb621",
