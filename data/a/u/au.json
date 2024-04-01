@@ -1340,8 +1340,19 @@
         "identifier": "au68",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/au68"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/au68",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-11-07T00:00:00",
+        "label": "Wegmans Sparkling Water Lime Mint 12pk",
+        "last_updated": "2024-04-01 17:01:31.525000",
+        "notion_id": "1649",
+        "percentage": "100",
+        "quantity": "12",
+        "shcn": "20",
+        "shelf": "20",
+        "type": "consumable",
+        "upc": "077890317792"
     },
     {
         "_id": "64f11b96497c3069472c5215",
