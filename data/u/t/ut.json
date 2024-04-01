@@ -3708,8 +3708,15 @@
         "identifier": "utfg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/utfg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/utfg",
+        "bay": "3F1",
+        "label": "bay 3F1",
+        "last_updated": "2024-03-29 19:49:30.508000",
+        "notion_id": "1641",
+        "shcn": "3F1",
+        "shelf": "3F",
+        "type": "storage"
     },
     {
         "_id": "64f11bc3497c30694734cf3d",
