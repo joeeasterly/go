@@ -2392,8 +2392,19 @@
         "identifier": "b2aa",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/b2aa"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/b2aa",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-11-05T00:00:00",
+        "label": "Wegmans Sparkling Water Orange Pineapple 12pk",
+        "last_updated": "2024-04-01 14:38:56.080000",
+        "notion_id": "1648",
+        "percentage": "100",
+        "quantity": "12",
+        "shcn": "20",
+        "shelf": "20",
+        "type": "consumable",
+        "upc": "077890488539"
     },
     {
         "_id": "64f11b96497c3069472c6e97",
