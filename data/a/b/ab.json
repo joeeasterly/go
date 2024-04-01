@@ -7931,8 +7931,19 @@
         "identifier": "abyw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/abyw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/abyw",
+        "staged": "2024-02-12 10:30:59",
+        "expires": "2024-10-23T00:00:00",
+        "label": "Wegmans Sparkling Water Coconut Lime 12pk",
+        "last_updated": "2024-04-01 17:12:46.904000",
+        "notion_id": "1658",
+        "percentage": "100",
+        "quantity": "12",
+        "shcn": "20",
+        "shelf": "20",
+        "type": "consumable",
+        "upc": "077890414736"
     },
     {
         "_id": "64f11b94497c3069472c154a",
