@@ -7781,8 +7781,15 @@
         "identifier": "wkyc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wkyc"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wkyc",
+        "bay": "3E2",
+        "label": "bay 3E2",
+        "last_updated": "2024-03-29 19:49:11.698000",
+        "notion_id": "1639",
+        "shcn": "3E2",
+        "shelf": "3E",
+        "type": "storage"
     },
     {
         "_id": "64f11bc8497c30694735b539",
