@@ -4320,8 +4320,17 @@
         "identifier": "xdht",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xdht"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xdht",
+        "staged": "2024-02-12 10:30:59",
+        "bay": "101",
+        "container": "1010",
+        "label": "Samsung ah59-02767a/a2106250a/dyqy soundbar remote",
+        "last_updated": "2024-03-29 20:11:06.983000",
+        "notion_id": "1643",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bca497c306947361b87",
