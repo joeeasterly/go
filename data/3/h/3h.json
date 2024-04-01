@@ -2052,8 +2052,15 @@
         "identifier": "3h91",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3h91"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/3h91",
+        "bay": "3F2",
+        "label": "bay 3F2",
+        "last_updated": "2024-03-29 19:49:41.519000",
+        "notion_id": "1642",
+        "shcn": "3F2",
+        "shelf": "3F",
+        "type": "storage"
     },
     {
         "_id": "64f11b82497c30694728aa6e",
