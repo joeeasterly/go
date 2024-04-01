@@ -4940,8 +4940,14 @@
         "identifier": "5ama",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5ama"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/5ama",
+        "label": "Papercrafts Workbench",
+        "last_updated": "2024-03-29 19:44:19.625000",
+        "notion_id": "1631",
+        "shcn": "3D",
+        "shelf": "3D",
+        "type": "storage"
     },
     {
         "_id": "64f11b87497c306947298fd7",
