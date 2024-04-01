@@ -2037,8 +2037,14 @@
         "identifier": "7p8x",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/7p8x"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/7p8x",
+        "label": "Fabric Workbench",
+        "last_updated": "2024-03-29 19:45:10.745000",
+        "notion_id": "1632",
+        "shcn": "3E",
+        "shelf": "3E",
+        "type": "storage"
     },
     {
         "_id": "64f11b8d497c3069472abe6b",
