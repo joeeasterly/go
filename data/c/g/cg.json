@@ -3735,8 +3735,15 @@
         "identifier": "cgfj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/cgfj"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/cgfj",
+        "bay": "3E0",
+        "label": "bay 3E0",
+        "last_updated": "2024-03-29 19:48:50.170000",
+        "notion_id": "1637",
+        "shcn": "3E0",
+        "shelf": "3E",
+        "type": "storage"
     },
     {
         "_id": "64f11b9a497c3069472d273f",
