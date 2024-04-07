@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/local/gh/go/.venv/bin/python3
 #
 import os
 from create_record import create_record
@@ -56,9 +56,9 @@ def main():
         elif choice == '6':
             reshelve_record()
         elif choice == '7':
-            os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/update_github.py")  # Execute the update_github.py script
+            os.system("/usr/local/gh/go/.venv/bin/python3 /usr/local/gh/go/bin/update_github.py")  # Execute the update_github.py script
         elif choice == '71':
-            os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/export_shelves.py")  # Execute the update_github.py script
+            os.system("/usr/local/gh/go/.venv/bin/python3 /usr/local/gh/go/bin/export_shelves.py")  # Execute the update_github.py script
         elif choice == '8':
             update_consumable()
         elif choice == '81':

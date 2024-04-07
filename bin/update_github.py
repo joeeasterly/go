@@ -59,7 +59,7 @@ for prefix in updated_prefixes:
         documents_list.append(result)
 
     # Export the list of documents to a JSON file
-    json_file_path = f'/home/joeeasterly/Documents/GitHub/go/data/{first_letter}/{second_letter}/{prefix}.json'
+    json_file_path = f'/usr/local/gh/go/data/{first_letter}/{second_letter}/{prefix}.json'
     with open(json_file_path, 'w') as f:
         json.dump(documents_list, f, indent=4, cls=CustomJSONEncoder)
         print(f"Exported {prefix}.json")

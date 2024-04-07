@@ -11,10 +11,10 @@ from lib_shcn import parse_shcn_input
 collection = connect_mungo()
 
 # Specify the directory to save the JSON files
-output_directory = "/home/joeeasterly/Documents/GitHub/go/shelves/data"
+output_directory = "/usr/local/gh/go/shelves/data"
 
 # Specify the path to the Git repository
-repo_path = "/home/joeeasterly/Documents/GitHub/go/shelves"
+repo_path = "/usr/local/gh/go/shelves"
 
 # Search mungo for records where parse_shcn_input.shcn matches the beginning of the shcn field in the collection.
 shelf_list = collection.distinct("shcn")

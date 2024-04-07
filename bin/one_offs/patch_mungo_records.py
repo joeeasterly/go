@@ -10,7 +10,7 @@ collection = connect_mungo()
 excluded_fields = ["some_field1", "some_field2"]
 
 # Read CSV and Update MongoDB
-with open("/home/joeeasterly/Documents/GitHub/go/bin/one_offs/20231019_storage_fix.csv", "r") as file:
+with open("/usr/local/gh/go/bin/one_offs/20231019_storage_fix.csv", "r") as file:
     reader = csv.DictReader(file)
     for row in reader:
         query = {"_id": bson.ObjectId(row["_id"])}  # Matching by _id, converting to ObjectId

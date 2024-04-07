@@ -81,7 +81,7 @@ def main(stdscr):
                 more_menu = True
                 continue
             elif choice == '6':
-                os.system("python3 /home/joeeasterly/Documents/GitHub/go/bin/update_github.py")
+                os.system("python3 /usr/local/gh/go/bin/update_github.py")
             if choice == '7':
                 display_win.addstr(5, 0, 'Goodbye!')  # Display the message in the display_win
                 display_win.refresh()

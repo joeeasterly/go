@@ -32,7 +32,7 @@ if __name__ == "__main__":
     # Save results to CSV file
     if shelf_list:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = f"/home/joeeasterly/Documents/GitHub/go/script_out/shelf_list_{timestamp}.csv"
+        filename = f"/usr/local/gh/go/script_out/shelf_list_{timestamp}.csv"
 
         with open(filename, 'w', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=["identifier", "permalink", "shcn", "label"])

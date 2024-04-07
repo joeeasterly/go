@@ -52,7 +52,7 @@ if random_docs:
     today_date = datetime.now().strftime("%Y%m%d")
 
     # Write the identifiers to a CSV file
-    with open(f"/home/joeeasterly/Documents/GitHub/go/script_out/qrcodes_{today_date}.csv", "a", newline='') as f:
+    with open(f"/usr/local/gh/go/script_out/qrcodes_{today_date}.csv", "a", newline='') as f:
         writer = csv.DictWriter(f, fieldnames=["identifier", "permalink", "staged"])
 
         # Write the header if the file is new

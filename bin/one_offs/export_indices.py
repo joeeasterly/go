@@ -74,7 +74,7 @@ for prefix in prefixes:
     # Export the list of documents to a JSON file
     first_char = prefix[0]
     second_char = prefix[1]
-    file_path = f'/home/joeeasterly/Documents/GitHub/go/data/{first_char}/{second_char}/{prefix}.json'
-    with open(f'/home/joeeasterly/Documents/GitHub/go/data/{first_char}/{second_char}/{prefix}.json', 'w') as f:
+    file_path = f'/usr/local/gh/go/data/{first_char}/{second_char}/{prefix}.json'
+    with open(f'/usr/local/gh/go/data/{first_char}/{second_char}/{prefix}.json', 'w') as f:
         json.dump(documents_list, f, default=handle_objectid, indent=4)
         print(f'Exported {file_path}')
