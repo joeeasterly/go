@@ -1,6 +1,8 @@
 from lib_mungo import get_record_by_identifier
 
 def parse_shcn_input(existing_shcn=None, last_record=None, message=None):
+    if last_record is None:
+        last_record = {}  # Create a new dictionary if none was provided
     last_shcn = last_record.get('shcn', None)
     shcn = shelf = bay = container = slot = analysis = None
     if message is not None:
