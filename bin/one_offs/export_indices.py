@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/local/gh/go/.venv/bin/python3
 import pymongo
 from bson import ObjectId
 from datetime import datetime

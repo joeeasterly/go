@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/local/gh/go/.venv/bin/python3
 # Your base-32 numbering system
 BASE32_CHARS = "123456789abcdefghjkmnpqrstuvwxyz"
 

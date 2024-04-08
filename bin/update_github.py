@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/local/gh/go/.venv/bin/python3
 import subprocess
 import pymongo
 import json
@@ -15,7 +15,7 @@ class CustomJSONEncoder(json.JSONEncoder):
         return super().default(obj)
 
 # Step 1: Get the most recent commit date from GitHub
-commit_date_output = subprocess.check_output(["git", "log", "-1", "--format=%cd", "--date=format:%Y-%m-%d %H:%M:%S"])
+commit_date_output = subprocess.check_output(["git", "log", "-1", "--format=%cd", "--date=format:%Y-%m-%d %H:%M:%S", "--", "data/"])
 commit_date = commit_date_output.decode("utf-8").strip()
 
 # Convert commit_date string to datetime object
