@@ -808,7 +808,7 @@
         "permalink": "https://joeeasterly.github.io/go/kv45",
         "bay": "5R3",
         "label": "bay 5R3",
-        "last_updated": "2024-01-01 16:49:45.272000",
+        "last_updated": "2024-01-01T16:49:45.272000",
         "notion_id": "784",
         "shcn": "5R3",
         "shelf": "5R",
@@ -1780,7 +1780,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/kv7x"
+        "permalink": "https://joeeasterly.github.io/go/kv7x",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bae497c30694730d64b",
@@ -2053,11 +2054,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/kv8z",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "5E2",
-        "expires": "2024-10-18 00:00:00",
+        "expires": "2024-10-18T00:00:00",
         "label": "CJ Haechandle Gochujang",
-        "last_updated": "2024-01-24 15:50:34.174000",
+        "last_updated": "2024-01-24T15:50:34.174000",
         "notion_id": "1143",
         "percentage": "90",
         "quantity": "1",
@@ -2425,7 +2426,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/kvad",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11bae497c30694730d69a",
@@ -5507,7 +5508,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/kvpe",
         "label": "shelf 13",
-        "last_updated": "2023-12-25 10:13:33.512000",
+        "last_updated": "2023-12-25T10:13:33.512000",
         "notion_id": "100",
         "shcn": "13",
         "shelf": "13",

@@ -3933,7 +3933,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/tugc"
+        "permalink": "https://joeeasterly.github.io/go/tugc",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bc0497c306947345359",
@@ -8062,10 +8063,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/tuzg",
-        "staged": "2024-01-19 11:39:27",
-        "expires": "2024-06-18 00:00:00",
+        "staged": "2024-01-19T11:39:27",
+        "expires": "2024-06-18T00:00:00",
         "label": "Hellmanns Mayonnaise 30oz",
-        "last_updated": "2024-01-23 21:04:18.866000",
+        "last_updated": "2024-01-23T21:04:18.866000",
         "notion_id": "1104",
         "percentage": "85",
         "quantity": "1",

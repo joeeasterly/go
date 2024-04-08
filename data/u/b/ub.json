@@ -2134,11 +2134,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ub9b",
-        "staged": "2024-01-07 13:56:33",
+        "staged": "2024-01-07T13:56:33",
         "bay": "5E2",
-        "expires": "2024-05-13 00:00:00",
+        "expires": "2024-05-13T00:00:00",
         "label": "Kirkland Signature Unsalted Butter 16oz",
-        "last_updated": "2024-01-23 22:01:55.679000",
+        "last_updated": "2024-01-23T22:01:55.679000",
         "notion_id": "1124",
         "percentage": "100",
         "quantity": 4.0,
@@ -3233,7 +3233,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ubdk"
+        "permalink": "https://joeeasterly.github.io/go/ubdk",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bc1497c306947349300",
@@ -5506,10 +5507,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ubpf",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2024-06-21 00:00:00",
+        "staged": "2024-01-07T13:56:33",
+        "expires": "2024-06-21T00:00:00",
         "label": "Multi Grain Cheerios 9oz",
-        "last_updated": "2024-01-19 16:17:33.833000",
+        "last_updated": "2024-01-19T16:17:33.833000",
         "notion_id": "999",
         "percentage": "100",
         "quantity": "1",
@@ -7461,7 +7462,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/ubx2",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19T11:39:27"
     },
     {
         "_id": "64f11bc1497c30694734950f",

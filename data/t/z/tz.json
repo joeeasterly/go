@@ -726,10 +726,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/tz3u",
-        "staged": "2024-01-30 20:10:32",
+        "staged": "2024-01-30T20:10:32",
         "bay": "403",
         "container": "4030",
-        "last_updated": "2024-02-07 14:02:21.482000",
+        "last_updated": "2024-02-07T14:02:21.482000",
         "shcn": "4030",
         "shelf": "40",
         "label": "1.5m USB-A to USB-B Micro Cable",
@@ -3033,7 +3033,7 @@
         "permalink": "https://joeeasterly.github.io/go/tzct",
         "bay": "5G2",
         "label": "bay 5G2",
-        "last_updated": "2024-01-01 16:01:07.899000",
+        "last_updated": "2024-01-01T16:01:07.899000",
         "notion_id": "742",
         "shcn": "5G2",
         "shelf": "5G",
@@ -3070,7 +3070,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/tzcx",
-        "staged": "2024-02-12 10:30:59"
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bc0497c3069473466eb",
@@ -3562,7 +3562,7 @@
         "bay": "102",
         "container": "1020",
         "label": "1m USB-A to USB-B Micro Cable",
-        "last_updated": "2024-02-07 13:03:50.251000",
+        "last_updated": "2024-02-07T13:03:50.251000",
         "notion_id": "1384",
         "shcn": "1020",
         "shelf": "10",
@@ -5215,7 +5215,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/tzn9",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19T11:39:27"
     },
     {
         "_id": "64f11bc0497c3069473467f6",
@@ -8032,10 +8032,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/tzz9",
-        "staged": "2024-02-12 10:30:59",
+        "staged": "2024-02-12T10:30:59",
         "expires": "2029-12-31T00:00:00",
         "label": "Hello Lovely Fruity Floral Fragrance Oil 0.5oz",
-        "last_updated": "2024-02-16 12:32:25.249000",
+        "last_updated": "2024-02-16T12:32:25.249000",
         "notion_id": "1573",
         "percentage": "90",
         "quantity": "1",

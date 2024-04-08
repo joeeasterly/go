@@ -2469,14 +2469,15 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/7wam",
-        "staged": "2023-10-23 14:22:43",
+        "staged": "2023-10-23T14:22:43",
         "bay": "101",
         "container": "1010",
         "label": "Eyoyo 2D Barcode Scanner EY-039",
-        "last_updated": "2023-11-05T13:12:53.787000",
+        "last_updated": "2024-01-22T17:04:54.192000",
         "notion_id": "596",
         "shcn": "1010",
-        "shelf": "10"
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b8d497c3069472adaa1",

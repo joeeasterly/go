@@ -541,7 +541,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/8934"
+        "permalink": "https://joeeasterly.github.io/go/8934",
+        "staged": "2024-01-30T20:10:32"
     },
     {
         "_id": "64f11b8e497c3069472b09b1",
@@ -1310,7 +1311,7 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/8964",
-        "staged": "2023-10-23 14:22:43",
+        "staged": "2023-10-23T14:22:43",
         "label": "FlexRadio Box)",
         "last_updated": "2023-11-20T17:54:02.036000",
         "notion_id": "598",

@@ -1496,7 +1496,7 @@
         "permalink": "https://joeeasterly.github.io/go/gn6u",
         "bay": "500",
         "label": "chips and snacks",
-        "last_updated": "2023-11-25 18:34:02.531000",
+        "last_updated": "2023-11-25T18:34:02.531000",
         "notion_id": "614",
         "shcn": "500",
         "shelf": "50",
@@ -2784,7 +2784,7 @@
         "bay": "412",
         "container": "4120",
         "label": "39-drawer hardware organizer",
-        "last_updated": "2023-10-12 20:37:51.329000",
+        "last_updated": "2023-10-12T20:37:51.329000",
         "notion_id": "438",
         "shelf": "41",
         "type": "storage",
@@ -3436,7 +3436,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gnec"
+        "permalink": "https://joeeasterly.github.io/go/gnec",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11ba5497c3069472f3b19",
@@ -5365,11 +5366,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/gnnw",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "402",
         "container": "4020",
         "label": "DVE DSA-15P-05 Power Adapter",
-        "last_updated": "2024-02-09 18:05:19.026000",
+        "last_updated": "2024-02-09T18:05:19.026000",
         "notion_id": "1382",
         "shcn": "4020",
         "shelf": "40",
@@ -7293,7 +7294,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gnwd"
+        "permalink": "https://joeeasterly.github.io/go/gnwd",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11ba5497c3069472f3cfa",

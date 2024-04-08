@@ -2181,7 +2181,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gk9h"
+        "permalink": "https://joeeasterly.github.io/go/gk9h",
+        "staged": "2024-02-06T18:58:19"
     },
     {
         "_id": "64f11ba5497c3069472f327e",
@@ -5726,11 +5727,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/gkqc",
-        "staged": "2024-01-07 13:56:33",
+        "staged": "2024-01-07T13:56:33",
         "bay": "591",
-        "expires": "2023-11-30 00:00:00",
+        "expires": "2023-11-30T00:00:00",
         "label": "Niblack Freeze Dried Shallots 4oz",
-        "last_updated": "2024-01-19 20:28:54.462000",
+        "last_updated": "2024-01-19T20:28:54.462000",
         "notion_id": "1011",
         "percentage": "85",
         "quantity": "1",

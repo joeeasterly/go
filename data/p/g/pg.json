@@ -774,11 +774,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/pg41",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "503",
-        "expires": "2025-11-22 00:00:00",
+        "expires": "2025-11-22T00:00:00",
         "label": "Ricola Swiss Cherry Drops 34ct",
-        "last_updated": "2024-01-24 10:44:25.266000",
+        "last_updated": "2024-01-24T10:44:25.266000",
         "notion_id": "1130",
         "percentage": "50",
         "quantity": "1",
@@ -3969,7 +3969,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pggf"
+        "permalink": "https://joeeasterly.github.io/go/pggf",
+        "staged": "2024-02-08T17:38:56"
     },
     {
         "_id": "64f11bb4497c30694732275c",

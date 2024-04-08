@@ -1246,11 +1246,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ep5v",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "591",
-        "expires": "2026-02-28 00:00:00",
+        "expires": "2026-02-28T00:00:00",
         "label": "Niblack Whole Red Szechuan Peppercorns 3oz",
-        "last_updated": "2024-02-01 12:42:15.857000",
+        "last_updated": "2024-02-01T12:42:15.857000",
         "notion_id": "1288",
         "percentage": "99",
         "quantity": "1",
@@ -1977,7 +1977,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ep8p"
+        "permalink": "https://joeeasterly.github.io/go/ep8p",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11ba0497c3069472e3e63",
@@ -6228,7 +6229,7 @@
         "permalink": "https://joeeasterly.github.io/go/eps9",
         "bay": "252",
         "label": "bay 252",
-        "last_updated": "2023-12-28 14:23:43.155000",
+        "last_updated": "2023-12-28T14:23:43.155000",
         "notion_id": "170",
         "shcn": "252",
         "shelf": "25",

@@ -2677,7 +2677,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/f5bf"
+        "permalink": "https://joeeasterly.github.io/go/f5bf",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11ba1497c3069472e7abc",
@@ -3742,11 +3743,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/f5fm",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "591",
-        "expires": "2025-05-31 00:00:00",
+        "expires": "2025-05-31T00:00:00",
         "label": "Niblack Whole Cumin 2oz",
-        "last_updated": "2024-02-01 12:44:27.778000",
+        "last_updated": "2024-02-01T12:44:27.778000",
         "notion_id": "1289",
         "percentage": "100",
         "quantity": "1",
@@ -6314,7 +6315,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/f5sm",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11ba1497c3069472e7c81",

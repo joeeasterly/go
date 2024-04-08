@@ -510,7 +510,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/3j2z",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11b82497c30694728adad",
@@ -5063,10 +5063,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/3jms",
-        "staged": "2024-01-19 11:39:27",
-        "expires": "2024-12-11 00:00:00",
+        "staged": "2024-01-19T11:39:27",
+        "expires": "2024-12-11T00:00:00",
         "label": "Wegmans Spring Water 128oz",
-        "last_updated": "2024-01-27 15:08:12.326000",
+        "last_updated": "2024-01-27T15:08:12.326000",
         "notion_id": "1199",
         "percentage": "100",
         "quantity": "1",

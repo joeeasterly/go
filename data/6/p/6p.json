@@ -750,10 +750,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/6p3x",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2025-01-01 00:00:00",
+        "staged": "2024-01-07T13:56:33",
+        "expires": "2025-01-01T00:00:00",
         "label": "Wegmans Organic Vegetarian Refried Pinto Beans 15oz",
-        "last_updated": "2024-01-19 12:12:38.454000",
+        "last_updated": "2024-01-19T12:12:38.454000",
         "notion_id": "959",
         "percentage": "100",
         "quantity": "1",
@@ -2570,7 +2570,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/6paz",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11b8a497c3069472a3ead",

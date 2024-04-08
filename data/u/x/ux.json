@@ -398,7 +398,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/ux2j",
-        "staged": "2024-02-08 17:38:56"
+        "staged": "2024-02-08T17:38:56"
     },
     {
         "_id": "64f11bc3497c30694734dd9f",
@@ -2633,7 +2633,7 @@
         "permalink": "https://joeeasterly.github.io/go/uxb9",
         "bay": "404",
         "label": "bay 404",
-        "last_updated": "2023-12-25 10:00:36.773000",
+        "last_updated": "2023-12-25T10:00:36.773000",
         "notion_id": "445",
         "shcn": "404",
         "shelf": "40",
@@ -5494,11 +5494,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/uxpe",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "231",
         "container": "2310",
         "label": "Apple 45W Magsafe v1 power adapter",
-        "last_updated": "2024-02-08 21:07:56.259000",
+        "last_updated": "2024-02-08T21:07:56.259000",
         "notion_id": "1284",
         "shcn": "2310",
         "shelf": "23",
@@ -7158,7 +7158,7 @@
         "target": "#",
         "allocated": false,
         "container": "4110",
-        "last_updated": "2024-01-28 13:29:49.424000",
+        "last_updated": "2024-01-28T13:29:49.424000",
         "slot": "4110B"
     },
     {

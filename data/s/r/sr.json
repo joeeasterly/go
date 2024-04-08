@@ -4685,7 +4685,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/srka"
+        "permalink": "https://joeeasterly.github.io/go/srka",
+        "staged": "2024-02-08T17:38:56"
     },
     {
         "_id": "64f11bbd497c30694733c7b7",
@@ -5734,11 +5735,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/srqd",
-        "staged": "2024-01-30 20:10:32",
+        "staged": "2024-01-30T20:10:32",
         "bay": "403",
         "container": "4030",
         "label": "50in USB-A to USB-Micro cable",
-        "last_updated": "2024-01-31 19:50:25.428000",
+        "last_updated": "2024-01-31T19:50:25.428000",
         "notion_id": "1280",
         "shcn": "4030",
         "shelf": "40",

@@ -2803,8 +2803,19 @@
         "identifier": "nabx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/nabx"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/nabx",
+        "staged": "2024-02-12T10:30:59",
+        "bay": "5M0",
+        "label": "Tide Pods 39ct",
+        "last_updated": "2024-02-13T20:31:14.251000",
+        "notion_id": "1560",
+        "percentage": "100",
+        "quantity": "39",
+        "shcn": "5M0",
+        "shelf": "5M",
+        "type": "item",
+        "upc": "none"
     },
     {
         "_id": "64f11bb1497c306947318ecb",

@@ -5646,9 +5646,9 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/d4q2",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "label": "Philips Hue Go Power Adapter",
-        "last_updated": "2024-02-11 17:56:04.270000",
+        "last_updated": "2024-02-11T17:56:04.270000",
         "notion_id": "1505",
         "shcn": "47",
         "shelf": "47",
@@ -6469,11 +6469,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/d4t8",
-        "staged": "2023-10-23 14:22:43",
+        "staged": "2023-10-23T14:22:43",
         "bay": "403",
         "container": "4030",
         "label": "18in usb-a to usb-b cable",
-        "last_updated": "2023-10-25 09:35:41.411000",
+        "last_updated": "2023-10-25T09:35:41.411000",
         "notion_id": "558",
         "shcn": "4030",
         "shelf": "40"
@@ -7877,7 +7877,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/d4yq",
-        "staged": "2024-02-12 10:30:59"
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11b9c497c3069472d7944",

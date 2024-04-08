@@ -1566,7 +1566,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/p174",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07T13:56:33"
     },
     {
         "_id": "64f11bb3497c30694731ea31",
@@ -1741,8 +1741,19 @@
         "identifier": "p17t",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/p17t"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/p17t",
+        "staged": "2024-02-12T10:30:59",
+        "expires": "2029-12-31T00:00:00",
+        "label": "Swiffer Dusters 28ct",
+        "last_updated": "2024-02-12T19:04:10.828000",
+        "notion_id": "1548",
+        "percentage": "90",
+        "quantity": "90",
+        "shcn": "5N",
+        "shelf": "5N",
+        "type": "consumable",
+        "upc": "037000731122"
     },
     {
         "_id": "64f11bb3497c30694731ea47",
@@ -7111,7 +7122,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/p1vs",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11bb3497c30694731ece6",
@@ -7928,11 +7939,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/p1yy",
-        "staged": "2024-01-30 20:10:32",
+        "staged": "2024-01-30T20:10:32",
         "bay": "403",
         "container": "4030",
         "label": "White Soap Dispenser USB Charging Cable",
-        "last_updated": "2024-02-04 15:37:16.806000",
+        "last_updated": "2024-02-04T15:37:16.806000",
         "notion_id": "1317",
         "shcn": "4030",
         "shelf": "40",

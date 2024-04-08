@@ -22,7 +22,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/h213",
-        "last_updated": "2023-09-04 15:08:51.151000"
+        "last_updated": "2023-09-04T15:08:51.151000"
     },
     {
         "_id": "64f11ba6497c3069472f6d70",
@@ -183,7 +183,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/h21q",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11ba6497c3069472f6d84",
@@ -1351,7 +1351,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h269"
+        "permalink": "https://joeeasterly.github.io/go/h269",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11ba6497c3069472f6e16",
@@ -3280,10 +3281,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/h2dt",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2024-12-31 00:00:00",
+        "staged": "2024-01-07T13:56:33",
+        "expires": "2024-12-31T00:00:00",
         "label": "South Bay Rice Paper",
-        "last_updated": "2024-01-19 16:34:42.373000",
+        "last_updated": "2024-01-19T16:34:42.373000",
         "notion_id": "991",
         "percentage": "100",
         "quantity": "1",
@@ -8131,7 +8132,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/h2zq"
+        "permalink": "https://joeeasterly.github.io/go/h2zq",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11ba6497c3069472f7164",

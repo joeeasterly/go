@@ -2286,7 +2286,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/x99x",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11bc9497c306947360a8b",
@@ -2975,11 +2975,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/x9cm",
-        "staged": "2024-02-12 10:30:59",
+        "staged": "2024-02-12T10:30:59",
         "bay": "500",
         "expires": "2024-07-06T00:00:00",
         "label": "Triscuit Famiy size 12.5oz",
-        "last_updated": "2024-03-10 15:49:48.104000",
+        "last_updated": "2024-03-10T15:49:48.104000",
         "notion_id": "1621",
         "percentage": "500",
         "quantity": "1",
@@ -6821,7 +6821,7 @@
         "permalink": "https://joeeasterly.github.io/go/x9uk",
         "bay": "620",
         "label": "bay 620",
-        "last_updated": "2024-01-03 10:34:22.465000",
+        "last_updated": "2024-01-03T10:34:22.465000",
         "notion_id": "833",
         "shcn": "620",
         "shelf": "62",

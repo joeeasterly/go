@@ -7,7 +7,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/2111",
         "label": "sandisk microsd card reader",
-        "last_updated": "2023-09-08 20:07:26.994000",
+        "last_updated": "2023-09-08T20:07:26.994000",
         "notion_id": "235",
         "shelf": "25"
     },
@@ -59,7 +59,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/2117",
         "label": "Pi T Cobbler",
-        "last_updated": "2024-02-04 20:22:47.374000",
+        "last_updated": "2024-02-04T20:22:47.374000",
         "notion_id": "220",
         "shelf": "41",
         "bay": "413",
@@ -82,7 +82,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/2119",
         "label": "paper towels",
-        "last_updated": "2023-09-08 20:25:25.711000",
+        "last_updated": "2023-09-08T20:25:25.711000",
         "notion_id": null,
         "shelf": "150",
         "quantity": 13
@@ -93,7 +93,7 @@
         "target": "#",
         "allocated": false,
         "container": "1020",
-        "last_updated": "2024-02-07 12:23:53.163000"
+        "last_updated": "2024-02-07T12:23:53.163000"
     },
     {
         "_id": "64f11b7e497c30694727e977",
@@ -103,7 +103,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/211b",
         "label": "old ram for bellatrix",
-        "last_updated": "2023-09-11 19:17:45.923000",
+        "last_updated": "2023-09-11T19:17:45.923000",
         "notion_id": "362",
         "shelf": "10"
     },
@@ -149,7 +149,7 @@
         "bay": "411",
         "container": null,
         "label": "nintendo switch power adapter",
-        "last_updated": "2023-10-01 19:40:19.262000",
+        "last_updated": "2023-10-01T19:40:19.262000",
         "notion_id": "376",
         "shelf": "41",
         "slot": null
@@ -164,7 +164,7 @@
         "bay": "411",
         "container": null,
         "label": "sonos usb-c cable",
-        "last_updated": "2023-10-01 16:15:05.617000",
+        "last_updated": "2023-10-01T16:15:05.617000",
         "notion_id": "375",
         "shelf": "41",
         "slot": null
@@ -179,7 +179,7 @@
         "bay": null,
         "container": null,
         "label": "grey bungee cord .25in",
-        "last_updated": "2023-10-01 16:25:09.584000",
+        "last_updated": "2023-10-01T16:25:09.584000",
         "notion_id": null,
         "shelf": null,
         "slot": null
@@ -208,7 +208,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/211n",
         "label": "assorted unknown keys",
-        "last_updated": "2023-09-10 19:22:34.826000",
+        "last_updated": "2023-09-10T19:22:34.826000",
         "notion_id": null,
         "shelf": "34"
     },
@@ -1290,7 +1290,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/215v"
+        "permalink": "https://joeeasterly.github.io/go/215v",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11b7e497c30694727ea09",

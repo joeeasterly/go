@@ -5478,7 +5478,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/v9pd",
-        "staged": "2024-02-12 10:30:59"
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bc4497c306947350c1a",
@@ -7543,10 +7543,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/v9xf",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2024-12-11 00:00:00",
+        "staged": "2024-01-07T13:56:33",
+        "expires": "2024-12-11T00:00:00",
         "label": "Jayone Gochujang 500g",
-        "last_updated": "2024-01-18 21:57:37.447000",
+        "last_updated": "2024-01-18T21:57:37.447000",
         "notion_id": "965",
         "percentage": "100",
         "quantity": "1",
@@ -8193,7 +8193,7 @@
         "identifier": "v9zy",
         "target": "#",
         "allocated": false,
-        "last_updated": "2024-03-15 15:12:42.554000"
+        "last_updated": "2024-03-15T15:12:42.554000"
     },
     {
         "_id": "64f11bc4497c306947350d6c",

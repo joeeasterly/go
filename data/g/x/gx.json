@@ -2861,7 +2861,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gxc6"
+        "permalink": "https://joeeasterly.github.io/go/gxc6",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11ba6497c3069472f5ed3",
@@ -4590,11 +4591,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/gxjx",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "412",
         "container": "4120",
         "label": "slot 4120W",
-        "last_updated": "2024-01-28 15:15:39.382000",
+        "last_updated": "2024-01-28T15:15:39.382000",
         "notion_id": "1223",
         "shcn": "4120W",
         "shelf": "41",
@@ -7223,7 +7224,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/gxw6"
+        "permalink": "https://joeeasterly.github.io/go/gxw6",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11ba6497c3069472f60f3",
@@ -7688,10 +7690,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/gxxz",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2028-07-19 00:00:00",
+        "staged": "2024-01-07T13:56:33",
+        "expires": "2028-07-19T00:00:00",
         "label": "Goya Pinto Beans 15.5oz",
-        "last_updated": "2024-01-18 22:00:10.645000",
+        "last_updated": "2024-01-18T22:00:10.645000",
         "notion_id": "957",
         "percentage": "100",
         "quantity": "1",

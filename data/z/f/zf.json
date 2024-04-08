@@ -308,7 +308,7 @@
         "identifier": "zf27",
         "target": "#",
         "allocated": false,
-        "last_updated": "2024-03-12 14:56:35.379000"
+        "last_updated": "2024-03-12T14:56:35.379000"
     },
     {
         "_id": "64f11bcf497c306947372194",
@@ -2255,7 +2255,7 @@
         "permalink": "https://joeeasterly.github.io/go/zf9t",
         "bay": "6A1",
         "label": "bay 6A1",
-        "last_updated": "2024-01-03 10:54:46.131000",
+        "last_updated": "2024-01-03T10:54:46.131000",
         "notion_id": "869",
         "shcn": "6A1",
         "shelf": "6A",
@@ -8172,11 +8172,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/zfzw",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "5E3",
-        "expires": "2024-02-26 00:00:00",
+        "expires": "2024-02-26T00:00:00",
         "label": "Wegmans Grade AA Eggs 12ct",
-        "last_updated": "2024-01-24 16:53:11.044000",
+        "last_updated": "2024-01-24T16:53:11.044000",
         "notion_id": "1168",
         "percentage": "75",
         "quantity": "1",

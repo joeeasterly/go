@@ -5414,10 +5414,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/7gp5",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "654",
         "label": "Pedicure kit",
-        "last_updated": "2024-02-05 20:15:31.680000",
+        "last_updated": "2024-02-05T20:15:31.680000",
         "notion_id": "1325",
         "shcn": "654",
         "shelf": "65",
@@ -6486,7 +6486,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/7gta",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11b8c497c3069472aa897",
@@ -7224,7 +7224,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/7gw6",
         "label": "Food Shelf",
-        "last_updated": "2024-01-26 20:17:20.712000",
+        "last_updated": "2024-01-26T20:17:20.712000",
         "notion_id": "576",
         "shcn": "48",
         "shelf": "48",

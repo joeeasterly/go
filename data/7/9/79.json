@@ -1598,11 +1598,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/7978",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "412",
         "container": "4122",
         "label": "slot 4122D",
-        "last_updated": "2024-01-28 16:25:22.213000",
+        "last_updated": "2024-01-28T16:25:22.213000",
         "notion_id": "1245",
         "shcn": "4122D",
         "shelf": "41",
@@ -2599,7 +2599,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/79b4"
+        "permalink": "https://joeeasterly.github.io/go/79b4",
+        "staged": "2024-02-08T17:38:56"
     },
     {
         "_id": "64f11b8c497c3069472a8ab1",

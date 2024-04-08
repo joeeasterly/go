@@ -4497,7 +4497,7 @@
         "bay": "721",
         "container": "7210",
         "label": "#6-32 1/2in brass bolts",
-        "last_updated": "2024-01-20 14:43:49.459000",
+        "last_updated": "2024-01-20T14:43:49.459000",
         "notion_id": "1042",
         "shcn": "72101",
         "shelf": "72",
@@ -6415,10 +6415,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/nzt1",
-        "staged": "2024-02-12 10:30:59",
-        "expires": "2029-12-31 00:00:00",
+        "staged": "2024-02-12T10:30:59",
+        "expires": "2029-12-31T00:00:00",
         "label": "Swiffer Dusters 18ct",
-        "last_updated": "2024-02-12 20:35:21.914000",
+        "last_updated": "2024-02-12T20:35:21.914000",
         "notion_id": "1547",
         "percentage": "80",
         "quantity": "1",
@@ -7971,7 +7971,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/nzz2",
-        "staged": "2024-01-07 13:56:33"
+        "staged": "2024-01-07T13:56:33"
     },
     {
         "_id": "64f11bb3497c30694731e94f",

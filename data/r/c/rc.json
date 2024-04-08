@@ -4001,7 +4001,7 @@
         "bay": "721",
         "container": "7210",
         "label": "slot 7210C",
-        "last_updated": "2024-01-20 14:35:02.098000",
+        "last_updated": "2024-01-20T14:35:02.098000",
         "notion_id": "1053",
         "shcn": "7210C",
         "shelf": "72",
@@ -4750,7 +4750,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rckh"
+        "permalink": "https://joeeasterly.github.io/go/rckh",
+        "staged": "2024-02-08T17:38:56"
     },
     {
         "_id": "64f11bb9497c3069473317be",
@@ -7455,7 +7456,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/rcx3",
-        "staged": "2024-01-19 11:39:27"
+        "staged": "2024-01-19T11:39:27"
     },
     {
         "_id": "64f11bb9497c306947331910",

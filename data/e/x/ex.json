@@ -2000,7 +2000,7 @@
         "permalink": "https://joeeasterly.github.io/go/ex8t",
         "bay": "5N0",
         "label": "bay 5N0",
-        "last_updated": "2024-01-01 16:27:42.506000",
+        "last_updated": "2024-01-01T16:27:42.506000",
         "notion_id": "765",
         "shcn": "5N0",
         "shelf": "5N",
@@ -4285,11 +4285,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/exhq",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "402",
         "container": "4020",
         "label": "Logitech Pebble M350 Bluetooth Mouse",
-        "last_updated": "2024-02-11 16:42:12.017000",
+        "last_updated": "2024-02-11T16:42:12.017000",
         "notion_id": "1297",
         "shcn": "4020",
         "shelf": "40",
@@ -5501,7 +5501,7 @@
         "target": "#",
         "allocated": false,
         "container": "2310",
-        "last_updated": "2024-02-08 21:08:05.644000"
+        "last_updated": "2024-02-08T21:08:05.644000"
     },
     {
         "_id": "64f11ba0497c3069472e601b",
@@ -6317,7 +6317,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/exsm"
+        "permalink": "https://joeeasterly.github.io/go/exsm",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11ba0497c3069472e6081",

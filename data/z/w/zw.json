@@ -4550,11 +4550,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/zwjs",
-        "staged": "2024-01-07 13:56:33",
+        "staged": "2024-01-07T13:56:33",
         "bay": "183",
         "container": "1830",
         "label": "Festive Mouse & Stocking Charm",
-        "last_updated": "2024-01-17 15:01:17.480000",
+        "last_updated": "2024-01-17T15:01:17.480000",
         "notion_id": "63",
         "shcn": "1830",
         "shelf": "18",
@@ -6725,7 +6725,7 @@
         "identifier": "zwu8",
         "target": "#",
         "allocated": false,
-        "last_updated": "2024-02-12 10:56:00.282000"
+        "last_updated": "2024-02-12T10:56:00.282000"
     },
     {
         "_id": "64f11bd0497c306947375cb5",
@@ -8140,7 +8140,7 @@
         "identifier": "zwzs",
         "target": "#",
         "allocated": false,
-        "last_updated": "2024-02-01 18:26:23.088000"
+        "last_updated": "2024-02-01T18:26:23.088000"
     },
     {
         "_id": "64f11bd0497c306947375d66",

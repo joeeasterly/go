@@ -812,7 +812,7 @@
         "identifier": "nq46",
         "target": "#",
         "allocated": false,
-        "last_updated": "2024-02-08 20:11:59.747000"
+        "last_updated": "2024-02-08T20:11:59.747000"
     },
     {
         "_id": "64f11bb2497c30694731c1d3",
@@ -2589,7 +2589,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/nqb4",
-        "staged": "2024-02-06 18:58:19"
+        "staged": "2024-02-06T18:58:19"
     },
     {
         "_id": "64f11bb2497c30694731c2b1",
@@ -3086,11 +3086,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/nqd2",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "5E2",
-        "expires": "2024-02-23 00:00:00",
+        "expires": "2024-02-23T00:00:00",
         "label": "Wegmans Greek Nonfat Yogurt Strawberry 150g",
-        "last_updated": "2024-01-24 16:09:53.648000",
+        "last_updated": "2024-01-24T16:09:53.648000",
         "notion_id": "1153",
         "percentage": "100",
         "quantity": "1",

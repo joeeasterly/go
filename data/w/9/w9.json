@@ -2764,7 +2764,7 @@
         "identifier": "w9bt",
         "target": "#",
         "allocated": false,
-        "last_updated": "2024-02-05 12:48:45.061000"
+        "last_updated": "2024-02-05T12:48:45.061000"
     },
     {
         "_id": "64f11bc7497c306947358ac7",
@@ -3844,7 +3844,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/w9g1"
+        "permalink": "https://joeeasterly.github.io/go/w9g1",
+        "staged": "2024-02-08T17:38:56"
     },
     {
         "_id": "64f11bc7497c306947358b4e",
@@ -5957,11 +5958,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/w9r9",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "5E3",
-        "expires": "2024-04-28 00:00:00",
+        "expires": "2024-04-28T00:00:00",
         "label": "Whole Foods 365 Shredded Mozzarella 32oz",
-        "last_updated": "2024-01-24 16:57:00.234000",
+        "last_updated": "2024-01-24T16:57:00.234000",
         "notion_id": "1170",
         "percentage": "35",
         "quantity": "1",

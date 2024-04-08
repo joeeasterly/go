@@ -541,7 +541,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/zx34"
+        "permalink": "https://joeeasterly.github.io/go/zx34",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bd0497c306947375db1",
@@ -2854,11 +2855,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/zxc5",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "5E9",
-        "expires": "2024-05-22 00:00:00",
+        "expires": "2024-05-22T00:00:00",
         "label": "Wegmans Yellow Mustard 8oz",
-        "last_updated": "2024-01-23 22:11:42.201000",
+        "last_updated": "2024-01-23T22:11:42.201000",
         "notion_id": "1109",
         "percentage": "80",
         "quantity": "1",
@@ -4106,7 +4107,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/zxgz",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11bd0497c306947375f6d",

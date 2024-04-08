@@ -1310,7 +1310,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/3664",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11b81497c306947287e11",
@@ -3144,7 +3144,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/36d9",
         "label": "powder closet wall mount shelf",
-        "last_updated": "2024-01-22 13:16:58.243000",
+        "last_updated": "2024-01-22T13:16:58.243000",
         "notion_id": "795",
         "shcn": "5T",
         "shelf": "5T",
@@ -3261,10 +3261,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/36dq",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2023-12-31 00:00:00",
+        "staged": "2024-01-07T13:56:33",
+        "expires": "2023-12-31T00:00:00",
         "label": "The Wild Mushroom Company Dried Gourmet Mix Mushrooms 12oz",
-        "last_updated": "2024-01-19 12:07:42.122000",
+        "last_updated": "2024-01-19T12:07:42.122000",
         "notion_id": "969",
         "percentage": "80",
         "quantity": "1",

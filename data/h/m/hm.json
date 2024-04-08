@@ -622,7 +622,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/hm3e",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11ba7497c3069472fb5bb",
@@ -8015,11 +8015,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/hmza",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "503",
-        "expires": "2024-02-05 00:00:00",
+        "expires": "2024-02-05T00:00:00",
         "label": "Wegmans Wavy Potato Chips 11oz",
-        "last_updated": "2024-01-24 10:59:34.942000",
+        "last_updated": "2024-01-24T10:59:34.942000",
         "notion_id": "1137",
         "percentage": "40",
         "quantity": "1",

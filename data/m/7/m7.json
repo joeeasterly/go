@@ -22,14 +22,15 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/m713",
-        "staged": "2023-10-23 14:22:43",
+        "staged": "2023-10-23T14:22:43",
         "bay": "101",
         "container": "1010",
         "label": "BENQ treVolo UC13US USB power charger",
-        "last_updated": "2023-10-28T17:13:53.325000",
+        "last_updated": "2024-01-22T17:08:23.170000",
         "notion_id": "572",
         "shcn": "1010",
-        "shelf": "10"
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bae497c306947310170",
@@ -5853,7 +5854,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/m7qu"
+        "permalink": "https://joeeasterly.github.io/go/m7qu",
+        "staged": "2024-02-06T18:58:19"
     },
     {
         "_id": "64f11bae497c306947310448",

@@ -3270,10 +3270,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/cdds",
-        "staged": "2024-02-12 10:30:59",
+        "staged": "2024-02-12T10:30:59",
         "expires": "2024-03-29T00:00:00",
         "label": "Wegmans Sour Cream 16oz",
-        "last_updated": "2024-03-10 13:57:57.436000",
+        "last_updated": "2024-03-10T13:57:57.436000",
         "notion_id": "1610",
         "percentage": "100",
         "quantity": "1",
@@ -6033,7 +6033,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/cdrh",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11b9a497c3069472d1c5e",

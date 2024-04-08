@@ -246,7 +246,7 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/sk1y",
-        "staged": "2023-10-23 14:22:43",
+        "staged": "2023-10-23T14:22:43",
         "bay": "412",
         "container": "4122",
         "label": "female usb-c to male usb-a adapter",
@@ -1790,7 +1790,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/sk7y"
+        "permalink": "https://joeeasterly.github.io/go/sk7y",
+        "staged": "2024-01-30T20:10:32"
     },
     {
         "_id": "64f11bbd497c30694733b24c",
@@ -2774,7 +2775,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/skbt"
+        "permalink": "https://joeeasterly.github.io/go/skbt",
+        "staged": "2024-02-08T17:38:56"
     },
     {
         "_id": "64f11bbd497c30694733b2c7",

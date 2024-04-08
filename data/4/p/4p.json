@@ -5501,7 +5501,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/4ppg"
+        "permalink": "https://joeeasterly.github.io/go/4ppg",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11b85497c30694729401d",
@@ -5838,11 +5839,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/4pqt",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "413",
         "container": "4130",
         "label": "FTDI Cable 3.3V #70C",
-        "last_updated": "2024-02-04 20:40:48.487000",
+        "last_updated": "2024-02-04T20:40:48.487000",
         "notion_id": "1323",
         "shcn": "4130",
         "shelf": "41",

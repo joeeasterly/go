@@ -262,14 +262,15 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/cz21",
-        "staged": "2023-10-23 14:22:43",
+        "staged": "2023-10-23T14:22:43",
         "bay": "101",
         "container": "1010",
         "label": "Roku Remote - Entertainment Room",
-        "last_updated": "2023-11-03 12:21:33.037000",
+        "last_updated": "2024-01-22T17:06:36.602000",
         "notion_id": "573",
         "shcn": "1010",
-        "shelf": "10"
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b9b497c3069472d658e",
@@ -4144,7 +4145,7 @@
         "permalink": "https://joeeasterly.github.io/go/czh5",
         "bay": "712",
         "label": "bay 712",
-        "last_updated": "2024-01-20 14:26:23.513000",
+        "last_updated": "2024-01-20T14:26:23.513000",
         "notion_id": "1065",
         "shcn": "712",
         "shelf": "71",
@@ -4748,7 +4749,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/czkg"
+        "permalink": "https://joeeasterly.github.io/go/czkg",
+        "staged": "2024-02-08T17:38:56"
     },
     {
         "_id": "64f11b9b497c3069472d67bd",

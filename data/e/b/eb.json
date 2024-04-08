@@ -5686,11 +5686,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ebq7",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "583",
-        "expires": "2023-05-29 00:00:00",
+        "expires": "2023-05-29T00:00:00",
         "label": "Surasang Kimchi Hot Sauce 230ml",
-        "last_updated": "2024-01-20 20:32:54.090000",
+        "last_updated": "2024-01-20T20:32:54.090000",
         "notion_id": "1092",
         "percentage": "100",
         "quantity": "1",
@@ -7145,7 +7145,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ebvv"
+        "permalink": "https://joeeasterly.github.io/go/ebvv",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11b9f497c3069472e14e9",

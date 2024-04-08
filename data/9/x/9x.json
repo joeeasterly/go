@@ -3101,7 +3101,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9xd4"
+        "permalink": "https://joeeasterly.github.io/go/9xd4",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11b93497c3069472bdef1",
@@ -5060,13 +5061,13 @@
         "identifier": "9xms",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/9xms",
-        "staged": "2024-01-07 13:56:33",
+        "staged": "2024-01-07T13:56:33",
         "bay": "592",
-        "expires": "2025-05-04 00:00:00",
+        "expires": "2025-05-04T00:00:00",
         "label": "Fromm Small Breed Adult Gold 5lb",
-        "last_updated": "2024-01-08 16:46:36.604000",
+        "last_updated": "2024-01-08T16:46:36.604000",
         "notion_id": "939",
         "percentage": "100",
         "quantity": "1",

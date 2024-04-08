@@ -3638,11 +3638,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/m5f7",
-        "staged": "2024-01-30 20:10:32",
+        "staged": "2024-01-30T20:10:32",
         "bay": "403",
         "container": "4030",
         "label": "Samsung Watch USB-C cable",
-        "last_updated": "2024-02-04 15:31:06.306000",
+        "last_updated": "2024-02-04T15:31:06.306000",
         "notion_id": "1315",
         "shcn": "4030",
         "shelf": "40",
@@ -5145,7 +5145,7 @@
         "permalink": "https://joeeasterly.github.io/go/m5n2",
         "bay": "5D0",
         "label": "kitchen counter",
-        "last_updated": "2023-11-26 17:56:43.206000",
+        "last_updated": "2023-11-26T17:56:43.206000",
         "notion_id": "665",
         "shcn": "5D0",
         "shelf": "5D",
@@ -6477,7 +6477,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/m5t8"
+        "permalink": "https://joeeasterly.github.io/go/m5t8",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bae497c30694730fc95",

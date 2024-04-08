@@ -1561,7 +1561,7 @@
         "bay": "102",
         "container": "1020",
         "label": "6ft Apple Power Adapter Cable",
-        "last_updated": "2024-02-08 16:56:51.488000",
+        "last_updated": "2024-02-08T16:56:51.488000",
         "notion_id": "1427",
         "shcn": "1020",
         "shelf": "10",
@@ -1654,10 +1654,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/wq7e",
-        "staged": "2024-02-06 18:58:19",
+        "staged": "2024-02-06T18:58:19",
         "bay": "231",
         "container": "2310",
-        "last_updated": "2024-02-08 20:05:38.315000",
+        "last_updated": "2024-02-08T20:05:38.315000",
         "shcn": "2310",
         "shelf": "23"
     },
@@ -7508,7 +7508,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/wqx9",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11bc8497c30694735c516",

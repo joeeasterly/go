@@ -2253,7 +2253,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dh9t"
+        "permalink": "https://joeeasterly.github.io/go/dh9t",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11b9c497c3069472daa87",
@@ -6270,11 +6271,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/dhsg",
-        "staged": "2024-01-07 13:56:33",
+        "staged": "2024-01-07T13:56:33",
         "bay": "405",
         "container": "4050",
         "label": "Power Strips and Cables",
-        "last_updated": "2024-02-09 18:11:31.782000",
+        "last_updated": "2024-02-09T18:11:31.782000",
         "notion_id": "1465",
         "shcn": "4050",
         "shelf": "40",

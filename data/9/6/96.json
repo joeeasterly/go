@@ -5278,11 +5278,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/96nm",
-        "staged": "2024-01-07 13:56:33",
+        "staged": "2024-01-07T13:56:33",
         "bay": "183",
         "container": "1830",
         "label": "Teal Pav\u00e9\u00a0Clip Charm",
-        "last_updated": "2024-01-17 15:00:45.052000",
+        "last_updated": "2024-01-17T15:00:45.052000",
         "notion_id": "65",
         "shcn": "1830",
         "shelf": "18",
@@ -7734,7 +7734,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/96y6"
+        "permalink": "https://joeeasterly.github.io/go/96y6",
+        "staged": "2024-01-19T11:39:27"
     },
     {
         "_id": "64f11b91497c3069472b8133",

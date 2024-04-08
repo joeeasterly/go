@@ -2917,7 +2917,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/u6cd"
+        "permalink": "https://joeeasterly.github.io/go/u6cd",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bc1497c306947347eda",
@@ -4454,11 +4455,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/u6jd",
-        "staged": "2024-02-06 18:58:19",
+        "staged": "2024-02-06T18:58:19",
         "bay": "403",
         "container": "4031",
         "label": "Hosa 1/4in Stereo to 1/4in Mono Audio Interconnect Cable",
-        "last_updated": "2024-02-08 18:39:34.478000",
+        "last_updated": "2024-02-08T18:39:34.478000",
         "notion_id": "1423",
         "shcn": "4031",
         "shelf": "40",
@@ -7766,7 +7767,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/u6ya"
+        "permalink": "https://joeeasterly.github.io/go/u6ya",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bc1497c306947348137",
@@ -8064,7 +8066,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/u6zf",
         "label": "Apple female usb-a to male usb-c adapter",
-        "last_updated": "2023-10-22 18:31:36.986000",
+        "last_updated": "2023-10-22T18:31:36.986000",
         "notion_id": "535",
         "shcn": "4030",
         "type": "item"

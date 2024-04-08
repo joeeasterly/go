@@ -1269,7 +1269,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5s5y"
+        "permalink": "https://joeeasterly.github.io/go/5s5y",
+        "staged": "2024-02-06T18:58:19"
     },
     {
         "_id": "64f11b88497c30694729ca0c",
@@ -6934,11 +6935,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/5sv3",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "583",
-        "expires": "2025-01-23 00:00:00",
+        "expires": "2025-01-23T00:00:00",
         "label": "Clabber Girl Baking Powder 8.1oz",
-        "last_updated": "2024-01-20 20:30:22.685000",
+        "last_updated": "2024-01-20T20:30:22.685000",
         "notion_id": "1091",
         "percentage": "100",
         "quantity": "1",

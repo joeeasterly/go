@@ -613,7 +613,7 @@
         "target": "#",
         "allocated": false,
         "container": "4030",
-        "last_updated": "2024-02-05 21:06:28.786000"
+        "last_updated": "2024-02-05T21:06:28.786000"
     },
     {
         "_id": "64f11b8d497c3069472ac5ba",
@@ -1528,7 +1528,7 @@
         "permalink": "https://joeeasterly.github.io/go/7r6y",
         "bay": "541",
         "label": "coffee beans, to-go containers, beverage accessories",
-        "last_updated": "2023-11-25 19:30:01.201000",
+        "last_updated": "2023-11-25T19:30:01.201000",
         "notion_id": "630",
         "shcn": "541",
         "shelf": "54",
@@ -3213,11 +3213,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/7rdh",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "412",
         "container": "4120",
         "label": "slot 4120P",
-        "last_updated": "2024-01-28 15:09:07.407000",
+        "last_updated": "2024-01-28T15:09:07.407000",
         "notion_id": "1219",
         "shcn": "4120P",
         "shelf": "41",

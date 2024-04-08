@@ -3373,14 +3373,15 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/a4e5",
-        "staged": "2023-10-23 14:22:43",
+        "staged": "2023-10-23T14:22:43",
         "bay": "101",
         "container": "1010",
         "label": "BENQ treVolo U bluetooth speaker",
-        "last_updated": "2023-10-28T17:10:00.430000",
+        "last_updated": "2024-01-22T17:05:59.231000",
         "notion_id": "568",
         "shcn": "1010",
-        "shelf": "10"
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b94497c3069472bf712",

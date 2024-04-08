@@ -2021,7 +2021,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x48w"
+        "permalink": "https://joeeasterly.github.io/go/x48w",
+        "staged": "2024-02-08T17:38:56"
     },
     {
         "_id": "64f11bc9497c30694735f66a",
@@ -2454,11 +2455,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/x4ak",
-        "staged": "2024-01-07 13:56:33",
+        "staged": "2024-01-07T13:56:33",
         "bay": "412",
         "container": "4122",
         "label": "slot 4122C",
-        "last_updated": "2024-01-28 16:24:13.329000",
+        "last_updated": "2024-01-28T16:24:13.329000",
         "notion_id": "1244",
         "shcn": "4122C",
         "shelf": "41",
@@ -5032,11 +5033,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/x4mm",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "721",
         "container": "7210",
         "label": "Brass 32-thread nuts, bolts, and washers",
-        "last_updated": "2024-01-20 14:44:44.790000",
+        "last_updated": "2024-01-20T14:44:44.790000",
         "notion_id": "1040",
         "shcn": "7210",
         "shelf": "72",
@@ -6280,7 +6281,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/x4sf"
+        "permalink": "https://joeeasterly.github.io/go/x4sf",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bc9497c30694735f87c",
@@ -7371,7 +7373,7 @@
         "permalink": "https://joeeasterly.github.io/go/x4wq",
         "bay": "5S1",
         "label": "home reference books",
-        "last_updated": "2024-01-01 16:53:22.555000",
+        "last_updated": "2024-01-01T16:53:22.555000",
         "notion_id": "789",
         "shcn": "5S1",
         "shelf": "5S",

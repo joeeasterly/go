@@ -1510,7 +1510,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/j56w",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11ba9497c3069472ffa2a",
@@ -2911,11 +2911,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/j5cc",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "411",
         "container": "411D",
         "label": "Gallon Zip-Loc Bags",
-        "last_updated": "2024-01-29 17:50:04.169000",
+        "last_updated": "2024-01-29T17:50:04.169000",
         "notion_id": "1268",
         "shcn": "411D",
         "shelf": "41",
@@ -3983,7 +3983,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/j5gh"
+        "permalink": "https://joeeasterly.github.io/go/j5gh",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11ba9497c3069472ffb5e",

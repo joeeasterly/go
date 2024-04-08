@@ -2949,7 +2949,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ecch"
+        "permalink": "https://joeeasterly.github.io/go/ecch",
+        "staged": "2024-02-06T18:58:19"
     },
     {
         "_id": "64f11b9f497c3069472e16de",
@@ -3966,10 +3967,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ecgg",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2024-10-04 00:00:00",
+        "staged": "2024-01-07T13:56:33",
+        "expires": "2024-10-04T00:00:00",
         "label": "Franks RedHot Original Sauce 25oz",
-        "last_updated": "2024-01-19 12:15:07.640000",
+        "last_updated": "2024-01-19T12:15:07.640000",
         "notion_id": "986",
         "percentage": "100",
         "quantity": "1",
@@ -7449,7 +7450,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ecx2"
+        "permalink": "https://joeeasterly.github.io/go/ecx2",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11b9f497c3069472e190f",

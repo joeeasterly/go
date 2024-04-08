@@ -908,7 +908,7 @@
         "identifier": "zh4j",
         "target": "#",
         "allocated": false,
-        "last_updated": "2024-02-12 10:55:10.330000"
+        "last_updated": "2024-02-12T10:55:10.330000"
     },
     {
         "_id": "64f11bcf497c3069473729df",
@@ -7031,7 +7031,7 @@
         "permalink": "https://joeeasterly.github.io/go/zhvf",
         "bay": "411",
         "label": "bay 411",
-        "last_updated": "2023-12-24 20:56:08.864000",
+        "last_updated": "2023-12-24T20:56:08.864000",
         "notion_id": "430",
         "shcn": "411",
         "shelf": "41",
@@ -7332,11 +7332,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/zhwm",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "5E2",
-        "expires": "2024-08-02 00:00:00",
+        "expires": "2024-08-02T00:00:00",
         "label": "Better Than Bouillon Beef Base 21oz",
-        "last_updated": "2024-01-24 16:26:41.198000",
+        "last_updated": "2024-01-24T16:26:41.198000",
         "notion_id": "1159",
         "percentage": "80",
         "quantity": "1",

@@ -1844,7 +1844,7 @@
         "identifier": "sq87",
         "target": "#",
         "allocated": false,
-        "last_updated": "2024-01-19 15:08:41.415000"
+        "last_updated": "2024-01-19T15:08:41.415000"
     },
     {
         "_id": "64f11bbd497c30694733c254",
@@ -6069,10 +6069,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/sqrq",
-        "staged": "2024-02-12 10:30:59",
-        "expires": "2025-12-31 00:00:00",
+        "staged": "2024-02-12T10:30:59",
+        "expires": "2025-12-31T00:00:00",
         "label": "Bissell Pet Pro Upright Cleaner 48oz",
-        "last_updated": "2024-02-12 20:22:40.857000",
+        "last_updated": "2024-02-12T20:22:40.857000",
         "notion_id": "1512",
         "percentage": "90",
         "quantity": "1",

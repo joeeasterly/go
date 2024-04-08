@@ -6438,11 +6438,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/f7t5",
-        "staged": "2024-01-30 20:10:32",
+        "staged": "2024-01-30T20:10:32",
         "bay": "403",
         "container": "4030",
         "label": "Belkin F2CU040 USB-C to Ethernet Adapter",
-        "last_updated": "2024-02-06 21:25:55.663000",
+        "last_updated": "2024-02-06T21:25:55.663000",
         "notion_id": "1362",
         "shcn": "4030",
         "shelf": "40",
@@ -7815,7 +7815,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/f7yg",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11ba1497c3069472e853d",

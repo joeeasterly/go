@@ -5711,7 +5711,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/axqa",
         "label": "shelf 33",
-        "last_updated": "2023-12-24 20:44:06.967000",
+        "last_updated": "2023-12-24T20:44:06.967000",
         "notion_id": "259",
         "shcn": "33",
         "shelf": "33",
@@ -8020,7 +8020,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/axza",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11b96497c3069472c6157",
@@ -8173,11 +8173,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/axzw",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "492",
-        "expires": "2024-09-21 00:00:00",
+        "expires": "2024-09-21T00:00:00",
         "label": "Wegmans Sparkling Water Mixed Berry 12pk",
-        "last_updated": "2024-01-27 14:49:26.078000",
+        "last_updated": "2024-01-27T14:49:26.078000",
         "notion_id": "1184",
         "percentage": "100",
         "quantity": "1",

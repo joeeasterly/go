@@ -2942,7 +2942,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/z5cg",
-        "staged": "2024-02-08 17:38:56"
+        "staged": "2024-02-08T17:38:56"
     },
     {
         "_id": "64f11bce497c30694736fadd",
@@ -7487,10 +7487,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/z5x8",
-        "staged": "2024-01-19 11:39:27",
-        "expires": "2024-06-18 00:00:00",
+        "staged": "2024-01-19T11:39:27",
+        "expires": "2024-06-18T00:00:00",
         "label": "Wegmans Italian Style Sliced Pepperoni 6oz",
-        "last_updated": "2024-02-11 12:52:31.856000",
+        "last_updated": "2024-02-11T12:52:31.856000",
         "notion_id": "1482",
         "percentage": "100",
         "quantity": "1",

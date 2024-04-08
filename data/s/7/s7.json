@@ -1446,11 +1446,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/s76n",
-        "staged": "2024-02-06 18:58:19",
+        "staged": "2024-02-06T18:58:19",
         "bay": "231",
         "container": "2310",
         "label": "6ft Apple Power Adapter Cable",
-        "last_updated": "2024-02-08 20:05:52.629000",
+        "last_updated": "2024-02-08T20:05:52.629000",
         "notion_id": "1428",
         "shcn": "2310",
         "shelf": "23",
@@ -5670,7 +5670,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/s7q4"
+        "permalink": "https://joeeasterly.github.io/go/s7q4",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bbc497c306947338431",

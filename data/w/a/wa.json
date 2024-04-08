@@ -1976,7 +1976,7 @@
         "permalink": "https://joeeasterly.github.io/go/wa8q",
         "bay": "241",
         "label": "bay 241",
-        "last_updated": "2023-12-24 21:12:15.544000",
+        "last_updated": "2023-12-24T21:12:15.544000",
         "notion_id": "163",
         "shcn": "241",
         "shelf": "24",
@@ -4269,10 +4269,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/wahn",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2024-12-31 00:00:00",
+        "staged": "2024-01-07T13:56:33",
+        "expires": "2024-12-31T00:00:00",
         "label": "Loris Natural Foods Steelhead Oats 21oz bag",
-        "last_updated": "2024-01-19 18:53:54.482000",
+        "last_updated": "2024-01-19T18:53:54.482000",
         "notion_id": "1003",
         "percentage": "100",
         "quantity": "1",
@@ -6630,7 +6630,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/watu"
+        "permalink": "https://joeeasterly.github.io/go/watu",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11bc7497c3069473590a8",

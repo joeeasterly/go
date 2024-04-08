@@ -3542,7 +3542,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/qyeu",
-        "staged": "2024-02-06 18:58:19"
+        "staged": "2024-02-06T18:58:19"
     },
     {
         "_id": "64f11bb8497c30694732e328",
@@ -5719,10 +5719,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/qyqb",
-        "staged": "2024-02-12 10:30:59",
+        "staged": "2024-02-12T10:30:59",
         "expires": "2026-09-30T00:00:00",
         "label": "NatureMade B1 100mg 100ct",
-        "last_updated": "2024-02-18 15:02:39.520000",
+        "last_updated": "2024-02-18T15:02:39.520000",
         "notion_id": "1583",
         "percentage": "99",
         "quantity": "99",
@@ -5805,7 +5805,7 @@
         "bay": "412",
         "container": "4121",
         "label": "part of item gnbu",
-        "last_updated": "2023-10-12 20:39:49.092000",
+        "last_updated": "2023-10-12T20:39:49.092000",
         "notion_id": "439",
         "shelf": "41",
         "type": "storage",

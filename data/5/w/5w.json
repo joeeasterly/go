@@ -4374,10 +4374,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/5wj3",
-        "staged": "2024-01-19 11:39:27",
-        "expires": "2024-09-16 00:00:00",
+        "staged": "2024-01-19T11:39:27",
+        "expires": "2024-09-16T00:00:00",
         "label": "Wegmans Sparkling Water Dragon Fruit 12pk",
-        "last_updated": "2024-01-27 14:53:51.745000",
+        "last_updated": "2024-01-27T14:53:51.745000",
         "notion_id": "1180",
         "percentage": "100",
         "quantity": "1",
@@ -5547,7 +5547,7 @@
         "permalink": "https://joeeasterly.github.io/go/5wpm",
         "bay": "5K1",
         "label": "bay 5K1",
-        "last_updated": "2024-02-09 14:18:27.240000",
+        "last_updated": "2024-02-09T14:18:27.240000",
         "notion_id": "1457",
         "shcn": "5K1",
         "shelf": "5K",
@@ -7167,7 +7167,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5wvx"
+        "permalink": "https://joeeasterly.github.io/go/5wvx",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11b88497c30694729dceb",
@@ -7183,7 +7184,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/5wvz"
+        "permalink": "https://joeeasterly.github.io/go/5wvz",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11b88497c30694729dced",

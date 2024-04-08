@@ -4902,7 +4902,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/y1m5",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11bcb497c306947366bd2",
@@ -6071,10 +6071,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/y1rq",
-        "staged": "2024-01-19 11:39:27",
-        "expires": "2024-03-26 00:00:00",
+        "staged": "2024-01-19T11:39:27",
+        "expires": "2024-03-26T00:00:00",
         "label": "Tostitos Scoops Party Size 14.5oz",
-        "last_updated": "2024-02-11 13:08:19.334000",
+        "last_updated": "2024-02-11T13:08:19.334000",
         "notion_id": "1495",
         "percentage": "100",
         "quantity": "1",

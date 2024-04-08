@@ -182,7 +182,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/3a1q",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11b81497c306947288d84",
@@ -479,11 +479,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/3a2v",
-        "staged": "2024-01-19 11:39:27",
+        "staged": "2024-01-19T11:39:27",
         "bay": "492",
-        "expires": "2024-12-14 00:00:00",
+        "expires": "2024-12-14T00:00:00",
         "label": "Wegmans Spring Water 128oz",
-        "last_updated": "2024-01-20 16:19:05.109000",
+        "last_updated": "2024-01-20T16:19:05.109000",
         "notion_id": "1081",
         "percentage": "100",
         "quantity": "1",
@@ -4370,7 +4370,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/3aj1"
+        "permalink": "https://joeeasterly.github.io/go/3aj1",
+        "staged": "2024-02-12T10:30:59"
     },
     {
         "_id": "64f11b81497c306947288f8e",
@@ -6171,11 +6172,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/3as2",
-        "staged": "2024-01-30 20:10:32",
+        "staged": "2024-01-30T20:10:32",
         "bay": "403",
         "container": "4031",
         "label": "6ft white cat 6 gigabit ethernet cable",
-        "last_updated": "2024-01-31 19:52:45.845000",
+        "last_updated": "2024-01-31T19:52:45.845000",
         "notion_id": "1282",
         "shcn": "4031",
         "shelf": "40",

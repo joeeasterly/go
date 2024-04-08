@@ -3710,7 +3710,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/ydfg",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11bcc497c306947369b3d",
@@ -3975,11 +3975,11 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ydgh",
-        "staged": "2024-01-30 20:10:32",
+        "staged": "2024-01-30T20:10:32",
         "bay": "403",
         "container": "4030",
         "label": "12in USB-C to USB-A cable",
-        "last_updated": "2024-02-04 15:34:09.372000",
+        "last_updated": "2024-02-04T15:34:09.372000",
         "notion_id": "1274",
         "shcn": "4030",
         "shelf": "40",
@@ -5761,7 +5761,7 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ydqf",
         "label": "female usb-c to usb-c and usb-micro y adapter",
-        "last_updated": "2024-01-28 16:54:47.899000",
+        "last_updated": "2024-01-28T16:54:47.899000",
         "notion_id": "418",
         "shelf": "41",
         "bay": "411",

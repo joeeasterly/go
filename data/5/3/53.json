@@ -6094,10 +6094,10 @@
         "class": "inventory",
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/53rt",
-        "staged": "2024-01-07 13:56:33",
-        "expires": "2025-05-30 00:00:00",
+        "staged": "2024-01-07T13:56:33",
+        "expires": "2025-05-30T00:00:00",
         "label": "Wegmans Smooth Pizza Sauce",
-        "last_updated": "2024-01-18 21:41:46.245000",
+        "last_updated": "2024-01-18T21:41:46.245000",
         "notion_id": "962",
         "percentage": "100",
         "quantity": "1",
@@ -7138,7 +7138,7 @@
         "class": "inventory",
         "allocated": false,
         "permalink": "https://joeeasterly.github.io/go/53vu",
-        "staged": "2023-10-23 14:22:43"
+        "staged": "2023-10-23T14:22:43"
     },
     {
         "_id": "64f11b86497c3069472974e8",
