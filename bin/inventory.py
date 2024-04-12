@@ -2,6 +2,7 @@
 #
 import os
 from create_record import create_record
+from create_media import create_media
 from search_records import search_records
 from update_record import update_record
 from update_consumable import update_consumable
@@ -63,6 +64,8 @@ def main():
             update_consumable()
         elif choice == '81':
             add_consumable_instance()
+        if choice == 'm':
+            create_media()
         elif choice == '0':
             print('Goodbye!')
             break
