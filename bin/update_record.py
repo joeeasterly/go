@@ -3,6 +3,7 @@ from datetime import datetime
 from lib_mungo import get_record_by_identifier, get_last_record
 from lib_notion import link_notion_inventory, get_notion_record, parse_notion_input
 from lib_shcn import parse_shcn_input
+from lib_git import push_record
 from print_inventory import print_inventory
 from lib_identifier import parse_qrcode_input
 from update_record_by_identifier import update_record_by_identifier
@@ -103,6 +104,7 @@ def update_record():
 
         # Sync the record to Notion.
         link_notion_inventory(notion_id, mungo_id, shcn, label)
+        push_record(mungo_id)
         print("Record updated successfully.")
         print_inventory(get_record_by_identifier(qrcode))
     else:
