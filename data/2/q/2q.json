@@ -3467,9 +3467,13 @@
         "_id": "64f11b80497c30694728431e",
         "identifier": "2qej",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2qej"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2qej",
+        "label": "When Pigs Fly!: Training Success with Impossible Dogs",
+        "last_updated": "2024-04-11T21:08:49.384000",
+        "notion_id": "78",
+        "type": "work"
     },
     {
         "_id": "64f11b80497c30694728431f",

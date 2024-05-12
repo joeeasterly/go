@@ -4323,9 +4323,13 @@
         "_id": "64f11bc5497c306947352389",
         "identifier": "vfhw",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/vfhw"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/vfhw",
+        "label": "Korean Handwriting, Word by Word",
+        "last_updated": "2024-04-11T21:12:23.163000",
+        "notion_id": "644",
+        "type": "work"
     },
     {
         "_id": "64f11bc5497c30694735238a",

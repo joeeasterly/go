@@ -2683,9 +2683,13 @@
         "_id": "64f11bcc497c3069473692bc",
         "identifier": "ybbg",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ybbg"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ybbg",
+        "label": "Wine Tasting, Second Edition: A Professional Handbook (Food Science and Technology)",
+        "last_updated": "2024-04-11T20:58:32.008000",
+        "notion_id": "456",
+        "type": "work"
     },
     {
         "_id": "64f11bcc497c3069473692bd",

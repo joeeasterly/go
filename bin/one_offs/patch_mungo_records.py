@@ -1,3 +1,4 @@
+#!/usr/local/gh/go/.venv/bin/python3
 from pymongo import MongoClient
 import csv
 import bson

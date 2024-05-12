@@ -1779,9 +1779,19 @@
         "identifier": "kv7x",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/kv7x",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "expires": "2025-02-28T00:00:00",
+        "label": "Starbucks Pike Place K-Cup Pods 72ct",
+        "last_updated": "2024-05-10T14:01:23.689000",
+        "notion_id": "1663",
+        "percentage": "100",
+        "quantity": "72",
+        "shcn": "20",
+        "shelf": "20",
+        "type": "consumable",
+        "upc": "050000856503"
     },
     {
         "_id": "64f11bae497c30694730d64b",

@@ -627,9 +627,13 @@
         "_id": "64f11b9f497c3069472e25bb",
         "identifier": "eg3f",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/eg3f"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/eg3f",
+        "label": "Writing systems : a linguistic approach",
+        "last_updated": "2024-04-10T20:34:55.304000",
+        "notion_id": "1216",
+        "type": "work"
     },
     {
         "_id": "64f11b9f497c3069472e25bc",

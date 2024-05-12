@@ -7784,9 +7784,16 @@
         "identifier": "mbyc",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/mbyc",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "300",
+        "label": "Box: FlexRadio Maestro Radio Controller",
+        "last_updated": "2024-05-10T14:36:33.423000",
+        "notion_id": "1665",
+        "shcn": "300",
+        "shelf": "30",
+        "type": "item"
     },
     {
         "_id": "64f11baf497c306947311539",

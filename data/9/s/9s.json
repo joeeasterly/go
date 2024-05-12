@@ -716,9 +716,13 @@
         "_id": "64f11b92497c3069472bc9c6",
         "identifier": "9s3t",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9s3t"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9s3t",
+        "label": "Korean Handwriting, Consonants and Vowels",
+        "last_updated": "2024-04-10T20:31:56.098000",
+        "notion_id": "288",
+        "type": "work"
     },
     {
         "_id": "64f11b92497c3069472bc9c7",

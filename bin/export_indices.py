@@ -3,12 +3,7 @@ import pymongo
 from bson import ObjectId
 from datetime import datetime
 import json
-
-def connect_mungo():
-    client = pymongo.MongoClient("mungo:27017")
-    db = client["go"]
-    collection = db["link"]
-    return collection
+from lib_mungo import connect_mungo
 
 # Function to handle ObjectId serialization
 def handle_objectid(obj):
@@ -58,7 +53,7 @@ prefixes = [
 ]
 
 # Loop through each prefix and find matching documents
-for prefix in prefixes:
+for index, prefix in enumerate(prefixes):
     # Fetch documents whose identifiers start with the current prefix
     results = collection.find({"identifier": {'$regex': f'^{prefix}'}})
 
@@ -77,4 +72,4 @@ for prefix in prefixes:
     file_path = f'/usr/local/gh/go/data/{first_char}/{second_char}/{prefix}.json'
     with open(f'/usr/local/gh/go/data/{first_char}/{second_char}/{prefix}.json', 'w') as f:
         json.dump(documents_list, f, default=handle_objectid, indent=4)
-        print(f'Exported {file_path}')
+        print(f'Exported {index + 1} of {len(prefixes)}: {file_path}')

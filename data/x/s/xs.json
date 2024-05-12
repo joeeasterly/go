@@ -5070,9 +5070,13 @@
         "_id": "64f11bcb497c306947364be4",
         "identifier": "xsmr",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xsmr"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xsmr",
+        "label": "The Wisdom Books: Job, Proverbs, and Ecclesiastes: A Translation with Commentary",
+        "last_updated": "2024-04-10T20:43:42.692000",
+        "notion_id": "586",
+        "type": "work"
     },
     {
         "_id": "64f11bcb497c306947364be5",

@@ -7,36 +7,45 @@ from bson import ObjectId
 from datetime import datetime
 from lib_mungo import connect_mungo
 
-# Custom JSON encoder to handle serialization of ObjectId and datetime objects
+# Custom JSON encoder for handling ObjectId and datetime serialization
 class CustomJSONEncoder(json.JSONEncoder):
     def default(self, obj):
         if isinstance(obj, (ObjectId, datetime)):
             return str(obj)
         return super().default(obj)
 
-# Step 1: Get the most recent commit date from GitHub
-commit_date_output = subprocess.check_output(["git", "log", "-1", "--format=%cd", "--date=format:%Y-%m-%d %H:%M:%S", "--", "data/"])
-commit_date = commit_date_output.decode("utf-8").strip()
+# Function to fetch the most recent commit date
+def get_most_recent_commit_date():
+    try:
+        commit_date_output = subprocess.check_output(["git", "log", "-1", "--format=%cd", "--date=format:%Y-%m-%d %H:%M:%S", "--", "data/"])
+        commit_date = commit_date_output.decode("utf-8").strip()
+        if commit_date:
+            return datetime.strptime(commit_date, "%Y-%m-%d %H:%M:%S")
+        else:
+            print("No recent commit data found. Assuming today's date for comparison.")
+            return datetime.now()
+    except subprocess.CalledProcessError as e:
+        print(f"Failed to fetch commit date: {e}")
+        return datetime.now()  # Fallback to current date
 
-# Convert commit_date string to datetime object
-commit_date_datetime = datetime.strptime(commit_date, "%Y-%m-%d %H:%M:%S")
+# Main script execution starts here
+commit_date_datetime = get_most_recent_commit_date()
 
-# Step 2: Connect to MongoDB
+# Connect to MongoDB
 collection = connect_mungo()
 
-# Step 3 and 4: Compare dates and group documents
+# Compare dates and group documents
 updated_identifiers = set()
 updated_prefixes = set()
 for document in collection.find():
-    doc_date = document.get("last_updated")  # Replace with the actual date field in your document
-    if doc_date is not None:
-        if doc_date > commit_date_datetime:
-            identifier = document["identifier"]  # Replace with the actual identifier field in your document
-            prefix = identifier[:2]
-            updated_prefixes.add(prefix)
-            updated_identifiers.add(identifier)
+    doc_date = document.get("last_updated")
+    if doc_date and doc_date > commit_date_datetime:
+        identifier = document["identifier"]
+        prefix = identifier[:2]
+        updated_prefixes.add(prefix)
+        updated_identifiers.add(identifier)
 
-# Step 5: Print identifiers
+# Print identifiers and process documents
 print("Identifiers updated since the most recent GitHub commit:")
 for identifier in updated_identifiers:
     print(identifier)

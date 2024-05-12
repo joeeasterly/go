@@ -2587,9 +2587,17 @@
         "identifier": "nqb4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/nqb4",
-        "staged": "2024-02-06T18:58:19"
+        "staged": "2024-02-06T18:58:19",
+        "bay": "101",
+        "container": "1010",
+        "label": "2m displayport cable",
+        "last_updated": "2024-04-10T19:44:17.229000",
+        "notion_id": "1661",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bb2497c30694731c2b1",

@@ -3874,9 +3874,13 @@
         "_id": "64f11b8b497c3069472a5350",
         "identifier": "6ug4",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/6ug4"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/6ug4",
+        "label": "Wicked: The Life and Times of the Wicked Witch of the West",
+        "last_updated": "2024-04-11T21:04:30.165000",
+        "notion_id": "184",
+        "type": "work"
     },
     {
         "_id": "64f11b8b497c3069472a5351",

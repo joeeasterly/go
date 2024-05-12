@@ -3466,9 +3466,13 @@
         "_id": "64f11b92497c3069472b9b1d",
         "identifier": "9deh",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/9deh"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/9deh",
+        "label": "Wine for Every Day and Every Occasion: Red, White, and Bubbly to Celebrate the Joy of Living",
+        "last_updated": "2024-04-11T20:59:27.047000",
+        "notion_id": "321",
+        "type": "work"
     },
     {
         "_id": "64f11b92497c3069472b9b1e",

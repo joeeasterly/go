@@ -833,9 +833,13 @@
         "_id": "64f11bc9497c306947360dd3",
         "identifier": "xa47",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/xa47"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/xa47",
+        "label": "When You are Engulfed in Flames",
+        "last_updated": "2024-04-11T21:07:38.916000",
+        "notion_id": "1156",
+        "type": "work"
     },
     {
         "_id": "64f11bc9497c306947360dd4",

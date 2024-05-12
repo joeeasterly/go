@@ -6100,9 +6100,13 @@
         "_id": "64f11b91497c3069472b8066",
         "identifier": "96rt",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/96rt"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/96rt",
+        "label": "The Well of Lost Plots: A Thursday Next Novel",
+        "last_updated": "2024-04-11T21:10:31.327000",
+        "notion_id": "1483",
+        "type": "work"
     },
     {
         "_id": "64f11b91497c3069472b8067",

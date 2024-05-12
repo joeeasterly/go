@@ -2876,9 +2876,19 @@
         "identifier": "mfc8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/mfc8",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "expires": "2025-04-30T00:00:00",
+        "label": "Rocco and Roxie Enzymatic Cleaner 1gal",
+        "last_updated": "2024-05-10T14:44:13.501000",
+        "notion_id": "1666",
+        "percentage": "100",
+        "quantity": "1",
+        "shcn": "20",
+        "shelf": "20",
+        "type": "consumable",
+        "upc": "00210"
     },
     {
         "_id": "64f11baf497c3069473122d5",

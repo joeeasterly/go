@@ -5619,9 +5619,16 @@
         "identifier": "mgpx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/mgpx",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "378",
+        "label": "1/2in adhesive magnetic tape",
+        "last_updated": "2024-05-10T14:53:39.345000",
+        "notion_id": "1669",
+        "shcn": "378",
+        "shelf": "37",
+        "type": "item"
     },
     {
         "_id": "64f11baf497c30694731282b",
