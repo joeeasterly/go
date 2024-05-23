@@ -2,7 +2,7 @@
 import sys
 import pymongo
 def connect_mungo():
-    client = pymongo.MongoClient("mungo.local:27017")
+    client = pymongo.MongoClient("192.168.86.79:27017")
     db = client["go"]
     collection = db["link"]
     return collection
