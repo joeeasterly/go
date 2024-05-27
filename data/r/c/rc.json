@@ -4749,9 +4749,15 @@
         "identifier": "rckh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/rckh",
-        "staged": "2024-02-08T17:38:56"
+        "staged": "2024-02-08T17:38:56",
+        "label": "DJI 20in USB-A to USB-C Cable",
+        "last_updated": "2024-05-27T19:51:37.138000",
+        "notion_id": "1679",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bb9497c3069473317be",
