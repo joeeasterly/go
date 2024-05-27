@@ -2477,9 +2477,15 @@
         "identifier": "djap",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/djap",
-        "staged": "2024-01-30T20:10:32"
+        "staged": "2024-01-30T20:10:32",
+        "label": "Microsoft Ergonomic Bluetooth Mouse model 1955 sn 455010921411",
+        "last_updated": "2024-05-27T19:26:38.117000",
+        "notion_id": "1673",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b9d497c3069472daea3",
