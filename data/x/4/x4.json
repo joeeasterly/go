@@ -6288,9 +6288,15 @@
         "identifier": "x4sf",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/x4sf",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Cnet Enterprise AC Adapter mn AD1605C input 100-240V~0.8A Output 5.0V 2.6A",
+        "last_updated": "2024-05-27T19:32:42.245000",
+        "notion_id": "1675",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bc9497c30694735f87c",
