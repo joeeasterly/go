@@ -4748,9 +4748,15 @@
         "identifier": "czkg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/czkg",
-        "staged": "2024-02-08T17:38:56"
+        "staged": "2024-02-08T17:38:56",
+        "label": "DJI USB-C to USB-Micro cable",
+        "last_updated": "2024-05-27T19:34:56.186000",
+        "notion_id": "1676",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b9b497c3069472d67bd",
