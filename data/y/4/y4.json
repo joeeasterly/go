@@ -7837,9 +7837,15 @@
         "identifier": "y4ym",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/y4ym",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Olfa 60mm rotary blade 1ct",
+        "last_updated": "2024-05-27T19:56:07.372000",
+        "notion_id": "1680",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bcb497c306947367941",
