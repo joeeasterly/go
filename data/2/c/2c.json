@@ -6810,9 +6810,15 @@
         "identifier": "2cuj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/2cuj",
-        "staged": "2024-02-08T17:38:56"
+        "staged": "2024-02-08T17:38:56",
+        "label": "Male Mini HDMI to Female HDMI adapter",
+        "last_updated": "2024-05-28T11:23:32.885000",
+        "notion_id": "1693",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b7f497c3069472818bf",
