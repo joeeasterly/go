@@ -3524,9 +3524,16 @@
         "identifier": "gues",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/gues",
-        "staged": "2024-01-19T11:39:27"
+        "staged": "2024-01-19T11:39:27",
+        "bay": "300",
+        "label": "Box: MFJ-4218V Switching Power Supply",
+        "last_updated": "2024-05-28T13:49:49.471000",
+        "notion_id": "1695",
+        "shcn": "300",
+        "shelf": "30",
+        "type": "item"
     },
     {
         "_id": "64f11ba5497c3069472f5326",
