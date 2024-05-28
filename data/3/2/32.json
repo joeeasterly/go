@@ -6164,9 +6164,15 @@
         "identifier": "32s3",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/32s3",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Assorted laptop decals",
+        "last_updated": "2024-05-28T17:37:09.688000",
+        "notion_id": "1700",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b81497c306947287070",
