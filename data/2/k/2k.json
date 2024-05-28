@@ -2764,8 +2764,14 @@
         "identifier": "2kbt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2kbt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2kbt",
+        "label": "25ft grounded extension cable",
+        "last_updated": "2024-05-28T11:05:58.049000",
+        "notion_id": "1690",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b7f497c3069472832c7",
