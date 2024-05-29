@@ -7727,9 +7727,15 @@
         "identifier": "xqy5",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/xqy5",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "RPDR Shade Button",
+        "last_updated": "2024-05-29T19:34:50.292000",
+        "notion_id": "1702",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bca497c306947364532",
