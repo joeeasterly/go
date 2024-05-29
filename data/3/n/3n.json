@@ -4188,9 +4188,15 @@
         "identifier": "3nhb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/3nhb",
-        "staged": "2024-02-08T17:38:56"
+        "staged": "2024-02-08T17:38:56",
+        "label": "Purgo USB-C Dock for Apple MBP",
+        "last_updated": "2024-05-29T19:33:23.046000",
+        "notion_id": "1701",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b82497c30694728bb78",
