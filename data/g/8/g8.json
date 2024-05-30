@@ -1268,9 +1268,15 @@
         "identifier": "g85y",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/g85y",
-        "staged": "2024-02-08T17:38:56"
+        "staged": "2024-02-08T17:38:56",
+        "label": "RJ45 to USB-A Cable",
+        "last_updated": "2024-05-29T20:03:34.434000",
+        "notion_id": "1706",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba4497c3069472f060c",
