@@ -5947,9 +5947,15 @@
         "identifier": "ztr7",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ztr7",
-        "staged": "2024-02-08T17:38:56"
+        "staged": "2024-02-08T17:38:56",
+        "label": "Beats mini-stereo to right-angle mini-stereo cable with microphone 4ft",
+        "last_updated": "2024-05-29T20:22:21.594000",
+        "notion_id": "1710",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bd0497c306947375054",
