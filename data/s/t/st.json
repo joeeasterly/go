@@ -1548,9 +1548,21 @@
         "identifier": "st72",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/st72",
-        "staged": "2024-02-08T17:38:56"
+        "staged": "2024-02-08T17:38:56",
+        "label": "DJI Osmo 4 Tripod",
+        "last_updated": "2024-05-30T12:11:10.400000",
+        "notion_id": "1731",
+        "shcn": [
+            "10",
+            "10",
+            null,
+            null,
+            null,
+            "Shelf: 10"
+        ],
+        "type": "item"
     },
     {
         "_id": "64f11bbd497c30694733ce2f",
