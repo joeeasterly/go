@@ -1932,9 +1932,21 @@
         "identifier": "tw8j",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/tw8j",
-        "staged": "2024-01-30T20:10:32"
+        "staged": "2024-01-30T20:10:32",
+        "label": "Microsoft XBox Elite Controller Charging Base",
+        "last_updated": "2024-05-30T11:33:30.174000",
+        "notion_id": "1718",
+        "shcn": [
+            "10",
+            "10",
+            null,
+            null,
+            null,
+            "Shelf: 10"
+        ],
+        "type": "item"
     },
     {
         "_id": "64f11bc0497c306947345a5f",
