@@ -1,5 +1,6 @@
 import pymongo
 from datetime import datetime
+from lib_git import generate_recset_by_id
 from lib_notion import archive_notion_page
 from print_inventory import print_inventory
 from lib_mungo import connect_mungo
@@ -44,6 +45,7 @@ def delete_consumable():
 
             # Apply the update
             collection.update_one({"identifier": identifier}, update_operation)
+            generate_recset_by_id(identifier)
             print("Record deleted.")
         else:
             print("Record not deleted.")

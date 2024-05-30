@@ -6,7 +6,7 @@ import os
 import subprocess
 from lib_mungo import connect_mungo
 
-def git_commit_and_push(directory, file_path, mungo_id):
+def git_commit(directory, file_path, mungo_id):
     """Commit the file to git and push it."""
     try:
         # Move to the repository directory
@@ -19,12 +19,18 @@ def git_commit_and_push(directory, file_path, mungo_id):
         commit_message = f'updated identifier {mungo_id}'
         subprocess.check_call(['git', 'commit', '-m', commit_message])
 
-        # Git push
-        subprocess.check_call(['git', 'push'])
-        print(f'Successfully pushed {file_path} to GitHub.')
-
     except subprocess.CalledProcessError as e:
         print(f'Error: {e}')
+
+def git_push(directory):
+    """Push the committed changes to GitHub."""
+    try:
+     # Git push
+        subprocess.check_call(['git', 'push'])
+        print(f'Successfully pushed {directory} to GitHub.')
+    except subprocess.CalledProcessError as e:
+        print(f'Error: {e}')
+
 
 def handle_objectid(obj):
     """Handle ObjectId serialization for JSON."""
@@ -34,7 +40,7 @@ def handle_objectid(obj):
         return obj.isoformat()
     raise TypeError("Object of type '%s' is not JSON serializable" % type(obj).__name__)
 
-def push_record(mungo_id):
+def generate_recset_by_id(mungo_id):
     """Export MongoDB documents based on a mungo_id to a structured JSON file and commit to GitHub."""
     # Extract the two-character prefix from the mungo_id
     prefix = mungo_id[:2]
@@ -65,7 +71,7 @@ def push_record(mungo_id):
     with open(file_path, 'w') as f:
         json.dump(documents_list, f, default=handle_objectid, indent=4)
     
-    # Add file to git, commit, and push
-    git_commit_and_push(file_directory, file_path, mungo_id)
+    # Add file to git and commit
+    git_commit(file_directory, file_path, mungo_id)
 
-# Example usage: export_mungo_data('9fau')
+# Example usage: generate_recset_by_id('9fau')

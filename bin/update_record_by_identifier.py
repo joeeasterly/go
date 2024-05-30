@@ -2,6 +2,7 @@
 import sys
 import pymongo
 from pprint import pprint
+from lib_git import generate_recset_by_id
 from lib_mungo import connect_mungo
 def update_record_by_identifier(update_fields, unset_fields=None):
     """
@@ -42,6 +43,7 @@ def update_record_by_identifier(update_fields, unset_fields=None):
 
     # Apply the update
     collection.update_one({"identifier": identifier}, update_operation)
+    generate_recset_by_id(identifier)
 
     # Optionally, print or return a confirmation
     print(f"Record with identifier {identifier} updated successfully.")

@@ -1,6 +1,7 @@
 from datetime import datetime
 from pprint import pprint
 import pymongo
+from lib_git import generate_recset_by_id
 from lib_notion import allocate_notion_id, link_notion_inventory, get_notion_record, parse_notion_input
 from lib_mungo import allocate_identifier, get_record_by_identifier
 from lib_shcn import parse_shcn_input
@@ -45,5 +46,6 @@ def create_record():
         }
         update_record_by_identifier(update_fields)
         link_notion_inventory(notion_id, mungo_id, shcn, mungo_label)
+        generate_recset_by_id(mungo_id)
         print_inventory(get_record_by_identifier(mungo_id))
         print("Record updated successfully.")
