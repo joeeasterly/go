@@ -44,7 +44,12 @@ def create_record():
                 "allocated": True
             }
         }
-        update_record_by_identifier(update_fields)
+        unset_fields = {
+            "$unset": {
+                "unsetted": ""
+            }
+        }
+        update_record_by_identifier(update_fields, unset_fields)
         link_notion_inventory(notion_id, mungo_id, shcn, mungo_label)
         generate_recset_by_id(mungo_id)
         print_inventory(get_record_by_identifier(mungo_id))
