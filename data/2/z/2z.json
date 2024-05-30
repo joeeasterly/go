@@ -3788,9 +3788,15 @@
         "identifier": "2zft",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/2zft",
-        "staged": "2024-01-30T20:10:32"
+        "staged": "2024-01-30T20:10:32",
+        "label": "USB-C to USB-C Cable 20in",
+        "last_updated": "2024-05-29T20:05:29.937000",
+        "notion_id": "1707",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b80497c306947286747",
