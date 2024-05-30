@@ -8045,9 +8045,15 @@
         "identifier": "wpzd",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/wpzd",
-        "staged": "2023-10-23T14:22:43"
+        "staged": "2023-10-23T14:22:43",
+        "label": "Assorted computing-themed laptop stickers",
+        "last_updated": "2024-05-30T11:08:21.520000",
+        "notion_id": "1714",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bc8497c30694735c15a",
