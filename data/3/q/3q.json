@@ -736,17 +736,11 @@
         "permalink": "https://joeeasterly.github.io/go/3q3v",
         "staged": "2024-01-30T20:10:32",
         "label": "AT&T USB-A to Lightning Cable, 4ft",
-        "last_updated": "2024-05-30T11:21:55.673000",
+        "last_updated": "2024-05-30T20:19:20.278000",
         "notion_id": "1716",
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
-        "type": "item"
+        "shcn": "10",
+        "type": "item",
+        "shelf": "10"
     },
     {
         "_id": "64f11b82497c30694728c1c9",
