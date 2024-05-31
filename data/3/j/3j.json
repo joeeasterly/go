@@ -508,19 +508,13 @@
         "identifier": "3j2z",
         "target": "#",
         "allocated": true,
-        "last_updated": "2024-05-30T19:50:43.951000",
+        "last_updated": "2024-05-30T20:18:58.153000",
         "class": "inventory",
         "label": "test record",
         "notion_id": "1736",
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
-        "type": "item"
+        "shcn": "10",
+        "type": "item",
+        "shelf": "10"
     },
     {
         "_id": "64f11b82497c30694728adad",
