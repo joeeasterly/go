@@ -3847,17 +3847,11 @@
         "permalink": "https://joeeasterly.github.io/go/w9g1",
         "staged": "2024-02-08T17:38:56",
         "label": "5ft hdmi cable",
-        "last_updated": "2024-05-30T16:48:54.083000",
+        "last_updated": "2024-05-30T20:17:10.839000",
         "notion_id": "1732",
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
-        "type": "item"
+        "shcn": "10",
+        "type": "item",
+        "shelf": "10"
     },
     {
         "_id": "64f11bc7497c306947358b4e",
