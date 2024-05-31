@@ -800,17 +800,11 @@
         "permalink": "https://joeeasterly.github.io/go/u344",
         "staged": "2024-01-30T20:10:32",
         "label": "Dritz Mighty Steam Iron 653380",
-        "last_updated": "2024-05-30T11:41:19.583000",
+        "last_updated": "2024-05-30T20:28:27.845000",
         "notion_id": "1722",
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
-        "type": "item"
+        "shcn": "10",
+        "type": "item",
+        "shelf": "10"
     },
     {
         "_id": "64f11bc1497c3069473471d1",
