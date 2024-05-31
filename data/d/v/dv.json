@@ -7557,17 +7557,11 @@
         "permalink": "https://joeeasterly.github.io/go/dvxe",
         "staged": "2024-02-08T17:38:56",
         "label": "telephone cable 2m",
-        "last_updated": "2024-05-30T12:05:22.848000",
+        "last_updated": "2024-05-30T20:21:42.618000",
         "notion_id": "1729",
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
-        "type": "item"
+        "shcn": "10",
+        "type": "item",
+        "shelf": "10"
     },
     {
         "_id": "64f11b9d497c3069472dd91b",
