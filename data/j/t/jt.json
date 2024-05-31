@@ -4159,17 +4159,11 @@
         "permalink": "https://joeeasterly.github.io/go/jth7",
         "staged": "2024-02-12T10:30:59",
         "label": "WRights Silver Cream Silver Polish 8oz",
-        "last_updated": "2024-05-30T11:58:32.831000",
+        "last_updated": "2024-05-30T20:22:56.962000",
         "notion_id": "1726",
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
-        "type": "item"
+        "shcn": "10",
+        "type": "item",
+        "shelf": "10"
     },
     {
         "_id": "64f11bab497c306947304f74",
