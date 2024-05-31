@@ -1312,17 +1312,11 @@
         "permalink": "https://joeeasterly.github.io/go/3664",
         "staged": "2023-10-23T14:22:43",
         "label": "Frigidaire Compact 26-lb Countertop Ice Maker",
-        "last_updated": "2024-05-30T19:12:04.025000",
+        "last_updated": "2024-05-30T20:16:31.823000",
         "notion_id": "1733",
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
-        "type": "item"
+        "shcn": "10",
+        "type": "item",
+        "shelf": "10"
     },
     {
         "_id": "64f11b81497c306947287e11",
