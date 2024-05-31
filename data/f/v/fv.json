@@ -4176,17 +4176,11 @@
         "permalink": "https://joeeasterly.github.io/go/fvha",
         "staged": "2024-02-08T17:38:56",
         "label": "DJI Osmo 4 Gimbel mn ok100 sn 3rlmhc12300uey",
-        "last_updated": "2024-05-30T12:10:07.672000",
+        "last_updated": "2024-05-30T20:22:02.278000",
         "notion_id": "1730",
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
-        "type": "item"
+        "shcn": "10",
+        "type": "item",
+        "shelf": "10"
     },
     {
         "_id": "64f11ba3497c3069472ed777",
