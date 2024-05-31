@@ -5020,8 +5020,14 @@
         "identifier": "34mm",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/34mm"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/34mm",
+        "label": "DX 17m Add-on kit for BTV mn dxe-aok-17m",
+        "last_updated": "2024-05-31T07:06:11.193000",
+        "notion_id": "1737",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b81497c3069472877e1",
