@@ -2909,17 +2909,11 @@
         "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/9zcb",
         "label": "a created item",
-        "last_updated": "2024-05-30T19:45:30.410000",
+        "last_updated": "2024-05-30T20:21:22.132000",
         "notion_id": "1735",
-        "shcn": [
-            "10",
-            "10",
-            null,
-            null,
-            null,
-            "Shelf: 10"
-        ],
-        "type": "item"
+        "shcn": "10",
+        "type": "item",
+        "shelf": "10"
     },
     {
         "_id": "64f11b93497c3069472be6d8",
