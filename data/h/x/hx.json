@@ -1956,9 +1956,15 @@
         "identifier": "hx8n",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/hx8n",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Apple MacBook mn a1534 sn c02q34ksgf84",
+        "last_updated": "2024-06-02T16:11:04.102000",
+        "notion_id": "1744",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba8497c3069472fde62",
