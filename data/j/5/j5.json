@@ -3982,9 +3982,15 @@
         "identifier": "j5gh",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/j5gh",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Apple Magic Mouse mn A1657 sn cc262040xgqgrhqak",
+        "last_updated": "2024-06-02T15:59:49.633000",
+        "notion_id": "1738",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba9497c3069472ffb5e",
