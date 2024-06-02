@@ -2208,9 +2208,15 @@
         "identifier": "hd9m",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/hd9m",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Apple MacBook Air mn A1304 sn w892025s9a7",
+        "last_updated": "2024-06-02T16:07:52.825000",
+        "notion_id": "1742",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba7497c3069472f9a81",
