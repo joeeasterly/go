@@ -1076,9 +1076,15 @@
         "identifier": "hn57",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/hn57",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "apple macbook pro mn a1398 sn c02nh7dsg3qd",
+        "last_updated": "2024-06-02T16:09:46.518000",
+        "notion_id": "1743",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba7497c3069472fb9f4",
