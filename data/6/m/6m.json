@@ -5619,9 +5619,15 @@
         "identifier": "6mpx",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/6mpx",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Elitech RC-5+ Data Logger sn efi3",
+        "last_updated": "2024-06-06T19:21:42.311000",
+        "notion_id": "1746",
+        "shcn": "70",
+        "shelf": "70",
+        "type": "item"
     },
     {
         "_id": "64f11b8a497c3069472a382b",
