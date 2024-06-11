@@ -556,9 +556,15 @@
         "identifier": "fm36",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/fm36",
-        "staged": "2023-10-23T14:22:43"
+        "staged": "2023-10-23T14:22:43",
+        "label": "AC Adapter for Joyhound Electronic Ball Launcher",
+        "last_updated": "2024-06-10T20:14:05.220000",
+        "notion_id": "1748",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11ba2497c3069472eb5b3",
