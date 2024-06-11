@@ -3100,9 +3100,15 @@
         "identifier": "9xd4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/9xd4",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Joyhound Electronic Ball Launcher mn 5331751",
+        "last_updated": "2024-06-10T20:12:13.284000",
+        "notion_id": "1747",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11b93497c3069472bdef1",
