@@ -4,7 +4,8 @@ from lib_mungo import connect_mungo, get_record_by_identifier, allocate_identifi
 from lib_shcn import parse_shcn_input
 from lib_notion import allocate_notion_id, link_notion_inventory, parse_notion_input
 from lib_identifier import parse_qrcode_input
-from print_inventory import print_inventory, print_storage
+from update_record_by_identifier import update_record_by_identifier
+from print_inventory import print_inventory
 
 def add_storage():
     print("Add SHCN Record:")
@@ -81,24 +82,30 @@ def update_storage_record():
     shcn, shelf, bay, container, slot, analysis = parse_shcn_input()
     storage_record = get_storage_record(shcn)
     if storage_record:
-        print_storage(storage_record)
+        identifier = storage_record["identifier"]
+        print_inventory(storage_record)
         default_label = storage_record["label"]
         label = input("Enter Label: ")
         if label == "":
             label = default_label
-        description = input("Enter Description: ")
         default_description = storage_record.get("description", "")
+        description = input(f"Enter Description: [{default_description}]")
         if description == "":
             description = default_description
         update_fields = {
             "$set": {
+                "identifier": identifier,
                 "label": label,
                 "description": description,
                 "last_updated": datetime.now()
             }
         }
-        collection = connect_mungo()
-        collection.update_one({"_id": storage_record["_id"]}, update_fields)
+        unset_fields = {
+            "$unset": {
+                "unsetted": ""
+            }
+        }
+        update_record_by_identifier(update_fields, unset_fields)
         print("Storage Record updated successfully.")
         print_storage(storage_record)
     else:

@@ -8,7 +8,7 @@ from update_record import update_record
 from update_consumable import update_consumable
 from add_consumable_instance import add_consumable_instance
 from delete_consumable import delete_consumable
-from lib_storage import add_storage
+from lib_storage import add_storage, update_storage_record
 from delete_record import delete_record
 from reshelve import reshelve_record
 #
@@ -50,6 +50,8 @@ def main():
             update_record()
         elif choice == '4':
             add_storage()
+        elif choice == '41':
+            update_storage_record()
         elif choice == '5':
             delete_record()
         elif choice == '51':
