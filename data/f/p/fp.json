@@ -6978,9 +6978,15 @@
         "identifier": "fpv8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/fpv8",
-        "staged": "2023-10-23T14:22:43"
+        "staged": "2023-10-23T14:22:43",
+        "label": "Power Adapter for Brother P-Touch D610BT",
+        "last_updated": "2024-06-25T16:27:28.167000",
+        "notion_id": "1751",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "item"
     },
     {
         "_id": "64f11ba2497c3069472ec0d5",
