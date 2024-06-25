@@ -1,7 +1,7 @@
 import pymongo
 import csv
 from datetime import datetime
-from connect_mungo import connect_mungo
+from lib_mungo import connect_mungo
 
 # MongoDB connection parameters
 
