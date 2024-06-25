@@ -2774,9 +2774,14 @@
         "identifier": "skbt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/skbt",
-        "staged": "2024-02-08T17:38:56"
+        "staged": "2024-02-08T17:38:56",
+        "bay": "405",
+        "container": "4050",
+        "last_updated": "2024-06-25T17:36:29.084000",
+        "shcn": "4050",
+        "shelf": "40"
     },
     {
         "_id": "64f11bbd497c30694733b2c7",
