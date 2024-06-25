@@ -2602,11 +2602,13 @@
         "permalink": "https://joeeasterly.github.io/go/79b4",
         "staged": "2024-02-08T17:38:56",
         "label": "1m male MIDI cable",
-        "last_updated": "2024-05-27T20:01:22.963000",
+        "last_updated": "2024-06-25T17:52:28.547000",
         "notion_id": "1682",
-        "shcn": "10",
-        "shelf": "10",
-        "type": "item"
+        "shcn": "4031",
+        "shelf": "40",
+        "type": "item",
+        "bay": "403",
+        "container": "4031"
     },
     {
         "_id": "64f11b8c497c3069472a8ab1",
@@ -6910,7 +6912,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/79ux"
+        "permalink": "https://joeeasterly.github.io/go/79ux",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11b8c497c3069472a8ccb",
