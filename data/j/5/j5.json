@@ -3986,11 +3986,13 @@
         "permalink": "https://joeeasterly.github.io/go/j5gh",
         "staged": "2024-02-12T10:30:59",
         "label": "Apple Magic Mouse mn A1657 sn cc262040xgqgrhqak",
-        "last_updated": "2024-06-02T15:59:49.633000",
+        "last_updated": "2024-06-25T17:30:56.348000",
         "notion_id": "1738",
-        "shcn": "10",
-        "shelf": "10",
-        "type": "item"
+        "shcn": "2310",
+        "shelf": "23",
+        "type": "item",
+        "bay": "231",
+        "container": "2310"
     },
     {
         "_id": "64f11ba9497c3069472ffb5e",
@@ -5894,7 +5896,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/j5qy"
+        "permalink": "https://joeeasterly.github.io/go/j5qy",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11ba9497c3069472ffc4c",
