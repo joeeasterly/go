@@ -3675,8 +3675,17 @@
         "identifier": "2vf8",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2vf8"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2vf8",
+        "staged": "2024-06-25 16:28:48",
+        "bay": "232",
+        "container": "2320",
+        "label": "UR Medical Parking Pass 2017",
+        "last_updated": "2024-06-25T17:58:46.956000",
+        "notion_id": "1756",
+        "shcn": "2320",
+        "shelf": "23",
+        "type": "item"
     },
     {
         "_id": "64f11b80497c306947285735",
