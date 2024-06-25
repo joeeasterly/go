@@ -1340,9 +1340,15 @@
         "identifier": "w568",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/w568",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Power Adapter for Focusrite Scarlett 8i6",
+        "last_updated": "2024-06-25T16:21:05.189000",
+        "notion_id": "1750",
+        "shcn": "45",
+        "shelf": "45",
+        "type": "item"
     },
     {
         "_id": "64f11bc6497c306947357a15",
