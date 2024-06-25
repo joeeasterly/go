@@ -261,7 +261,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/w921"
+        "permalink": "https://joeeasterly.github.io/go/w921",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11bc7497c30694735898e",
@@ -3847,11 +3848,13 @@
         "permalink": "https://joeeasterly.github.io/go/w9g1",
         "staged": "2024-02-08T17:38:56",
         "label": "5ft hdmi cable",
-        "last_updated": "2024-05-30T20:28:49.656000",
+        "last_updated": "2024-06-25T17:40:06.121000",
         "notion_id": "1732",
-        "shcn": "10",
+        "shcn": "4031",
         "type": "item",
-        "shelf": "10"
+        "shelf": "40",
+        "bay": "403",
+        "container": "4031"
     },
     {
         "_id": "64f11bc7497c306947358b4e",
