@@ -5041,7 +5041,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/q8mm"
+        "permalink": "https://joeeasterly.github.io/go/q8mm",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11bb6497c3069473287e1",
@@ -7780,11 +7781,13 @@
         "permalink": "https://joeeasterly.github.io/go/q8ya",
         "staged": "2024-02-08T17:38:56",
         "label": "2m power cable",
-        "last_updated": "2024-05-27T19:59:36.467000",
+        "last_updated": "2024-06-25T17:37:45.332000",
         "notion_id": "1681",
-        "shcn": "10",
-        "shelf": "10",
-        "type": "item"
+        "shcn": "4050",
+        "shelf": "40",
+        "type": "item",
+        "bay": "405",
+        "container": "4050"
     },
     {
         "_id": "64f11bb6497c306947328937",
