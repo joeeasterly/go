@@ -4357,9 +4357,17 @@
         "identifier": "etj1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/etj1",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "402",
+        "container": "4020",
+        "label": "WD My Passport Ultra 2TB sn wxd1a7807psk pn wdbkyj0020bsl-0d",
+        "last_updated": "2024-06-26T19:49:01.619000",
+        "notion_id": "1760",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11ba0497c3069472e4f8e",
