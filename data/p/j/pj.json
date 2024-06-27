@@ -7628,8 +7628,17 @@
         "identifier": "pjxt",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/pjxt"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/pjxt",
+        "staged": "2024-06-25 16:28:48",
+        "bay": "402",
+        "container": "4020",
+        "label": "Orange cat6 patch cable 5ft",
+        "last_updated": "2024-06-26T20:29:25.501000",
+        "notion_id": "1766",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb4497c306947323127",
