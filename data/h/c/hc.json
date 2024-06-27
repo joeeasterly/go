@@ -4340,9 +4340,17 @@
         "identifier": "hchy",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/hchy",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "232",
+        "container": "2320",
+        "label": "Sandisk Cruzer Micro 2GB  USB drive for ubVS MRC",
+        "last_updated": "2024-06-26T20:14:24.097000",
+        "notion_id": "1762",
+        "shcn": "2320",
+        "shelf": "23",
+        "type": "item"
     },
     {
         "_id": "64f11ba7497c3069472f978c",
