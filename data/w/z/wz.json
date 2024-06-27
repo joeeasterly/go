@@ -6979,7 +6979,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wzv8"
+        "permalink": "https://joeeasterly.github.io/go/wzv8",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11bc9497c30694735e8d5",
@@ -7106,8 +7107,17 @@
         "identifier": "wzvr",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/wzvr"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/wzvr",
+        "staged": "2024-06-25 16:28:48",
+        "bay": "402",
+        "container": "4020",
+        "label": "Black cat6 patch cable 10ft",
+        "last_updated": "2024-06-26T20:48:25.020000",
+        "notion_id": "1772",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bc9497c30694735e8e5",
