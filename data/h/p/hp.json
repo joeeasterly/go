@@ -964,8 +964,17 @@
         "identifier": "hp4s",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/hp4s"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/hp4s",
+        "staged": "2024-06-25 16:28:48",
+        "bay": "403",
+        "container": "4030",
+        "label": "USB-A to USB-C Cable 0.25m",
+        "last_updated": "2024-06-26T20:37:20.125000",
+        "notion_id": "1769",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11ba7497c3069472fbde6",
