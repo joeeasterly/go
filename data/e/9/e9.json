@@ -7676,9 +7676,17 @@
         "identifier": "e9xz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/e9xz",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "402",
+        "container": "4020",
+        "label": "Dell Multimedia Speakers mn a225",
+        "last_updated": "2024-06-26T20:27:28.634000",
+        "notion_id": "1765",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b9f497c3069472e0d2d",
