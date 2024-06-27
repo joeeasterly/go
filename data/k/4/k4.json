@@ -916,9 +916,17 @@
         "identifier": "k44k",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/k44k",
-        "staged": "2024-06-25 16:28:48"
+        "staged": "2024-06-25 16:28:48",
+        "bay": "403",
+        "container": "4030",
+        "label": "Activewatch JW14 Watch Charger for Samsung Galaxy",
+        "last_updated": "2024-06-26T20:44:15.921000",
+        "notion_id": "1771",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bac497c3069473075e0",
