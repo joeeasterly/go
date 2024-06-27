@@ -796,8 +796,17 @@
         "identifier": "yr44",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/yr44"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/yr44",
+        "staged": "2024-06-25 16:28:48",
+        "bay": "403",
+        "container": "4031",
+        "label": "Coax Cable 1m",
+        "last_updated": "2024-06-26T20:23:10.597000",
+        "notion_id": "1764",
+        "shcn": "4031",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bcd497c30694736c5d1",
