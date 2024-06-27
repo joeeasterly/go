@@ -8131,9 +8131,17 @@
         "identifier": "h2zq",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/h2zq",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "101",
+        "container": "1010",
+        "label": "Gray OXO desk broom",
+        "last_updated": "2024-06-26T20:33:13.656000",
+        "notion_id": "1767",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba6497c3069472f7164",
