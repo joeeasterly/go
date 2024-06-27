@@ -204,9 +204,15 @@
         "identifier": "j21t",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/j21t",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Intertek TD122000 5018556 Power Supply",
+        "last_updated": "2024-06-26T20:05:00.545000",
+        "notion_id": "1761",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11ba8497c3069472fed87",
