@@ -245,7 +245,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/c61y"
+        "permalink": "https://joeeasterly.github.io/go/c61y",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11b99497c3069472cfd8c",
@@ -2748,8 +2749,17 @@
         "identifier": "c6br",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/c6br"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/c6br",
+        "staged": "2024-06-25 16:28:48",
+        "bay": "403",
+        "container": "4030",
+        "label": "Samsung Wireless Watch Charger mn epor825 sn rf7rbs0a18xcva",
+        "last_updated": "2024-06-26T20:42:26.492000",
+        "notion_id": "1770",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b99497c3069472cfec5",
