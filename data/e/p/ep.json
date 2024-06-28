@@ -1976,9 +1976,17 @@
         "identifier": "ep8p",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/ep8p",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "101",
+        "container": "1010",
+        "label": "Black Sleep Mask",
+        "last_updated": "2024-06-28T14:33:24.440000",
+        "notion_id": "1780",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba0497c3069472e3e63",
