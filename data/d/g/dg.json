@@ -1276,9 +1276,17 @@
         "identifier": "dg5z",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/dg5z",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "232",
+        "container": "2320",
+        "label": "UR Solar Eclipse 04.08.2024 glasses",
+        "last_updated": "2024-06-28T14:40:08.487000",
+        "notion_id": "1783",
+        "shcn": "2320",
+        "shelf": "23",
+        "type": "item"
     },
     {
         "_id": "64f11b9c497c3069472da60d",
@@ -7218,7 +7226,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/dgw4"
+        "permalink": "https://joeeasterly.github.io/go/dgw4",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11b9c497c3069472da8f1",
