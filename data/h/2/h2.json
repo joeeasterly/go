@@ -1350,9 +1350,17 @@
         "identifier": "h269",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/h269",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "101",
+        "container": "1010",
+        "label": "Coach Multi Attachments Bag Charm",
+        "last_updated": "2024-06-28T14:19:26.063000",
+        "notion_id": "1775",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11ba6497c3069472f6e16",
