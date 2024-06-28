@@ -260,9 +260,17 @@
         "identifier": "w921",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/w921",
-        "staged": "2024-06-25 16:28:48"
+        "staged": "2024-06-25 16:28:48",
+        "bay": "101",
+        "container": "1010",
+        "label": "Main Floor Hardwood Sample",
+        "last_updated": "2024-06-28T14:27:44.040000",
+        "notion_id": "1778",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bc7497c30694735898e",
