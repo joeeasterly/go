@@ -2956,9 +2956,17 @@
         "identifier": "etcj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/etcj",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "470",
+        "container": "4701",
+        "label": "Black Lasko Pedestal Fan Remote",
+        "last_updated": "2024-06-28T14:37:20.680000",
+        "notion_id": "1782",
+        "shcn": "4701",
+        "shelf": "47",
+        "type": "item"
     },
     {
         "_id": "64f11ba0497c3069472e4edf",
