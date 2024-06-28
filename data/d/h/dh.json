@@ -2252,9 +2252,17 @@
         "identifier": "dh9t",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/dh9t",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "232",
+        "container": "2320",
+        "label": "Highland Hospital Inpatient Menu ca November 2023",
+        "last_updated": "2024-06-28T14:41:54.029000",
+        "notion_id": "1784",
+        "shcn": "2320",
+        "shelf": "23",
+        "type": "item"
     },
     {
         "_id": "64f11b9c497c3069472daa87",
