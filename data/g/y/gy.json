@@ -6357,9 +6357,17 @@
         "identifier": "gyst",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/gyst",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "402",
+        "container": "4020",
+        "label": "Nintendo Switch Joycon straps",
+        "last_updated": "2024-06-28T14:10:07.291000",
+        "notion_id": "1774",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11ba6497c3069472f6487",
