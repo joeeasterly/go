@@ -3588,8 +3588,17 @@
         "identifier": "ncf1",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/ncf1"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/ncf1",
+        "staged": "2024-06-25 16:28:48",
+        "bay": "403",
+        "container": "4030",
+        "label": "Belkin 10ft USB-A male to female cable",
+        "last_updated": "2024-07-03T12:25:34.846000",
+        "notion_id": "1787",
+        "shcn": "4030",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bb1497c30694731972e",
