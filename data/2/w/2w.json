@@ -3977,8 +3977,17 @@
         "identifier": "2wgg",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/2wgg"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/2wgg",
+        "staged": "2024-06-25 16:28:48",
+        "bay": "402",
+        "container": "4020",
+        "label": "Dell USB Optical Mouse mn m056uoa",
+        "last_updated": "2024-07-03T12:36:44.606000",
+        "notion_id": "1791",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11b80497c306947285b5d",
