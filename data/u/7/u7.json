@@ -3652,9 +3652,17 @@
         "identifier": "u7f9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/u7f9",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "232",
+        "container": "2320",
+        "label": "RMSC SUNY Brockport Solar Eclipse Glasses April 8 2024",
+        "last_updated": "2024-07-03T12:32:22.154000",
+        "notion_id": "1790",
+        "shcn": "2320",
+        "shelf": "23",
+        "type": "item"
     },
     {
         "_id": "64f11bc1497c306947348336",
