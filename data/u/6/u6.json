@@ -7766,9 +7766,17 @@
         "identifier": "u6ya",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/u6ya",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "232",
+        "container": "2320",
+        "label": "Starbucks Gift Card",
+        "last_updated": "2024-07-03T12:30:25.975000",
+        "notion_id": "1789",
+        "shcn": "2320",
+        "shelf": "23",
+        "type": "item"
     },
     {
         "_id": "64f11bc1497c306947348137",
