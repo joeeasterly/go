@@ -3101,9 +3101,17 @@
         "identifier": "5hd4",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/5hd4",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "232",
+        "container": "2320",
+        "label": "Key tags for BMW 2014 X3",
+        "last_updated": "2024-07-03T12:12:00.317000",
+        "notion_id": "1786",
+        "shcn": "2320",
+        "shelf": "23",
+        "type": "item"
     },
     {
         "_id": "64f11b87497c30694729aaf1",
