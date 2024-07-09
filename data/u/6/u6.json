@@ -2916,9 +2916,17 @@
         "identifier": "u6cd",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/u6cd",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "402",
+        "container": "4020",
+        "label": "Netgear ProSAFE 8-Port Gigabit Switch GS108v4",
+        "last_updated": "2024-07-09T16:23:59.919000",
+        "notion_id": "1793",
+        "shcn": "4020",
+        "shelf": "40",
+        "type": "item"
     },
     {
         "_id": "64f11bc1497c306947347eda",
