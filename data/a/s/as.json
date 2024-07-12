@@ -1609,7 +1609,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/as79"
+        "permalink": "https://joeeasterly.github.io/go/as79",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11b95497c3069472c4a36",
@@ -6656,8 +6657,18 @@
         "identifier": "astw",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/astw"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/astw",
+        "staged": "2024-06-25 16:28:48",
+        "bay": "412",
+        "container": "4123",
+        "label": "17mm pole ball mount",
+        "last_updated": "2024-07-12T14:17:05.814000",
+        "notion_id": "1796",
+        "shcn": "41237",
+        "shelf": "41",
+        "slot": "41237",
+        "type": "item"
     },
     {
         "_id": "64f11b96497c3069472c4caa",
