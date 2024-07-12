@@ -5716,9 +5716,15 @@
         "identifier": "5bqb",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/5bqb",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "Dell SK-8115 USB Keyboard",
+        "last_updated": "2024-07-12T18:45:14.652000",
+        "notion_id": "1799",
+        "shcn": "10",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b87497c306947299438",
