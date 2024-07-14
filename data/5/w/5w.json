@@ -7183,9 +7183,15 @@
         "identifier": "5wvz",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/5wvz",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "label": "W9JES 64-bit sbitx v3",
+        "last_updated": "2024-07-14T14:07:33.540000",
+        "notion_id": "1802",
+        "shcn": "70",
+        "shelf": "70",
+        "type": "item"
     },
     {
         "_id": "64f11b88497c30694729dced",
