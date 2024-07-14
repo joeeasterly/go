@@ -2733,7 +2733,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/snbp"
+        "permalink": "https://joeeasterly.github.io/go/snbp",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11bbd497c30694733bac3",
@@ -7748,9 +7749,16 @@
         "identifier": "sny9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/sny9",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "303",
+        "label": "Box: SONY a FE 300m F2.8 lens",
+        "last_updated": "2024-07-14T14:20:37.810000",
+        "notion_id": "1803",
+        "shcn": "303",
+        "shelf": "30",
+        "type": "item"
     },
     {
         "_id": "64f11bbd497c30694733bd36",
