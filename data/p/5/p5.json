@@ -1044,9 +1044,15 @@
         "identifier": "p553",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/p553",
-        "staged": "2024-02-06T18:58:19"
+        "staged": "2024-02-06T18:58:19",
+        "label": "Anker Solix C1000 DC Car Adapter Cord",
+        "last_updated": "2024-07-23T16:34:41.861000",
+        "notion_id": "1810",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11bb3497c30694731f9f0",
@@ -2349,7 +2355,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/p5a5"
+        "permalink": "https://joeeasterly.github.io/go/p5a5",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11bb3497c30694731fa92",
