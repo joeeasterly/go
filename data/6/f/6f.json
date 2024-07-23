@@ -7238,9 +7238,15 @@
         "identifier": "6fw9",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/6fw9",
-        "staged": "2024-02-08T17:38:56"
+        "staged": "2024-02-08T17:38:56",
+        "label": "power cord for Anker Solix C1000",
+        "last_updated": "2024-07-23T16:11:19.276000",
+        "notion_id": "1807",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11b8a497c3069472a24f6",
