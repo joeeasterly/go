@@ -3540,9 +3540,15 @@
         "identifier": "qyeu",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/qyeu",
-        "staged": "2024-02-06T18:58:19"
+        "staged": "2024-02-06T18:58:19",
+        "label": "Anker Solix PS200 Solar Extension Cable",
+        "last_updated": "2024-07-23T16:57:09.224000",
+        "notion_id": "1813",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11bb8497c30694732e328",
