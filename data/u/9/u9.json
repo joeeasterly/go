@@ -444,9 +444,15 @@
         "identifier": "u92r",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/u92r",
-        "staged": "2023-10-23T14:22:43"
+        "staged": "2023-10-23T14:22:43",
+        "label": "Anker Solix PS200 Portable Solar Panel",
+        "last_updated": "2024-07-23T16:17:07.466000",
+        "notion_id": "1808",
+        "shcn": "60",
+        "shelf": "60",
+        "type": "item"
     },
     {
         "_id": "64f11bc1497c3069473489a5",
