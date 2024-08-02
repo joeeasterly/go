@@ -4916,9 +4916,16 @@
         "identifier": "6fm6",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/6fm6",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "300",
+        "label": "Box: Anker Solix C1000",
+        "last_updated": "2024-08-02T18:04:43.848000",
+        "notion_id": "1814",
+        "shcn": "300",
+        "shelf": "30",
+        "type": "item"
     },
     {
         "_id": "64f11b8a497c3069472a23d3",
