@@ -6311,9 +6311,17 @@
         "identifier": "r3sk",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/r3sk",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "101",
+        "container": "1010",
+        "label": "Monitor Stand for Samsung Smart TV (TV Cart)",
+        "last_updated": "2024-10-18T15:20:41.254000",
+        "notion_id": "1815",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bb8497c30694732f480",
