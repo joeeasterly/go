@@ -2501,9 +2501,17 @@
         "identifier": "rjar",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/rjar",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "101",
+        "container": "1010",
+        "label": "Canon EOS R AC Power Adapter",
+        "last_updated": "2024-10-20T19:19:46.212000",
+        "notion_id": "1816",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11bba497c306947332ea5",
