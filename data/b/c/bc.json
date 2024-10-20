@@ -989,8 +989,17 @@
         "identifier": "bc4v",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/bc4v"
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/bc4v",
+        "staged": "2024-06-25 16:28:48",
+        "bay": "101",
+        "container": "1010",
+        "label": "Aorus Wifi Antenna",
+        "last_updated": "2024-10-20T19:39:00.077000",
+        "notion_id": "1818",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b97497c3069472c95e9",
