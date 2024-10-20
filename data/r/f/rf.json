@@ -3548,9 +3548,18 @@
         "identifier": "rfev",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/rfev",
-        "staged": "2024-02-12T10:30:59"
+        "staged": "2024-02-12T10:30:59",
+        "bay": "411",
+        "container": "4111",
+        "label": "iRig Blue Turn Bluetooth Page Turner",
+        "last_updated": "2024-10-20T19:25:24.976000",
+        "notion_id": "1817",
+        "shcn": "41110",
+        "shelf": "41",
+        "slot": "41110",
+        "type": "item"
     },
     {
         "_id": "64f11bb9497c306947332329",
@@ -6518,7 +6527,8 @@
         "target": "#",
         "class": "inventory",
         "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/rftf"
+        "permalink": "https://joeeasterly.github.io/go/rftf",
+        "staged": "2024-06-25 16:28:48"
     },
     {
         "_id": "64f11bb9497c30694733249c",
