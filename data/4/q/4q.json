@@ -588,9 +588,17 @@
         "identifier": "4q3a",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/4q3a",
-        "staged": "2024-01-30T20:10:32"
+        "staged": "2024-01-30T20:10:32",
+        "bay": "101",
+        "container": "1010",
+        "label": "Master Lock Padlock 903157",
+        "last_updated": "2024-11-08T15:29:13.237000",
+        "notion_id": "1819",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b85497c3069472941b7",
