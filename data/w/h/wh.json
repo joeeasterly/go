@@ -3599,9 +3599,13 @@
         "_id": "64f11bc7497c30694735ab2d",
         "identifier": "whf1",
         "target": "#",
-        "class": "inventory",
-        "allocated": false,
-        "permalink": "https://joeeasterly.github.io/go/whf1"
+        "class": "media",
+        "allocated": true,
+        "permalink": "https://joeeasterly.github.io/go/whf1",
+        "label": "The New Oxford Annotated Bible with Apocrypha",
+        "last_updated": "2024-11-22T18:27:47.237000",
+        "notion_id": "1821",
+        "type": "work"
     },
     {
         "_id": "64f11bc7497c30694735ab2e",
