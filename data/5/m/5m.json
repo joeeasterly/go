@@ -68,9 +68,17 @@
         "identifier": "5m19",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/5m19",
-        "staged": "2023-10-23T14:22:43"
+        "staged": "2023-10-23T14:22:43",
+        "bay": "101",
+        "container": "1010",
+        "label": "UR Goergen Institute for Data Science Face Mask",
+        "last_updated": "2024-11-24T14:13:25.950000",
+        "notion_id": "1822",
+        "shcn": "1010",
+        "shelf": "10",
+        "type": "item"
     },
     {
         "_id": "64f11b88497c30694729b576",
