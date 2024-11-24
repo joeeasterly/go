@@ -4396,9 +4396,15 @@
         "identifier": "v5j6",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/v5j6",
-        "staged": "2023-10-23T14:22:43"
+        "staged": "2023-10-23T14:22:43",
+        "label": "Microsoft Bluetooth Ergonomic Mouse Brendan",
+        "last_updated": "2024-11-24T16:49:52.761000",
+        "notion_id": "1823",
+        "shcn": "70",
+        "shelf": "70",
+        "type": "item"
     },
     {
         "_id": "64f11bc4497c30694734fb93",
