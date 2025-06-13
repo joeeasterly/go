@@ -5534,9 +5534,21 @@
         "identifier": "x2pj",
         "target": "#",
         "class": "inventory",
-        "allocated": false,
+        "allocated": true,
         "permalink": "https://joeeasterly.github.io/go/x2pj",
-        "staged": "2023-10-23T14:22:43"
+        "staged": "2023-10-23T14:22:43",
+        "label": "RT-MWK02 Miniature Keyboard",
+        "last_updated": "2025-06-12T20:21:15.827000",
+        "notion_id": "1825",
+        "shcn": [
+            "40",
+            "40",
+            null,
+            null,
+            null,
+            "Shelf: 40"
+        ],
+        "type": "item"
     },
     {
         "_id": "64f11bc9497c30694735f01f",
