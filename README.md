@@ -1,6 +1,6 @@
 # Go
 
-Go is a GitHub Pages data application backed by the MongoDB collection `go.link`. It publishes inventory identifiers and related records as static JSON, renders individual records from short URLs, produces QR labels, and preserves exported data changes in Git history.
+Go is a GitHub Pages data application designed to publish records from a MongoDB collection historically named `go.link`. It publishes inventory identifiers and related records as static JSON, renders individual records from short URLs, produces QR labels, and preserves exported data changes in Git history.
 
 The repository began as a URL-shortening service. The current implementation is primarily an inventory lookup and publishing system: the live database contains no active external redirect targets, and the browser client displays records rather than redirecting to their `target` values.
 
@@ -22,7 +22,7 @@ GitHub repository / GitHub Pages
   +-- /map/               storage map
 ```
 
-MongoDB is the mutable working database. The JSON files are published projections grouped by identifier prefix; Git provides version history for those exports. A repository record is therefore evidence of what was exported at a particular commit, not a guarantee that it remains the current database state.
+When the management system is operating, MongoDB is intended to be the mutable working database. The JSON files are published projections grouped by identifier prefix, and Git provides version history for those exports. The infrastructure and paths hard-coded in the current Python source are no longer deployed at those locations. Until that infrastructure is re-established, this repository is the available static publication and historical record, not a live projection of a reachable source database.
 
 ## Identifier layout
 
@@ -63,7 +63,7 @@ Most records originate in MongoDB with fields drawn from this set:
 
 Fields are optional and vary by class and type. Location and descriptive fields should be read as the last recorded assertion at `last_updated`, not as proof of the object's present physical state.
 
-The live collection observed on 2026-11-19 contained 1,015,806 documents. Nearly all were preallocated inventory identifiers; comparatively few had been enriched as items, storage locations, consumables, instances, or media works.
+A read-only database interface exposing a collection under the logical name `go.link` returned 1,015,806 documents on 2026-11-19. That observation does not establish that the hard-coded MongoDB host in this repository remains available. Nearly all were preallocated inventory identifiers; comparatively few had been enriched as items, storage locations, consumables, instances, or media works.
 
 ## Static application
 
@@ -134,7 +134,7 @@ Important modules include:
 | `print_inventory.py` | Format records for interactive display |
 | `lib_notion.py` and related scripts | Legacy Notion synchronization |
 
-The tools use absolute paths rooted at `/usr/local/gh/go` and connect directly to MongoDB at `192.168.86.70:27017`, database `go`, collection `link`. They are therefore tied to the Bellatrix network and repository layout.
+The tools use absolute paths rooted at `/usr/local/gh/go` and attempt to connect directly to MongoDB at `192.168.86.70:27017`, database `go`, collection `link`. Those are legacy deployment assumptions: the referenced infrastructure is no longer present at those locations. The management and export commands are not expected to work as written until the database service and repository layout are restored or the code is made configurable.
 
 No dependency manifest is present. The imports establish at least these non-standard Python requirements:
 
@@ -143,7 +143,7 @@ pymongo
 requests
 ```
 
-Create the expected virtual environment and install dependencies before running the tools:
+When the supporting infrastructure is restored, create the expected virtual environment and install dependencies before running the tools:
 
 ```bash
 cd /usr/local/gh/go
@@ -166,7 +166,7 @@ The helper commits but does not push.
 
 ### Export changes since the latest data commit
 
-Run:
+After the MongoDB infrastructure and expected paths have been restored, run:
 
 ```bash
 cd /usr/local/gh/go
@@ -219,7 +219,7 @@ Before adding a new field to exported records, decide whether it is appropriate 
 
 ## Backup and recovery
 
-MongoDB is the working source for record mutation. GitHub is the versioned publication and a partial recovery source for exported fields.
+In the intended architecture, MongoDB is the working source for record mutation and GitHub is the versioned publication. At present, the legacy MongoDB endpoint referenced by the scripts is absent, so the repository must also be treated as the surviving static dataset and historical record until the backend is rebuilt.
 
 A complete recovery plan should retain:
 
@@ -243,7 +243,7 @@ Observed repository state:
 - 646 shelf projection files; and
 - approximately 93 MB of identifier source artifacts.
 
-Observed live database state:
+Observed through a separate read-only database interface using the logical database and collection names (not through the hard-coded source endpoint):
 
 - 1,015,806 total records;
 - 1,015,722 records with class `inventory`;
@@ -254,4 +254,4 @@ Observed live database state:
 - 26 typed as consumable instances; and
 - no active external redirect targets.
 
-No MongoDB write, export execution, GitHub Pages deployment, QR print, browser lookup, redirect, backup, or restoration test was performed.
+The hard-coded MongoDB endpoint and absolute deployment paths were not available for operational verification. No MongoDB write, export execution, GitHub Pages deployment, QR print, browser lookup, redirect, backup, or restoration test was performed.
